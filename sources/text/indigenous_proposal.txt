@@ -1,0 +1,1111 @@
+﻿This is the entire world:
+
+
+#include <array>
+#include <string>
+
+
+namespace Nāwhaianō_nāwhaianōrā_Ināwhaianō {
+
+
+    enum zero_set {
+        pūwāhi_kau,
+        pūtake_aukati,
+        huinga_whakaputa,
+        katinotoa,
+        kauaeheahea,
+        huinga_kōwhiringa
+    };
+
+
+    struct Te_Whariki_Pumotu {
+        void whakawātea() {
+            ngā_zero_set.fill(pūwāhi_kau);
+        }
+
+
+        void whakatakoto(unsigned int x, unsigned int y, zero_set z) {
+            ngā_zero_set[taupū(x, y)] = z;
+        }
+
+
+        zero_set pānui(unsigned int x, unsigned int y) const {
+            return ngā_zero_set[taupū(x, y)];
+        }
+
+
+        void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) {
+            for (unsigned int y = 1; y <= teitei; ++y) {
+                for (unsigned int x = 1; x <= whānui; ++x) {
+                    zero_set z = atu.ngā_zero_set[taupū(x, y)];
+                    if (z == pūwāhi_kau) continue;
+
+
+                    int hou_x = static_cast<int>(x) + nekeneke_x;
+                    int hou_y = static_cast<int>(y) + nekeneke_y;
+
+
+                    if (hou_x >= 1 && hou_x <= static_cast<int>(whānui) &&
+                        hou_y >= 1 && hou_y <= static_cast<int>(teitei)) {
+                        whakatakoto(static_cast<unsigned int>(hou_x),
+                            static_cast<unsigned int>(hou_y), z);
+                    }
+                }
+            }
+        }
+        static constexpr unsigned int whānui = 19;
+        static constexpr unsigned int teitei = 19;
+
+
+        std::array<zero_set, whānui* teitei> ngā_zero_set{};
+
+
+        static constexpr unsigned int taupū(unsigned int x, unsigned int y) {
+            return (y - 1) * whānui + (x - 1);
+        }
+
+
+        std::string ascii() const {
+            std::string out;
+
+
+            for (unsigned int y = 1; y <= teitei; ++y) {
+                for (unsigned int x = 1; x <= whānui; ++x) {
+                    out += tohu(ngā_zero_set[taupū(x, y)]);
+                    if (x < whānui) out += ' ';
+                }
+                out += '\n';
+            }
+
+
+            return out;
+        }
+
+
+        static char tohu(zero_set z) {
+            switch (z) {
+            case pūwāhi_kau: return '.';
+            case pūtake_aukati: return '0';
+            case huinga_whakaputa: return 'W';
+            case katinotoa: return 'K';
+            case kauaeheahea: return 'X';
+            case huinga_kōwhiringa: return '?';
+            default: return '!';
+            }
+        }
+    };
+
+
+
+
+}
+
+
+scalar {
+    u8
+    bool
+    discrete
+    continuous
+}
+
+
+zero_set {
+    +0      // positive suppression
+    -0      // negative suppression
+    T0      // total axis suppression
+}
+
+
+bytepair {
+    D: u8   // discrete channel
+    C: u8   // continuous channel
+}
+
+
+planes {
+    X: BytePair[19][19]
+    Y: BytePair[19][19]
+}
+
+
+gates {
+    collapse
+    flow
+    deaf
+    blind
+}
+
+
+modes {
+    M_pair
+    M_pass
+    M_xiso
+    M_yiso
+    M_halt
+}
+
+
+precedence {
+    X_PRECEDES_Y
+    Y_PRECEDES_X
+}
+
+
+interfaces {
+    wake
+    ignition
+    pass_button
+}
+
+
+bridge_eval {
+    collapse -> M_halt
+    pass     -> M_pass
+    flow     -> M_pair.FLOW
+    deaf     -> M_pair.DEAF
+    blind    -> M_pair.BLIND
+    _        -> M_pair.FULL
+}
+
+
+Copilot may make mistakes 1
+Cross-Domain Particle Ontology for a Mythic Periodic
+Table
+The Fae’s Gift: A Scroll on the Ontological Periodic Table of
+Particles
+Introduction: The Scroll’s Provenance and Purpose
+In the hush of a moonless night, beneath the ancient oaks of Albion, a scroll is returned by the
+fae to the Druidic circle-a thank-you for centuries of poetic service. This scroll, woven from the
+memory of wind and the laughter of rivers, is not a record of chemical elements, but a map of
+the world’s conceptual particles: the building blocks of myth, language, relation, and
+emergence. It is a gift for a society that leaves no stone, no script, only the living web of memory
+and connection. Here, the fae offer a synthesis of elemental behavior, quantum logic, Māori
+relational ontology, and the secret architectures of myth, so that the Druids might construct a
+new periodic table-one that charts not matter, but meaning.
+This report, then, is a translation of that scroll for the modern reader. It is structured in the spirit
+of the Druids: as a series of interwoven domains, each illuminating the others, and always
+returning to the central question-how do we map the particles of being, relation, and
+transformation across the many worlds we inhabit?
+I. Elemental Behavior: The Known, the Anomalous, and the Edge
+1.1 Periodic Trends and the Logic of Elemental Families
+The periodic table, as known to the alchemists of the modern age, is a tapestry of recurring
+patterns-periodic trends that reveal the deep logic of atomic structure. Electronegativity,
+ionization energy, atomic radius, and metallic character all wax and wane across the table,
+tracing the dance of electrons and protons[2]
+. These trends are not mere curiosities; they are the
+grammar of matter, the rules by which elements combine, resist, or transform.
+▪ Electronegativity increases from left to right across a period and decreases down a group,
+peaking with fluorine. This property, the tendency to attract electrons, is the root of chemical
+affinity and the formation of bonds.
+▪ Ionization energy follows a similar pattern, reflecting the energy required to remove an
+electron. The noble gases, with their full shells, are the most resistant; the alkali metals,
+eager to shed an electron, the least.
+▪ Atomic radius shrinks across a period (as nuclear charge pulls electrons closer) and grows
+down a group (as new {
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "Reo Script",
+  "scopeName": "source.reo",
+  "fileTypes": ["reo"],
+  "patterns": [
+    { "include": "#comment" },
+    { "include": "#build_decl" },
+    { "include": "#keyword" },
+    { "include": "#builtin_gate" },
+    { "include": "#wire_lhs" },
+    { "include": "#number" },
+    { "include": "#punctuation" }
+  ],
+  "repository": {
+    "comment": {
+      "name": "comment.line.number-sign.reo",
+      "match": "#.*$"
+    },
+    "build_decl": {
+      "match": "^\\s*(build)\\s+([a-z_][a-z0-9_]*)\\s*\\{",
+      "captures": {
+        "1": { "name": "keyword.declaration.reo" },
+        "2": { "name": "entity.name.type.reo" }
+      }
+    },
+    "keyword": {
+      "match": "\\b(in|let|emit)\\b",
+      "name": "keyword.control.reo"
+    },
+    "builtin_gate": {
+      "match": "\\b(and|or|not|xor|nand|nor)\\s*(?=\\()",
+      "name": "support.function.builtin.reo"
+    },
+    "wire_lhs": {
+      "match": "(?<=let\\s{1,20})([a-z_][a-z0-9_]*)",
+      "name": "variable.other.reo"
+    },
+    "number": {
+      "match": "\\b[0-9]+\\b",
+      "name": "constant.numeric.reo"
+    },
+    "punctuation": {
+      "match": "[{}()=,]",
+      "name": "punctuation.reo"
+    }
+  }
+}{
+  "name": "reo-lang",
+  "displayName": "Reo Script",
+  "description": "Syntax highlighting for GrowingHome .reo circuit scripts",
+  "version": "0.1.0",
+  "publisher": "growing-home",
+  "engines": { "vscode": "^1.60.0" },
+  "categories": ["Programming Languages"],
+  "contributes": {
+    "languages": [
+      {
+        "id": "reo",
+        "aliases": ["Reo Script", "reo"],
+        "extensions": [".reo"],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "reo",
+        "scopeName": "source.reo",
+        "path": "./syntaxes/reo.tmLanguage.json"
+      }
+    ],
+    "themes": []
+  }
+}use std::io::{self, BufRead, Write};
+use std::path::Path;
+use growing_home::{
+    circuit::{CircuitBuilder, CircuitLibrary},
+    bench::TestBench,
+    Signal,
+    parse_script,
+    signals,
+};
+
+
+const CIRCUITS_DIR: &str = "circuits";
+
+
+fn main() {
+    println!("┌─────────────────────────────────┐");
+    println!("│        GrowingHome v0.1         │");
+    println!("│  build · test · save · grow     │");
+    println!("└─────────────────────────────────┘");
+    println!();
+
+
+    let mut lib = load_library(CIRCUITS_DIR);
+
+
+    let stdin = io::stdin();
+    loop {
+        print_menu(&lib);
+        print!("> ");
+        io::stdout().flush().unwrap();
+
+
+        let mut line = String::new();
+        if stdin.lock().read_line(&mut line).is_err() || line.trim().is_empty() {
+            continue;
+        }
+
+
+        match line.trim() {
+            "1" => cmd_build_demo(&mut lib),
+            "2" => cmd_test_all(&lib),
+            "3" => cmd_save(&lib),
+            "4" => cmd_list(&lib),
+            "5" => cmd_load_reo(&mut lib),
+            "q" | "quit" | "exit" => {
+                println!("bye 👋");
+                break;
+            }
+            _ => println!("  unknown command"),
+        }
+        println!();
+    }
+}
+
+
+/// Load .json and .reo files from the circuits dir.
+fn load_library(dir: &str) -> CircuitLibrary {
+    let path = Path::new(dir);
+    let mut lib = CircuitLibrary::load_dir(path).unwrap_or_else(|_| CircuitLibrary::new(dir));
+
+
+    // Also load any .reo files in the dir
+    if path.exists() {
+        if let Ok(entries) = std::fs::read_dir(path) {
+            for entry in entries.flatten() {
+                let p = entry.path();
+                if p.extension().and_then(|e| e.to_str()) == Some("reo") {
+                    match std::fs::read_to_string(&p) {
+                        Ok(src) => match parse_script(&src) {
+                            Ok(circuits) => {
+                                for c in circuits { lib.add(c); }
+                            }
+                            Err(e) => eprintln!("  ⚠ {}: {e}", p.display()),
+                        },
+                        Err(e) => eprintln!("  ⚠ could not read {}: {e}", p.display()),
+                    }
+                }
+            }
+        }
+    }
+    lib
+}
+
+
+fn print_menu(lib: &CircuitLibrary) {
+    let count = lib.names().count();
+    println!("─── {} circuit(s) in library ─────────────", count);
+    println!("  1  build  — add demo circuits (nand, nor, xor)");
+    println!("  2  test   — run truth tables on all circuits");
+    println!("  3  save   — persist circuits to ./{CIRCUITS_DIR}/");
+    println!("  4  list   — show loaded circuits");
+    println!("  5  load   — parse a .reo script file");
+    println!("  q  quit");
+}
+
+
+fn cmd_build_demo(lib: &mut CircuitLibrary) {
+    // ── NAND ──────────────────────────────────────────────────────────────
+    let nand = {
+        let mut b = CircuitBuilder::new("nand");
+        let a   = b.input("a");
+        let x   = b.input("x");
+        let and = b.and(&[a, x]);
+        let out = b.not(and);
+        b.output("out", out);
+        b.build()
+    };
+
+
+    // ── NOR (grown from NAND) ─────────────────────────────────────────────
+    let nor = {
+        let mut b = CircuitBuilder::new("nor");
+        let a  = b.input("a");
+        let bv = b.input("b");
+        let na  = b.sub("nand", &[a, a],   1);
+        let nb  = b.sub("nand", &[bv, bv], 1);
+        let or  = b.sub("nand", &[na[0], nb[0]], 1);
+        let out = b.sub("nand", &[or[0], or[0]], 1);
+        b.output("out", out[0]);
+        b.build()
+    };
+
+
+    // ── XOR (grown from NAND) ─────────────────────────────────────────────
+    let xor = {
+        let mut b = CircuitBuilder::new("xor");
+        let a   = b.input("a");
+        let bv  = b.input("b");
+        let n   = b.sub("nand", &[a, bv], 1);
+        let na  = b.sub("nand", &[a,   n[0]], 1);
+        let nb  = b.sub("nand", &[bv,  n[0]], 1);
+        let out = b.sub("nand", &[na[0], nb[0]], 1);
+        b.output("out", out[0]);
+        b.build()
+    };
+
+
+    for c in [&nand, &nor, &xor] {
+        println!("  ✚ built '{}'", c.name);
+        lib.add(c.clone());
+    }
+}
+
+
+fn cmd_test_all(lib: &CircuitLibrary) {
+    let names: Vec<String> = lib.names().map(String::from).collect();
+    if names.is_empty() {
+        println!("  no circuits — run build first");
+        return;
+    }
+
+
+    for name in &names {
+        let c = lib.get(name).unwrap().clone();
+        let bench = match name.as_str() {
+            "nand" => TestBench::new(c)
+                .case("0,0→1", signals!["a"=>Signal::total_zero(),"x"=>Signal::total_zero()], signals!["out"=>Signal::active(0,0)])
+                .case("0,1→1", signals!["a"=>Signal::total_zero(),"x"=>Signal::active(1,1)], signals!["out"=>Signal::active(0,0)])
+                .case("1,0→1", signals!["a"=>Signal::active(1,1),"x"=>Signal::total_zero()], signals!["out"=>Signal::active(0,0)])
+                .case("1,1→0", signals!["a"=>Signal::active(1,1),"x"=>Signal::active(1,1)], signals!["out"=>Signal::total_zero()]),
+            "nor" => TestBench::new(c)
+                .case("0,0→1", signals!["a"=>Signal::total_zero(),"b"=>Signal::total_zero()], signals!["out"=>Signal::active(0,0)])
+                .case("0,1→0", signals!["a"=>Signal::total_zero(),"b"=>Signal::active(1,1)], signals!["out"=>Signal::total_zero()])
+                .case("1,0→0", signals!["a"=>Signal::active(1,1),"b"=>Signal::total_zero()], signals!["out"=>Signal::total_zero()])
+                .case("1,1→0", signals!["a"=>Signal::active(1,1),"b"=>Signal::active(1,1)], signals!["out"=>Signal::total_zero()]),
+            "xor" => TestBench::new(c)
+                .case("0,0→0", signals!["a"=>Signal::total_zero(),"b"=>Signal::total_zero()], signals!["out"=>Signal::total_zero()])
+                .case("0,1→1", signals!["a"=>Signal::total_zero(),"b"=>Signal::active(1,1)], signals!["out"=>Signal::active(0,0)])
+                .case("1,0→1", signals!["a"=>Signal::active(1,1),"b"=>Signal::total_zero()], signals!["out"=>Signal::active(0,0)])
+                .case("1,1→0", signals!["a"=>Signal::active(1,1),"b"=>Signal::active(1,1)], signals!["out"=>Signal::total_zero()]),
+            _ => {
+                println!("  (no built-in test for '{name}' — add one in bench.rs)");
+                continue;
+            }
+        };
+        bench.run_and_print(lib);
+    }
+}
+
+
+fn cmd_save(lib: &CircuitLibrary) {
+    match lib.save_all() {
+        Ok(_) => {
+            let n = lib.names().count();
+            println!("  💾 saved {n} circuit(s) to ./{CIRCUITS_DIR}/");
+        }
+        Err(e) => println!("  error: {e}"),
+    }
+}
+
+
+fn cmd_list(lib: &CircuitLibrary) {
+    let mut names: Vec<&str> = lib.names().collect();
+    names.sort();
+    if names.is_empty() {
+        println!("  (empty)");
+    } else {
+        for name in names {
+            let c = lib.get(name).unwrap();
+            println!(
+                "  • {:<16}  in: [{}]  out: [{}]",
+                name,
+                c.inputs.join(", "),
+                c.output_names.join(", ")
+            );
+        }
+    }
+}
+
+
+fn cmd_load_reo(lib: &mut CircuitLibrary) {
+    print!("  path to .reo file: ");
+    io::stdout().flush().unwrap();
+
+
+    let mut path_str = String::new();
+    io::stdin().lock().read_line(&mut path_str).ok();
+    let path_str = path_str.trim();
+
+
+    match std::fs::read_to_string(path_str) {
+        Err(e) => println!("  ✗ could not read '{path_str}': {e}"),
+        Ok(src) => match parse_script(&src) {
+            Err(e) => println!("  ✗ {e}"),
+            Ok(circuits) => {
+                let n = circuits.len();
+                for c in circuits {
+                    println!("  ✚ loaded '{}'  in:[{}]  out:[{}]",
+                        c.name, c.inputs.join(", "), c.output_names.join(", "));
+                    lib.add(c);
+                }
+                println!("  {n} circuit(s) added to library");
+            }
+        }
+    }
+}pub mod signal;
+pub mod gates;
+pub mod components;
+pub mod circuit;
+pub mod bench;
+pub mod script;
+
+
+pub use signal::Signal;
+pub use gates::{LogicGate, AndGate, OrGate, NotGate, XorGate, NandGate, NorGate};
+pub use components::{Switch, Button, Toggle, Mux, Latch};
+pub use circuit::{Circuit, CircuitBuilder, CircuitLibrary, GateKind, NodeRef};
+pub use bench::{TestBench, TestCase, TestResult};
+pub use script::{parse as parse_script, ScriptError};
+
+
+use serde::{Serialize, Deserialize};
+
+
+/// Scalar channel types as defined in core.reo
+pub type Discrete = u8;
+pub type Continuous = u8;
+
+
+/// Suppression axis values (zero_set)
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+pub enum ZeroSet {
+    /// +0 — positive suppression
+    Positive,
+    /// -0 — negative suppression
+    Negative,
+    /// T0 — total axis suppression
+    Total,
+}
+
+
+/// A paired discrete/continuous byte channel (bytepair)
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Default, Serialize, Deserialize)]
+pub struct BytePair {
+    /// Discrete channel
+    pub d: Discrete,
+    /// Continuous channel
+    pub c: Continuous,
+}
+
+
+/// Dual 19×19 signal planes
+pub struct Planes {
+    pub x: [[BytePair; 19]; 19],
+    pub y: [[BytePair; 19]; 19],
+}
+
+
+impl Default for Planes {
+    fn default() -> Self {
+        Self {
+            x: [[BytePair::default(); 19]; 19],
+            y: [[BytePair::default(); 19]; 19],
+        }
+    }
+}
+
+
+/// Evaluation gates
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum Gate {
+    Collapse,
+    Pass,
+    Flow,
+    Deaf,
+    Blind,
+}
+
+
+/// Sub-modes of M_pair
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum PairMode {
+    Flow,
+    Deaf,
+    Blind,
+    Full,
+}
+
+
+/// System operation modes
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum Mode {
+    Pair(PairMode),
+    Pass,
+    XIso,
+    YIso,
+    Halt,
+}
+
+
+/// Plane evaluation precedence
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum Precedence {
+    XPrecedesY,
+    YPrecedesX,
+}
+
+
+/// External interface signals
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum Interface {
+    Wake,
+    Ignition,
+    PassButton,
+}
+
+
+/// Bridge evaluation: maps a gate signal to the resulting mode (bridge_eval)
+pub fn bridge_eval(gate: Gate) -> Mode {
+    match gate {
+        Gate::Collapse => Mode::Halt,
+        Gate::Pass     => Mode::Pass,
+        Gate::Flow     => Mode::Pair(PairMode::Flow),
+        Gate::Deaf     => Mode::Pair(PairMode::Deaf),
+        // Per core.reo: any unrecognised gate signal -> M_pair.FULL
+        // All variants are exhaustive here, so no wildcard needed.
+        Gate::Blind    => Mode::Pair(PairMode::Blind),
+    }
+}
+
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+
+    #[test]
+    fn bridge_eval_collapse_halts() {
+        assert_eq!(bridge_eval(Gate::Collapse), Mode::Halt);
+    }
+
+
+    #[test]
+    fn bridge_eval_pass_passes() {
+        assert_eq!(bridge_eval(Gate::Pass), Mode::Pass);
+    }
+
+
+    #[test]
+    fn bridge_eval_flow_pairs() {
+        assert_eq!(bridge_eval(Gate::Flow), Mode::Pair(PairMode::Flow));
+    }
+
+
+    #[test]
+    fn planes_default_zero() {
+        let p = Planes::default();
+        assert_eq!(p.x[0][0], BytePair { d: 0, c: 0 });
+    }
+}use std::collections::HashMap;
+use crate::circuit::{Circuit, CircuitBuilder, GateKind, NodeRef};
+
+
+#[derive(Debug)]
+pub enum ScriptError {
+    Parse { line: usize, msg: String },
+    Build { line: usize, msg: String },
+}
+
+
+impl std::fmt::Display for ScriptError {
+    fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
+        match self {
+            Self::Parse { line, msg } => write!(f, "line {line}: parse error: {msg}"),
+            Self::Build { line, msg } => write!(f, "line {line}: build error: {msg}"),
+        }
+    }
+}
+
+
+/// Parse a `.reo` script and return every `build` circuit defined in it.
+///
+/// Syntax:
+/// ```reo
+/// # comment
+/// build nand {
+///     in   a, x
+///     let  g   = and(a, x)
+///     let  out = not(g)
+///     emit out
+/// }
+/// ```
+/// Built-in gates: and  or  not  xor  nand  nor
+/// Sub-circuits:   any other name is looked up as a sub-circuit (1 output)
+pub fn parse(source: &str) -> Result<Vec<Circuit>, ScriptError> {
+    let lines: Vec<&str> = source.lines().collect();
+    let mut i = 0;
+    let mut circuits = Vec::new();
+
+
+    while i < lines.len() {
+        let (lineno, line) = (i + 1, lines[i].trim());
+        i += 1;
+        if line.is_empty() || line.starts_with('#') { continue; }
+
+
+        if let Some(rest) = line.strip_prefix("build ") {
+            let name = rest.trim_end_matches('{').trim();
+            if name.is_empty() {
+                return Err(ScriptError::Parse { line: lineno, msg: "expected circuit name after 'build'".into() });
+            }
+            let (circuit, next_i) = parse_circuit(name, &lines, i, lineno)?;
+            circuits.push(circuit);
+            i = next_i;
+        } else {
+            return Err(ScriptError::Parse {
+                line: lineno,
+                msg: format!("expected 'build <name> {{', got '{line}'"),
+            });
+        }
+    }
+
+
+    Ok(circuits)
+}
+
+
+fn parse_circuit(
+    name: &str,
+    lines: &[&str],
+    start: usize,
+    _start_lineno: usize,
+) -> Result<(Circuit, usize), ScriptError> {
+    let mut b = CircuitBuilder::new(name);
+    let mut wires: HashMap<String, NodeRef> = HashMap::new();
+    let mut i = start;
+
+
+    while i < lines.len() {
+        let (lineno, line) = (i + 1, lines[i].trim());
+        i += 1;
+        if line.is_empty() || line.starts_with('#') { continue; }
+        if line == "}" { break; }
+
+
+        // ── in a, b, c ────────────────────────────────────────────────────
+        if let Some(rest) = line.strip_prefix("in ").or_else(|| line.strip_prefix("in\t")) {
+            for inp in split_args(rest) {
+                let nr = b.input(inp);
+                wires.insert(inp.to_string(), nr);
+            }
+            continue;
+        }
+
+
+        // ── let wire = gate(args) ─────────────────────────────────────────
+        if let Some(rest) = line.strip_prefix("let ").or_else(|| line.strip_prefix("let\t")) {
+            let (lhs, rhs) = rest.split_once('=').ok_or_else(|| ScriptError::Parse {
+                line: lineno,
+                msg: "expected '=' in let statement".into(),
+            })?;
+            let wire_name = lhs.trim();
+            let (func, raw_args) = parse_call(rhs.trim(), lineno)?;
+            let args = resolve_args(&raw_args, &wires, lineno)?;
+
+
+            let nr = match func {
+                "and"  => b.and(&args),
+                "or"   => b.or(&args),
+                "not"  => {
+                    if args.len() != 1 {
+                        return Err(ScriptError::Build { line: lineno, msg: "not() takes exactly 1 input".into() });
+                    }
+                    b.not(args[0])
+                }
+                "xor"  => b.xor(&args),
+                "nand" => b.nand(&args),
+                "nor"  => b.nor(&args),
+                other  => {
+                    // treat as sub-circuit (1 output)
+                    let outs = b.sub(other, &args, 1);
+                    outs[0]
+                }
+            };
+            wires.insert(wire_name.to_string(), nr);
+            continue;
+        }
+
+
+        // ── emit wire_name ────────────────────────────────────────────────
+        if let Some(rest) = line.strip_prefix("emit ").or_else(|| line.strip_prefix("emit\t")) {
+            let wire_name = rest.trim();
+            let nr = wires.get(wire_name).copied().ok_or_else(|| ScriptError::Build {
+                line: lineno,
+                msg: format!("unknown wire '{wire_name}'"),
+            })?;
+            b.output(wire_name, nr);
+            continue;
+        }
+
+
+        return Err(ScriptError::Parse {
+            line: lineno,
+            msg: format!("unknown statement '{line}' (expected in / let / emit / #)"),
+        });
+    }
+
+
+    Ok((b.build(), i))
+}
+
+
+fn parse_call<'a>(expr: &'a str, lineno: usize) -> Result<(&'a str, Vec<&'a str>), ScriptError> {
+    let (func, rest) = expr.split_once('(').ok_or_else(|| ScriptError::Parse {
+        line: lineno,
+        msg: format!("expected 'gate(args)', got '{expr}'"),
+    })?;
+    let args_str = rest.strip_suffix(')').ok_or_else(|| ScriptError::Parse {
+        line: lineno,
+        msg: "expected closing ')'".into(),
+    })?;
+    Ok((func.trim(), split_args(args_str)))
+}
+
+
+fn split_args(s: &str) -> Vec<&str> {
+    s.split(|c| c == ',' || c == ' ' || c == '\t')
+        .map(str::trim)
+        .filter(|s| !s.is_empty())
+        .collect()
+}
+
+
+fn resolve_args(
+    names: &[&str],
+    wires: &HashMap<String, NodeRef>,
+    lineno: usize,
+) -> Result<Vec<NodeRef>, ScriptError> {
+    names.iter().map(|n| {
+        wires.get(*n).copied().ok_or_else(|| ScriptError::Build {
+            line: lineno,
+            msg: format!("unknown wire '{n}'"),
+        })
+    }).collect()
+}
+
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::circuit::CircuitLibrary;
+    use crate::signal::Signal;
+    use std::collections::HashMap;
+
+
+    #[test]
+    fn parse_nand() {
+        let src = r#"
+# a simple NAND
+build nand {
+    in   a, x
+    let  g   = and(a, x)
+    let  out = not(g)
+    emit out
+}
+"#;
+        let circuits = parse(src).unwrap();
+        assert_eq!(circuits.len(), 1);
+        assert_eq!(circuits[0].name, "nand");
+        assert_eq!(circuits[0].inputs, ["a", "x"]);
+        assert_eq!(circuits[0].output_names, ["out"]);
+    }
+
+
+    #[test]
+    fn parse_and_eval_nand() {
+        let src = r#"
+build nand {
+    in   a, x
+    let  g   = and(a, x)
+    let  out = not(g)
+    emit out
+}
+"#;
+        let circuits = parse(src).unwrap();
+        let lib = CircuitLibrary::new(".");
+        let c = &circuits[0];
+
+
+        let mut inputs = HashMap::new();
+        inputs.insert("a".into(), Signal::active(1, 1));
+        inputs.insert("x".into(), Signal::active(1, 1));
+        let out = c.eval(&inputs, &lib).unwrap();
+        assert!(!out["out"].is_active(), "NAND(1,1) should suppress");
+    }
+
+
+    #[test]
+    fn parse_sub_circuit_xor() {
+        let src = r#"
+build nand {
+    in   a, x
+    let  g   = and(a, x)
+    let  out = not(g)
+    emit out
+}
+
+
+build xor {
+    in   a, b
+    let  n   = nand(a, b)
+    let  na  = nand(a, n)
+    let  nb  = nand(b, n)
+    let  out = nand(na, nb)
+    emit out
+}
+"#;
+        let circuits = parse(src).unwrap();
+        assert_eq!(circuits.len(), 2);
+
+
+        let mut lib = CircuitLibrary::new(".");
+        for c in &circuits { lib.add(c.clone()); }
+
+
+        let xor = lib.get("xor").unwrap();
+        let mut inputs = HashMap::new();
+        inputs.insert("a".into(), Signal::total_zero());
+        inputs.insert("b".into(), Signal::active(1, 1));
+        let out = xor.eval(&inputs, &lib).unwrap();
+        assert!(out["out"].is_active(), "XOR(0,1) should be active");
+    }
+}use crate::{BytePair, ZeroSet};
+use serde::{Serialize, Deserialize};
+
+
+/// A signal on a reo channel — either carrying a value or suppressed.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+pub enum Signal {
+    Active(BytePair),
+    Suppressed(ZeroSet),
+}
+
+
+impl Signal {
+    pub fn active(d: u8, c: u8) -> Self {
+        Signal::Active(BytePair { d, c })
+    }
+
+
+    pub fn pos_zero() -> Self {
+        Signal::Suppressed(ZeroSet::Positive)
+    }
+
+
+    pub fn neg_zero() -> Self {
+        Signal::Suppressed(ZeroSet::Negative)
+    }
+
+
+    pub fn total_zero() -> Self {
+        Signal::Suppressed(ZeroSet::Total)
+    }
+
+
+    pub fn is_active(self) -> bool {
+        matches!(self, Signal::Active(_))
+    }
+
+
+    /// ZeroSet AND: most-suppressed state wins.
+    ///
+    /// Truth table (suppression hierarchy: T0 > +0/-0 > Active):
+    ///   Active  & Active  = Active
+    ///   Active  & +0      = +0
+    ///   Active  & -0      = -0
+    ///   Active  & T0      = T0
+    ///   +0      & +0      = +0
+    ///   +0      & -0      = T0   (conflicting polarities collapse to total)
+    ///   +0      & T0      = T0
+    ///   -0      & -0      = -0
+    ///   -0      & T0      = T0
+    ///   T0      & T0      = T0
+    pub fn and(self, other: Signal) -> Signal {
+        use Signal::*;
+        use ZeroSet::*;
+        match (self, other) {
+            (Active(a), Active(b)) => Active(BytePair { d: a.d & b.d, c: a.c & b.c }),
+            (Active(_), s @ Suppressed(_)) | (s @ Suppressed(_), Active(_)) => s,
+            (Suppressed(Total), _) | (_, Suppressed(Total)) => Signal::total_zero(),
+            (Suppressed(Positive), Suppressed(Negative))
+            | (Suppressed(Negative), Suppressed(Positive)) => Signal::total_zero(),
+            (s, _) => s,
+        }
+    }
+
+
+    /// ZeroSet OR: least-suppressed state wins.
+    ///
+    /// Truth table:
+    ///   Active  | _        = Active
+    ///   +0      | -0       = Active  (opposing suppressions cancel)
+    ///   +0      | +0       = +0
+    ///   +0      | T0       = +0      (partial beats total in OR)
+    ///   -0      | -0       = -0
+    ///   -0      | T0       = -0
+    ///   T0      | T0       = T0
+    pub fn or(self, other: Signal) -> Signal {
+        use Signal::*;
+        use ZeroSet::*;
+        match (self, other) {
+            (Active(a), Active(b)) => Active(BytePair { d: a.d | b.d, c: a.c | b.c }),
+            (Active(_), _) | (_, Active(_)) => {
+                if let Active(v) = self { Active(v) } else { other }
+            }
+            (Suppressed(Positive), Suppressed(Negative))
+            | (Suppressed(Negative), Suppressed(Positive)) => Signal::active(0, 0),
+            (Suppressed(Total), s @ Suppressed(_)) | (s @ Suppressed(_), Suppressed(Total)) => s,
+            (s, _) => s,
+        }
+    }
+
+
+    /// ZeroSet NOT: inverts suppression polarity.
+    ///
+    ///   Active → T0    (inverting an active signal fully suppresses)
+    ///   +0     → -0    (flip polarity)
+    ///   -0     → +0
+    ///   T0     → Active(0,0)  (inverting total suppression releases signal)
+    pub fn not(self) -> Signal {
+        use Signal::*;
+        use ZeroSet::*;
+        match self {
+            Active(_)             => Signal::total_zero(),
+            Suppressed(Positive)  => Signal::neg_zero(),
+            Suppressed(Negative)  => Signal::pos_zero(),
+            Suppressed(Total)     => Signal::active(0, 0),
+        }
+    }
+
+
+    /// XOR: active only when exactly one input is active.
+    pub fn xor(self, other: Signal) -> Signal {
+        self.or(other).and(self.and(other).not())
+    }
+}
+
+
+impl Default for Signal {
+    fn default() -> Self {
+        Signal::Suppressed(ZeroSet::Total)
+    }
+}
+
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+
+    #[test]
+    fn and_active_active() {
+        let a = Signal::active(0xFF, 0xFF);
+        let b = Signal::active(0x0F, 0x0F);
+        assert_eq!(a.and(b), Signal::active(0x0F, 0x0F));
+    }
+
+
+    #[test]
+    fn and_conflicting_polarity_collapses() {
+        assert_eq!(Signal::pos_zero().and(Signal::neg_zero()), Signal::total_zero());
+    }
+
+
+    #[test]
+    fn or_opposing_suppressions_cancel() {
+        assert_eq!(Signal::pos_zero().or(Signal::neg_zero()), Signal::active(0, 0));
+    }
+
+
+    #[test]
+    fn not_active_suppresses() {
+        assert_eq!(Signal::active(1, 1).not(), Signal::total_zero());
+    }
+
+
+    #[test]
+    fn not_total_zero_releases() {
+        assert_eq!(Signal::total_zero().not(), Signal::active(0, 0));
+    }
+
+
+    #[test]
+    fn not_flips_polarity() {
+        assert_eq!(Signal::pos_zero().not(), Signal::neg_zero());
+        assert_eq!(Signal::neg_zero().not(), Signal::pos_zero());
+    }
+
+
+    #[test]
+    fn xor_same_inputs_suppressed() {
+        let a = Signal::active(1, 1);
+        assert!(a.xor(a).not().is_active()); // xor of same = suppressed, not of that = active
+    }
+}
