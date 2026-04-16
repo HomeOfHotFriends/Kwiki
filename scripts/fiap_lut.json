@@ -1,0 +1,2093 @@
+{
+  "sections": {
+    "dedication": {
+      "id": "dedication",
+      "title": "Dedication",
+      "type": "front_matter",
+      "line_start": 50,
+      "line_end": 116,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "epigraph": {
+      "id": "epigraph",
+      "title": "Epigraph",
+      "type": "front_matter",
+      "line_start": 117,
+      "line_end": 173,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot"
+      ],
+      "characters": []
+    },
+    "acknowledgements": {
+      "id": "acknowledgements",
+      "title": "Acknowledgements",
+      "type": "front_matter",
+      "line_start": 174,
+      "line_end": 177,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot"
+      ],
+      "characters": []
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "Introduction",
+      "type": "karl_frame",
+      "line_start": 178,
+      "line_end": 216,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "shitting_machine"
+      ],
+      "characters": [
+        "Karl Leisky"
+      ]
+    },
+    "introduction__beat_0": {
+      "id": "introduction__beat_0",
+      "parent": "introduction",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 178,
+      "line_end": 216,
+      "text": "Introduction Introduction My name is Karl Leisky. My life has been characterised by shit luck. Mental health issues, random acts of violence, endings before I could even start. As a result of these things, I ended up on ACC, New Zealand’s universal health insurance. First three years I simply rotted. Then I remembered my talent. The last two years have been the happiest of my life. As a human, I c",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": [
+        "Karl Leisky"
+      ]
+    },
+    "chapter_one": {
+      "id": "chapter_one",
+      "title": "Chapter One",
+      "type": "chapter",
+      "line_start": 217,
+      "line_end": 228,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "catch22",
+        "content_vs_creative"
+      ],
+      "characters": []
+    },
+    "chapter_one__beat_0": {
+      "id": "chapter_one__beat_0",
+      "parent": "chapter_one",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 217,
+      "line_end": 228,
+      "text": "Chapter One Chapter One I make a cup of coffee[1]. It is only half filled with boiling water, to leave space for cold water. I loathe to wait for a coffee to cool. It is now 4:52 and I have found a luke-warm cup of coffee half-filled to leave space for boiling water. I needed a new project after the album. I put down the mug and picked up the manuscript. I started reading, editing as I went.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "diagetic_title": {
+      "id": "diagetic_title",
+      "title": "Diagetic Title",
+      "type": "diegetic_frame",
+      "line_start": 229,
+      "line_end": 296,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv Unkle",
+        "Gharv",
+        "Karl Leisky"
+      ]
+    },
+    "diegetic_epigraph": {
+      "id": "diegetic_epigraph",
+      "title": "Diegetic Epigraph",
+      "type": "diegetic_frame",
+      "line_start": 297,
+      "line_end": 301,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "diegetic_dedication": {
+      "id": "diegetic_dedication",
+      "title": "Diegetic Dedication",
+      "type": "diegetic_frame",
+      "line_start": 302,
+      "line_end": 316,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "desiring_machine"
+      ],
+      "characters": [
+        "Lyle"
+      ]
+    },
+    "diegetic_dedication__ed_0": {
+      "id": "diegetic_dedication__ed_0",
+      "parent": "diegetic_dedication",
+      "type": "ed_note",
+      "text": "Square-bracketed asides [—Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "diegetic_dedication__ed_1": {
+      "id": "diegetic_dedication__ed_1",
+      "parent": "diegetic_dedication",
+      "type": "ed_note",
+      "text": "Don’t worry if you don’t recognize the publication names, or have never heard of The Flotsam. This text assumes cultural fluency you might not have—unless you’ve travelled beyond this galaxy, or have had one too many cheese dreams. Certain terms remain untranslated when approximation would be mislea",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "first_home": {
+      "id": "first_home",
+      "title": "First Home",
+      "type": "section",
+      "line_start": 317,
+      "line_end": 659,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv Unkle",
+        "Gharv",
+        "Hat Mang",
+        "The Dicken",
+        "Eahrl"
+      ]
+    },
+    "first_home__beat_0": {
+      "id": "first_home__beat_0",
+      "parent": "first_home",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 317,
+      "line_end": 329,
+      "text": "First Home First Home Outside, the world hummed an ordinary, run-down tune. Markets took up the majority of the streets Fishermangs brought in the day’s catch; at a vintage clothes stall, a sacred item waited. [FOR SALE: Red Hat] A strange off-world visitor tried it on and said, “Fits.”  There was laughter. Of course it did. The plink-plinking joy never reached my ears.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "first_home__beat_1": {
+      "id": "first_home__beat_1",
+      "parent": "first_home",
+      "type": "beat",
+      "bpm": "125",
+      "line_start": 331,
+      "line_end": 659,
+      "text": "Inside, The Flotsam was fog and late-stage existentialism over salted fish. Behind the bar: me and the dirty cups left unwashed from other workers’ shifts. He just appeared as if he’d already been here a while. Standing by an old poster advertising a Spounge-Singers of Xybin tour. I remember the way he slouched; not an affect but part of himb, as if his skeleton carried a memory of being much shor",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "first_home__ed_0": {
+      "id": "first_home__ed_0",
+      "parent": "first_home",
+      "type": "ed_note",
+      "text": "Himb? Cute but reads meme-speak —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "first_home__ed_1": {
+      "id": "first_home__ed_1",
+      "parent": "first_home",
+      "type": "ed_note",
+      "text": "Fucking love Pavement —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "first_home__ed_2": {
+      "id": "first_home__ed_2",
+      "parent": "first_home",
+      "type": "ed_note",
+      "text": "This touched me. My parents once rushed a tiny me to hospital for heart palpitations; they said it sounded like bells —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "first_home__ed_3": {
+      "id": "first_home__ed_3",
+      "parent": "first_home",
+      "type": "ed_note",
+      "text": "Can confirm —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "first_home__ed_4": {
+      "id": "first_home__ed_4",
+      "parent": "first_home",
+      "type": "ed_note",
+      "text": "We share a stage name. A cosmic cowinkydink —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "homecoming": {
+      "id": "homecoming",
+      "title": "Homecoming",
+      "type": "section",
+      "line_start": 660,
+      "line_end": 793,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Lyle"
+      ]
+    },
+    "homecoming__beat_0": {
+      "id": "homecoming__beat_0",
+      "parent": "homecoming",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 660,
+      "line_end": 665,
+      "text": "Homecoming Homecoming I had three days. It usually took me weeks to prepare mentally for a proper outing, but I was curious what sort of crowd this guy would attract. Mostly, though, I just got lucky.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "homecoming__beat_1": {
+      "id": "homecoming__beat_1",
+      "parent": "homecoming",
+      "type": "beat",
+      "bpm": "130",
+      "line_start": 667,
+      "line_end": 793,
+      "text": "I left my house in Reensburn—a suburb in the town of Cahlmers, near the ghostly and abandoned Dock C. Reensburn was characterised by its towers made of wobbling shacks. They housed Earth non-eligibles of all ages, a few failing fishermangs. Reensburn looked wary in the disappearing light of our shared Sun. The crumbling walls stood out from the artisinally textured exteriors of the inner sector. D",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "come_home": {
+      "id": "come_home",
+      "title": "Come Home",
+      "type": "section",
+      "line_start": 794,
+      "line_end": 974,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Lyle",
+        "Eahrl"
+      ]
+    },
+    "come_home__beat_0": {
+      "id": "come_home__beat_0",
+      "parent": "come_home",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 794,
+      "line_end": 798,
+      "text": "Come Home Come Home In the years since I retired from adventuring, I’d be asked time and time again: “How did you get to Home?” Well, I still don’t know. But these are the events leading up to, and including, my first steps on that wonderful land. May it provide clues for those who need them.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "come_home__beat_1": {
+      "id": "come_home__beat_1",
+      "parent": "come_home",
+      "type": "beat",
+      "bpm": "140",
+      "line_start": 800,
+      "line_end": 974,
+      "text": "Space Dad always said I could visit when he got back to Home. The problem was, he never really did. One show led to another. The Chaditional Wedding Tour spiralled into the Honeymoon Stretch, the Eternal Reception. The names changed, the venues got weirder, and Home kept getting pushed further into the future. After a blur of secondhand show reviews and static-laced bootlegs, I woke up one morning",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "home_time": {
+      "id": "home_time",
+      "title": "Home Time",
+      "type": "section",
+      "line_start": 975,
+      "line_end": 1149,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Hat Mang",
+        "Lyle"
+      ]
+    },
+    "home_time__beat_0": {
+      "id": "home_time__beat_0",
+      "parent": "home_time",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 975,
+      "line_end": 980,
+      "text": "Home Time Home Time There’s a certain je ne sais quoi about the Plantling species. I wanted to get to the secret behind the sparkle. On my first night on Home, I discovered it. At first I thought the difference was difference.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_time__beat_1": {
+      "id": "home_time__beat_1",
+      "parent": "home_time",
+      "type": "beat",
+      "bpm": "169",
+      "line_start": 982,
+      "line_end": 1149,
+      "text": "A thumping kick came from over the hills. Boof Boof Boof Boof. Space Dad and I walked towards the beat. “You’re getting a Hot Friend welcome tonight,” he said with unhidden delight. “Hot Friend?” I asked. “Oh, it’s what we true form Plantlings call ourselves when in the company of our own. Plantling is just so… formal, you know?” “Ah.” “We’re all hot, and we’re all friends”, he added. It made sens",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "home_time__intercept_0": {
+      "id": "home_time__intercept_0",
+      "parent": "home_time",
+      "type": "intercept",
+      "subtype": "SURVEILLANCE",
+      "line_start": 1090,
+      "text": "[SURVEILLANCE: Neutrality Drones in passive mode — no actionable variance detected]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "home_room": {
+      "id": "home_room",
+      "title": "Home Room",
+      "type": "section",
+      "line_start": 1150,
+      "line_end": 1412,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "Hat Mang",
+        "The Dicken"
+      ]
+    },
+    "home_room__beat_0": {
+      "id": "home_room__beat_0",
+      "parent": "home_room",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 1150,
+      "line_end": 1156,
+      "text": "Home Room Home Room This is a transcription of my lessons. Sometimes when I’m lost I return here. There are always more threads.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_room__beat_1": {
+      "id": "home_room__beat_1",
+      "parent": "home_room",
+      "type": "beat",
+      "bpm": "165",
+      "line_start": 1158,
+      "line_end": 1412,
+      "text": "Space Dad led me away from the small crowd of Blobblings still on the froth, guiding me towards a smaller, quieter part of the glades. Mr. Fish-With-Legs, who looks like a fish (with legs), stood by a fire pit, poking the few remaining logs around. Space Dad introduced us, then added “great guy. Inside and outside. Just don’t let himb go full shark mode on ya”. Mr. Fish-With-Legs held a long stick",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Mr. Fish-With-Legs"
+      ]
+    },
+    "home_life": {
+      "id": "home_life",
+      "title": "Home Life",
+      "type": "section",
+      "line_start": 1413,
+      "line_end": 1822,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "Lyle"
+      ]
+    },
+    "home_life__beat_0": {
+      "id": "home_life__beat_0",
+      "parent": "home_life",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 1413,
+      "line_end": 1414,
+      "text": "Home Life Home Life",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_life__beat_1": {
+      "id": "home_life__beat_1",
+      "parent": "home_life",
+      "type": "beat",
+      "bpm": "I don’t know. It feels calm, but the pulse is rising",
+      "line_start": 1416,
+      "line_end": 1822,
+      "text": "Eleven days. Eleven days it took me. But I wasn’t lonely. No, I had Frog In A Pot. To be alone with this album was the perfect balm after that first night of heavy socialisation. Every morning and night, food appeared outside my door.  I listened over and over, overwhelmed and delighted by what I heard. But I wasn’t ready to give the disk back. Frog In A Pot seemed to be telling three different st",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_life__ed_0": {
+      "id": "home_life__ed_0",
+      "parent": "home_life",
+      "type": "ed_note",
+      "text": "Did my mang… just quote Deleuze? —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "home_life__intercept_0": {
+      "id": "home_life__intercept_0",
+      "parent": "home_life",
+      "type": "intercept",
+      "subtype": "MAIL",
+      "line_start": 1488,
+      "text": "[MAIL: approvrajdhanied by CEN]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "home_arrest": {
+      "id": "home_arrest",
+      "title": "Home Arrest",
+      "type": "section",
+      "line_start": 1823,
+      "line_end": 1999,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "Lyle",
+        "The Dicken"
+      ]
+    },
+    "home_arrest__beat_0": {
+      "id": "home_arrest__beat_0",
+      "parent": "home_arrest",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 1823,
+      "line_end": 1829,
+      "text": "Home Arrest Home Arrest This account of my 11th evening on Home was pieced together from testimonials from those present. My memory is a little hazy.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_arrest__beat_1": {
+      "id": "home_arrest__beat_1",
+      "parent": "home_arrest",
+      "type": "beat",
+      "bpm": "230",
+      "line_start": 1831,
+      "line_end": 1999,
+      "text": "By dinner time on the 11th day, I was ready. I wasn’t done with the album, but I was done with experiencing it alone. I opened the door before the usual knock. After waiting a minute, I saw Mr. Fish-With-Legs walk up. “Come with me. You can eat on the way.” Whether by chance or destiny, he had brought tacos—perfect for a walking meal. With my mouth filled with tacos, I followed Mr. Fish-With-Legs.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": [
+        "Mr. Fish-With-Legs"
+      ]
+    },
+    "home_arrest__ed_0": {
+      "id": "home_arrest__ed_0",
+      "parent": "home_arrest",
+      "type": "ed_note",
+      "text": "The name given by myspace-era metalcore fans to describe the sound of a minor 2nd chord. This guy knows his stuff —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus"
+      ],
+      "characters": []
+    },
+    "broken_home": {
+      "id": "broken_home",
+      "title": "Broken Home",
+      "type": "section",
+      "line_start": 2000,
+      "line_end": 2733,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "Hat Mang",
+        "Lyle",
+        "The Dicken"
+      ]
+    },
+    "broken_home__beat_0": {
+      "id": "broken_home__beat_0",
+      "parent": "broken_home",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 2000,
+      "line_end": 2004,
+      "text": "Broken Home Broken Home On Cahlmers, I used to dread the way the days crept forward. A year seemed like an infinite sentence. Now I know a year is just enough to forget someone’s exact voice, but not the bells in their chest. Just enough to live a little, but not enough to stop grieving.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "broken_home__beat_1": {
+      "id": "broken_home__beat_1",
+      "parent": "broken_home",
+      "type": "beat",
+      "bpm": "115",
+      "line_start": 2006,
+      "line_end": 2733,
+      "text": "Note: 100 Home Days ≈ 532 Cahlmers days Early Grief Day 1 After Space Dad was taken, we all tried to keep things normal. We failed beautifully. ________________ I could smell the citrus on the air today. I don’t know if it was just my imagination, but it made me feel closer to himb. As if I had taken a step into his world. ________________ Day 2 “I can be everyone’s dad!” shouted The Dicken while ",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "The Dicken"
+      ]
+    },
+    "broken_home__intercept_0": {
+      "id": "broken_home__intercept_0",
+      "parent": "broken_home",
+      "type": "intercept",
+      "subtype": "SURVEILLANCE",
+      "line_start": 2501,
+      "text": "[SURVEILLANCE: Patrol sphere, start passive scan]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "broken_home__intercept_1": {
+      "id": "broken_home__intercept_1",
+      "parent": "broken_home",
+      "type": "intercept",
+      "subtype": "REPORT",
+      "line_start": 2511,
+      "text": "[REPORT: Subjects exhibiting species-typical chaos. No Threat Detected]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "homework": {
+      "id": "homework",
+      "title": "Homework",
+      "type": "section",
+      "line_start": 2734,
+      "line_end": 2814,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv Unkle",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "Hat Mang",
+        "The Dicken"
+      ]
+    },
+    "homework__beat_0": {
+      "id": "homework__beat_0",
+      "parent": "homework",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 2734,
+      "line_end": 2744,
+      "text": "Homework Homework The rocket was a beautiful thing; looked like it could fall apart at any moment. Moss filled the space between panels, with supple ivy tendrils connecting electrical components. Hat Mang had done a wonderful job. “The Friend Ship!” said Hat Mang “Dumb” I said, but with a smile. We prepared for the mission.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": [
+        "Hat Mang"
+      ]
+    },
+    "homework__beat_1": {
+      "id": "homework__beat_1",
+      "parent": "homework",
+      "type": "beat",
+      "bpm": "126",
+      "line_start": 2746,
+      "line_end": 2814,
+      "text": "Gharv Unkle's List: * Procure one new, unused notebook. * Outline the \"Reunion\" chapter. * Practice reading the first page of this story out loud until the lump in my throat rings out like a bell. Crime Flower’s List: * Sharpen the \"get fucked\" petal. * Find something heavy and throwable. * Practice my intimidating glare in the rocket's reflection. * (Don't) write an apology letter for the cabin. ",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "catch22"
+      ],
+      "characters": [
+        "Gharv Unkle",
+        "Gharv",
+        "Crime Flower"
+      ]
+    },
+    "homework__ed_0": {
+      "id": "homework__ed_0",
+      "parent": "homework",
+      "type": "ed_note",
+      "text": "By… me? Or does Space Dad’s Chad Wife have a song called \n                 this too? —Ed.",
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "anti_oopedipus",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "home_phone": {
+      "id": "home_phone",
+      "title": "Home Phone",
+      "type": "section",
+      "line_start": 2815,
+      "line_end": 2881,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Mr. Fish-With-Legs",
+        "Hat Mang",
+        "Lyle"
+      ]
+    },
+    "home_phone__beat_0": {
+      "id": "home_phone__beat_0",
+      "parent": "home_phone",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 2815,
+      "line_end": 2819,
+      "text": "Home Phone Home Phone I realised I didn’t know the plan.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_phone__beat_1": {
+      "id": "home_phone__beat_1",
+      "parent": "home_phone",
+      "type": "beat",
+      "bpm": "150",
+      "line_start": 2821,
+      "line_end": 2881,
+      "text": "“Ghambo branch, do you hear me?” Hat Mang spoke into the receiver. “Loud and clear comrade!” came the soft squelchy voice. “We’re ready” Off in the distance a purple hued patch of planet burst out a plume of yellow dust. “They’ve saved their spores for us,” said Mr. Fish-With-Legs breathlessly. “We haven’t forgotten Space Dad standing up to CEN when they tried to take away lil’ Rarby,” came the vo",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Mr. Fish-With-Legs",
+        "Hat Mang"
+      ]
+    },
+    "homesick": {
+      "id": "homesick",
+      "title": "Homesick",
+      "type": "section",
+      "line_start": 2882,
+      "line_end": 2917,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": [
+        "Gharv",
+        "Mr. Fish-With-Legs",
+        "Hat Mang"
+      ]
+    },
+    "homesick__beat_0": {
+      "id": "homesick__beat_0",
+      "parent": "homesick",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 2882,
+      "line_end": 2887,
+      "text": "Homesick Homesick Hat Mang cut the thrusters; the fog pulsed thinner; Dock C’s shallow breath. The rocket touched down on Stream. Not with thunder, but a soft plink.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": [
+        "Hat Mang"
+      ]
+    },
+    "homesick__beat_1": {
+      "id": "homesick__beat_1",
+      "parent": "homesick",
+      "type": "beat",
+      "bpm": "150",
+      "line_start": 2889,
+      "line_end": 2917,
+      "text": "“Should have never named it.” Said Mr. Fish-With-Legs, staring down the pockmarked surface of the prison moon. My fur tingled unpleasantly. The views of Main were almost beautiful here; scarred by flashing lights. My hatred for the CEN, laid out in metaphor. [THE CENTRE FOR EARTHLING NEUTRALITY: One Galaxy, One Voice. Harmony Through Homogeneity] ‘A monument against monuments’ I thought bitterly, ",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": [
+        "Mr. Fish-With-Legs"
+      ]
+    },
+    "homesick__intercept_0": {
+      "id": "homesick__intercept_0",
+      "parent": "homesick",
+      "type": "intercept",
+      "subtype": "THE CENTRE",
+      "line_start": 2897,
+      "text": "[THE CENTRE FOR EARTHLING NEUTRALITY: One Galaxy, One Voice. Harmony Through Homogeneity]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "homesick__intercept_1": {
+      "id": "homesick__intercept_1",
+      "parent": "homesick",
+      "type": "intercept",
+      "subtype": "THE HALLWAY",
+      "line_start": 2905,
+      "text": "[THE HALLWAY OF HUMANNESS: “To Protect The Cosmos From Earth, We Must First Understand Earth. Or Die Trying”]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "home_is_where_the_heart_is": {
+      "id": "home_is_where_the_heart_is",
+      "title": "Home Is Where The Heart Is",
+      "type": "section",
+      "line_start": 2918,
+      "line_end": 3321,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi",
+        "catch22"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv",
+        "Crime Flower",
+        "Mr. Fish-With-Legs",
+        "The Dicken"
+      ]
+    },
+    "home_is_where_the_heart_is__beat_0": {
+      "id": "home_is_where_the_heart_is__beat_0",
+      "parent": "home_is_where_the_heart_is",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 2918,
+      "line_end": 2926,
+      "text": "Home Is Where The Heart Is Home Is Where The Heart Is We looked, and we passed Through the Hallway of shatterproof glass —Guided by Voices",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_is_where_the_heart_is__beat_1": {
+      "id": "home_is_where_the_heart_is__beat_1",
+      "parent": "home_is_where_the_heart_is",
+      "type": "beat",
+      "bpm": "155",
+      "line_start": 2928,
+      "line_end": 3321,
+      "text": "A small increase can equate to impossible intensity The hallway didn’t house paintings or data. It housed lives. As I walked, I heard the first crackle of behind me. The air grew t h i c k, tasting of old smoke and new smoke. The sterile hum of the corridor was replaced by the sound of a rattling car engine. My feet were still moving forward down the hallway, but my head... my head was somewhere e",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_stretch": {
+      "id": "home_stretch",
+      "title": "Home Stretch",
+      "type": "section",
+      "line_start": 3322,
+      "line_end": 3407,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Mr. Fish-With-Legs",
+        "Hat Mang",
+        "The Dicken"
+      ]
+    },
+    "home_stretch__beat_0": {
+      "id": "home_stretch__beat_0",
+      "parent": "home_stretch",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3322,
+      "line_end": 3326,
+      "text": "Home Stretch Home Stretch The lake fell away, and for a moment, all I heard were bells. The cold, fluorescent hallway slammed back into view. The air didn't feel sterile anymore; it hummed with a familiar energy. The memory of Hope Street and the people within wasn't fading. It was settling inside me, a second skeleton made of nostalgia for cheap cigarettes.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "home_stretch__beat_1": {
+      "id": "home_stretch__beat_1",
+      "parent": "home_stretch",
+      "type": "beat",
+      "bpm": "190",
+      "line_start": 3328,
+      "line_end": 3407,
+      "text": "Intensity can carry Hope. I had reached the end, and my hand was on the door. All of our hands were. We weren't just aliens anymore. We were Hope Streeters. We pushed. The hallway had made a mistake. It showed me a human life, thinking it would break me. But all it did was remind me of what Space Dad's music was all about: finding love in the mess. So we made it. Still, Princess Tomato-Dicks was s",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "we_are_home": {
+      "id": "we_are_home",
+      "title": "We Are Home",
+      "type": "section",
+      "line_start": 3408,
+      "line_end": 3527,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Karl Leisky"
+      ]
+    },
+    "we_are_home__beat_0": {
+      "id": "we_are_home__beat_0",
+      "parent": "we_are_home",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3408,
+      "line_end": 3409,
+      "text": "We Are Home We Are Home",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "we_are_home__beat_1": {
+      "id": "we_are_home__beat_1",
+      "parent": "we_are_home",
+      "type": "beat",
+      "bpm": "beatless",
+      "line_start": 3411,
+      "line_end": 3527,
+      "text": "My hand went for the disc first. It was warm, humming with a faint, residual energy. I lifted it into the light, expecting... something. I don't know what. A title. A tracklist etched in moss. Something. But it was blank. A uniform, shimmering, greenish surface with nothing on it. The universal symbol of a blank disc. The ‘Final Mix’—an empty vessel. The warmth felt like a cruel joke. The World's ",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "we_are_home__intercept_0": {
+      "id": "we_are_home__intercept_0",
+      "parent": "we_are_home",
+      "type": "intercept",
+      "subtype": "TRANSMISSION",
+      "line_start": 3437,
+      "text": "[Transmission]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "facts": {
+      "id": "facts",
+      "title": "Facts",
+      "type": "section",
+      "line_start": 3528,
+      "line_end": 3665,
+      "parent": "chapter_one",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv Unkle",
+        "Gharv",
+        "Lyle",
+        "Eahrl"
+      ]
+    },
+    "facts__beat_0": {
+      "id": "facts__beat_0",
+      "parent": "facts",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3528,
+      "line_end": 3665,
+      "text": "Facts Facts ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ________________ ______________",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "facts__intercept_0": {
+      "id": "facts__intercept_0",
+      "parent": "facts",
+      "type": "intercept",
+      "subtype": "MAIL",
+      "line_start": 3665,
+      "text": "[MAIL: Denied by CEN— do not relay Earth-origin content]",
+      "concepts": [
+        "frog_in_pot",
+        "catch22",
+        "determinism"
+      ],
+      "characters": []
+    },
+    "chapter_two": {
+      "id": "chapter_two",
+      "title": "Chapter Two",
+      "type": "chapter",
+      "line_start": 3666,
+      "line_end": 3685,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "catch22",
+        "content_vs_creative"
+      ],
+      "characters": []
+    },
+    "chapter_two__beat_0": {
+      "id": "chapter_two__beat_0",
+      "parent": "chapter_two",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3666,
+      "line_end": 3685,
+      "text": "Chapter Two Chapter Two I don’t know how you got this text, I don’t fully understand how I got it either. However you came by it, you started your journey the second it was in your possession. From that moment, everything that followed was a seed. Each fact is planted with purpose, however strange the soil in which it grows. Do not mistake a curious flower for a weed. Listen for the echoes; they a",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "epilogue": {
+      "id": "epilogue",
+      "title": "Epilogue",
+      "type": "karl_frame",
+      "line_start": 3686,
+      "line_end": 3700,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "content_vs_creative",
+        "shitting_machine"
+      ],
+      "characters": []
+    },
+    "epilogue__beat_0": {
+      "id": "epilogue__beat_0",
+      "parent": "epilogue",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3686,
+      "line_end": 3700,
+      "text": "Epilogue Epilogue At 7:00 (just now) I found a cup of coffee ready to be microwaved to the perfect temperature. The microwave currently reads 3:40. That is too long for a cup of coffee - I resolve to take it out after 30 seconds or so. At 7:03 I found a nuclear cup of coffee. I put three ice cubes in. It is 7:37 I find a luke-warm cup of coffee and drink it. I wish I had milk. I re-read the note.",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "back_cover": {
+      "id": "back_cover",
+      "title": "Back Cover",
+      "type": "back_matter",
+      "line_start": 3701,
+      "line_end": 3741,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad"
+      ]
+    },
+    "tab_31": {
+      "id": "tab_31",
+      "title": "Tab 31",
+      "type": "apparatus",
+      "line_start": 3742,
+      "line_end": 3753,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "the_law"
+      ],
+      "characters": []
+    },
+    "tab_31__beat_0": {
+      "id": "tab_31__beat_0",
+      "parent": "tab_31",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3742,
+      "line_end": 3753,
+      "text": "Tab 31 A Sacred Item A Thing That Fwops A Thing That Defines An Act Of Genius A Flat Thing A Gift A Clue A Mystery A Lifestyle",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "18": {
+      "id": "18",
+      "title": "18",
+      "type": "section",
+      "line_start": 3754,
+      "line_end": 3755,
+      "parent": "chapter_two",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "18__beat_0": {
+      "id": "18__beat_0",
+      "parent": "18",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3754,
+      "line_end": 3755,
+      "text": "18 18",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "59": {
+      "id": "59",
+      "title": "59",
+      "type": "section",
+      "line_start": 3756,
+      "line_end": 3765,
+      "parent": "chapter_two",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "59__beat_0": {
+      "id": "59__beat_0",
+      "parent": "59",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3756,
+      "line_end": 3765,
+      "text": "59 59 77 87 96 124 127 133",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "tab_32": {
+      "id": "tab_32",
+      "title": "Tab 32",
+      "type": "apparatus",
+      "line_start": 3766,
+      "line_end": 3769,
+      "parent": null,
+      "concepts": [
+        "frog_in_pot",
+        "the_law"
+      ],
+      "characters": []
+    },
+    "tab_32__beat_0": {
+      "id": "tab_32__beat_0",
+      "parent": "tab_32",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3766,
+      "line_end": 3769,
+      "text": "Tab 32 ________________",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "footnote_1": {
+      "id": "footnote_1",
+      "title": "footnote_1",
+      "type": "section",
+      "line_start": 3770,
+      "line_end": 3776,
+      "parent": "tab_32",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "footnote_1__beat_0": {
+      "id": "footnote_1__beat_0",
+      "parent": "footnote_1",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3770,
+      "line_end": 3776,
+      "text": "[1] The best coffee is Special Blend granulated ($2.30 from your supermarket). The tendency is to make it too strong but a lightly-heaped teaspoon is plenty; any more takes away from the special blend experience. This is the dosage at which Special Blend shines. In terms of flavour topology, most coffee is a wide semi-circle shape: the flavour hits about five millimeters down the tongue then sprea",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "footnote_2": {
+      "id": "footnote_2",
+      "title": "footnote_2",
+      "type": "section",
+      "line_start": 3777,
+      "line_end": 3792,
+      "parent": "tab_32",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "footnote_2__beat_0": {
+      "id": "footnote_2__beat_0",
+      "parent": "footnote_2",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3777,
+      "line_end": 3792,
+      "text": "[2] I didn’t laugh at all. I know what this is like. It started with meditation. I started at one minute a day. It was all I could manage, and it felt excruciating. However, for some unknown reason, I kept returning to it, day after day. Maybe for the same reason, I vacuumed my room daily—I just wanted to do something that felt like a good thing to do. The next four months were bliss. I was energe",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "footnote_3": {
+      "id": "footnote_3",
+      "title": "footnote_3",
+      "type": "section",
+      "line_start": 3793,
+      "line_end": 3856,
+      "parent": "tab_32",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine",
+        "ira_kotahi"
+      ],
+      "characters": [
+        "Space Dad",
+        "Gharv Unkle",
+        "Gharv",
+        "Lyle"
+      ]
+    },
+    "footnote_3__beat_0": {
+      "id": "footnote_3__beat_0",
+      "parent": "footnote_3",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3793,
+      "line_end": 3856,
+      "text": "[3] There was always a hum. Before I learned of the different types of distortion, before I even knew what LFO stood for. A kick drum at 230 BPM in my pulse. The memory of a red hat I’d never worn. No one knew what to make of my music. Neither did I. I was trying to communicate with a past that never existed, to create a future where it could. I just knew that sometimes, when on stage, I would hea",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    },
+    "footnote_4": {
+      "id": "footnote_4",
+      "title": "footnote_4",
+      "type": "section",
+      "line_start": 3857,
+      "line_end": 3872,
+      "parent": "tab_32",
+      "concepts": [
+        "frog_in_pot",
+        "flow_state",
+        "desiring_machine"
+      ],
+      "characters": []
+    },
+    "footnote_4__beat_0": {
+      "id": "footnote_4__beat_0",
+      "parent": "footnote_4",
+      "type": "beat",
+      "bpm": null,
+      "line_start": 3857,
+      "line_end": 3872,
+      "text": "[4] You’re Mom [sic] is right. This book is not a mirror. It is a game. A game is a tool for understandings. Sometimes the meaning is ‘have fun.’ The meaning is always to have fun. The answers are there for those who crave more. If you want a puzzle, here are some rules: Don’t let reflections fool you. The rules of the Hot Friends are different from the rules of this universe. Construction is inte",
+      "concepts": [
+        "frog_in_pot",
+        "positioning",
+        "enemy_wave"
+      ],
+      "characters": []
+    }
+  },
+  "by_type": {
+    "front_matter": [
+      "dedication",
+      "epigraph",
+      "acknowledgements"
+    ],
+    "karl_frame": [
+      "introduction",
+      "epilogue"
+    ],
+    "beat": [
+      "introduction__beat_0",
+      "chapter_one__beat_0",
+      "first_home__beat_0",
+      "first_home__beat_1",
+      "homecoming__beat_0",
+      "homecoming__beat_1",
+      "come_home__beat_0",
+      "come_home__beat_1",
+      "home_time__beat_0",
+      "home_time__beat_1",
+      "home_room__beat_0",
+      "home_room__beat_1",
+      "home_life__beat_0",
+      "home_life__beat_1",
+      "home_arrest__beat_0",
+      "home_arrest__beat_1",
+      "broken_home__beat_0",
+      "broken_home__beat_1",
+      "homework__beat_0",
+      "homework__beat_1",
+      "home_phone__beat_0",
+      "home_phone__beat_1",
+      "homesick__beat_0",
+      "homesick__beat_1",
+      "home_is_where_the_heart_is__beat_0",
+      "home_is_where_the_heart_is__beat_1",
+      "home_stretch__beat_0",
+      "home_stretch__beat_1",
+      "we_are_home__beat_0",
+      "we_are_home__beat_1",
+      "facts__beat_0",
+      "chapter_two__beat_0",
+      "epilogue__beat_0",
+      "tab_31__beat_0",
+      "18__beat_0",
+      "59__beat_0",
+      "tab_32__beat_0",
+      "footnote_1__beat_0",
+      "footnote_2__beat_0",
+      "footnote_3__beat_0",
+      "footnote_4__beat_0"
+    ],
+    "chapter": [
+      "chapter_one",
+      "chapter_two"
+    ],
+    "diegetic_frame": [
+      "diagetic_title",
+      "diegetic_epigraph",
+      "diegetic_dedication"
+    ],
+    "ed_note": [
+      "diegetic_dedication__ed_0",
+      "diegetic_dedication__ed_1",
+      "first_home__ed_0",
+      "first_home__ed_1",
+      "first_home__ed_2",
+      "first_home__ed_3",
+      "first_home__ed_4",
+      "home_life__ed_0",
+      "home_arrest__ed_0",
+      "homework__ed_0"
+    ],
+    "section": [
+      "first_home",
+      "homecoming",
+      "come_home",
+      "home_time",
+      "home_room",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "homework",
+      "home_phone",
+      "homesick",
+      "home_is_where_the_heart_is",
+      "home_stretch",
+      "we_are_home",
+      "facts",
+      "18",
+      "59",
+      "footnote_1",
+      "footnote_2",
+      "footnote_3",
+      "footnote_4"
+    ],
+    "intercept": [
+      "home_time__intercept_0",
+      "home_life__intercept_0",
+      "broken_home__intercept_0",
+      "broken_home__intercept_1",
+      "homesick__intercept_0",
+      "homesick__intercept_1",
+      "we_are_home__intercept_0",
+      "facts__intercept_0"
+    ],
+    "back_matter": [
+      "back_cover"
+    ],
+    "apparatus": [
+      "tab_31",
+      "tab_32"
+    ]
+  },
+  "by_bpm": {
+    "125": [
+      "first_home__beat_1"
+    ],
+    "130": [
+      "homecoming__beat_1"
+    ],
+    "140": [
+      "come_home__beat_1"
+    ],
+    "169": [
+      "home_time__beat_1"
+    ],
+    "165": [
+      "home_room__beat_1"
+    ],
+    "I don’t know. It feels calm, but the pulse is rising": [
+      "home_life__beat_1"
+    ],
+    "230": [
+      "home_arrest__beat_1"
+    ],
+    "115": [
+      "broken_home__beat_1"
+    ],
+    "126": [
+      "homework__beat_1"
+    ],
+    "150": [
+      "home_phone__beat_1",
+      "homesick__beat_1"
+    ],
+    "155": [
+      "home_is_where_the_heart_is__beat_1"
+    ],
+    "190": [
+      "home_stretch__beat_1"
+    ],
+    "beatless": [
+      "we_are_home__beat_1"
+    ]
+  },
+  "by_concept": {
+    "frog_in_pot": [
+      "dedication",
+      "epigraph",
+      "acknowledgements",
+      "introduction",
+      "introduction__beat_0",
+      "chapter_one",
+      "chapter_one__beat_0",
+      "diagetic_title",
+      "diegetic_epigraph",
+      "diegetic_dedication",
+      "diegetic_dedication__ed_0",
+      "diegetic_dedication__ed_1",
+      "first_home",
+      "first_home__beat_0",
+      "first_home__beat_1",
+      "first_home__ed_0",
+      "first_home__ed_1",
+      "first_home__ed_2",
+      "first_home__ed_3",
+      "first_home__ed_4",
+      "homecoming",
+      "homecoming__beat_0",
+      "homecoming__beat_1",
+      "come_home",
+      "come_home__beat_0",
+      "come_home__beat_1",
+      "home_time",
+      "home_time__beat_0",
+      "home_time__beat_1",
+      "home_time__intercept_0",
+      "home_room",
+      "home_room__beat_0",
+      "home_room__beat_1",
+      "home_life",
+      "home_life__beat_0",
+      "home_life__beat_1",
+      "home_life__ed_0",
+      "home_life__intercept_0",
+      "home_arrest",
+      "home_arrest__beat_0",
+      "home_arrest__beat_1",
+      "home_arrest__ed_0",
+      "broken_home",
+      "broken_home__beat_0",
+      "broken_home__beat_1",
+      "broken_home__intercept_0",
+      "broken_home__intercept_1",
+      "homework",
+      "homework__beat_0",
+      "homework__beat_1",
+      "homework__ed_0",
+      "home_phone",
+      "home_phone__beat_0",
+      "home_phone__beat_1",
+      "homesick",
+      "homesick__beat_0",
+      "homesick__beat_1",
+      "homesick__intercept_0",
+      "homesick__intercept_1",
+      "home_is_where_the_heart_is",
+      "home_is_where_the_heart_is__beat_0",
+      "home_is_where_the_heart_is__beat_1",
+      "home_stretch",
+      "home_stretch__beat_0",
+      "home_stretch__beat_1",
+      "we_are_home",
+      "we_are_home__beat_0",
+      "we_are_home__beat_1",
+      "we_are_home__intercept_0",
+      "facts",
+      "facts__beat_0",
+      "facts__intercept_0",
+      "chapter_two",
+      "chapter_two__beat_0",
+      "epilogue",
+      "epilogue__beat_0",
+      "back_cover",
+      "tab_31",
+      "tab_31__beat_0",
+      "18",
+      "18__beat_0",
+      "59",
+      "59__beat_0",
+      "tab_32",
+      "tab_32__beat_0",
+      "footnote_1",
+      "footnote_1__beat_0",
+      "footnote_2",
+      "footnote_2__beat_0",
+      "footnote_3",
+      "footnote_3__beat_0",
+      "footnote_4",
+      "footnote_4__beat_0"
+    ],
+    "ira_kotahi": [
+      "dedication",
+      "diagetic_title",
+      "first_home",
+      "homecoming",
+      "come_home",
+      "come_home__beat_1",
+      "home_time",
+      "home_time__beat_1",
+      "home_room",
+      "home_room__beat_1",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "broken_home__beat_1",
+      "homework",
+      "homework__ed_0",
+      "home_phone",
+      "home_phone__beat_1",
+      "home_is_where_the_heart_is",
+      "home_stretch",
+      "home_stretch__beat_1",
+      "we_are_home",
+      "facts",
+      "back_cover",
+      "footnote_3"
+    ],
+    "content_vs_creative": [
+      "introduction",
+      "chapter_one",
+      "diegetic_dedication__ed_0",
+      "diegetic_dedication__ed_1",
+      "first_home__ed_0",
+      "first_home__ed_1",
+      "first_home__ed_2",
+      "first_home__ed_3",
+      "first_home__ed_4",
+      "home_life__ed_0",
+      "home_arrest__ed_0",
+      "homework__ed_0",
+      "chapter_two",
+      "epilogue"
+    ],
+    "shitting_machine": [
+      "introduction",
+      "epilogue"
+    ],
+    "positioning": [
+      "introduction__beat_0",
+      "chapter_one__beat_0",
+      "first_home__beat_0",
+      "first_home__beat_1",
+      "homecoming__beat_0",
+      "homecoming__beat_1",
+      "come_home__beat_0",
+      "come_home__beat_1",
+      "home_time__beat_0",
+      "home_time__beat_1",
+      "home_room__beat_0",
+      "home_room__beat_1",
+      "home_life__beat_0",
+      "home_life__beat_1",
+      "home_arrest__beat_0",
+      "home_arrest__beat_1",
+      "broken_home__beat_0",
+      "broken_home__beat_1",
+      "homework__beat_0",
+      "homework__beat_1",
+      "home_phone__beat_0",
+      "home_phone__beat_1",
+      "homesick__beat_0",
+      "homesick__beat_1",
+      "home_is_where_the_heart_is__beat_0",
+      "home_is_where_the_heart_is__beat_1",
+      "home_stretch__beat_0",
+      "home_stretch__beat_1",
+      "we_are_home__beat_0",
+      "we_are_home__beat_1",
+      "facts__beat_0",
+      "chapter_two__beat_0",
+      "epilogue__beat_0",
+      "tab_31__beat_0",
+      "18__beat_0",
+      "59__beat_0",
+      "tab_32__beat_0",
+      "footnote_1__beat_0",
+      "footnote_2__beat_0",
+      "footnote_3__beat_0",
+      "footnote_4__beat_0"
+    ],
+    "enemy_wave": [
+      "introduction__beat_0",
+      "chapter_one__beat_0",
+      "first_home__beat_0",
+      "first_home__beat_1",
+      "homecoming__beat_0",
+      "homecoming__beat_1",
+      "come_home__beat_0",
+      "come_home__beat_1",
+      "home_time__beat_0",
+      "home_time__beat_1",
+      "home_room__beat_0",
+      "home_room__beat_1",
+      "home_life__beat_0",
+      "home_life__beat_1",
+      "home_arrest__beat_0",
+      "home_arrest__beat_1",
+      "broken_home__beat_0",
+      "broken_home__beat_1",
+      "homework__beat_0",
+      "homework__beat_1",
+      "home_phone__beat_0",
+      "home_phone__beat_1",
+      "homesick__beat_0",
+      "homesick__beat_1",
+      "home_is_where_the_heart_is__beat_0",
+      "home_is_where_the_heart_is__beat_1",
+      "home_stretch__beat_0",
+      "home_stretch__beat_1",
+      "we_are_home__beat_0",
+      "we_are_home__beat_1",
+      "facts__beat_0",
+      "chapter_two__beat_0",
+      "epilogue__beat_0",
+      "tab_31__beat_0",
+      "18__beat_0",
+      "59__beat_0",
+      "tab_32__beat_0",
+      "footnote_1__beat_0",
+      "footnote_2__beat_0",
+      "footnote_3__beat_0",
+      "footnote_4__beat_0"
+    ],
+    "flow_state": [
+      "chapter_one",
+      "first_home",
+      "homecoming",
+      "come_home",
+      "home_time",
+      "home_room",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "homework",
+      "home_phone",
+      "homesick",
+      "home_is_where_the_heart_is",
+      "home_stretch",
+      "we_are_home",
+      "facts",
+      "chapter_two",
+      "18",
+      "59",
+      "footnote_1",
+      "footnote_2",
+      "footnote_3",
+      "footnote_4"
+    ],
+    "catch22": [
+      "chapter_one",
+      "home_time__intercept_0",
+      "home_room",
+      "home_life",
+      "home_life__intercept_0",
+      "home_arrest",
+      "broken_home",
+      "broken_home__intercept_0",
+      "broken_home__intercept_1",
+      "homework",
+      "homework__beat_1",
+      "homesick__intercept_0",
+      "homesick__intercept_1",
+      "home_is_where_the_heart_is",
+      "we_are_home__intercept_0",
+      "facts__intercept_0",
+      "chapter_two"
+    ],
+    "desiring_machine": [
+      "diagetic_title",
+      "diegetic_epigraph",
+      "diegetic_dedication",
+      "first_home",
+      "homecoming",
+      "come_home",
+      "home_time",
+      "home_room",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "homework",
+      "home_phone",
+      "homesick",
+      "home_is_where_the_heart_is",
+      "home_stretch",
+      "we_are_home",
+      "facts",
+      "18",
+      "59",
+      "footnote_1",
+      "footnote_2",
+      "footnote_3",
+      "footnote_4"
+    ],
+    "anti_oopedipus": [
+      "diegetic_dedication__ed_0",
+      "diegetic_dedication__ed_1",
+      "first_home__ed_0",
+      "first_home__ed_1",
+      "first_home__ed_2",
+      "first_home__ed_3",
+      "first_home__ed_4",
+      "home_life__ed_0",
+      "home_arrest__ed_0",
+      "homework__ed_0"
+    ],
+    "determinism": [
+      "home_time__intercept_0",
+      "home_life__intercept_0",
+      "broken_home__intercept_0",
+      "broken_home__intercept_1",
+      "homesick__intercept_0",
+      "homesick__intercept_1",
+      "we_are_home__intercept_0",
+      "facts__intercept_0"
+    ],
+    "the_law": [
+      "tab_31",
+      "tab_32"
+    ]
+  },
+  "by_character": {
+    "Space Dad": [
+      "dedication",
+      "diagetic_title",
+      "first_home",
+      "homecoming",
+      "come_home",
+      "come_home__beat_1",
+      "home_time",
+      "home_time__beat_1",
+      "home_room",
+      "home_room__beat_1",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "broken_home__beat_1",
+      "homework",
+      "homework__ed_0",
+      "home_phone",
+      "home_phone__beat_1",
+      "home_is_where_the_heart_is",
+      "home_stretch",
+      "home_stretch__beat_1",
+      "we_are_home",
+      "facts",
+      "back_cover",
+      "footnote_3"
+    ],
+    "Karl Leisky": [
+      "introduction",
+      "introduction__beat_0",
+      "diagetic_title",
+      "we_are_home"
+    ],
+    "Gharv Unkle": [
+      "diagetic_title",
+      "first_home",
+      "homework",
+      "homework__beat_1",
+      "facts",
+      "footnote_3"
+    ],
+    "Gharv": [
+      "diagetic_title",
+      "first_home",
+      "homecoming",
+      "come_home",
+      "home_time",
+      "home_room",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "homework",
+      "homework__beat_1",
+      "home_phone",
+      "homesick",
+      "home_is_where_the_heart_is",
+      "facts",
+      "footnote_3"
+    ],
+    "Lyle": [
+      "diegetic_dedication",
+      "homecoming",
+      "come_home",
+      "home_time",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "home_phone",
+      "facts",
+      "footnote_3"
+    ],
+    "Hat Mang": [
+      "first_home",
+      "home_time",
+      "home_room",
+      "broken_home",
+      "homework",
+      "homework__beat_0",
+      "home_phone",
+      "home_phone__beat_1",
+      "homesick",
+      "homesick__beat_0",
+      "home_stretch"
+    ],
+    "The Dicken": [
+      "first_home",
+      "home_room",
+      "home_arrest",
+      "broken_home",
+      "broken_home__beat_1",
+      "homework",
+      "home_is_where_the_heart_is",
+      "home_stretch"
+    ],
+    "Eahrl": [
+      "first_home",
+      "come_home",
+      "facts"
+    ],
+    "Crime Flower": [
+      "home_room",
+      "home_life",
+      "home_arrest",
+      "broken_home",
+      "homework",
+      "homework__beat_1",
+      "home_is_where_the_heart_is"
+    ],
+    "Mr. Fish-With-Legs": [
+      "home_room",
+      "home_room__beat_1",
+      "home_life",
+      "home_arrest",
+      "home_arrest__beat_1",
+      "broken_home",
+      "homework",
+      "home_phone",
+      "home_phone__beat_1",
+      "homesick",
+      "homesick__beat_1",
+      "home_is_where_the_heart_is",
+      "home_stretch"
+    ]
+  }
+}
