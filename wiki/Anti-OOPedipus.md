@@ -98,3 +98,55 @@ But the law generates complexity through **relationship and flow**, not through 
 - Upstream: [Whakapapa](Whakapapa), Deleuze & Guattari *Anti-Oedipus* (1972)
 - Downstream: [Machines](Machines), [DOD](DOD), [The Law](The-Law)
 - Code manifestation: [Te Reo and Code](Te-Reo-and-Code)
+
+<!-- BEGIN RECURSIVE_WEAVE -->
+## Recursive Hub Weave
+
+### Direct Connections
+- [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- [Machines](Machines.md)
+- [DOD](DOD.md)
+- [The Law](The-Law.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+
+### Inbound Connections
+- [Content vs Creative](Content-vs-Creative.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [Flow State](Flow-State.md)
+- [Frog In A Pot](Frog-In-A-Pot.md)
+- [KELLS — Basic Units of Logic](Home.md)
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Machines](Machines.md)
+- [Oedipal Machine](Oedipal-Machine.md)
+
+### Lateral Bridges
+#### [Machines](Machines.md)
+- Connection strength: 8
+- Shared motifs: machine, machines, whakapapa
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 8
+- Shared motifs: anti, machine, oopedipus, shitting, whakapapa
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 7
+- Shared motifs: anti, machine, oopedipus, shitting
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 7
+- Shared motifs: anti, machine, oedipal, oopedipus
+#### [Rhizome](Rhizome.md)
+- Connection strength: 7
+- Shared motifs: anti, machine, oopedipus, whakapapa
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 7
+- Shared motifs: anti, machine, oopedipus, shitting
+#### [Te Reo and Code](Te-Reo-and-Code.md)
+- Connection strength: 7
+- Shared motifs: code, whakapapa
+#### [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- Connection strength: 7
+- Shared motifs: code, whakapapa
+
+### Recursive Prompt
+- In each section above, add at least one sentence that names one direct and one lateral page together.
+- Convert plain mentions of those pages into markdown links for tighter recursion.
+<!-- END RECURSIVE_WEAVE -->
+

@@ -82,3 +82,51 @@ In Markdown: headings = title voice, blockquotes = body, `inline code` = gloss, 
 ---
 
 *Palette: `#fff9ed` parchment · `#00a797` teal · `#000000` black · `#666666` ghost*
+
+<!-- BEGIN RECURSIVE_WEAVE -->
+## Recursive Hub Weave
+
+### Direct Connections
+- [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- [Anti-OOPedipus](Anti-OOPedipus.md)
+- [Machines](Machines.md)
+- [The Law](The-Law.md)
+- [DOD](DOD.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Shmup Genealogy](Shmup-Genealogy.md)
+- [Design Rules](Design-Rules.md)
+
+### Inbound Connections
+- No inbound links detected yet.
+
+### Lateral Bridges
+#### [Design Rules](Design-Rules.md)
+- Connection strength: 3
+- Shared motifs: law
+#### [Shmup Genealogy](Shmup-Genealogy.md)
+- Connection strength: 3
+- Shared motifs: law
+#### [The Law](The-Law.md)
+- Connection strength: 3
+- Shared motifs: law
+#### [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- Connection strength: 3
+- Shared motifs: wiki
+#### [Anti-OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 2
+- Shared motifs: link-graph affinity
+#### [DOD](DOD.md)
+- Connection strength: 2
+- Shared motifs: link-graph affinity
+#### [Machines](Machines.md)
+- Connection strength: 2
+- Shared motifs: link-graph affinity
+#### [Scripts](Scripts.md)
+- Connection strength: 2
+- Shared motifs: link-graph affinity
+
+### Recursive Prompt
+- In each section above, add at least one sentence that names one direct and one lateral page together.
+- Convert plain mentions of those pages into markdown links for tighter recursion.
+<!-- END RECURSIVE_WEAVE -->
+

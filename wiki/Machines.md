@@ -126,3 +126,51 @@ The desiring-machine doesn't care about category. The bullet machine connects or
 - Upstream: [Anti-OOPedipus](Anti-OOPedipus), [Whakapapa](Whakapapa)
 - Downstream: [DOD](DOD), [Te Reo and Code](Te-Reo-and-Code), [Design Rules](Design-Rules)
 - The Law applied: [The Law](The-Law)
+
+<!-- BEGIN RECURSIVE_WEAVE -->
+## Recursive Hub Weave
+
+### Direct Connections
+- [Anti-OOPedipus](Anti-OOPedipus.md)
+- [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- [DOD](DOD.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Design Rules](Design-Rules.md)
+- [The Law](The-Law.md)
+
+### Inbound Connections
+- [Anti-OOPedipus](Anti-OOPedipus.md)
+- [KELLS — Basic Units of Logic](Home.md)
+- [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+
+### Lateral Bridges
+#### [Anti-OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 8
+- Shared motifs: machine, machines, whakapapa
+#### [DOD](DOD.md)
+- Connection strength: 7
+- Shared motifs: pumotu, set, whakapapa, whariki, zero
+#### [Te Reo and Code](Te-Reo-and-Code.md)
+- Connection strength: 7
+- Shared motifs: pumotu, set, whakapapa, whariki, zero
+#### [Whakapapa — Genealogy of Ideas](Whakapapa.md)
+- Connection strength: 6
+- Shared motifs: whakapapa
+#### [Rhizome](Rhizome.md)
+- Connection strength: 5
+- Shared motifs: desiring, machine, pumotu, whakapapa, whariki
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 5
+- Shared motifs: pumotu, set, whakapapa, whariki, zero
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 4
+- Shared motifs: desiring, machine, state, whakapapa
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 4
+- Shared motifs: pumotu, set, whariki, zero
+
+### Recursive Prompt
+- In each section above, add at least one sentence that names one direct and one lateral page together.
+- Convert plain mentions of those pages into markdown links for tighter recursion.
+<!-- END RECURSIVE_WEAVE -->
+

@@ -94,3 +94,57 @@ This wiki is itself a whakapapa machine. Each page links backward to its concept
 | `tokotoko` | staff / tool | Scaffolding that enables but should not dominate |
 | `Āe` | Yes (affirmative, embracing) | The word before "there are shit machines" |
 | `kaitiakitanga` | guardianship, stewardship | How we treat the source material here |
+
+<!-- BEGIN RECURSIVE_WEAVE -->
+## Recursive Hub Weave
+
+### Direct Connections
+- [Anti-OOPedipus](Anti-OOPedipus.md)
+- [DOD](DOD.md)
+- [Machines](Machines.md)
+- [Shmup Genealogy](Shmup-Genealogy.md)
+- [Design Rules](Design-Rules.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Scripts](Scripts.md)
+
+### Inbound Connections
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- [Anti-OOPedipus](Anti-OOPedipus.md)
+- [Design Rules](Design-Rules.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [DOD](DOD.md)
+- [Genealogy of j](Genealogy-of-j.md)
+- [KELLS — Basic Units of Logic](Home.md)
+- [Indigenous Proposal](Indigenous-Proposal.md)
+
+### Lateral Bridges
+#### [Design Rules](Design-Rules.md)
+- Connection strength: 8
+- Shared motifs: design, rules, whakapapa
+#### [Te Reo and Code](Te-Reo-and-Code.md)
+- Connection strength: 8
+- Shared motifs: code, reo, whakapapa
+#### [Anti-OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 7
+- Shared motifs: code, whakapapa
+#### [DOD](DOD.md)
+- Connection strength: 7
+- Shared motifs: design, whakapapa
+#### [Scripts](Scripts.md)
+- Connection strength: 7
+- Shared motifs: design, whakapapa
+#### [Genealogy of j](Genealogy-of-j.md)
+- Connection strength: 6
+- Shared motifs: design, genealogy, whakapapa
+#### [Machines](Machines.md)
+- Connection strength: 6
+- Shared motifs: whakapapa
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 5
+- Shared motifs: reo, whakapapa
+
+### Recursive Prompt
+- In each section above, add at least one sentence that names one direct and one lateral page together.
+- Convert plain mentions of those pages into markdown links for tighter recursion.
+<!-- END RECURSIVE_WEAVE -->
+
