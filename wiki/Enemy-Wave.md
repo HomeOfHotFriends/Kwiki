@@ -1,6 +1,6 @@
 # Enemy Wave
 
-> *The enemy wave as design unit. Spawn, position, destroy. Simplicity at the micro produces depth at the macro.*
+> *The enemy wave as the unit of design. Not the enemy — the wave. The encounter as the atom.*
 
 ---
 
@@ -44,6 +44,27 @@ manipulation to create gaps created disasterous results.
 
 ---
 
+## Determinism
+
+```
+response bepositioning games are designed to be essentially completely deterministic.
+```
+
+*— esprade_doc*
+
+```
+Even the use of randomisation is non-significant in run-to-run differentiation: since the
+arcade board has no OS, and has no hardware that allows the tracking of time, the
+psuedorandomness, at worst, could use player input as a seed.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
+
+---
+
 ## Simplicity of Parts
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
@@ -81,6 +102,20 @@ reactions.
 *Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
 
 ---
+
+## Whakapapa Connections
+
+| Concept | Tupuna |
+|---|---|
+| [Enemy Wave](enemy-wave) | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+
+---
+
+
+> *A wave is a question to the player. The rule is the answer.*
 
 
 ---

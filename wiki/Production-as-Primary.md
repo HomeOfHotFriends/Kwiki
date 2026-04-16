@@ -1,6 +1,6 @@
 # Production as Primary
 
-> *Production precedes the product. The machine produces before it knows what it's making. Anti-lack.*
+> *Production precedes everything. Not the product — the act of producing. The desiring-machine humming before the song exists.*
 
 ---
 
@@ -32,6 +32,24 @@ current low-energy state.
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
+
+---
+
+## Content vs Creative Product
+
+April, 2023 - MultiLingual, accessed April 2, 2026, https://multilingual.com/wp-
+content/uploads/2023/04/214_April.pdf 2.
+
+*— ai_singularity_te_reo*
+
+THE LECTIONARY TE MARAMATAKA Year A - 2026 - Anglican Church in Aotearoa, New Zealand and
+Polynesia, accessed April 2, 2026, https://anglican.org.nz/content/download/162021/813325/ve
+rsion/1/file/2026+Lectionary+Final.pdf 16.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
 
 ---
 
@@ -73,9 +91,14 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 | Concept | Tupuna |
 |---|---|
-| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Frog In A Pot](frog-in-pot) | [Esp Ra De](esprade), [Flow State](flow-state), [Content vs Creative Product](content-vs-creative) |
+| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
+
+
+> *Before the album there is only the machine producing the machine.*
 
 
 ---

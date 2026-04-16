@@ -1,6 +1,24 @@
 # The Marae
 
-> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. The generator as the marae ātea.*
+
+---
+
+## Mauri
+
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
+
+*— ai_singularity_te_reo*
+
+.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
+te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
+Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
+te rā
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
 
 ---
 
@@ -22,21 +40,23 @@ hangarau, ka pūruatia te mana o te kupu.
 
 ---
 
-## Mauri
+## Ira Kotahi
 
-Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
-
-*— ai_singularity_te_reo*
-
-.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
-te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
-Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
-te rā
+**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
+raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
 *— ai_singularity_te_reo*
 
+**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
+ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
+singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
-*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
 
 ---
 
@@ -92,7 +112,11 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 
 | Concept | Tupuna |
 |---|---|
-| [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
+| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Tokotoko](tokotoko) | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
+| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
 
 ---
 

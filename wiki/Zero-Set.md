@@ -1,6 +1,6 @@
 # Zero Set
 
-> *Zero_set: the empty base state all entities begin from. DOD's concept zero. pūwāhi_kau.*
+> *Zero-set as origin point. Pūwāhi kau. The enum that names nothing so that something can be named.*
 
 ---
 
@@ -72,24 +72,36 @@ foresmost, made up of simple parts.**
 
 ---
 
-## Determinism
+## Ira Kotahi
 
-```
-response bepositioning games are designed to be essentially completely deterministic.
-```
+**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
+raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
-*— esprade_doc*
+*— ai_singularity_te_reo*
 
-```
-Even the use of randomisation is non-significant in run-to-run differentiation: since the
-arcade board has no OS, and has no hardware that allows the tracking of time, the
-psuedorandomness, at worst, could use player input as a seed.
-```
+**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
+ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
+singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
-*— esprade_doc*
+*— ai_singularity_te_reo*
 
 
-*Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
+*Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
+
+---
+
+## Whakapapa Connections
+
+| Concept | Tupuna |
+|---|---|
+| [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Enemy Wave](enemy-wave) | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Tokotoko](tokotoko) | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
 
 ---
 

@@ -1,6 +1,6 @@
 # Catch 22
 
-> *Catch-22 as the structure of content capture. You can't leave the system that's consuming you.*
+> *The catch: making content to survive prevents making the thing that saves you. Yossarian. The frog.*
 
 ---
 
@@ -68,6 +68,18 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+---
+
+## Whakapapa Connections
+
+| Concept | Tupuna |
+|---|---|
+| [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
+| [Desiring-Machine](desiring-machine) | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
+| [Shitting Machine](shitting-machine) | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
+| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
 

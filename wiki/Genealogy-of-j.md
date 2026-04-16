@@ -1,6 +1,6 @@
 # Genealogy of j
 
-> *The genealogy of project j. What fed it. DonPachi, EspRaDe, DOD, the law, the album.*
+> *j is the game. Trace its whakapapa: DonPachi, EspRaDe, frog in a pot, the one law. Every mechanic has a tupuna.*
 
 ---
 
@@ -19,21 +19,6 @@
 
 ---
 
-## Frog In A Pot
-
-> *Sure, as soon as you finish an album you.*
-
-*— esprade_doc*
-
-> *Sure, as soon as you finish an album you can release it on band camp for a price, technically making it prepared for market, but that assumes that the primary purpose of uploading music (as an example) is to.*
-
-*— esprade_doc*
-
-
-*Whakapapa: [Esp Ra De](esprade) · [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Catch-22](catch22)*
-
----
-
 ## The Law
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
@@ -46,24 +31,59 @@ extreme simplicity of the parts.**
 
 ---
 
-## Data-Oriented Design
+## Whakapapa
+
+ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
+i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
+whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
+
+---
+
+## Determinism
 
 ```
-I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
-was on level one in combination with the tiny
+response bepositioning games are designed to be essentially completely deterministic.
 ```
 
 *— esprade_doc*
 
 ```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
+Even the use of randomisation is non-significant in run-to-run differentiation: since the
+arcade board has no OS, and has no hardware that allows the tracking of time, the
+psuedorandomness, at worst, could use player input as a seed.
 ```
 
 *— esprade_doc*
 
 
-*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
+*Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
+
+---
+
+## Simplicity of Parts
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+**The non bullet hell games in this design school have These games are all, first and
+foresmost, made up of simple parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
 
 ---
 
@@ -71,9 +91,17 @@ reactions.
 
 | Concept | Tupuna |
 |---|---|
-| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Enemy Wave](enemy-wave) | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Positioning](positioning) | [Esp Ra De](esprade), [Enemy Wave](enemy-wave), [Data-Oriented Design](dod) |
+| [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
+| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
+
+
+> *The genealogy is not a history. It is a living structure.*
 
 
 ---
