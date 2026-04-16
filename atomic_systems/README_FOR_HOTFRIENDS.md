@@ -1,3 +1,4 @@
+!
 # Fantasy Languages: The HotFriends Edition
 
 Welcome, HotFriends! This README is your personal, living index and guide to all fantasy languages and atomic systems as they develop in this project. Only you get this view.
