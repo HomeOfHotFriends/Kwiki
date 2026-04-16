@@ -110,34 +110,39 @@ https://www.academia.edu/33826311/Tokotoko 4.
 - [DOD](DOD.md)
 
 ### Inbound Connections
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - [Ira Kotahi](Ira-Kotahi.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- [Tokotoko](Tokotoko.md)
+- [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
 
 ### Lateral Bridges
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 27
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, design
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, design
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 25
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 33
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, code, connections, design
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 24
+#### [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- Connection strength: 32
+- Shared motifs: bridges, code, connections, design, direct
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Whakapapa](Whakapapa.md)
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, code, connections
 
 ### Recursive Prompt

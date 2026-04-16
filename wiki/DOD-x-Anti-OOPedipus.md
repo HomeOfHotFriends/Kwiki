@@ -134,39 +134,39 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Determinism](Determinism.md)
-- [DOD](DOD.md)
-- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 41
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 39
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 37
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 35
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 38
+- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 34
+- Connection strength: 36
 - Shared motifs: anti, bridges, code, connections, data
-#### [DOD](DOD.md)
-- Connection strength: 34
+#### [Te-Reo-and-Code × Shmup-Genealogy](Te-Reo-and-Code-x-Shmup-Genealogy.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 35
 - Shared motifs: anti, bridges, code, connections, data
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD](DOD.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

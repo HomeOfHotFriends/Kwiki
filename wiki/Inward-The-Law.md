@@ -43,10 +43,6 @@ reactions.
 
 *— esprade_doc*
 
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
-
-*— esprade_doc*
-
 
 *Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
 
@@ -55,13 +51,6 @@ reactions.
 ## Mauri
 
 Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
-
-*— ai_singularity_te_reo*
-
-.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
-te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
-Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
-te rā
 
 *— ai_singularity_te_reo*
 
@@ -74,11 +63,6 @@ te rā
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
 extreme simplicity of the parts.**
-
-*— esprade_doc*
-
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
 
 *— esprade_doc*
 

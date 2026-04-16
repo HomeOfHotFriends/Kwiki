@@ -118,37 +118,37 @@ te rā
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Catch 22](Catch-22.md)
 - [Design Rules](Design-Rules.md)
-- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- [Desiring Machine](Desiring-Machine.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [DOD](DOD.md)
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 32
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 31
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD](DOD.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 31
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 31
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

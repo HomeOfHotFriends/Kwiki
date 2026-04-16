@@ -52,6 +52,9 @@ python3 scripts/wiki_index.py --weave
 # Preview without writing anything
 python3 scripts/wiki_index.py --dry-run
 
+# Check for broken internal links
+python3 scripts/wiki_index.py --check-links
+
 # Generate a new content page from user_input.json
 python3 WaKa.py
 ```

@@ -39,11 +39,6 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 
 *— ai_singularity_te_reo*
 
-ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
-hangarau, ka pūruatia te mana o te kupu.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
@@ -57,14 +52,6 @@ response bepositioning games are designed to be essentially completely determini
 
 *— esprade_doc*
 
-```
-Even the use of randomisation is non-significant in run-to-run differentiation: since the
-arcade board has no OS, and has no hardware that allows the tracking of time, the
-psuedorandomness, at worst, could use player input as a seed.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
 
@@ -74,11 +61,6 @@ psuedorandomness, at worst, could use player input as a seed.
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
 extreme simplicity of the parts.**
-
-*— esprade_doc*
-
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
 
 *— esprade_doc*
 
@@ -96,7 +78,6 @@ foresmost, made up of simple parts.**
 | [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
 | [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
-| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
 

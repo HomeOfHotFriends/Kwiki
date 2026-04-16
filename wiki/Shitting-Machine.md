@@ -109,34 +109,34 @@ extreme simplicity of the parts.**
 - [Desiring Machine](Desiring-Machine.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
-- [Machines](Machines.md)
-- [Oedipal Machine](Oedipal-Machine.md)
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
 
 ### Lateral Bridges
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, connections, desiring
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 27
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Flow State](Flow-State.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Machines](Machines.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Catch 22](Catch-22.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, desiring
 #### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Flow State](Flow-State.md)
 - Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, catch, connections, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

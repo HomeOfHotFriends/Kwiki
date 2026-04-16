@@ -87,38 +87,45 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - [Content vs Creative](Content-vs-Creative.md)
 - [Radiative](Radiative.md)
 - [Simplicity of Parts](Simplicity-of-Parts.md)
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Genealogy of j](Genealogy-of-j.md)
+- [Shmup Genealogy](Shmup-Genealogy.md)
+- [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 
 ### Lateral Bridges
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 13
-- Shared motifs: divergence, enemy, esp, genealogy, law
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 11
-- Shared motifs: divergence, enemy, esp, genealogy, law
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 11
-- Shared motifs: divergence, enemy, frog, genealogy, law
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 10
-- Shared motifs: divergence, enemy, genealogy, law, parts
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 10
-- Shared motifs: divergence, enemy, esp, genealogy, law
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 10
-- Shared motifs: enemy, esp, frog, genealogy, law
+- Connection strength: 28
+- Shared motifs: bridges, connections, design, direct, enemy
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 10
-- Shared motifs: enemy, esp, genealogy, law, parts
-#### [Genealogy of j](Genealogy-of-j.md)
-- Connection strength: 9
-- Shared motifs: enemy, esp, genealogy, law, parts
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

@@ -5647,8 +5647,540 @@
           "desiring_machine"
         ]
       }
+    },
+    "Plantlings": {
+      "concepts": [
+        "plantlings",
+        "rhizhome",
+        "rhizome",
+        "anti_oopedipus",
+        "whakapapa",
+        "desiring_machine",
+        "te_whariki_pumotu",
+        "catch22",
+        "mauri",
+        "ira_kotahi"
+      ],
+      "whakapapa_snapshot": {
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "ira_kotahi": [
+          "mauri",
+          "tokotoko",
+          "whakapapa",
+          "singularity"
+        ]
+      }
+    },
+    "Rhizhome": {
+      "concepts": [
+        "rhizhome",
+        "plantlings",
+        "rhizome",
+        "desiring_machine",
+        "anti_oopedipus",
+        "whakapapa",
+        "te_whariki_pumotu",
+        "shitting_machine",
+        "flow_state",
+        "catch22"
+      ],
+      "whakapapa_snapshot": {
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "shitting_machine": [
+          "desiring_machine",
+          "flow_state",
+          "anti_oopedipus"
+        ],
+        "flow_state": [
+          "desiring_machine",
+          "shitting_machine",
+          "catch22",
+          "esprade"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ]
+      }
+    },
+    "Inward-Rhizhome": {
+      "concepts": [
+        "rhizhome",
+        "anti_oopedipus",
+        "desiring_machine",
+        "plantlings",
+        "rhizome",
+        "catch22",
+        "dod",
+        "flow_state",
+        "shitting_machine",
+        "te_whariki_pumotu",
+        "whakapapa"
+      ],
+      "whakapapa_snapshot": {
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "dod": [
+          "te_whariki_pumotu",
+          "simplicity_of_parts",
+          "zero_set",
+          "enemy_wave",
+          "the_law"
+        ],
+        "flow_state": [
+          "desiring_machine",
+          "shitting_machine",
+          "catch22",
+          "esprade"
+        ],
+        "shitting_machine": [
+          "desiring_machine",
+          "flow_state",
+          "anti_oopedipus"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ]
+      }
+    },
+    "Inward-Plantlings": {
+      "concepts": [
+        "plantlings",
+        "anti_oopedipus",
+        "rhizhome",
+        "rhizome",
+        "whakapapa",
+        "catch22",
+        "desiring_machine",
+        "dod",
+        "ira_kotahi",
+        "mauri",
+        "shitting_machine",
+        "te_whariki_pumotu",
+        "the_law"
+      ],
+      "whakapapa_snapshot": {
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "dod": [
+          "te_whariki_pumotu",
+          "simplicity_of_parts",
+          "zero_set",
+          "enemy_wave",
+          "the_law"
+        ],
+        "ira_kotahi": [
+          "mauri",
+          "tokotoko",
+          "whakapapa",
+          "singularity"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "shitting_machine": [
+          "desiring_machine",
+          "flow_state",
+          "anti_oopedipus"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "the_law": [
+          "simplicity_of_parts",
+          "esprade",
+          "dod",
+          "taonga",
+          "mauri"
+        ]
+      }
+    },
+    "Plantlings-x-Rhizhome": {
+      "concepts": [
+        "plantlings",
+        "rhizhome",
+        "rhizome",
+        "anti_oopedipus",
+        "whakapapa",
+        "desiring_machine",
+        "te_whariki_pumotu",
+        "catch22",
+        "mauri",
+        "ira_kotahi",
+        "shitting_machine",
+        "flow_state"
+      ],
+      "whakapapa_snapshot": {
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "ira_kotahi": [
+          "mauri",
+          "tokotoko",
+          "whakapapa",
+          "singularity"
+        ],
+        "shitting_machine": [
+          "desiring_machine",
+          "flow_state",
+          "anti_oopedipus"
+        ],
+        "flow_state": [
+          "desiring_machine",
+          "shitting_machine",
+          "catch22",
+          "esprade"
+        ]
+      }
+    },
+    "Catch-22-x-Plantlings": {
+      "concepts": [
+        "catch22",
+        "anti_oopedipus",
+        "desiring_machine",
+        "rhizome",
+        "content_vs_creative",
+        "frog_in_pot",
+        "flow_state",
+        "esprade",
+        "shitting_machine",
+        "plantlings",
+        "rhizhome",
+        "whakapapa",
+        "te_whariki_pumotu",
+        "mauri",
+        "ira_kotahi"
+      ],
+      "whakapapa_snapshot": {
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine"
+        ],
+        "content_vs_creative": [
+          "catch22",
+          "flow_state",
+          "frog_in_pot",
+          "radiative"
+        ],
+        "frog_in_pot": [
+          "esprade",
+          "flow_state",
+          "content_vs_creative",
+          "catch22"
+        ],
+        "flow_state": [
+          "desiring_machine",
+          "shitting_machine",
+          "catch22",
+          "esprade"
+        ],
+        "esprade": [
+          "simplicity_of_parts",
+          "enemy_wave",
+          "positioning",
+          "the_law",
+          "determinism"
+        ],
+        "shitting_machine": [
+          "desiring_machine",
+          "flow_state",
+          "anti_oopedipus"
+        ],
+        "plantlings": [
+          "rhizome",
+          "anti_oopedipus",
+          "rhizhome",
+          "whakapapa"
+        ],
+        "rhizhome": [
+          "rhizome",
+          "plantlings",
+          "desiring_machine",
+          "anti_oopedipus"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "ira_kotahi": [
+          "mauri",
+          "tokotoko",
+          "whakapapa",
+          "singularity"
+        ]
+      }
     }
   },
-  "concept_count": 24,
-  "page_count": 74
+  "concept_count": 26,
+  "page_count": 80
 }

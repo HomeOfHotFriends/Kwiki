@@ -41,12 +41,6 @@ content/uploads/2023/04/214_April.pdf 2.
 
 *— ai_singularity_te_reo*
 
-THE LECTIONARY TE MARAMATAKA Year A - 2026 - Anglican Church in Aotearoa, New Zealand and
-Polynesia, accessed April 2, 2026, https://anglican.org.nz/content/download/162021/813325/ve
-rsion/1/file/2026+Lectionary+Final.pdf 16.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
 
@@ -58,10 +52,6 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 
 *— esprade_doc*
 
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
-
-*— esprade_doc*
-
 
 *Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
 
@@ -70,10 +60,6 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 ## Flow State
 
 My ADHD could no longer handle any other game experience.
-
-*— esprade_doc*
-
-Not a single part of me had to force myself to focus.
 
 *— esprade_doc*
 
@@ -138,7 +124,6 @@ response bepositioning games are designed to be essentially completely determini
 | [Radiative](radiative) | 2 | [Content vs Creative Product](content-vs-creative), [Data-Oriented Design](dod), [The Law](the-law) |
 | [Shitting Machine](shitting-machine) | 2 | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
 | [Simplicity of Parts](simplicity-of-parts) | 2 | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
-| [The Law](the-law) | 2 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
 
 
 ---

@@ -30,38 +30,47 @@
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [DOD](DOD.md)
 - [The Law](The-Law.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Shitting Machine](Shitting-Machine.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Desiring Machine](Desiring-Machine.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Oedipal Machine](Oedipal-Machine.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Shitting Machine](Shitting-Machine.md)
+- [The-Marae × Production-as-Primary](The-Marae-x-Production-as-Primary.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 6
-- Shared motifs: desiring, machine, primary, production
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
 #### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, law, machine, primary
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, design, desiring
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, law, machine, primary
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 5
-- Shared motifs: desiring, law, machine
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [The-Marae × Production-as-Primary](The-Marae-x-Production-as-Primary.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
 #### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 5
-- Shared motifs: desiring, law, machine, primary, production
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 4
-- Shared motifs: divergence, law, primary, production
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 4
-- Shared motifs: divergence, law, primary, production
-#### [Flow State](Flow-State.md)
-- Connection strength: 4
-- Shared motifs: desiring, machine, primary, production
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, design, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

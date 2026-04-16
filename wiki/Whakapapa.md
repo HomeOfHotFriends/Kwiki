@@ -51,12 +51,6 @@ I honestly don’t know if DDP 1 or**
 
 *— esprade_doc*
 
-**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
-which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
-DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
-
-*— esprade_doc*
-
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
@@ -69,13 +63,6 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 **Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
 raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
 tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
-
-*— ai_singularity_te_reo*
-
-**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
-ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
-singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
 *— ai_singularity_te_reo*
 
@@ -95,7 +82,6 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 | [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
 | [Content vs Creative Product](content-vs-creative) | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
 | [Desiring-Machine](desiring-machine) | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
-| [Tokotoko](tokotoko) | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
 
 ---
 

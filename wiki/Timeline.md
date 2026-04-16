@@ -75,12 +75,14 @@ Sorted by **last git commit date** (most recent first).
 | [Mauri](Mauri.md) | 2026-04-16 | content |
 | [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md) | 2026-04-16 | cross-synthesis |
 | [Oedipal Machine](Oedipal-Machine.md) | 2026-04-16 | content |
+| [Plantlings](Plantlings.md) | 2026-04-16 | content |
 | [Positioning](Positioning.md) | 2026-04-16 | content |
 | [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md) | 2026-04-16 | cross-synthesis |
 | [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md) | 2026-04-16 | cross-synthesis |
 | [Production as Primary](Production-as-Primary.md) | 2026-04-16 | content |
 | [Radiative × Singularity](Radiative-x-Singularity.md) | 2026-04-16 | cross-synthesis |
 | [Radiative](Radiative.md) | 2026-04-16 | content |
+| [Rhizhome](Rhizhome.md) | 2026-04-16 | content |
 | [Rhizome](Rhizome.md) | 2026-04-16 | content |
 | [Scripts × Radiative](Scripts-x-Radiative.md) | 2026-04-16 | cross-synthesis |
 | [Scripts × Singularity](Scripts-x-Singularity.md) | 2026-04-16 | cross-synthesis |

@@ -10,6 +10,7 @@ Usage (from repo root):
     python3 scripts/wiki_index.py --indexes  # index pages only
     python3 scripts/wiki_index.py --weave    # per-page weave blocks only
     python3 scripts/wiki_index.py --dry-run  # show what would change, write nothing
+    python3 scripts/wiki_index.py --check-links  # report broken internal links, exit non-zero if any
 
 Generated index pages (wiki/):
     All-Pages.md   — alphabetical list of every content page
@@ -388,6 +389,27 @@ def write_file(path: Path, content: str, dry_run: bool) -> bool:
     return changed
 
 
+# ── link checker ───────────────────────────────────────────────────────────────
+
+def check_links(pages: dict[str, dict]) -> int:
+    """Print all internal links that point to non-existent pages. Returns broken count."""
+    broken: list[tuple[str, str]] = []
+    for slug, item in sorted(pages.items()):
+        for target in item["links"]:
+            if target not in pages:
+                broken.append((item["file"].name, target))
+
+    if not broken:
+        print("  No broken links found.\n")
+        return 0
+
+    print(f"  {len(broken)} broken link(s):\n")
+    for source_file, target in broken:
+        print(f"    {source_file}  →  {target}")
+    print()
+    return len(broken)
+
+
 # ── CLI ────────────────────────────────────────────────────────────────────────
 
 def parse_args() -> argparse.Namespace:
@@ -404,6 +426,8 @@ def parse_args() -> argparse.Namespace:
                    help="Weave: only update pages that already have at least one internal link.")
     p.add_argument("--limit",   type=int, default=None,
                    help="Weave: only update the top N hub pages by degree.")
+    p.add_argument("--check-links", action="store_true",
+                   help="Report broken internal links (links to pages that don't exist) and exit.")
     return p.parse_args()
 
 
@@ -433,6 +457,14 @@ def main() -> None:
     print(f"  orphans : {orphan_count}")
     print(f"  tags    : {'yes' if has_tags else 'none yet'}")
     print(f"  git ts  : {'available' if timestamps else 'unavailable (alpha fallback)'}\n")
+
+    # ── link check ────────────────────────────────────────────────────────────
+    if args.check_links:
+        print("Checking internal links:")
+        broken = check_links(pages)
+        suffix = " (broken links found)" if broken else " (all links valid)"
+        print(f"Done{suffix}.\n")
+        raise SystemExit(1 if broken else 0)
 
     # ── index pages ───────────────────────────────────────────────────────────
     if do_indexes:

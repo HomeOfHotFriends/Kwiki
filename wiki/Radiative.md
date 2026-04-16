@@ -59,13 +59,6 @@ was on level one in combination with the tiny
 
 *— esprade_doc*
 
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
 
@@ -80,7 +73,6 @@ reactions.
 | [Frog In A Pot](frog-in-pot) | [Esp Ra De](esprade), [Flow State](flow-state), [Content vs Creative Product](content-vs-creative) |
 | [Simplicity of Parts](simplicity-of-parts) | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
 | [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
-| [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
 
 ---
 

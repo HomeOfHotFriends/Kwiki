@@ -48,13 +48,6 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
 *— ai_singularity_te_reo*
 
-**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
-ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
-singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
 
@@ -66,12 +59,6 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 any guides or looked at any code**
 
 *— esprade_doc*
-
-**getic Title Space Dad, A Portrait A Memoir Gharv Unkle Edited by Karl Leisky Diegetic
-Epigraph The scar is not a disfigurement; it is a map that proves you once held a universe
-of treasure ―Morhf**
-
-*— frog_in_a_pot*
 
 
 *Whakapapa: [The Law](the-law) · [Mauri](mauri) · [Whakapapa](whakapapa)*
@@ -87,18 +74,6 @@ struct Te_Whariki_Pumotu { void whakawātea() { ngā_zero_set.fill(pūwāhi_kau)
 whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; }
 zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; }
 void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
-```
-
-*— indigenous_proposal*
-
-```
-int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
-pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
-tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
-1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
-atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
-static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
-1 && hou_x <
 ```
 
 *— indigenous_proposal*

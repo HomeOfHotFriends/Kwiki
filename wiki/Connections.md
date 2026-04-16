@@ -64,13 +64,13 @@ Highest combined inbound + outbound link count.
 
 | Page | Inbound | Outbound | Total |
 |---|---|---|---|
-| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 75 | 40 | 115 |
-| [DOD](DOD.md) | 85 | 28 | 113 |
-| [The Law](The-Law.md) | 72 | 38 | 110 |
-| [Whakapapa](Whakapapa.md) | 74 | 33 | 107 |
-| [Simplicity of Parts](Simplicity-of-Parts.md) | 60 | 40 | 100 |
-| [Rhizome](Rhizome.md) | 61 | 37 | 98 |
-| [Anti OOPedipus](Anti-OOPedipus.md) | 62 | 35 | 97 |
-| [Mauri](Mauri.md) | 62 | 35 | 97 |
-| [Zero Set](Zero-Set.md) | 53 | 35 | 88 |
-| [Inward Whakapapa](Inward-Whakapapa.md) | 0 | 86 | 86 |
+| [DOD](DOD.md) | 86 | 52 | 138 |
+| [The Law](The-Law.md) | 73 | 62 | 135 |
+| [Whakapapa](Whakapapa.md) | 75 | 57 | 132 |
+| [Anti OOPedipus](Anti-OOPedipus.md) | 65 | 59 | 124 |
+| [Inward Rhizome](Inward-Rhizome.md) | 17 | 102 | 119 |
+| [Inward Whakapapa](Inward-Whakapapa.md) | 8 | 110 | 118 |
+| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 78 | 40 | 118 |
+| [Zero Set](Zero-Set.md) | 55 | 59 | 114 |
+| [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 11 | 101 | 112 |
+| [Inward Radiative](Inward-Radiative.md) | 13 | 96 | 109 |

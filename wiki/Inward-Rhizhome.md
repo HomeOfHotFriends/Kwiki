@@ -1,21 +1,22 @@
-# Inward Rhizome
+# Inward Rhizhome
 
-> *Build inwards to get out: center on Rhizome, then move ring by ring.*
+> *Build inwards to get out: center on Rhizhome, then move ring by ring.*
 
 ---
 
-## Rhizome
+## Rhizhome
 
-Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
+**At every point, the Hot Friends actively checked in on each other—fetching water, talking
+about the stars for a bit, lil' hugs, and other acts**
 
-*— untitled2*
+*— frog_in_a_pot*
 
-means by Rhizome'.
+**To be honest, it's not very Hot Friends-like.**
 
-*— untitled2*
+*— frog_in_a_pot*
 
 
-*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
+*Whakapapa: [Rhizome](rhizome) · [Plantlings](plantlings) · [Desiring-Machine](desiring-machine) · [Anti-OOPedipus](anti-oopedipus)*
 
 ---
 
@@ -51,34 +52,25 @@ production-and-inspection-at-czit-development-ltd/ 20.
 
 ---
 
-## Te Whariki Pumotu
+## Plantlings
 
-```
-ay> #include <string> namespace Nāwhaianō_nāwhaianōrā_Ināwhaianō { enum zero_set {
-pūwāhi_kau, pūtake_aukati, huinga_whakaputa, katinotoa, kauaeheahea, huinga_kōwhiringa };
-struct Te_Whariki_Pumotu { void whakawātea() { ngā_zero_set.fill(pūwāhi_kau); } void
-whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; }
-zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; }
-void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
-```
+For I know what it’s like to lose a Space Dad.
 
-*— indigenous_proposal*
+*— frog_in_a_pot*
 
 
-*Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
+*Whakapapa: [Rhizome](rhizome) · [Anti-OOPedipus](anti-oopedipus) · [Rhizhome](rhizhome) · [Whakapapa](whakapapa)*
 
 ---
 
-## Whakapapa
+## Rhizome
 
-ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
-i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
-whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
+Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 
-*— ai_singularity_te_reo*
+*— untitled2*
 
 
-*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
 
 ---
 
@@ -122,19 +114,17 @@ My ADHD could no longer handle any other game experience.
 
 | Concept | Ring | Tupuna |
 |---|---:|---|
-| [Rhizome](rhizome) | 0 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Rhizhome](rhizhome) | 0 | [Rhizome](rhizome), [Plantlings](plantlings), [Desiring-Machine](desiring-machine) |
 | [Anti-OOPedipus](anti-oopedipus) | 1 | [Desiring-Machine](desiring-machine), [Rhizome](rhizome), [Catch-22](catch22) |
 | [Desiring-Machine](desiring-machine) | 1 | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
-| [Te Whariki Pumotu](te-whariki-pumotu) | 1 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
-| [Whakapapa](whakapapa) | 1 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Plantlings](plantlings) | 1 | [Rhizome](rhizome), [Anti-OOPedipus](anti-oopedipus), [Rhizhome](rhizhome) |
+| [Rhizome](rhizome) | 1 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Catch-22](catch22) | 2 | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
 | [Data-Oriented Design](dod) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
 | [Flow State](flow-state) | 2 | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
-| [Ira Kotahi](ira-kotahi) | 2 | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
-| [Mauri](mauri) | 2 | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Shitting Machine](shitting-machine) | 2 | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
-| [The Law](the-law) | 2 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
-| [Zero Set](zero-set) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | 2 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Whakapapa](whakapapa) | 2 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
 
 
 ---

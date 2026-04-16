@@ -113,37 +113,37 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Genealogy of j](Genealogy-of-j.md)
 - [Indigenous Proposal](Indigenous-Proposal.md)
-- [Ira Kotahi](Ira-Kotahi.md)
-- [Mauri](Mauri.md)
-- [Scripts](Scripts.md)
-- [Singularity](Singularity.md)
-- [Taonga](Taonga.md)
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
 
 ### Lateral Bridges
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [The Law](The-Law.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, connections, direct, hub
-#### [Ira Kotahi](Ira-Kotahi.md)
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Indigenous Proposal](Indigenous-Proposal.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Singularity](Singularity.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Taonga](Taonga.md)
-- Connection strength: 23
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
+#### [Whakapapa](Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
