@@ -1,0 +1,15 @@
+{
+  "id": "terrain_generation_engine",
+  "method": "go_grid_aligned_pair_generator",
+  "steps": [
+    {"id": "base_pair", "rule": "choose_one_player_terrain_and_one_gm_terrain", "constraint": "they_must_not_harmonize_too_easily"},
+    {"id": "primary_contradiction", "rule": "cross_one_active_value_from_each_terrain", "output": "core_friction_statement"},
+    {"id": "zone_split", "rule": "partition_pairing_into_2_to_4_local_logic_zones", "output": "zone_specific_rules"},
+    {"id": "border_behavior", "rule": "define_edge_behavior", "allowed_values": ["contain", "leak", "reflect", "invert", "absorb", "recurse"]},
+    {"id": "power_asymmetry", "rule": "define_visible_or_hidden_dominance"},
+    {"id": "hybrid_zone", "rule": "create_at_least_one_full_overlap_zone"},
+    {"id": "path_structure", "rule": "generate_safe_deceptive_collective_paths"},
+    {"id": "compression_name", "rule": "name_pairing_as_compressed_logic_poem"},
+    {"id": "frame_event", "rule": "create_activation_trigger_that_wakes_both_terrains_at_once"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "home_campaign_volume",
+  "purpose": "framing_setting_terrain_pairings_micro_scenarios",
+  "depends_on": [
+    "character_book",
+    "go_grid_book",
+    "terrain_logic_book"
+  ]
+}

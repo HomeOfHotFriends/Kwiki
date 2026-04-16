@@ -1,0 +1,13 @@
+{
+  "id": "frog_in_a_pot",
+  "type": "temperature_logic",
+  "function": "escalation_frame",
+  "temperature_phases": [
+    {"id": "cool", "effects": ["outcomes_localized", "power_hoarding_subtle", "terrain_distortions_gentle"]},
+    {"id": "warm", "effects": ["ripples_expand", "politics_visible", "counterpressure_likely"]},
+    {"id": "simmer", "effects": ["terrain_changes_persist", "memory_boxes_ferment_faster", "planetary_pressure_increases"]},
+    {"id": "boil", "effects": ["instability_cascades", "structural_shifts", "flashpoint_variant_possible"]},
+    {"id": "flashpoint", "effects": ["arc_level_transformation", "terrain_mutation_forced", "campaign_baseline_altered"]}
+  ],
+  "reset_rule": "after_peak_temperature_reduces_but_never_returns_to_original_baseline"
+}

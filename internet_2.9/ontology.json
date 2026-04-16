@@ -1,0 +1,8 @@
+{
+  "unit_types": [
+    "book", "volume", "terrain", "terrain_pairing", "framing_event", "micro_scenario", "character_form", "character_instance", "truth_table", "multivalued_logic", "memory_box", "planetary_entity", "community", "mutation", "path_state", "temperature_phase", "go_grid_coordinate", "outcome_vector", "heist_arc", "prophecy", "plant_reveal", "recursion_seed"
+  ],
+  "generation_directions": [
+    "inward", "outward", "upward", "sideways", "retroactive"
+  ]
+}

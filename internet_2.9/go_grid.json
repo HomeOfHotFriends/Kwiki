@@ -1,0 +1,30 @@
+{
+  "id": "home_go_grid",
+  "board": {
+    "type": "continuous_discrete_hybrid",
+    "recommended_sizes": [9, 13, 19],
+    "x_axis": "discrete_coordinate",
+    "y_axis": "discrete_coordinate",
+    "field_layer": "continuous_influence",
+    "ownership": {
+      "player": "white",
+      "gm": "black",
+      "neutral_or_emergent": "unstoned_or_marked"
+    }
+  },
+  "resolution_philosophy": {
+    "randomness": false,
+    "position_determines_emergence": true,
+    "lookup_outputs_are_vectors_not_binary_success": true
+  },
+  "lookup_dimensions": {
+    "scope": ["personal", "local", "community", "regional", "planetary"],
+    "duration": ["momentary", "scene", "session", "arc", "persistent"],
+    "visibility": ["hidden", "partial", "public", "mythic", "retroactive"],
+    "stability": ["stable", "unstable", "cascading", "mutating"],
+    "moral_shape": ["care", "redistribution", "orientation", "distortion", "withholding"]
+  },
+  "outcome_vectors": [
+    "amplify", "diffuse", "twist", "delay", "redistribute", "crystallize", "invert", "seed", "burn", "echo", "multiply", "wither", "stabilize", "split", "reveal", "submerge", "ferment", "scatter"
+  ]
+}

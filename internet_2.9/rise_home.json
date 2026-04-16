@@ -1,0 +1,13 @@
+{
+  "id": "rise_home",
+  "type": "hub",
+  "description": "massive_rhizome_secret_base_of_the_resistance",
+  "session_functions": [
+    "beginning", "ending", "middle", "meeting_chamber", "departure_point", "return_point", "memory_archive", "debrief_site"
+  ],
+  "rules_required": false,
+  "rules_baked_into_hearts": true,
+  "framing_entry_modes": [
+    "call_sent_outward", "call_received_inward", "memory_box_planting_discussion", "frog_in_a_pot_reflection", "mid_crisis_report", "half_finished_argument", "celebration_already_underway"
+  ]
+}

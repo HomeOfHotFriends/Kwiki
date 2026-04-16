@@ -1,43 +1,36 @@
-# Kwiki
+# HOME: Design Bible
 
-A living wiki for the **j** project — philosophy, code, design, whakapapa.
+This file is auto-generated from the recursive JSON meta-structure in `Json to build internet 2 from`.
 
-This is not documentation. It is a **genealogy**: a map of which ideas gave birth to which, and how concepts machine each other into existence.
+## Project Overview
+- **ID:** home_ttrpg
+- **Title:** HOME
+- **Subtitle:** A Campaign of Rhizomes, Redistribution, and Singing Distance
+- **Version:** 0.1-recursive
+- **Status:** living_system
 
----
+## Design Principles
+- no_dice
+- position_over_probability
+- terrain_as_logic
+- characters_as_multivalued_systems
+- paired_authorship
+- memory_box_fermentation
+- recursive_growth
+- redistribution_over_loot
+- ambiguity_with_structure
+- framing_before_resolution
 
-## Purpose
-
-The wiki holds concepts that span code, culture, and design:
-
-- **Data-Oriented Design** (DOD) and why it matters
-- **Te reo Māori** naming as structural, not decorative
-- **Desiring-machines**, rhizomes, and the Deleuzian frame for the project
-- The **one law** — *extreme depth of the whole through extreme simplicity of the parts*
-
-Old work is whakapapa, not gospel. It is the root system, not the tree.
-
----
-
-## How to add a new page
-
-1. Copy the template:
-   ```bash
-   cp wiki/_template.md wiki/Your-Page-Name.md
-   ```
-2. Fill in the title, frontmatter, and content.
-3. Add links to related pages using `[Display Text](Page-Slug.md)`.
-4. Regenerate indexes:
-   ```bash
-   python3 scripts/wiki_index.py
-   ```
-
-**Naming convention:** `Title-Case-Hyphenated.md`  
-Cross-synthesis pages: `Page-A-x-Page-B.md`
+## Core Laws
+- dual_terrain_covenant: true
+- player_set_and_gm_set_are_sovereign: true
+- every_encounter_is_a_braid_of_one_player_terrain_and_one_gm_terrain: true
+- core_rules_are_externalized_to_other_books: true
+- all_elements_must_support_recursive_generation: true
 
 ---
 
-## How to run the generator
+This file is the top-level design bible. All other content is generated to match this schema and its recursive hooks.
 
 ```bash
 # Full pass: regenerate all index pages + refresh per-page weave blocks

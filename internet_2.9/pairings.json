@@ -1,0 +1,66 @@
+[
+  {
+    "id": "floodplains__crystal_desert",
+    "name": "The Geometry of Water",
+    "player_terrain_id": "floodplains",
+    "gm_terrain_id": "crystal_desert",
+    "framing_event": {
+      "id": "fp_cd_01",
+      "name": "The Crystallizing Irrigation Lock",
+      "day_coordinate": "FP-CD-01",
+      "summary": "corporate_irrigation_turns_water_into_geometric_control",
+      "temperature_start": "warm"
+    },
+    "long_term_mutations": [
+      "floodplain_gains_minor_clarify",
+      "crystal_desert_gains_seasonal_water_memory"
+    ],
+    "memory_box_seeds": [
+      "who_signed_the_water",
+      "broadcast_override",
+      "geometry_spreads"
+    ]
+  },
+  {
+    "id": "swamp__wind_plateau",
+    "name": "The Uprooted Peat",
+    "player_terrain_id": "swamp",
+    "gm_terrain_id": "wind_plateau",
+    "framing_event": {
+      "id": "sw_wp_01",
+      "name": "The Uprooted Peat",
+      "day_coordinate": "SW-WP-01",
+      "summary": "ancient_peat_begins_sliding_uphill_into_wind_logic",
+      "temperature_start": "cool"
+    },
+    "long_term_mutations": [
+      "swamp_gains_redirect",
+      "wind_plateau_gains_ferment"
+    ],
+    "memory_box_seeds": [
+      "who_buried_strategy_here",
+      "archive_opened_publicly"
+    ]
+  },
+  {
+    "id": "rainforest__deep_void_ur",
+    "name": "The Unfinished Tree",
+    "player_terrain_id": "rainforest",
+    "gm_terrain_id": "deep_void_ur",
+    "framing_event": {
+      "id": "rf_dv_01",
+      "name": "The Unfinished Tree",
+      "day_coordinate": "RF-DV-01",
+      "summary": "a_tree_grows_without_species_shadow_or_agreed_origin",
+      "temperature_start": "cool"
+    },
+    "long_term_mutations": [
+      "rainforest_gains_echo_memory",
+      "void_gains_selective_forgetting"
+    ],
+    "memory_box_seeds": [
+      "who_gets_to_remember_origin",
+      "what_counts_as_having_happened"
+    ]
+  }
+]
