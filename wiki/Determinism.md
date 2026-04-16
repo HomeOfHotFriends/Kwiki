@@ -104,7 +104,6 @@ extreme simplicity of the parts.**
 - [Taonga](Taonga.md)
 
 ### Inbound Connections
-- [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
@@ -112,6 +111,7 @@ extreme simplicity of the parts.**
 - [Enemy Wave](Enemy-Wave.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
+<<<<<<< HEAD
 
 ### Lateral Bridges
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
@@ -138,6 +138,36 @@ extreme simplicity of the parts.**
 #### [Zero Set](Zero-Set.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, data
+=======
+- [Genealogy of j](Genealogy-of-j.md)
+- [Inward Catch22](Inward-Catch22.md)
+
+### Lateral Bridges
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Positioning](Positioning.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, data, design
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -122,6 +122,7 @@ slightly illegal upper echelons of tempo.**
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Mauri](Mauri.md)
 - [Radiative × Singularity](Radiative-x-Singularity.md)
@@ -156,6 +157,35 @@ slightly illegal upper echelons of tempo.**
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
+=======
+- [The-Law × Singularity](The-Law-x-Singularity.md)
+
+### Lateral Bridges
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

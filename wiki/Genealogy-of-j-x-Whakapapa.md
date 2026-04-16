@@ -104,6 +104,7 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
@@ -138,6 +139,36 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 #### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, direct
+=======
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+
+### Lateral Bridges
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, code, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, code, connections, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

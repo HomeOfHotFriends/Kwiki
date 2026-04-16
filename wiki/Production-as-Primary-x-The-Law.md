@@ -45,6 +45,7 @@
 - [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, design
@@ -69,6 +70,32 @@
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - Connection strength: 24
 - Shared motifs: bridges, code, connections, design, desiring
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, catch, code, connections
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

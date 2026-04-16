@@ -28,6 +28,7 @@
 - [The-Law × Singularity](The-Law-x-Singularity.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Radiative × Singularity](Radiative-x-Singularity.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, direct
@@ -52,6 +53,32 @@
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 22
 - Shared motifs: anti, bridges, code, connections, direct
+=======
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Rhizome](Rhizome.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, direct, dod
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

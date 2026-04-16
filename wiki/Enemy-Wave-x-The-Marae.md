@@ -89,6 +89,7 @@ extreme simplicity of the parts.**
 - [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, catch, code, connections
@@ -112,6 +113,31 @@ extreme simplicity of the parts.**
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 28
+=======
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 27
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

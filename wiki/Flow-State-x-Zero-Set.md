@@ -31,6 +31,7 @@
 - [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Oedipal Machine](Oedipal-Machine.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, connections, design, direct
@@ -55,6 +56,32 @@
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
 - Connection strength: 21
 - Shared motifs: anti, bridges, connections, design, direct
+=======
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, direct, fiap
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, direct, fiap
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

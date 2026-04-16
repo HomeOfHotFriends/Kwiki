@@ -104,6 +104,7 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, connections, design
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+<<<<<<< HEAD
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, connections, design
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
@@ -124,6 +125,31 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, catch, connections, design
+=======
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, direct, divergence
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, connections, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

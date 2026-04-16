@@ -107,6 +107,7 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Anti OOPedipus](Anti-OOPedipus.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
@@ -125,11 +126,26 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - Shared motifs: anti, bridges, code, connections, design
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - Connection strength: 32
+=======
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+
+### Lateral Bridges
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 35
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+<<<<<<< HEAD
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
@@ -141,6 +157,28 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 #### [Machines × Whakapapa](Machines-x-Whakapapa.md)
 - Connection strength: 29
 - Shared motifs: anti, bridges, catch, code, connections
+=======
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

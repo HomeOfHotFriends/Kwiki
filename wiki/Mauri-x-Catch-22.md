@@ -32,6 +32,7 @@
 
 ### Lateral Bridges
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+<<<<<<< HEAD
 - Connection strength: 30
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
@@ -55,6 +56,31 @@
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, design
+=======
+- Connection strength: 25
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 22
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 20
+- Shared motifs: bridges, catch, code, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, direct, enemy
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: bridges, code, connections, direct, genealogy
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

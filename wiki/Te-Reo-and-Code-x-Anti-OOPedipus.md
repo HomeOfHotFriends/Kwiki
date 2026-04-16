@@ -140,6 +140,7 @@ or level off to flat.
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - [Machines × The-Law](Machines-x-The-Law.md)
+<<<<<<< HEAD
 - [Mauri](Mauri.md)
 
 ### Lateral Bridges
@@ -165,6 +166,36 @@ or level off to flat.
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+=======
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+
+### Lateral Bridges
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 

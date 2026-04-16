@@ -115,6 +115,7 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 ### Inbound Connections
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+<<<<<<< HEAD
 - [Determinism](Determinism.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Catch-22](DOD-x-Catch-22.md)
@@ -140,6 +141,37 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 32
+=======
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Taonga](Taonga.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+
+### Lateral Bridges
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 28
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, data
 #### [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md)
 - Connection strength: 32

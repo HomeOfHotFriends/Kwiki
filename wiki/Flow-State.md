@@ -94,8 +94,14 @@ current low-energy state.
 - [Determinism](Determinism.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
+=======
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, connections, content, creative
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 #### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 26
+- Connection strength: 24
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Production as Primary](Production-as-Primary.md)
 - Connection strength: 26
@@ -104,11 +110,12 @@ current low-energy state.
 - Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 25
+- Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 25
+- Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
+<<<<<<< HEAD
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
@@ -118,6 +125,20 @@ current low-energy state.
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, design, desiring, direct
+=======
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, desiring, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

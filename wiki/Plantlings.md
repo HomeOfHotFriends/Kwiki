@@ -1,11 +1,16 @@
 # Plantlings
 
+<<<<<<< HEAD
 > *Generate Plantlings through whakapapa links.*
+=======
+> *"Don't you worry about fitting in. Home isn't a place you're from. It's a place you become."*
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 > *Rebless. Recurse. Rebless.*
 
 ---
 
+<<<<<<< HEAD
 ## Plantlings
 
 For I know what it’s like to lose a Space Dad.
@@ -13,16 +18,47 @@ For I know what it’s like to lose a Space Dad.
 *— frog_in_a_pot*
 
 what it’s like to lose a Space Dad.
+=======
+## What is a Plantling
+
+A Plantling is born precisely once every time a non-plantling species does something impossible.
+Their final form often reflects what species they evolved out of — a *don't forget your roots* kinda thing.
+Not biological certainty. The future is never set.
+
+They grow **sideways**. Not up the ladder. Laterally. Rhizomatically.
+A Plantling without the *we* starts growing outwards from the centre instead of sideways.
+Their heart becomes scarred, pockmarked stone.
+
+They dream together. When they sleep, buried in warm dirt, the planet dreams with them.
+*"We dreamed of taller trees, and Home grew 'em. We dreamed of rivers that giggled, and the planet dug 'em."*
+
+They are not just on Home. They **are** Home.
+
+---
+
+## Plantling
+
+> *Plantlings, he called them:.*
+
+*— frog_in_a_pot*
+
+> *Plantlings, he called them: “What's incredible about Plantlings is that every single one is kind and cool.*
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 *— frog_in_a_pot*
 
 
+<<<<<<< HEAD
 *Whakapapa: [Rhizome](rhizome) · [Anti-OOPedipus](anti-oopedipus) · [Rhizhome](rhizhome) · [Whakapapa](whakapapa)*
+=======
+*Whakapapa: [Mauri](mauri) · [Rhizome](rhizome) · [Whakapapa](whakapapa) · [Anti-OOPedipus](anti-oopedipus)*
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 > *Rebless. Recurse. Rebless.*
 
 ---
 
+<<<<<<< HEAD
 ## Rhizhome
 
 **At every point, the Hot Friends actively checked in on each other—fetching water, talking
@@ -36,6 +72,23 @@ about the stars for a bit, lil' hugs, and other acts**
 
 
 *Whakapapa: [Rhizome](rhizome) · [Plantlings](plantlings) · [Desiring-Machine](desiring-machine) · [Anti-OOPedipus](anti-oopedipus)*
+=======
+## Mauri
+
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
+
+*— ai_singularity_te_reo*
+
+.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
+te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
+Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
+te rā
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 > *Rebless. Recurse. Rebless.*
 
@@ -47,6 +100,13 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 
 *— untitled2*
 
+<<<<<<< HEAD
+=======
+means by Rhizome'.
+
+*— untitled2*
+
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 *Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
 
@@ -54,6 +114,7 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 
 ---
 
+<<<<<<< HEAD
 ## Anti-OOPedipus
 
 **This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
@@ -69,6 +130,8 @@ I honestly don’t know if DDP 1 or**
 
 ---
 
+=======
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 ## Whakapapa
 
 ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
@@ -77,6 +140,14 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 
 *— ai_singularity_te_reo*
 
+<<<<<<< HEAD
+=======
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 *Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
@@ -84,15 +155,48 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 
 ---
 
+<<<<<<< HEAD
+=======
+## Anti-OOPedipus
+
+**This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
+the only creative product which has produced an engagement that rivals my favourite shmups:
+I honestly don’t know if DDP 1 or**
+
+*— esprade_doc*
+
+**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
+which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
+DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 ## Whakapapa Connections
 
 | Concept | Tupuna |
 |---|---|
+<<<<<<< HEAD
 | [Desiring-Machine](desiring-machine) | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
 | [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
 | [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
+=======
+| [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Desiring-Machine](desiring-machine) | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
+| [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
+| [Content vs Creative Product](content-vs-creative) | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ---
 
@@ -100,3 +204,54 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 ---
 
 *Generated by [WaKa](../WaKa.py). Old work is whakapapa, not gospel. Edit freely.*
+<<<<<<< HEAD
+=======
+
+<!-- BEGIN RECURSIVE_WEAVE -->
+## Recursive Hub Weave
+
+### Direct Connections
+- [Mauri](Mauri.md)
+- [Rhizome](Rhizome.md)
+- [Whakapapa](Whakapapa.md)
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- [Taonga](Taonga.md)
+- [Desiring Machine](Desiring-Machine.md)
+
+### Inbound Connections
+- [Gamification Lens](Gamification-Lens.md)
+
+### Lateral Bridges
+#### [Gamification Lens](Gamification-Lens.md)
+- Connection strength: 8
+- Shared motifs: connections, mauri, plantling, rhizome, whakapapa
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 7
+- Shared motifs: anti, connections, oopedipus, rhizome, whakapapa
+#### [RhizHome](RhizHome.md)
+- Connection strength: 7
+- Shared motifs: anti, connections, oopedipus, plantling, rhizome
+#### [Rhizome](Rhizome.md)
+- Connection strength: 7
+- Shared motifs: anti, connections, oopedipus, rhizome, whakapapa
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 7
+- Shared motifs: anti, connections, mauri, oopedipus, whakapapa
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 7
+- Shared motifs: anti, connections, mauri, oopedipus, whakapapa
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 6
+- Shared motifs: anti, connections, mauri, oopedipus, rhizome
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 6
+- Shared motifs: anti, connections, oopedipus, rhizome
+
+### Recursive Prompt
+- In each section above, add at least one sentence that names one direct and one lateral page together.
+- Convert plain mentions of those pages into markdown links for tighter recursion.
+<!-- END RECURSIVE_WEAVE -->
+
+>>>>>>> origin/copilot/add-gamification-lens-wiki

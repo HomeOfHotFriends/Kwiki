@@ -33,6 +33,7 @@
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
 - Connection strength: 26
 - Shared motifs: bridges, connections, design, direct, flow
@@ -57,6 +58,32 @@
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 24
 - Shared motifs: bridges, code, connections, design, direct
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, code, connections, design
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

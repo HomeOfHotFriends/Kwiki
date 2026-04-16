@@ -104,11 +104,19 @@ extreme simplicity of the parts.**
 
 ### Lateral Bridges
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
+<<<<<<< HEAD
 - Connection strength: 32
 - Shared motifs: anti, bridges, catch, connections, data
 #### [Design Rules](Design-Rules.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, data, design
+=======
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Determinism](Determinism.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, data, design, determinism
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 - Connection strength: 29
 - Shared motifs: anti, bridges, catch, connections, design
@@ -120,6 +128,7 @@ extreme simplicity of the parts.**
 - Shared motifs: anti, bridges, catch, connections, data
 #### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
 - Connection strength: 27
+<<<<<<< HEAD
 - Shared motifs: anti, bridges, catch, connections, design
 #### [Enemy Wave](Enemy-Wave.md)
 - Connection strength: 26
@@ -127,6 +136,24 @@ extreme simplicity of the parts.**
 #### [DOD](DOD.md)
 - Connection strength: 24
 - Shared motifs: anti, bridges, connections, data, design
+=======
+- Shared motifs: bridges, catch, connections, design, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, data, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 20
+- Shared motifs: bridges, connections, data, design, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 20
+- Shared motifs: bridges, catch, connections, data, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, data, design
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

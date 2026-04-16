@@ -26,6 +26,7 @@
 - No inbound links detected yet.
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, catch, code, connections
@@ -50,6 +51,32 @@
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - Connection strength: 22
 - Shared motifs: anti, bridges, catch, code, connections
+=======
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -95,18 +95,29 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Design Rules](Design-Rules.md)
 - [Determinism](Determinism.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Gamification Lens](Gamification-Lens.md)
 - [Genealogy of j](Genealogy-of-j.md)
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- [Indigenous Proposal](Indigenous-Proposal.md)
 
 ### Lateral Bridges
 #### [Indigenous Proposal](Indigenous-Proposal.md)
+<<<<<<< HEAD
 - Connection strength: 26
+=======
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 25
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
+<<<<<<< HEAD
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
@@ -124,6 +135,19 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
 - Connection strength: 22
+=======
+#### [Mauri](Mauri.md)
+- Connection strength: 20
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 18
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 18
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Determinism](Determinism.md)
+- Connection strength: 17
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

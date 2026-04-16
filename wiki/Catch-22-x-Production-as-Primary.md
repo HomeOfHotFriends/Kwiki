@@ -89,13 +89,13 @@ He told me where I had improved, and suggested things to focus on next.
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 
 ### Inbound Connections
-- [Catch 22](Catch-22.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
+<<<<<<< HEAD
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
@@ -107,10 +107,18 @@ He told me where I had improved, and suggested things to focus on next.
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
 - Connection strength: 30
+=======
+- [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+
+### Lateral Bridges
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
+<<<<<<< HEAD
 #### [Fiap pot](FIAP POT.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
@@ -122,6 +130,25 @@ He told me where I had improved, and suggested things to focus on next.
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow State](Flow-State.md)
 - Connection strength: 25
+=======
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Flow State](Flow-State.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 21
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

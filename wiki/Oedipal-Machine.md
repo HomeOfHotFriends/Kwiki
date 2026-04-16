@@ -102,6 +102,7 @@ means by Rhizome'.
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Flow State](Flow-State.md)
@@ -136,6 +137,35 @@ means by Rhizome'.
 #### [Machines](Machines.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, design, desiring, direct
+=======
+- [Shitting Machine](Shitting-Machine.md)
+
+### Lateral Bridges
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, catch, connections, design
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

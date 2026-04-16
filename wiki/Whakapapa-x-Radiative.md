@@ -89,7 +89,6 @@ AND my art is all hand drawn (no puppet shit), which required 3 parts to
 - [Catch 22](Catch-22.md)
 
 ### Inbound Connections
-- [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
@@ -97,6 +96,7 @@ AND my art is all hand drawn (no puppet shit), which required 3 parts to
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+<<<<<<< HEAD
 
 ### Lateral Bridges
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
@@ -112,16 +112,42 @@ AND my art is all hand drawn (no puppet shit), which required 3 parts to
 - Connection strength: 30
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
+=======
+- [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+
+### Lateral Bridges
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 34
+- Shared motifs: bridges, catch, code, connections, design
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 32
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 32
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, code, connections, design
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
+<<<<<<< HEAD
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Radiative](Radiative.md)
 - Connection strength: 23
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, code, connections, design
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 27
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

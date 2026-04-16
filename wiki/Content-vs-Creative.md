@@ -90,10 +90,11 @@ Not a single part of me had to force myself to focus.
 - [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Desiring Machine](Desiring-Machine.md)
-- [DOD](DOD.md)
 - [Fiap pot](FIAP POT.md)
+- [Flow State](Flow-State.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Catch 22](Catch-22.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
@@ -107,17 +108,38 @@ Not a single part of me had to force myself to focus.
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
+=======
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
+<<<<<<< HEAD
+=======
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow State](Flow-State.md)
-- Connection strength: 25
+- Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
+<<<<<<< HEAD
+=======
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, design, direct
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

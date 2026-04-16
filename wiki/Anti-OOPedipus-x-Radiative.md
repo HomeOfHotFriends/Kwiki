@@ -115,6 +115,7 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - [Flow State](Flow-State.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
@@ -149,6 +150,42 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, catch, code, connections
+=======
+- [Content vs Creative](Content-vs-Creative.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Flow State](Flow-State.md)
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
+- [Rhizome](Rhizome.md)
+- [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+
+### Lateral Bridges
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

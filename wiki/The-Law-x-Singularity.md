@@ -122,6 +122,7 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 - [Scripts × Singularity](Scripts-x-Singularity.md)
@@ -155,6 +156,34 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - Shared motifs: anti, bridges, code, connections, direct
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 26
+=======
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+
+### Lateral Bridges
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 23
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt

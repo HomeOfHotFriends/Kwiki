@@ -126,6 +126,7 @@ te rā
 - [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
@@ -143,12 +144,36 @@ te rā
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD](DOD.md)
 - Connection strength: 30
+=======
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 31
+>>>>>>> origin/copilot/add-gamification-lens-wiki
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
+<<<<<<< HEAD
 #### [Zero Set](Zero-Set.md)
 - Connection strength: 30
+=======
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 27
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

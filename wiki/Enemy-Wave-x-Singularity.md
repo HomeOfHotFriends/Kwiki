@@ -37,6 +37,7 @@
 
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+<<<<<<< HEAD
 - [DOD × Catch-22](DOD-x-Catch-22.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
@@ -60,6 +61,36 @@
 - Shared motifs: bridges, connections, direct, divergence, genealogy
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 23
+=======
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Mauri](Mauri.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+
+### Lateral Bridges
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 20
+- Shared motifs: bridges, catch, connections, direct, enemy
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 19
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 19
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Mauri](Mauri.md)
+- Connection strength: 19
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 18
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 17
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, catch, connections, direct, divergence
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - Connection strength: 22

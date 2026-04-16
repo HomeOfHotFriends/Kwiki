@@ -138,6 +138,7 @@ Signal::Suppressed(ZeroSet::Tot
 ### Inbound Connections
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+<<<<<<< HEAD
 - [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [DOD](DOD.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
@@ -153,6 +154,20 @@ Signal::Suppressed(ZeroSet::Tot
 - Connection strength: 36
 - Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+=======
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
+- [Machines × The-Law](Machines-x-The-Law.md)
+
+### Lateral Bridges
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 35
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
@@ -162,6 +177,7 @@ Signal::Suppressed(ZeroSet::Tot
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+<<<<<<< HEAD
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
@@ -169,6 +185,18 @@ Signal::Suppressed(ZeroSet::Tot
 - Shared motifs: anti, bridges, code, connections, data
 #### [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md)
 - Connection strength: 33
+=======
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 31
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

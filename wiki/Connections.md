@@ -64,6 +64,7 @@ Highest combined inbound + outbound link count.
 
 | Page | Inbound | Outbound | Total |
 |---|---|---|---|
+<<<<<<< HEAD
 | [DOD](DOD.md) | 86 | 52 | 138 |
 | [The Law](The-Law.md) | 73 | 62 | 135 |
 | [Whakapapa](Whakapapa.md) | 75 | 57 | 132 |
@@ -74,3 +75,15 @@ Highest combined inbound + outbound link count.
 | [Zero Set](Zero-Set.md) | 55 | 59 | 114 |
 | [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 11 | 101 | 112 |
 | [Inward Radiative](Inward-Radiative.md) | 13 | 96 | 109 |
+=======
+| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 78 | 40 | 118 |
+| [DOD](DOD.md) | 87 | 28 | 115 |
+| [The Law](The-Law.md) | 74 | 38 | 112 |
+| [Whakapapa](Whakapapa.md) | 76 | 33 | 109 |
+| [Mauri](Mauri.md) | 65 | 35 | 100 |
+| [Rhizome](Rhizome.md) | 63 | 37 | 100 |
+| [Anti OOPedipus](Anti-OOPedipus.md) | 64 | 35 | 99 |
+| [Simplicity of Parts](Simplicity-of-Parts.md) | 59 | 40 | 99 |
+| [Zero Set](Zero-Set.md) | 56 | 35 | 91 |
+| [Inward Whakapapa](Inward-Whakapapa.md) | 0 | 86 | 86 |
+>>>>>>> origin/copilot/add-gamification-lens-wiki

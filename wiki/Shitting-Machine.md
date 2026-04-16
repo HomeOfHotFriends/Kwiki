@@ -118,6 +118,7 @@ extreme simplicity of the parts.**
 - Shared motifs: anti, bridges, catch, connections, desiring
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 27
+<<<<<<< HEAD
 - Shared motifs: anti, bridges, connections, desiring, direct
 #### [Production as Primary](Production-as-Primary.md)
 - Connection strength: 27
@@ -137,6 +138,27 @@ extreme simplicity of the parts.**
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, catch, connections, desiring
+=======
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Flow State](Flow-State.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Rhizome](Rhizome.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, direct, flow
+>>>>>>> origin/copilot/add-gamification-lens-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
