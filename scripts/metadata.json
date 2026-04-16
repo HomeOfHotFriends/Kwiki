@@ -1765,7 +1765,9 @@
         "flow_state",
         "content_vs_creative",
         "desiring_machine",
-        "tokotoko"
+        "tokotoko",
+        "taonga",
+        "te_whariki_pumotu"
       ],
       "whakapapa_snapshot": {
         "whakapapa": [
@@ -1827,6 +1829,17 @@
           "mauri",
           "anti_oopedipus",
           "singularity"
+        ],
+        "taonga": [
+          "the_law",
+          "mauri",
+          "whakapapa"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
         ]
       }
     },
