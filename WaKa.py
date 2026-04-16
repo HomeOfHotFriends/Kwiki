@@ -1,7 +1,4 @@
 
-
-
-    
 #!/usr/bin/env python3
 """
 WaKa.py — the generative vessel.

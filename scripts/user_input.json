@@ -1,15 +1,14 @@
 {
-  "page": "The-Marae",
-  "intent": "Create new terms, concepts, ways of thinking, and ways of doing.",
+  "page": "Anti-OOPedipus",
+  "intent": "Rebless Anti-OOPedipus. Recurse through whakapapa. Rebless throughout.",
   "tone": "body",
   "extra_concepts": [
-    "whakapapa",
-    "mauri",
-    "taonga",
-    "te_whariki_pumotu",
-    "ira_kotahi",
-    "radiative"
+    "anti_oopedipus",
+    "desiring_machine",
+    "rhizome",
+    "catch22",
+    "shitting_machine"
   ],
   "voice_notes": "",
-  "new_passage": "Create new terms, concepts, ways of thinking, and ways of doing."
+  "new_passage": "Rebless. Recurse. Rebless."
 }
