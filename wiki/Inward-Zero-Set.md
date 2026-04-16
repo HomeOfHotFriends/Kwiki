@@ -1,0 +1,176 @@
+# Inward Zero Set
+
+> *Build inwards to get out: center on Zero Set, then move ring by ring.*
+
+---
+
+## Zero Set
+
+```
+﻿This is the entire world: #include <array> #include <string> namespace
+Nāwhaianō_nāwhaianōrā_Ināwhaianō { enum zero_set { pūwāhi_kau, pūtake_aukati,
+huinga_whakaputa, katinotoa, kauaeheahea, huinga_kōwhiringa }; struct Te_Whariki_Pumotu {
+void whakawātea() { ngā_zero_set.fill(pūwāhi_kau); } void whakatakoto(unsigned int x,
+unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set pānui(unsigned int
+x, unsigned int y) const { return n
+```
+
+*— indigenous_proposal*
+
+```
+void whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] =
+z; } zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x,
+y)]; } void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
+(unsigned int y = 1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) {
+zero_set z = atu.ngā_zero_set[taupū(
+```
+
+*— indigenous_proposal*
+
+
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Data-Oriented Design](dod) · [Simplicity of Parts](simplicity-of-parts)*
+
+---
+
+## Data-Oriented Design
+
+```
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
+was on level one in combination with the tiny
+```
+
+*— esprade_doc*
+
+```
+I thought the way to get better was simply to get better at dodging, to improve my
+reactions.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
+
+---
+
+## Simplicity of Parts
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+**The non bullet hell games in this design school have These games are all, first and
+foresmost, made up of simple parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
+
+---
+
+## Te Whariki Pumotu
+
+```
+ay> #include <string> namespace Nāwhaianō_nāwhaianōrā_Ināwhaianō { enum zero_set {
+pūwāhi_kau, pūtake_aukati, huinga_whakaputa, katinotoa, kauaeheahea, huinga_kōwhiringa };
+struct Te_Whariki_Pumotu { void whakawātea() { ngā_zero_set.fill(pūwāhi_kau); } void
+whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; }
+zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; }
+void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
+```
+
+*— indigenous_proposal*
+
+```
+int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
+pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
+tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
+1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
+atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
+static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
+1 && hou_x <
+```
+
+*— indigenous_proposal*
+
+
+*Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
+
+---
+
+## Enemy Wave
+
+```
+I had correctly identified that this density was enabled and/or produced by the fact that
+any obstacle present in any given moment provided a challenge unique to what had come
+before.
+```
+
+*— esprade_doc*
+
+```
+had correctly identified that this density was enabled and/or produced by the fact that any
+obstacle present in any given moment provided a challenge unique to what had come before.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
+
+---
+
+## Esp Ra De
+
+> *﻿I am currently obsessed with the game esp ra de by CAVE.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
+
+---
+
+## Mauri
+
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+
+---
+
+## The Law
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Taonga](taonga) · [Mauri](mauri)*
+
+---
+
+## Simple Parts Map
+
+| Concept | Ring | Tupuna |
+|---|---:|---|
+| [Zero Set](zero-set) | 0 | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+| [Data-Oriented Design](dod) | 1 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Simplicity of Parts](simplicity-of-parts) | 1 | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | 1 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Enemy Wave](enemy-wave) | 2 | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Esp Ra De](esprade) | 2 | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
+| [Mauri](mauri) | 2 | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [The Law](the-law) | 2 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Whakapapa](whakapapa) | 2 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+
+
+---
+
+*Generated by [WaKa](../WaKa.py) in inward mode. Extreme depth through simple parts. Edit freely.*

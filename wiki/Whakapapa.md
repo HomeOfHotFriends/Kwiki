@@ -1,6 +1,6 @@
 # Whakapapa
 
-> *Rebless. Recurse. Rebless.*
+> *Generate Whakapapa through whakapapa links.*
 
 > *Rebless. Recurse. Rebless.*
 
@@ -8,13 +8,14 @@
 
 ## Whakapapa
 
-Rebless. Recurse. Rebless.
-
-*— user_input*
-
 ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
 i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
 whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
 
 *— ai_singularity_te_reo*
 

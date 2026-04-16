@@ -33,6 +33,7 @@ Usage:
   python3 WaKa.py --force            # overwrite existing page without prompting
   python3 WaKa.py --cross <A> <B>    # cross-generate A × B synthesis page
   python3 WaKa.py --rhizo <cA> <cB>  # print lateral whakapapa path between two concept_ids
+    python3 WaKa.py --wowee-zowee      # run pages + inward + cross modes in parallel
 """
 
 import json
@@ -40,6 +41,7 @@ import os
 import re
 import sys
 import textwrap
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -875,12 +877,159 @@ def scaffold_user_input(page: str, root: Path):
     print("Edit intent, then run: python3 WaKa.py")
 
 
+def _write_markdown(path: Path, content: str, force: bool) -> tuple[bool, str]:
+    """
+    Write markdown content to a file.
+    Returns (written, reason).
+    """
+    if path.exists() and not force:
+        return (False, "exists")
+    path.parent.mkdir(exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+    return (True, "written")
+
+
+def _page_job(page: str, passages: dict, force: bool) -> dict:
+    """Generate one registry page markdown file."""
+    ui = dict(DEFAULT_USER_INPUT)
+    ui["page"] = page
+    ui["intent"] = f"Generate {page.replace('-', ' ')} through whakapapa links."
+
+    md = generate_page(ui, passages)
+    out = ROOT / "wiki" / f"{page}.md"
+    written, reason = _write_markdown(out, md, force)
+
+    return {
+        "kind": "page",
+        "name": page,
+        "path": str(out.relative_to(ROOT)),
+        "written": written,
+        "reason": reason,
+        "cluster": get_cluster(page, ui.get("extra_concepts", [])),
+    }
+
+
+def _inward_job(center: str, depth: int, passages: dict, force: bool) -> dict:
+    """Generate one inward page from a center concept."""
+    page_name = f"Inward-{slug(center).title()}"
+    md = generate_inward_page(center, depth, passages, page_name=page_name)
+    out = ROOT / "wiki" / f"{page_name}.md"
+    written, reason = _write_markdown(out, md, force)
+
+    return {
+        "kind": "inward",
+        "name": page_name,
+        "path": str(out.relative_to(ROOT)),
+        "written": written,
+        "reason": reason,
+        "cluster": build_inward_cluster(center, depth),
+    }
+
+
+def _cross_job(page_a: str, page_b: str, passages: dict, force: bool) -> dict:
+    """Generate one cross page from two source pages."""
+    out_name = f"{page_a}-x-{page_b}"
+    md = cross_generate(page_a, page_b, passages)
+    out = ROOT / "wiki" / f"{out_name}.md"
+    written, reason = _write_markdown(out, md, force)
+
+    cluster = merge_clusters(get_cluster(page_a, []), get_cluster(page_b, []))
+
+    return {
+        "kind": "cross",
+        "name": out_name,
+        "path": str(out.relative_to(ROOT)),
+        "written": written,
+        "reason": reason,
+        "cluster": cluster,
+    }
+
+
+def run_wowee_zowee(passages: dict, force: bool = False, inward_depth: int = 2, workers: int = 8) -> dict:
+    """
+    Run three generation modes in parallel:
+      1) all registry pages
+      2) inward pages for all concepts
+      3) cross pages for neighboring registry entries
+    Returns a summary dict with counts and written paths.
+    """
+    page_names = list(PAGE_REGISTRY.keys())
+    cross_pairs = list(zip(page_names, page_names[1:]))
+
+    jobs = []
+    for page in page_names:
+        jobs.append(("page", page))
+    for cid in CONCEPT_IDS:
+        jobs.append(("inward", cid))
+    for page_a, page_b in cross_pairs:
+        jobs.append(("cross", (page_a, page_b)))
+
+    results = []
+    max_workers = max(2, min(workers, len(jobs)))
+
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        future_map = {}
+        for kind, payload in jobs:
+            if kind == "page":
+                fut = pool.submit(_page_job, payload, passages, force)
+            elif kind == "inward":
+                fut = pool.submit(_inward_job, payload, inward_depth, passages, force)
+            else:
+                page_a, page_b = payload
+                fut = pool.submit(_cross_job, page_a, page_b, passages, force)
+            future_map[fut] = kind
+
+        for fut in as_completed(future_map):
+            results.append(fut.result())
+
+    written = [r for r in results if r.get("written")]
+    skipped = [r for r in results if not r.get("written")]
+
+    # Metadata updates stay sequential to avoid file write races.
+    for item in written:
+        if item.get("kind") in {"page", "inward", "cross"}:
+            update_metadata(item["name"], item.get("cluster", []), ROOT)
+
+    by_kind = {
+        "page": len([r for r in written if r.get("kind") == "page"]),
+        "inward": len([r for r in written if r.get("kind") == "inward"]),
+        "cross": len([r for r in written if r.get("kind") == "cross"]),
+    }
+
+    return {
+        "written_count": len(written),
+        "skipped_count": len(skipped),
+        "by_kind": by_kind,
+        "written_paths": [r.get("path", "") for r in written],
+    }
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # CLI
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
     args = sys.argv[1:]
+
+    # --force / -f: overwrite existing pages without prompting
+    force = "--force" in args or "-f" in args
+    args = [a for a in args if a not in ("--force", "-f")]
+
+    # --wowee-zowee: run a set of modes simultaneously
+    if args and args[0] == "--wowee-zowee":
+        sources = load_sources(ROOT)
+        passages = index_passages(sources)
+        summary = run_wowee_zowee(passages, force=force)
+        print("WaKa ── wowee-zowee complete")
+        print(f"  written: {summary['written_count']} files")
+        print(f"  skipped: {summary['skipped_count']} files")
+        print(
+            "  by kind: "
+            f"pages={summary['by_kind']['page']} · "
+            f"inward={summary['by_kind']['inward']} · "
+            f"cross={summary['by_kind']['cross']}"
+        )
+        return
 
     # --cross <PageA> <PageB> [intent]: synthesise two pages
     if len(args) >= 3 and args[0] == "--cross":
@@ -943,10 +1092,6 @@ def main():
     if len(args) >= 2 and args[0] == "--new":
         scaffold_user_input(args[1], ROOT)
         return
-
-    # --force / -f: overwrite existing pages without prompting
-    force = "--force" in args or "-f" in args
-    args = [a for a in args if a not in ("--force", "-f")]
 
     # ensure scripts/user_input.json exists
     ui_path = ROOT / "scripts" / "user_input.json"

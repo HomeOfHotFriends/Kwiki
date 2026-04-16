@@ -1,0 +1,149 @@
+# Inward Catch22
+
+> *Build inwards to get out: center on Catch-22, then move ring by ring.*
+
+---
+
+## Catch-22
+
+> *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
+
+*— esprade_doc*
+
+> *and read Catch 22.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
+
+---
+
+## Anti-OOPedipus
+
+**This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
+the only creative product which has produced an engagement that rivals my favourite shmups:
+I honestly don’t know if DDP 1 or**
+
+*— esprade_doc*
+
+**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
+which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
+DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+---
+
+## Content vs Creative Product
+
+April, 2023 - MultiLingual, accessed April 2, 2026, https://multilingual.com/wp-
+content/uploads/2023/04/214_April.pdf 2.
+
+*— ai_singularity_te_reo*
+
+THE LECTIONARY TE MARAMATAKA Year A - 2026 - Anglican Church in Aotearoa, New Zealand and
+Polynesia, accessed April 2, 2026, https://anglican.org.nz/content/download/162021/813325/ve
+rsion/1/file/2026+Lectionary+Final.pdf 16.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
+
+---
+
+## Flow State
+
+My ADHD could no longer handle any other game experience.
+
+*— esprade_doc*
+
+Not a single part of me had to force myself to focus.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+
+---
+
+## Desiring-Machine
+
+: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
+2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
+production-and-inspection-at-czit-development-ltd/ 20.
+
+*— ai_singularity_te_reo*
+
+m my suffering than the two screen method (which required finding a game + movie/show
+combination that allowed for just the right amount of awareness without effort to achieve
+the desired result) but I had found a way to focus again that was possible even in my
+current low-energy state.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+---
+
+## Data-Oriented Design
+
+```
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
+was on level one in combination with the tiny
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
+
+---
+
+## Esp Ra De
+
+> *﻿I am currently obsessed with the game esp ra de by CAVE.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
+
+---
+
+## Frog In A Pot
+
+> *Sure, as soon as you finish an album you.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Catch-22](catch22)*
+
+---
+
+## Simple Parts Map
+
+| Concept | Ring | Tupuna |
+|---|---:|---|
+| [Catch-22](catch22) | 0 | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Anti-OOPedipus](anti-oopedipus) | 1 | [Desiring-Machine](desiring-machine), [Rhizome](rhizome), [Catch-22](catch22) |
+| [Content vs Creative Product](content-vs-creative) | 1 | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
+| [Flow State](flow-state) | 1 | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
+| [Desiring-Machine](desiring-machine) | 2 | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
+| [Data-Oriented Design](dod) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Esp Ra De](esprade) | 2 | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
+| [Frog In A Pot](frog-in-pot) | 2 | [Esp Ra De](esprade), [Flow State](flow-state), [Content vs Creative Product](content-vs-creative) |
+| [Radiative](radiative) | 2 | [Content vs Creative Product](content-vs-creative), [Data-Oriented Design](dod), [The Law](the-law) |
+| [Rhizome](rhizome) | 2 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Shitting Machine](shitting-machine) | 2 | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
+
+
+---
+
+*Generated by [WaKa](../WaKa.py) in inward mode. Extreme depth through simple parts. Edit freely.*

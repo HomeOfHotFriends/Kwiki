@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "apps/kwiki-web",
+  "apps/kwiki-admin",
+]
+resolver = "2"

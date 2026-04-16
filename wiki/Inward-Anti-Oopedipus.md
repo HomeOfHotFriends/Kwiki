@@ -1,0 +1,157 @@
+# Inward Anti Oopedipus
+
+> *Build inwards to get out: center on Anti-OOPedipus, then move ring by ring.*
+
+---
+
+## Anti-OOPedipus
+
+**This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
+the only creative product which has produced an engagement that rivals my favourite shmups:
+I honestly don’t know if DDP 1 or**
+
+*— esprade_doc*
+
+**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
+which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
+DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+---
+
+## Catch-22
+
+> *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
+
+*— esprade_doc*
+
+> *and read Catch 22.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
+
+---
+
+## Desiring-Machine
+
+: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
+2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
+production-and-inspection-at-czit-development-ltd/ 20.
+
+*— ai_singularity_te_reo*
+
+m my suffering than the two screen method (which required finding a game + movie/show
+combination that allowed for just the right amount of awareness without effort to achieve
+the desired result) but I had found a way to focus again that was possible even in my
+current low-energy state.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+---
+
+## Data-Oriented Design
+
+```
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
+was on level one in combination with the tiny
+```
+
+*— esprade_doc*
+
+```
+I thought the way to get better was simply to get better at dodging, to improve my
+reactions.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
+
+---
+
+## Rhizome
+
+Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
+
+*— untitled2*
+
+means by Rhizome'.
+
+*— untitled2*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
+
+---
+
+## Shitting Machine
+
+> *Try to distract yourself by ‘shitting out’ a masterpiece G.*
+
+*— frog_in_a_pot*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
+
+---
+
+## Content vs Creative Product
+
+April, 2023 - MultiLingual, accessed April 2, 2026, https://multilingual.com/wp-
+content/uploads/2023/04/214_April.pdf 2.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
+
+---
+
+## Enemy Wave
+
+```
+I had correctly identified that this density was enabled and/or produced by the fact that
+any obstacle present in any given moment provided a challenge unique to what had come
+before.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
+
+---
+
+## Simple Parts Map
+
+| Concept | Ring | Tupuna |
+|---|---:|---|
+| [Anti-OOPedipus](anti-oopedipus) | 0 | [Desiring-Machine](desiring-machine), [Rhizome](rhizome), [Catch-22](catch22) |
+| [Catch-22](catch22) | 1 | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Desiring-Machine](desiring-machine) | 1 | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
+| [Data-Oriented Design](dod) | 1 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Rhizome](rhizome) | 1 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Shitting Machine](shitting-machine) | 1 | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
+| [Content vs Creative Product](content-vs-creative) | 2 | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
+| [Enemy Wave](enemy-wave) | 2 | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Flow State](flow-state) | 2 | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
+| [Simplicity of Parts](simplicity-of-parts) | 2 | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | 2 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [The Law](the-law) | 2 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Whakapapa](whakapapa) | 2 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Zero Set](zero-set) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+
+
+---
+
+*Generated by [WaKa](../WaKa.py) in inward mode. Extreme depth through simple parts. Edit freely.*

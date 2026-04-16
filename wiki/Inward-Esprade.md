@@ -1,0 +1,161 @@
+# Inward Esprade
+
+> *Build inwards to get out: center on Esp Ra De, then move ring by ring.*
+
+---
+
+## Esp Ra De
+
+> *﻿I am currently obsessed with the game esp ra de by CAVE.*
+
+*— esprade_doc*
+
+> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
+
+---
+
+## Determinism
+
+```
+response bepositioning games are designed to be essentially completely deterministic.
+```
+
+*— esprade_doc*
+
+```
+Even the use of randomisation is non-significant in run-to-run differentiation: since the
+arcade board has no OS, and has no hardware that allows the tracking of time, the
+psuedorandomness, at worst, could use player input as a seed.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
+
+---
+
+## Enemy Wave
+
+```
+I had correctly identified that this density was enabled and/or produced by the fact that
+any obstacle present in any given moment provided a challenge unique to what had come
+before.
+```
+
+*— esprade_doc*
+
+```
+had correctly identified that this density was enabled and/or produced by the fact that any
+obstacle present in any given moment provided a challenge unique to what had come before.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
+
+---
+
+## Positioning
+
+```
+seemed to be impossible to follow in a way that made reactions possible; no standard shmup
+approached such as bullet streaming and cut backs seemed to works; the affect of initial
+position seemed to be nonexistant both on the x and y axis nor did staying in any particular
+portion of the screen seem to help; and attempting bullet manipulation to create gaps
+created disasterous results.
+```
+
+*— esprade_doc*
+
+```
+to works; the affect of initial position seemed to be nonexistant both on the x and y axis
+nor did staying in any particular portion of the screen seem to help; and attempting bullet
+manipulation to create gaps created disasterous results.
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
+
+---
+
+## Simplicity of Parts
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+**The non bullet hell games in this design school have These games are all, first and
+foresmost, made up of simple parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
+
+---
+
+## The Law
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Taonga](taonga) · [Mauri](mauri)*
+
+---
+
+## Data-Oriented Design
+
+```
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
+was on level one in combination with the tiny
+```
+
+*— esprade_doc*
+
+
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
+
+---
+
+## Mauri
+
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+
+---
+
+## Simple Parts Map
+
+| Concept | Ring | Tupuna |
+|---|---:|---|
+| [Esp Ra De](esprade) | 0 | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
+| [Determinism](determinism) | 1 | [Esp Ra De](esprade), [Data-Oriented Design](dod), [Positioning](positioning) |
+| [Enemy Wave](enemy-wave) | 1 | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Positioning](positioning) | 1 | [Esp Ra De](esprade), [Enemy Wave](enemy-wave), [Data-Oriented Design](dod) |
+| [Simplicity of Parts](simplicity-of-parts) | 1 | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
+| [The Law](the-law) | 1 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
+| [Data-Oriented Design](dod) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Mauri](mauri) | 2 | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Taonga](taonga) | 2 | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
+
+
+---
+
+*Generated by [WaKa](../WaKa.py) in inward mode. Extreme depth through simple parts. Edit freely.*
