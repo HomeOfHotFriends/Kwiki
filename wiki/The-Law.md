@@ -1,97 +1,108 @@
 # The Law
 
-> *There is one law that I know. Only one I can state as truth.*  
-> *It is my most precious stone and I present it as **taonga**.*
+> *Explain the one law. Connect it to taonga, DOD, and whakapapa.*
 
 ---
 
 ## The Law
 
-**Extreme depth of the whole achieved through extreme simplicity of the parts.**
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Taonga](taonga) · [Mauri](mauri)*
+
+---
+
+## Simplicity of Parts
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+**The non bullet hell games in this design school have These games are all, first and
+foresmost, made up of simple parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
 
 ---
 
 ## Taonga
 
-In Te Ao Māori, **taonga** is a treasure — but not in the Western sense of hoarded wealth. Taonga is a gift that obligates. It is presented, not kept. To receive taonga is to receive responsibility. The Māori concept of kaitiakitanga (guardianship) activates the moment taonga changes hands.
+**I still don't quite know how; I am not a particularly gifted programmer, I hadn't followed
+any guides or looked at any code**
 
-This law is taonga. It is presented here once, at the root of every page, and it obligates every design decision made from this point. If a decision makes parts more complex to produce depth, the law is broken. If depth is sacrificed to keep parts simple, the law is honoured incorrectly — simplicity without depth is just emptiness.
+*— esprade_doc*
 
-The law is not a trick. It is the most compressed possible statement of everything the esprade analysis, Anti-OOPedipus, and the DOD approach are trying to say.
+**getic Title Space Dad, A Portrait A Memoir Gharv Unkle Edited by Karl Leisky Diegetic
+Epigraph The scar is not a disfigurement; it is a map that proves you once held a universe
+of treasure ―Morhf**
 
----
+*— frog_in_a_pot*
 
-## The Law in Evidence: EspRaDe
 
-**Bullet:** `{ x, y, dx, dy }` — four values, locked at birth.  
-**Enemy body:** a moving spawn point.  
-**Pattern:** a function that determines bullet spawn position, trajectory, speed, and time from a small set of parameters.  
-
-From these: ~200 bullets per frame, patterns that interact with each other, the player's position, the player's hitbox (a few pixels), and the player's movement speed (two values: focused/unfocused). From four values per bullet and two values per player: a game that rewards thousands of hours of play. The depth is *emergent* — it is not stored anywhere in the code. It is produced by the simplicity connecting to itself.
-
-> The Law as loop: simple parts → maximum combinatory space → emergent depth → player experience of infinite variation → the loop justifies the simplicity.
+*Whakapapa: [The Law](the-law) · [Mauri](mauri) · [Whakapapa](whakapapa)*
 
 ---
 
-## The Law in Evidence: Anti-Oedipus
+## Mauri
 
-Deleuze and Guattari's method: molecular concepts, simple definitions (machine, flow, cut, recording) that combine into extraordinary conceptual depth. The book is not "hard" because the ideas are complex. It is hard because **you have to hold many simple ideas in relation simultaneously** and follow their interactions. The depth is combinatory, not intrinsic.
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
 
-The same structure as EspRaDe. The same Law.
+*— ai_singularity_te_reo*
 
----
+.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
+te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
+Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
+te rā
 
-## The Law in Evidence: Te Whariki Pumotu
+*— ai_singularity_te_reo*
 
-```cpp
-enum zero_set { pūwāhi_kau, pūtake_aukati, huinga_whakaputa,
-                katinotoa, kauaeheahea, huinga_kōwhiringa };
-```
 
-Six states. A 19×19 grid. The interactions between these six states — which cells are adjacent, which are in which state, how `tāpiri()` (composition) works — produce the spatial language of the game world. Six states. World-building capacity.
-
----
-
-## The Law as Ira Kotahi
-
-From the AI singularity essay in Te Reo Māori:
-
-> *Ko te "ira kotahi" he "single digit"*  
-> *(The ira kotahi is a single digit)*
-
-Ira kotahi — the singular unity. In Māori mathematics: the number 1. In the ontological sense: the moment of self-unity, where complexity collapses back to a simple origin. The Law operates like ira kotahi: extreme simplicity that contains all possible depth. It is the origin of the tree, not the tree itself.
-
-The Law is not complicated. It takes one sentence. From it: everything.
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
 
 ---
 
-## The Violation
+## Ira Kotahi
 
-Every known violation of the Law follows the same pattern:
+**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
+raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
-**Step 1:** The parts are made more complex to handle "edge cases" or "anticipated future needs."  
-**Step 2:** The combinatory space collapses because complex parts interfere with each other unpredictably.  
-**Step 3:** The depth of the whole *decreases* even as the complexity of the parts increases.  
-**Step 4:** The game (or system, or codebase) becomes brittle. Iteration slows. The machine stops producing.
+*— ai_singularity_te_reo*
 
-From the esprade doc, the failed shmup project:
+**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
+ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
+singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
-> *My system of ultimate expression was agonising to experiment and iterate with, AND boxed me into even more rigid corners than the limitations I believed would arise from having a spawning system where each enemy type A has the same speed value.*
+*— ai_singularity_te_reo*
 
-He built complex parts seeking maximum control. The maximum-control machine produced minimum emergent depth. The hierarchy (timed spawns locked to architecture) prevented the very thing he was trying to produce. The Oedipal machine reasserted itself through the back door of "granular control."
 
----
-
-## Keeping the Law
-
-The Law is not kept by intelligence. It is kept by **discipline and restraint** — by refusing to add complexity to parts even when it feels like the "right" solution. The constraint is the gift. The limit is what produces the depth.
-
-This is kaitiakitanga applied to design: guard the simplicity of the parts as if they are taonga. They are.
+*Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
 
 ---
 
-## Whakapapa
+## Whakapapa Connections
 
-- Upstream: [Whakapapa](Whakapapa), [Anti-OOPedipus](Anti-OOPedipus)
-- Downstream: [DOD](DOD), [Design Rules](Design-Rules), [Machines](Machines)
-- In code: [Te Reo and Code](Te-Reo-and-Code)
+| Concept | Tupuna |
+|---|---|
+| [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
+| [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
+| [Enemy Wave](enemy-wave) | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
+| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Tokotoko](tokotoko) | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
+
+---
+
+
+---
+
+*Generated by [WaKa](../WaKa.py). Old work is whakapapa, not gospel. Edit freely.*
