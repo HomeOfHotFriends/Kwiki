@@ -15,7 +15,8 @@ Philosophy of this file:
     tupuna = ancestor, source, origin, influence. not parent-child but lateral. āe = well ❤️‍🩹 
 
     yeesssss    
-                   mauri = the life-force that makes a thing itself.
+                   mauri = the l
+                   ife-force that makes a thing itself.
                    ira kotahi = the singularity / the law.
 
 The one law:
