@@ -591,7 +591,7 @@ def generate_inward_page(
     if not cluster:
         return f"# Inward\n\nUnknown concept_id: {center}\n"
 
-    selected = select_passages(cluster, passages, max_per=2)
+    selected = select_passages(cluster, passages, max_per=fib(4))  # center ring gets up to fib(4)=3
     distances = inward_distances(center, depth)
     title = page_name.replace("-", " ") if page_name else f"Inward {CONCEPT_NAMES.get(center, center)}"
 
@@ -603,15 +603,15 @@ def generate_inward_page(
     lines.append(f"> *{lead}*\n")
     lines.append("---\n")
 
-    # Keep the core visible: center + nearest concepts first.
-    for cid in cluster[:8]:
+    # Keep the core visible: fib(6)=8 concept sections, closest rings first.
+    for cid in cluster[:FIB_SECTION_LIMIT]:
         lines.append(build_section(cid, selected))
         lines.append("---\n")
 
     lines.append("## Simple Parts Map\n")
     lines.append("| Concept | Ring | Tupuna |")
     lines.append("|---|---:|---|")
-    for cid in cluster[:16]:
+    for cid in cluster[:FIB_MAP_LIMIT]:  # fib(7)=13
         ring = distances.get(cid, "?")
         linked = WHAKAPAPA.get(cid, [])[:3]
         tupuna = ", ".join(f"[{CONCEPT_NAMES.get(t, t)}]({slug(t)})" for t in linked) if linked else "—"
@@ -677,6 +677,12 @@ def update_metadata(page: str, cluster: list, root: Path):
 FIB_WEAVE_TIGHT  = (2, 1)   # fib(3) : fib(2)
 FIB_WEAVE_SPREAD = (3, 2)   # fib(4) : fib(3)
 FIB_WEAVE_EVEN   = (5, 3)   # fib(5) : fib(4)
+
+FIB_WHAKAPAPA_EXPAND = 3    # fib(4) — whakapapa links expanded per concept in get_cluster
+FIB_RHIZO_MAX_DEPTH  = 5    # fib(5) — max BFS depth for rhizo_path
+FIB_SECONDARY_LIMIT  = 5    # fib(5) — secondary concept rows in generate_page table
+FIB_SECTION_LIMIT    = 8    # fib(6) — concept sections rendered in generate_inward_page
+FIB_MAP_LIMIT        = 13   # fib(7) — rows in the Simple Parts Map table
 #   cross_generate    — generate a page synthesising two source pages
 # ─────────────────────────────────────────────────────────────────────────────
 
