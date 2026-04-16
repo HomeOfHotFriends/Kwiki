@@ -30,3 +30,11 @@ You can override ports with env vars:
 
 - `KWIKI_WEB_PORT`
 - `KWIKI_ADMIN_PORT`
+
+## Admin Metrics Source
+
+`kwiki-admin` reads metadata from `../scripts/metadata.json` by default.
+
+You can override this path with:
+
+- `KWIKI_METADATA_PATH`
