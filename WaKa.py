@@ -316,6 +316,8 @@ DEFAULT_USER_INPUT = {
     "new_passage": ""
 }
 
+REBLESS_REFRAIN = "Rebless. Recurse. Rebless."
+
 def load_user_input(root: Path) -> dict:
     p = root / "scripts" / "user_input.json"
     if p.exists():
@@ -361,6 +363,14 @@ def get_cluster(page: str, extra: list) -> list:
             ordered.append(e)
 
     return ordered
+
+
+def should_rebless(page: str, cluster: list) -> bool:
+    """
+    Apply the rebless-recurse-rebless refrain to Anti-OOPedipus pages and
+    any page whose living cluster includes anti_oopedipus.
+    """
+    return page == "Anti-OOPedipus" or "anti_oopedipus" in set(cluster)
 
 
 def select_passages(cluster: list, passages: dict, max_per: int = 2) -> list:
@@ -453,12 +463,16 @@ def generate_page(user_input: dict, passages: dict) -> str:
     lines.append(f"# {title}\n")
     if intent:
         lines.append(f"> *{intent}*\n")
+    if should_rebless(page, cluster):
+        lines.append(f"> *{REBLESS_REFRAIN}*\n")
     lines.append("---\n")
 
     # primary concept sections
     for cid in primary:
         if cid in CONCEPT_IDS:
             lines.append(build_section(cid, selected))
+            if should_rebless(page, cluster):
+                lines.append(f"> *{REBLESS_REFRAIN}*\n")
             lines.append("---\n")
 
     # whakapapa connections table
