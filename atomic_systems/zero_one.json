@@ -1,0 +1,12 @@
+{
+  "name": "zero_one",
+  "description": "A fantasy logic system where 0 and 1 can mean anything: true/false, continuous/discrete, sensible/silly, etc.",
+  "meanings": [
+    {"0": "false", "1": "true"},
+    {"0": "continuous", "1": "discrete"},
+    {"0": "sensible", "1": "silly"},
+    {"0": "off", "1": "on"},
+    {"0": "no", "1": "yes"}
+  ],
+  "notes": "This system is not a compiler or VM, but a playground for binary meaning. Extend as desired."
+}

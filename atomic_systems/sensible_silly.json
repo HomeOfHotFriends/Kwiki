@@ -1,0 +1,9 @@
+{
+  "name": "sensible_silly",
+  "description": "A fantasy logic system where 0 means sensible and 1 means silly. Used for playful toggling of logic modes.",
+  "examples": [
+    {"0": "serious calculation", "1": "nonsense output"},
+    {"0": "rational", "1": "absurd"}
+  ],
+  "notes": "Switch between sensible and silly as a creative constraint."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "true_discrete",
+  "description": "A fantasy logic system where 0 means true and 1 means discrete. Used for exploring paradoxical or playful logic.",
+  "examples": [
+    {"0": "truth", "1": "separate event"},
+    {"0": "always", "1": "sometimes"}
+  ],
+  "notes": "This system intentionally breaks expectations."
+}

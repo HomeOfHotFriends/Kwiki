@@ -1,0 +1,10 @@
+{
+  "systems": [
+    "zero_one",
+    "poemachine",
+    "continuous_discrete",
+    "sensible_silly",
+    "true_discrete"
+  ],
+  "notes": "Index of all atomic systems. Add new systems here."
+}

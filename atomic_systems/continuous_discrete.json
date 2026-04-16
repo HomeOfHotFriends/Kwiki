@@ -1,0 +1,9 @@
+{
+  "name": "continuous_discrete",
+  "description": "A fantasy logic system where 0 means continuous and 1 means discrete. Used for simulating analog/digital boundaries.",
+  "examples": [
+    {"0": "analog signal", "1": "digital pulse"},
+    {"0": "gradient", "1": "step"}
+  ],
+  "notes": "This system is a metaphorical playground for thinking about boundaries."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "poemachine",
+  "description": "A fantasy language where each instruction is a poetic transformation. No compilation, just interpretation of meaning.",
+  "instructions": [
+    "invert: swap all 0s and 1s in the input",
+    "riff: repeat the last phrase with a twist",
+    "pause: insert a moment of silence",
+    "echo: repeat the previous output"
+  ],
+  "notes": "Poemachine is for generative, playful logic. Extend with new poetic instructions."
+}
