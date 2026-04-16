@@ -3,8 +3,8 @@ use axum::{
     routing::get,
     Router,
 };
-use serde::Serialize;
-use std::{env, net::SocketAddr};
+use serde::{Deserialize, Serialize};
+use std::{collections::HashMap, env, fs, net::SocketAddr, path::PathBuf};
 
 #[derive(Serialize)]
 struct AdminStatus {
@@ -14,8 +14,23 @@ struct AdminStatus {
 
 #[derive(Serialize)]
 struct Metrics {
-    wiki_pages_hint: usize,
-    note: &'static str,
+    metadata_path: String,
+    read_ok: bool,
+    wiki_pages: usize,
+    concept_count: usize,
+    page_count: usize,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    error: Option<String>,
+}
+
+#[derive(Deserialize)]
+struct Metadata {
+    #[serde(default)]
+    pages: HashMap<String, serde_json::Value>,
+    #[serde(default)]
+    concept_count: usize,
+    #[serde(default)]
+    page_count: usize,
 }
 
 #[tokio::main]
@@ -48,8 +63,38 @@ async fn admin_status() -> Json<AdminStatus> {
 }
 
 async fn admin_metrics() -> Json<Metrics> {
-    Json(Metrics {
-        wiki_pages_hint: 74,
-        note: "replace with live metadata wiring",
-    })
+    let metadata_path = env::var("KWIKI_METADATA_PATH")
+        .map(PathBuf::from)
+        .unwrap_or_else(|_| PathBuf::from("../scripts/metadata.json"));
+
+    let path_str = metadata_path.to_string_lossy().to_string();
+
+    match fs::read_to_string(&metadata_path) {
+        Ok(raw) => match serde_json::from_str::<Metadata>(&raw) {
+            Ok(meta) => Json(Metrics {
+                metadata_path: path_str,
+                read_ok: true,
+                wiki_pages: meta.pages.len(),
+                concept_count: meta.concept_count,
+                page_count: meta.page_count,
+                error: None,
+            }),
+            Err(e) => Json(Metrics {
+                metadata_path: path_str,
+                read_ok: false,
+                wiki_pages: 0,
+                concept_count: 0,
+                page_count: 0,
+                error: Some(format!("invalid json: {e}")),
+            }),
+        },
+        Err(e) => Json(Metrics {
+            metadata_path: path_str,
+            read_ok: false,
+            wiki_pages: 0,
+            concept_count: 0,
+            page_count: 0,
+            error: Some(format!("read failed: {e}")),
+        }),
+    }
 }
