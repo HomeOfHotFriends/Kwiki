@@ -4,22 +4,21 @@
 
 ---
 
-*No frontmatter tags found yet.*
+**4 tag(s)** across wiki pages.
 
-## How to add tags
+## `biography`
 
-Add a YAML frontmatter block at the **top** of any wiki page:
+- [User Profile](User-Profile.md)
 
-```markdown
----
-tags: dod, maori, design
-status: draft
-summary: One-sentence summary.
-updated: 2026-04-16
----
+## `creator`
 
-# Page Title
-...
-```
+- [User Profile](User-Profile.md)
 
-Re-run `python3 scripts/wiki_index.py` to rebuild this page.
+## `genealogy`
+
+- [User Profile](User-Profile.md)
+
+## `whakapapa`
+
+- [User Profile](User-Profile.md)
+

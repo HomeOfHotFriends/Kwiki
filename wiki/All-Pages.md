@@ -4,79 +4,116 @@
 
 ---
 
-**70 pages** — alphabetical, content and cross-synthesis.
+**107 pages** — alphabetical, content and cross-synthesis.
 
 | Page | Inbound | Outbound |
 |---|---|---|
-| [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 14 | 37 |
-| [Anti OOPedipus](Anti-OOPedipus.md) | 39 | 59 |
-| [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md) ✕ | 0 | 21 |
-| [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md) ✕ | 12 | 42 |
-| [Catch 22](Catch-22.md) | 20 | 48 |
-| [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md) ✕ | 5 | 22 |
-| [Content vs Creative](Content-vs-Creative.md) | 24 | 29 |
-| [Design Rules](Design-Rules.md) | 14 | 52 |
-| [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md) ✕ | 15 | 18 |
-| [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md) ✕ | 13 | 36 |
-| [Desiring Machine](Desiring-Machine.md) | 26 | 32 |
-| [Determinism](Determinism.md) | 15 | 44 |
-| [DOD](DOD.md) | 50 | 52 |
-| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) ✕ | 25 | 54 |
-| [DOD × Catch-22](DOD-x-Catch-22.md) ✕ | 0 | 7 |
-| [Enemy Wave](Enemy-Wave.md) | 22 | 44 |
-| [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md) ✕ | 15 | 21 |
-| [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md) ✕ | 4 | 18 |
-| [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md) ✕ | 0 | 13 |
-| [Fiap pot](FIAP POT.md) | 13 | 18 |
-| [Flow State](Flow-State.md) | 20 | 36 |
-| [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md) ✕ | 16 | 18 |
-| [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md) ✕ | 0 | 0 |
-| [Frog In A Pot](Frog-In-A-Pot.md) | 12 | 30 |
-| [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md) ✕ | 11 | 17 |
-| [Genealogy of j](Genealogy-of-j.md) | 7 | 58 |
-| [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md) ✕ | 4 | 45 |
-| [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md) ✕ | 31 | 37 |
-| [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md) ✕ | 0 | 17 |
-| [Indigenous Proposal](Indigenous-Proposal.md) | 6 | 36 |
-| [Ira Kotahi](Ira-Kotahi.md) | 28 | 35 |
-| [Machines](Machines.md) | 7 | 54 |
-| [Machines × Radiative](Machines-x-Radiative.md) ✕ | 0 | 22 |
-| [Machines × The-Law](Machines-x-The-Law.md) ✕ | 4 | 38 |
-| [Mauri](Mauri.md) | 39 | 35 |
-| [Mauri × Catch-22](Mauri-x-Catch-22.md) ✕ | 0 | 0 |
-| [Oedipal Machine](Oedipal-Machine.md) | 0 | 31 |
-| [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md) ✕ | 0 | 0 |
-| [Positioning](Positioning.md) | 15 | 39 |
-| [Production as Primary](Production-as-Primary.md) | 10 | 47 |
-| [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md) ✕ | 0 | 4 |
-| [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md) ✕ | 9 | 22 |
-| [Radiative](Radiative.md) | 11 | 56 |
-| [Radiative × Singularity](Radiative-x-Singularity.md) ✕ | 3 | 24 |
-| [Rhizome](Rhizome.md) | 36 | 37 |
-| [Scripts](Scripts.md) | 1 | 50 |
-| [Scripts × Singularity](Scripts-x-Singularity.md) ✕ | 0 | 29 |
-| [Scripts × Whakapapa](Scripts-x-Whakapapa.md) ✕ | 2 | 40 |
-| [Shitting Machine](Shitting-Machine.md) | 14 | 35 |
-| [Shmup Genealogy](Shmup-Genealogy.md) | 5 | 50 |
-| [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md) ✕ | 0 | 4 |
-| [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md) ✕ | 16 | 29 |
-| [Simplicity of Parts](Simplicity-of-Parts.md) | 31 | 40 |
-| [Singularity](Singularity.md) | 16 | 48 |
-| [Taonga](Taonga.md) | 21 | 38 |
-| [Taonga × Rhizome](Taonga-x-Rhizome.md) ✕ | 0 | 0 |
-| [Te Reo and Code](Te-Reo-and-Code.md) | 0 | 48 |
-| [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md) ✕ | 9 | 44 |
-| [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md) ✕ | 24 | 47 |
-| [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md) ✕ | 0 | 25 |
-| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 45 | 40 |
-| [The Law](The-Law.md) | 45 | 62 |
-| [The-Law × Singularity](The-Law-x-Singularity.md) ✕ | 0 | 27 |
-| [The Marae](The-Marae.md) | 4 | 58 |
-| [Tokotoko](Tokotoko.md) | 15 | 37 |
-| [Whakapapa](Whakapapa.md) | 42 | 57 |
-| [Whakapapa × Radiative](Whakapapa-x-Radiative.md) ✕ | 16 | 42 |
-| [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md) ✕ | 0 | 0 |
-| [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md) ✕ | 3 | 41 |
-| [Zero Set](Zero-Set.md) | 27 | 62 |
+| [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 11 | 43 |
+| [Anti OOPedipus](Anti-OOPedipus.md) | 62 | 35 |
+| [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md) ✕ | 0 | 17 |
+| [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md) ✕ | 8 | 37 |
+| [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md) ✕ | 18 | 52 |
+| [Catch 22](Catch-22.md) | 15 | 28 |
+| [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md) ✕ | 7 | 32 |
+| [Content vs Creative](Content-vs-Creative.md) | 33 | 31 |
+| [Design Rules](Design-Rules.md) | 10 | 29 |
+| [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md) ✕ | 12 | 24 |
+| [Design-Rules × Scripts](Design-Rules-x-Scripts.md) ✕ | 0 | 17 |
+| [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md) ✕ | 18 | 46 |
+| [Desiring Machine](Desiring-Machine.md) | 47 | 33 |
+| [Determinism](Determinism.md) | 28 | 44 |
+| [DOD](DOD.md) | 85 | 28 |
+| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) ✕ | 22 | 56 |
+| [DOD × Catch-22](DOD-x-Catch-22.md) ✕ | 1 | 21 |
+| [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md) ✕ | 0 | 16 |
+| [Enemy Wave](Enemy-Wave.md) | 47 | 21 |
+| [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md) ✕ | 15 | 1 |
+| [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md) ✕ | 4 | 25 |
+| [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md) ✕ | 0 | 27 |
+| [Fiap pot](FIAP POT.md) | 9 | 24 |
+| [Flow State](Flow-State.md) | 35 | 36 |
+| [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md) ✕ | 10 | 24 |
+| [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md) ✕ | 0 | 8 |
+| [Frog In A Pot](Frog-In-A-Pot.md) | 8 | 36 |
+| [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md) ✕ | 9 | 24 |
+| [Genealogy of j](Genealogy-of-j.md) | 7 | 41 |
+| [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md) ✕ | 6 | 49 |
+| [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md) ✕ | 27 | 17 |
+| [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md) ✕ | 2 | 30 |
+| [Indigenous Proposal](Indigenous-Proposal.md) | 4 | 41 |
+| [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 0 | 77 |
+| [Inward Catch22](Inward-Catch22.md) | 0 | 63 |
+| [Inward Content Vs Creative](Inward-Content-Vs-Creative.md) | 0 | 60 |
+| [Inward Desiring Machine](Inward-Desiring-Machine.md) | 0 | 66 |
+| [Inward Determinism](Inward-Determinism.md) | 0 | 69 |
+| [Inward Dod](Inward-Dod.md) | 0 | 71 |
+| [Inward Enemy Wave](Inward-Enemy-Wave.md) | 0 | 61 |
+| [Inward Esprade](Inward-Esprade.md) | 0 | 61 |
+| [Inward Flow State](Inward-Flow-State.md) | 0 | 68 |
+| [Inward Frog In Pot](Inward-Frog-In-Pot.md) | 0 | 69 |
+| [Inward Ira Kotahi](Inward-Ira-Kotahi.md) | 0 | 68 |
+| [Inward Mauri](Inward-Mauri.md) | 0 | 74 |
+| [Inward Positioning](Inward-Positioning.md) | 0 | 69 |
+| [Inward Radiative](Inward-Radiative.md) | 0 | 74 |
+| [Inward Rhizome](Inward-Rhizome.md) | 0 | 78 |
+| [Inward Shitting Machine](Inward-Shitting-Machine.md) | 0 | 58 |
+| [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md) | 0 | 69 |
+| [Inward Singularity](Inward-Singularity.md) | 0 | 61 |
+| [Inward Taonga](Inward-Taonga.md) | 0 | 71 |
+| [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md) | 0 | 73 |
+| [Inward The Law](Inward-The-Law.md) | 0 | 77 |
+| [Inward Tokotoko](Inward-Tokotoko.md) | 0 | 81 |
+| [Inward Whakapapa](Inward-Whakapapa.md) | 0 | 86 |
+| [Inward Zero Set](Inward-Zero-Set.md) | 0 | 64 |
+| [Ira Kotahi](Ira-Kotahi.md) | 48 | 35 |
+| [Machines](Machines.md) | 9 | 31 |
+| [Machines × Radiative](Machines-x-Radiative.md) ✕ | 1 | 38 |
+| [Machines × The-Law](Machines-x-The-Law.md) ✕ | 8 | 43 |
+| [Machines × Whakapapa](Machines-x-Whakapapa.md) ✕ | 0 | 24 |
+| [Mauri](Mauri.md) | 62 | 35 |
+| [Mauri × Catch-22](Mauri-x-Catch-22.md) ✕ | 0 | 8 |
+| [Oedipal Machine](Oedipal-Machine.md) | 1 | 31 |
+| [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md) ✕ | 0 | 8 |
+| [Positioning](Positioning.md) | 34 | 39 |
+| [Production as Primary](Production-as-Primary.md) | 9 | 24 |
+| [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md) ✕ | 0 | 16 |
+| [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md) ✕ | 11 | 4 |
+| [Radiative](Radiative.md) | 18 | 32 |
+| [Radiative × Singularity](Radiative-x-Singularity.md) ✕ | 9 | 9 |
+| [Rhizome](Rhizome.md) | 61 | 37 |
+| [Scripts](Scripts.md) | 1 | 32 |
+| [Scripts × Radiative](Scripts-x-Radiative.md) ✕ | 0 | 11 |
+| [Scripts × Singularity](Scripts-x-Singularity.md) ✕ | 1 | 44 |
+| [Scripts × Whakapapa](Scripts-x-Whakapapa.md) ✕ | 8 | 42 |
+| [Shitting Machine](Shitting-Machine.md) | 29 | 35 |
+| [Shmup Genealogy](Shmup-Genealogy.md) | 6 | 30 |
+| [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md) ✕ | 0 | 13 |
+| [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md) ✕ | 0 | 16 |
+| [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md) ✕ | 12 | 35 |
+| [Simplicity of Parts](Simplicity-of-Parts.md) | 60 | 40 |
+| [Singularity](Singularity.md) | 24 | 24 |
+| [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md) ✕ | 0 | 20 |
+| [Taonga](Taonga.md) | 38 | 38 |
+| [Taonga × Rhizome](Taonga-x-Rhizome.md) ✕ | 0 | 8 |
+| [Te Reo and Code](Te-Reo-and-Code.md) | 1 | 31 |
+| [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md) ✕ | 10 | 52 |
+| [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md) ✕ | 24 | 52 |
+| [Te-Reo-and-Code × Shmup-Genealogy](Te-Reo-and-Code-x-Shmup-Genealogy.md) ✕ | 0 | 11 |
+| [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md) ✕ | 2 | 39 |
+| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 75 | 40 |
+| [The Law](The-Law.md) | 72 | 38 |
+| [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md) ✕ | 0 | 32 |
+| [The-Law × Singularity](The-Law-x-Singularity.md) ✕ | 1 | 42 |
+| [The Marae](The-Marae.md) | 3 | 38 |
+| [The-Marae × Production-as-Primary](The-Marae-x-Production-as-Primary.md) ✕ | 0 | 9 |
+| [Tokotoko](Tokotoko.md) | 24 | 37 |
+| [User Profile](User-Profile.md) | 0 | 20 |
+| [Whakapapa](Whakapapa.md) | 74 | 33 |
+| [Whakapapa × DOD](Whakapapa-x-DOD.md) ✕ | 0 | 5 |
+| [Whakapapa × Radiative](Whakapapa-x-Radiative.md) ✕ | 9 | 47 |
+| [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md) ✕ | 0 | 8 |
+| [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md) ✕ | 6 | 44 |
+| [Zero Set](Zero-Set.md) | 53 | 35 |
+| [Zero-Set × Enemy-Wave](Zero-Set-x-Enemy-Wave.md) ✕ | 0 | 20 |
 
 > ✕ = cross-synthesis page (`A-x-B.md`)
