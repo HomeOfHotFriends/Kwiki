@@ -158,6 +158,7 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 - [The Law](The-Law.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -185,9 +186,47 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 #### [Zero Set](Zero-Set.md)
 - Connection strength: 11
 - Shared motifs: data, design, ira, kotahi, oriented
+=======
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
+- [Singularity](Singularity.md)
+- [Tokotoko](Tokotoko.md)
+
+### Lateral Bridges
+#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- Connection strength: 31
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Taonga](Inward-Taonga.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Singularity](Inward-Singularity.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Tokotoko](Inward-Tokotoko.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, data, design, direct
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, data, design, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

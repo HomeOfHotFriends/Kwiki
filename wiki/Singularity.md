@@ -117,6 +117,7 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 - [Inward Taonga](Inward-Taonga.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 12
 - Shared motifs: connections, ira, kotahi, mauri, singularity
@@ -141,9 +142,38 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 #### [Inward Singularity](Inward-Singularity.md)
 - Connection strength: 9
 - Shared motifs: ira, kotahi, mauri, singularity, tokotoko
+=======
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Taonga](Taonga.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Mauri](Mauri.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The Law](The-Law.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, hub, inbound
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

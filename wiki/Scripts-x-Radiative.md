@@ -119,6 +119,7 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - [Content vs Creative](Content-vs-Creative.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -146,9 +147,42 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 11
 - Shared motifs: data, design, divergence, oriented, pumotu
+=======
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- [Zero Set](Zero-Set.md)
+
+### Lateral Bridges
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD](DOD.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

@@ -103,13 +103,21 @@ extreme simplicity of the parts.**
 - [Genealogy of j](Genealogy-of-j.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
 <<<<<<< HEAD
+=======
+#### [Determinism](Determinism.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Connection strength: 32
 - Shared motifs: anti, bridges, catch, connections, data
 #### [Design Rules](Design-Rules.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, data, design
+<<<<<<< HEAD
 =======
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, determinism
@@ -154,6 +162,23 @@ extreme simplicity of the parts.**
 - Connection strength: 19
 - Shared motifs: bridges, catch, connections, data, design
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

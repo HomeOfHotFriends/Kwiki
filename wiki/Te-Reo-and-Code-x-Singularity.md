@@ -120,14 +120,19 @@ slightly illegal upper echelons of tempo.**
 
 ### Inbound Connections
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Mauri](Mauri.md)
 - [Radiative × Singularity](Radiative-x-Singularity.md)
+=======
+- [Ira Kotahi](Ira-Kotahi.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Scripts × Singularity](Scripts-x-Singularity.md)
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
 - [Te Reo and Code](Te-Reo-and-Code.md)
 - [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - [The-Law × Singularity](The-Law-x-Singularity.md)
+<<<<<<< HEAD
 
 ### Lateral Bridges
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
@@ -183,6 +188,35 @@ slightly illegal upper echelons of tempo.**
 - Connection strength: 25
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, design
+=======
+- [The Marae](The-Marae.md)
+
+### Lateral Bridges
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, design
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -149,6 +149,7 @@ My ADHD could no longer handle any other game experience.
 - [Zero Set](Zero-Set.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -176,9 +177,46 @@ My ADHD could no longer handle any other game experience.
 #### [Inward Esprade](Inward-Esprade.md)
 - Connection strength: 11
 - Shared motifs: data, design, enemy, esp, inward
+=======
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
+- [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- [Radiative](Radiative.md)
+
+### Lateral Bridges
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, catch22, connections
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

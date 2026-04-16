@@ -139,6 +139,7 @@ or level off to flat.
 - [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+<<<<<<< HEAD
 - [Machines × The-Law](Machines-x-The-Law.md)
 <<<<<<< HEAD
 - [Mauri](Mauri.md)
@@ -178,6 +179,17 @@ or level off to flat.
 - Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 35
+=======
+- [Machines × Radiative](Machines-x-Radiative.md)
+- [Machines × The-Law](Machines-x-The-Law.md)
+
+### Lateral Bridges
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 36
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 34
@@ -185,6 +197,7 @@ or level off to flat.
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, data
+<<<<<<< HEAD
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
@@ -197,6 +210,19 @@ or level off to flat.
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 31
+=======
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 32
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

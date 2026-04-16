@@ -156,6 +156,7 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 - [Anti OOPedipus](Anti-OOPedipus.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -183,9 +184,44 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 #### [Inward Taonga](Inward-Taonga.md)
 - Connection strength: 9
 - Shared motifs: inward, ira, kotahi, map, mauri
+=======
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Singularity](Singularity.md)
+- [Tokotoko](Tokotoko.md)
+
+### Lateral Bridges
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Mauri](Inward-Mauri.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Tokotoko](Inward-Tokotoko.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Taonga](Inward-Taonga.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, hub
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

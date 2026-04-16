@@ -142,6 +142,7 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 - [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [DOD](DOD.md)
 - Connection strength: 16
 - Shared motifs: connections, data, design, oriented, parts
@@ -166,9 +167,38 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 #### [Scripts × Radiative](Scripts-x-Radiative.md)
 - Connection strength: 13
 - Shared motifs: data, design, oriented, parts, pumotu
+=======
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [Scripts × Radiative](Scripts-x-Radiative.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

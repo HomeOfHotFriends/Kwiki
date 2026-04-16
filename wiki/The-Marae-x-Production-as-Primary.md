@@ -48,12 +48,20 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Whakapapa](Whakapapa.md)
 - [Mauri](Mauri.md)
 - [Desiring Machine](Desiring-Machine.md)
+<<<<<<< HEAD
+=======
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+<<<<<<< HEAD
 - Connection strength: 10
 - Shared motifs: desiring, divergence, machine, marae, mauri
 #### [Desiring Machine](Desiring-Machine.md)
@@ -77,9 +85,37 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 #### [Rhizome](Rhizome.md)
 - Connection strength: 6
 - Shared motifs: desiring, machine, marae, rhizome
+=======
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, desiring
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

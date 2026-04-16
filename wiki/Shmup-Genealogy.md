@@ -113,6 +113,7 @@ extreme simplicity of the parts.**
 ### Inbound Connections
 - [Fiap pot](FIAP POT.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+<<<<<<< HEAD
 - [Positioning](Positioning.md)
 - [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
 - [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
@@ -142,9 +143,41 @@ extreme simplicity of the parts.**
 #### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
 - Connection strength: 9
 - Shared motifs: enemy, esp, frog, genealogy, law
+=======
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+
+### Lateral Bridges
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, direct, enemy
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, direct, enemy
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, fiap
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, fiap
+#### [Enemy Wave](Enemy-Wave.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, enemy, esp
+#### [Determinism](Determinism.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, design, determinism, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

@@ -5661,6 +5661,7 @@
         ]
       }
     },
+<<<<<<< HEAD
     "Plantlings": {
       "concepts": [
 <<<<<<< HEAD
@@ -5686,13 +5687,51 @@
           "rhizome",
           "plantlings",
           "desiring_machine",
+=======
+    "Plantling": {
+      "concepts": [
+        "plantling",
+        "rhizome",
+        "mauri",
+        "whakapapa",
+        "anti_oopedipus",
+        "rhizhome",
+        "te_whariki_pumotu",
+        "ira_kotahi",
+        "desiring_machine",
+        "catch22"
+      ],
+      "whakapapa_snapshot": {
+        "plantling": [
+          "rhizome",
+          "mauri",
+          "rhizhome",
+          "whakapapa",
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
           "anti_oopedipus"
         ],
         "rhizome": [
           "anti_oopedipus",
           "whakapapa",
           "te_whariki_pumotu",
+<<<<<<< HEAD
           "desiring_machine"
+=======
+          "desiring_machine",
+          "plantling"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ],
         "anti_oopedipus": [
           "desiring_machine",
@@ -5701,6 +5740,7 @@
           "dod",
           "shitting_machine"
         ],
+<<<<<<< HEAD
         "whakapapa": [
           "mauri",
           "ira_kotahi",
@@ -5712,6 +5752,14 @@
           "shitting_machine",
           "flow_state",
           "rhizome"
+=======
+        "rhizhome": [
+          "plantling",
+          "rhizome",
+          "radiative",
+          "content_vs_creative",
+          "anti_oopedipus"
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ],
         "te_whariki_pumotu": [
           "dod",
@@ -5719,6 +5767,7 @@
           "whakapapa",
           "mauri"
         ],
+<<<<<<< HEAD
         "catch22": [
           "flow_state",
           "content_vs_creative",
@@ -5730,17 +5779,34 @@
           "te_whariki_pumotu",
           "taonga"
         ],
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         "ira_kotahi": [
           "mauri",
           "tokotoko",
           "whakapapa",
           "singularity"
+<<<<<<< HEAD
+=======
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ]
       }
     },
     "Rhizhome": {
       "concepts": [
         "rhizhome",
+<<<<<<< HEAD
         "plantlings",
         "rhizome",
         "desiring_machine",
@@ -5930,12 +5996,42 @@
           "rhizome",
           "plantlings",
           "desiring_machine",
+=======
+        "plantling",
+        "rhizome",
+        "radiative",
+        "content_vs_creative",
+        "mauri",
+        "anti_oopedipus",
+        "whakapapa",
+        "te_whariki_pumotu",
+        "dod",
+        "the_law",
+        "catch22",
+        "flow_state",
+        "frog_in_pot"
+      ],
+      "whakapapa_snapshot": {
+        "rhizhome": [
+          "plantling",
+          "rhizome",
+          "radiative",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "plantling": [
+          "rhizome",
+          "mauri",
+          "rhizhome",
+          "whakapapa",
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
           "anti_oopedipus"
         ],
         "rhizome": [
           "anti_oopedipus",
           "whakapapa",
           "te_whariki_pumotu",
+<<<<<<< HEAD
           "desiring_machine"
         ],
         "whakapapa": [
@@ -5967,6 +6063,21 @@
           "tokotoko",
           "whakapapa",
           "singularity"
+=======
+          "desiring_machine",
+          "plantling"
+        ],
+        "radiative": [
+          "content_vs_creative",
+          "dod",
+          "the_law"
+        ],
+        "content_vs_creative": [
+          "catch22",
+          "flow_state",
+          "frog_in_pot",
+          "radiative"
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ],
         "mauri": [
           "ira_kotahi",
@@ -5974,10 +6085,25 @@
           "te_whariki_pumotu",
           "taonga"
         ],
+<<<<<<< HEAD
         "shitting_machine": [
           "desiring_machine",
           "flow_state",
           "anti_oopedipus"
+=======
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ],
         "te_whariki_pumotu": [
           "dod",
@@ -5985,12 +6111,23 @@
           "whakapapa",
           "mauri"
         ],
+<<<<<<< HEAD
+=======
+        "dod": [
+          "te_whariki_pumotu",
+          "simplicity_of_parts",
+          "zero_set",
+          "enemy_wave",
+          "the_law"
+        ],
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         "the_law": [
           "simplicity_of_parts",
           "esprade",
           "dod",
           "taonga",
           "mauri"
+<<<<<<< HEAD
         ]
       }
     },
@@ -6183,6 +6320,9 @@
           "te_whariki_pumotu",
           "desiring_machine"
 =======
+=======
+        ],
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         "catch22": [
           "flow_state",
           "content_vs_creative",
@@ -6193,6 +6333,7 @@
           "shitting_machine",
           "catch22",
           "esprade"
+<<<<<<< HEAD
 >>>>>>> origin/copilot/add-gamification-lens-wiki
         ],
         "content_vs_creative": [
@@ -6202,11 +6343,15 @@
           "radiative"
         ],
 <<<<<<< HEAD
+=======
+        ],
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         "frog_in_pot": [
           "esprade",
           "flow_state",
           "content_vs_creative",
           "catch22"
+<<<<<<< HEAD
         ],
         "flow_state": [
           "desiring_machine",
@@ -6467,10 +6612,13 @@
           "anti_oopedipus",
           "singularity"
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
         ]
       }
     }
   },
+<<<<<<< HEAD
 <<<<<<< HEAD
   "concept_count": 26,
   "page_count": 80
@@ -6478,4 +6626,8 @@
   "concept_count": 27,
   "page_count": 77
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+  "concept_count": 26,
+  "page_count": 76
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 }

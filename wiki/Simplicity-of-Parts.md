@@ -111,13 +111,23 @@ obstacle present in any given moment provided a challenge unique to what had com
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Positioning](Positioning.md)
 - Connection strength: 32
 <<<<<<< HEAD
 - Shared motifs: anti, bridges, catch, connections, data
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 #### [Design Rules](Design-Rules.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Positioning](Positioning.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Determinism](Determinism.md)
 - Connection strength: 31
 - Shared motifs: anti, bridges, connections, data, design
+<<<<<<< HEAD
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, catch, connections, data
@@ -160,6 +170,23 @@ obstacle present in any given moment provided a challenge unique to what had com
 - Connection strength: 26
 - Shared motifs: anti, bridges, connections, data, design
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, design, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

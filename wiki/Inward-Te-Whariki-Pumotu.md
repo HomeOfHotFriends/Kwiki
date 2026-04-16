@@ -171,6 +171,7 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [The Law](The-Law.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -198,9 +199,48 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - Connection strength: 11
 - Shared motifs: data, design, enemy, oriented, parts
+=======
+- [Inward Dod](Inward-Dod.md)
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
+- [Inward Zero Set](Inward-Zero-Set.md)
+- [Zero Set](Zero-Set.md)
+
+### Lateral Bridges
+#### [Inward Mauri](Inward-Mauri.md)
+- Connection strength: 31
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Taonga](Inward-Taonga.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Zero Set](Inward-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 28
+- Shared motifs: bridges, code, connections, data, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, data, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

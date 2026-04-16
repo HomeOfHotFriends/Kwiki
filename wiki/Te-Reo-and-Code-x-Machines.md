@@ -134,14 +134,19 @@ or level off to flat.
 
 ### Inbound Connections
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 =======
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 - [Desiring Machine](Desiring-Machine.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
@@ -199,6 +204,34 @@ or level off to flat.
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Machines × The-Law](Machines-x-The-Law.md)
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- [Desiring Machine](Desiring-Machine.md)
+- [Determinism](Determinism.md)
+
+### Lateral Bridges
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
 

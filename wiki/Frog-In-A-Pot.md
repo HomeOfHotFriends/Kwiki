@@ -87,6 +87,9 @@ Not a single part of me had to force myself to focus.
 
 ### Inbound Connections
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Catch 22](Catch-22.md)
 =======
 >>>>>>> origin/copilot/add-gamification-lens-wiki
@@ -95,6 +98,7 @@ Not a single part of me had to force myself to focus.
 - [Determinism](Determinism.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
@@ -135,13 +139,43 @@ Not a single part of me had to force myself to focus.
 - Shared motifs: bridges, catch, connections, direct, fiap
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - Connection strength: 25
+=======
+- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- [Positioning](Positioning.md)
+
+### Lateral Bridges
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 30
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow State](Flow-State.md)
 - Connection strength: 24
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+<<<<<<< HEAD
 - Connection strength: 23
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow State](Flow-State.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 27
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 22

@@ -117,6 +117,7 @@ was on level one in combination with the tiny
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Desiring Machine](Desiring-Machine.md)
+<<<<<<< HEAD
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
@@ -144,9 +145,41 @@ was on level one in combination with the tiny
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 11
 - Shared motifs: anti, connections, data, design, oopedipus
+=======
+- [DOD](DOD.md)
+
+### Lateral Bridges
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Rhizome](Rhizome.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

@@ -130,8 +130,13 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - [DOD](DOD.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 28
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, desiring
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 30
@@ -143,6 +148,7 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, direct
 #### [Machines × The-Law](Machines-x-The-Law.md)
+<<<<<<< HEAD
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, desiring
@@ -153,6 +159,22 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 #### [Machines × Radiative](Machines-x-Radiative.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, desiring
+=======
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
@@ -165,6 +187,7 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
+<<<<<<< HEAD
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 24
 - Shared motifs: anti, bridges, code, connections, direct
@@ -175,6 +198,8 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - Connection strength: 24
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, code, connections, direct
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

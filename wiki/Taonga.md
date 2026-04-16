@@ -103,6 +103,7 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 ### Lateral Bridges
 #### [Indigenous Proposal](Indigenous-Proposal.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Connection strength: 26
 =======
 - Connection strength: 25
@@ -149,6 +150,31 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - Connection strength: 17
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
+=======
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Mauri](Mauri.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, determinism, direct
+#### [The Law](The-Law.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The Marae](The-Marae.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -108,6 +108,10 @@ extreme simplicity of the parts.**
 - [Determinism](Determinism.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - [Zero Set](Zero-Set.md)
+<<<<<<< HEAD
+=======
+- [Anti OOPedipus](Anti-OOPedipus.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
@@ -120,6 +124,7 @@ extreme simplicity of the parts.**
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Determinism](Determinism.md)
 - Connection strength: 14
 - Shared motifs: connections, determinism, enemy, esp, parts
@@ -144,9 +149,38 @@ extreme simplicity of the parts.**
 #### [Inward Enemy Wave](Inward-Enemy-Wave.md)
 - Connection strength: 10
 - Shared motifs: determinism, enemy, esp, parts, positioning
+=======
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Design Rules](Design-Rules.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Determinism](Determinism.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Positioning](Positioning.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Inward Determinism](Inward-Determinism.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup Genealogy](Shmup-Genealogy.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

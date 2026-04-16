@@ -17,6 +17,9 @@
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
@@ -25,6 +28,7 @@
 
 ### Lateral Bridges
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+<<<<<<< HEAD
 - Connection strength: 30
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch 22](Catch-22.md)
@@ -82,6 +86,31 @@
 - Connection strength: 26
 - Shared motifs: bridges, catch, connections, design, direct
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- Connection strength: 36
+- Shared motifs: bridges, catch, code, connections, content
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 29
+- Shared motifs: bridges, code, connections, design, direct
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

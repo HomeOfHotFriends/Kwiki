@@ -91,6 +91,7 @@ or level off to flat.
 - [Whakapapa](Whakapapa.md)
 - [Rhizome](Rhizome.md)
 - [Flow State](Flow-State.md)
+<<<<<<< HEAD
 
 ### Inbound Connections
 - No inbound links detected yet.
@@ -120,9 +121,50 @@ or level off to flat.
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 9
 - Shared motifs: anti, catch, data, design, machines
+=======
+- [Machines × Radiative](Machines-x-Radiative.md)
+
+### Inbound Connections
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [DOD](DOD.md)
+- [Flow State](Flow-State.md)
+- [Rhizome](Rhizome.md)
+- [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- [Whakapapa](Whakapapa.md)
+
+### Lateral Bridges
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, data
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Rhizome](Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, desiring
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

@@ -114,6 +114,7 @@ void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
 - [Tokotoko](Tokotoko.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Indigenous Proposal](Indigenous-Proposal.md)
 - [Mauri](Mauri.md)
 - [Taonga](Taonga.md)
@@ -143,9 +144,41 @@ void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
 #### [The Law](The-Law.md)
 - Connection strength: 8
 - Shared motifs: connections, ira, kotahi, mauri, taonga
+=======
+- No inbound links detected yet.
+
+### Lateral Bridges
+#### [Mauri](Mauri.md)
+- Connection strength: 23
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 23
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Taonga](Taonga.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 23
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 21
+- Shared motifs: bridges, code, connections, direct, hub
+#### [The Law](The-Law.md)
+- Connection strength: 21
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 21
+- Shared motifs: bridges, code, connections, direct, hub
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

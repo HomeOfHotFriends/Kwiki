@@ -25,12 +25,16 @@
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+<<<<<<< HEAD
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 <<<<<<< HEAD
 - Connection strength: 30
@@ -43,12 +47,23 @@
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - Connection strength: 28
+=======
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 30
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 25
+<<<<<<< HEAD
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - Connection strength: 25
@@ -81,6 +96,18 @@
 - Connection strength: 19
 - Shared motifs: bridges, code, connections, direct, genealogy
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- Shared motifs: anti, bridges, code, connections, design
+#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, direct, dod
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

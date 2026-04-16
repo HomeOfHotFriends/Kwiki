@@ -103,6 +103,9 @@ means by Rhizome'.
 
 ### Inbound Connections
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Flow State](Flow-State.md)
@@ -113,6 +116,7 @@ means by Rhizome'.
 - [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, design, desiring
@@ -166,6 +170,32 @@ means by Rhizome'.
 - Connection strength: 20
 - Shared motifs: anti, bridges, catch, connections, design
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -116,6 +116,7 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Determinism](Determinism.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Catch-22](DOD-x-Catch-22.md)
@@ -153,8 +154,27 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 32
+=======
+- [Determinism](Determinism.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Positioning](Positioning.md)
+
+### Lateral Bridges
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 34
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+<<<<<<< HEAD
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
@@ -168,6 +188,21 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - Shared motifs: anti, bridges, code, connections, design
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 30
+=======
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 32
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 28

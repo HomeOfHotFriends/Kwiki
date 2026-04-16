@@ -127,6 +127,7 @@ te rā
 
 ### Lateral Bridges
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
@@ -149,6 +150,18 @@ te rā
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+=======
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
@@ -158,6 +171,7 @@ te rā
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
+<<<<<<< HEAD
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
@@ -174,6 +188,16 @@ te rā
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 27
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [DOD](DOD.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 30
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

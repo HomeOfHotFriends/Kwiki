@@ -251,6 +251,22 @@ PAGES = [
         "voice_notes": "",
         "new_passage": ""
     },
+    {
+        "page": "Plantling",
+        "intent": "What is a Plantling? Species born when a non-plantling grows sideways — convergently evolves into a rhizome. They dream together. Home is the dream they share.",
+        "tone": "body",
+        "extra_concepts": ["rhizome", "mauri", "anti_oopedipus", "whakapapa"],
+        "voice_notes": "",
+        "new_passage": ""
+    },
+    {
+        "page": "Rhizhome",
+        "intent": "Rhizhome: the alien utopian internet. No currency, no ads, no government. Art, information, learning, growth. Creators and communities of creators. Space Reddit with a heart.",
+        "tone": "body",
+        "extra_concepts": ["plantling", "rhizome", "radiative", "content_vs_creative"],
+        "voice_notes": "",
+        "new_passage": ""
+    },
 ]
 
 

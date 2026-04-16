@@ -105,6 +105,7 @@ was on level one in combination with the tiny
 - [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Inward Radiative](Inward-Radiative.md)
 - Connection strength: 11
 - Shared motifs: content, creative, data, design, law
@@ -129,9 +130,38 @@ was on level one in combination with the tiny
 #### [Machines × Radiative](Machines-x-Radiative.md)
 - Connection strength: 9
 - Shared motifs: connections, data, design, law, oriented
+=======
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch22, connections, content
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch22, connections, content
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch22, connections, content
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch22, connections, content
+#### [Catch 22](Catch-22.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, content, creative
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, content, creative, design
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, content, creative, design
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, data, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

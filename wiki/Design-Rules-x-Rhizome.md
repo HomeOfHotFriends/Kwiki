@@ -32,6 +32,7 @@
 - [Fiap pot](FIAP POT.md)
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 28
 - Shared motifs: bridges, code, connections, design, desiring
@@ -89,6 +90,32 @@
 - Connection strength: 27
 - Shared motifs: bridges, catch, connections, design, direct
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 29
+- Shared motifs: bridges, code, connections, design, direct
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
+- Shared motifs: bridges, code, connections, design, direct
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Determinism](Determinism.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

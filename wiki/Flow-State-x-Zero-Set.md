@@ -23,11 +23,19 @@
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Fiap pot](FIAP POT.md)
+=======
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Machines](Machines.md)
 - [Oedipal Machine](Oedipal-Machine.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
 - [Production as Primary](Production-as-Primary.md)
+<<<<<<< HEAD
 - [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
 
 ### Lateral Bridges
@@ -82,6 +90,34 @@
 - Connection strength: 19
 - Shared motifs: anti, bridges, connections, design, direct
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+
+### Lateral Bridges
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Machines](Machines.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

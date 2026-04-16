@@ -27,6 +27,7 @@
 
 ### Lateral Bridges
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, catch, code, connections
@@ -41,12 +42,32 @@
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 23
+=======
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 24
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: anti, bridges, code, connections, design
 #### [Determinism](Determinism.md)
 - Connection strength: 22
 - Shared motifs: anti, bridges, code, connections, design
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 22
+<<<<<<< HEAD
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - Connection strength: 22
@@ -77,6 +98,9 @@
 - Connection strength: 20
 - Shared motifs: anti, bridges, connections, design, desiring
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

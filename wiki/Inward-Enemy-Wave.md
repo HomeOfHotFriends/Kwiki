@@ -163,6 +163,7 @@ extreme simplicity of the parts.**
 - [Determinism](Determinism.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -190,9 +191,48 @@ extreme simplicity of the parts.**
 #### [Inward The Law](Inward-The-Law.md)
 - Connection strength: 13
 - Shared motifs: data, design, determinism, enemy, esp
+=======
+- [Enemy Wave](Enemy-Wave.md)
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
+- [Inward Esprade](Inward-Esprade.md)
+- [Inward Positioning](Inward-Positioning.md)
+- [Inward Radiative](Inward-Radiative.md)
+- [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- [Inward The Law](Inward-The-Law.md)
+
+### Lateral Bridges
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 34
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Zero Set](Inward-Zero-Set.md)
+- Connection strength: 34
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Determinism](Inward-Determinism.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Esprade](Inward-Esprade.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Positioning](Inward-Positioning.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward The Law](Inward-The-Law.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, data, design, determinism
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

@@ -65,6 +65,7 @@ Highest combined inbound + outbound link count.
 | Page | Inbound | Outbound | Total |
 |---|---|---|---|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [DOD](DOD.md) | 86 | 52 | 138 |
 | [The Law](The-Law.md) | 73 | 62 | 135 |
 | [Whakapapa](Whakapapa.md) | 75 | 57 | 132 |
@@ -87,3 +88,15 @@ Highest combined inbound + outbound link count.
 | [Zero Set](Zero-Set.md) | 56 | 35 | 91 |
 | [Inward Whakapapa](Inward-Whakapapa.md) | 0 | 86 | 86 |
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+| [DOD](DOD.md) | 88 | 52 | 140 |
+| [The Law](The-Law.md) | 75 | 62 | 137 |
+| [Whakapapa](Whakapapa.md) | 78 | 57 | 135 |
+| [Anti OOPedipus](Anti-OOPedipus.md) | 68 | 59 | 127 |
+| [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 80 | 40 | 120 |
+| [Zero Set](Zero-Set.md) | 57 | 59 | 116 |
+| [Inward Whakapapa](Inward-Whakapapa.md) | 8 | 102 | 110 |
+| [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 12 | 93 | 105 |
+| [Inward Rhizome](Inward-Rhizome.md) | 11 | 94 | 105 |
+| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) | 48 | 56 | 104 |
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

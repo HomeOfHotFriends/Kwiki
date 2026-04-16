@@ -116,6 +116,7 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 - [Rhizome](Rhizome.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
@@ -143,9 +144,41 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 #### [DOD](DOD.md)
 - Connection strength: 8
 - Shared motifs: connections, pumotu, set, whakapapa, whariki
+=======
+- No inbound links detected yet.
+
+### Lateral Bridges
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD](DOD.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

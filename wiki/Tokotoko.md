@@ -116,16 +116,23 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - [Indigenous Proposal](Indigenous-Proposal.md)
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - [Inward Mauri](Inward-Mauri.md)
+<<<<<<< HEAD
 - [Inward Rhizome](Inward-Rhizome.md)
 - [Inward Singularity](Inward-Singularity.md)
 <<<<<<< HEAD
 - [Inward Taonga](Inward-Taonga.md)
 =======
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- [Inward Plantling](Inward-Plantling.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Singularity](Inward-Singularity.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Lateral Bridges
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 27
+<<<<<<< HEAD
 - Shared motifs: bridges, connections, direct, hub, inbound
 <<<<<<< HEAD
 #### [The Law](The-Law.md)
@@ -156,12 +163,22 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 #### [Whakapapa](Whakapapa.md)
 - Connection strength: 25
 =======
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 24
+=======
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Mauri](Mauri.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Taonga](Taonga.md)
+- Connection strength: 26
 - Shared motifs: anti, bridges, connections, direct, hub
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
+<<<<<<< HEAD
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 20
 - Shared motifs: anti, bridges, connections, direct, hub
@@ -169,6 +186,17 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - Connection strength: 19
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 - Shared motifs: anti, bridges, connections, direct, hub
+=======
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The Law](The-Law.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

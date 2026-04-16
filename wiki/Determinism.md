@@ -105,12 +105,17 @@ extreme simplicity of the parts.**
 
 ### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+<<<<<<< HEAD
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+=======
+- [DOD](DOD.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 - [Enemy Wave](Enemy-Wave.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 ### Lateral Bridges
@@ -168,6 +173,34 @@ extreme simplicity of the parts.**
 - Connection strength: 23
 - Shared motifs: anti, bridges, connections, data, design
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+
+### Lateral Bridges
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Positioning](Positioning.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design Rules](Design-Rules.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD](DOD.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

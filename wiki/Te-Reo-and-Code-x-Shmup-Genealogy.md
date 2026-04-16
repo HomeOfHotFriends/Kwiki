@@ -70,12 +70,21 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - [DOD](DOD.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - [Simplicity of Parts](Simplicity-of-Parts.md)
+<<<<<<< HEAD
+=======
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+<<<<<<< HEAD
 - Connection strength: 14
 - Shared motifs: code, data, design, divergence, genealogy
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
@@ -99,9 +108,37 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - Connection strength: 11
 - Shared motifs: code, data, design, divergence, genealogy
+=======
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

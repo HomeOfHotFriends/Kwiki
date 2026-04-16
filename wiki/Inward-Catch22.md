@@ -145,6 +145,7 @@ was on level one in combination with the tiny
 - [Radiative](Radiative.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -172,9 +173,48 @@ was on level one in combination with the tiny
 #### [Inward Rhizome](Inward-Rhizome.md)
 - Connection strength: 14
 - Shared motifs: anti, catch, data, design, desiring
+=======
+- [Determinism](Determinism.md)
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- [Inward Radiative](Inward-Radiative.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+
+### Lateral Bridges
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

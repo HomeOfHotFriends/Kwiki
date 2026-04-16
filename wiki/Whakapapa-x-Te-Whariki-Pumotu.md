@@ -24,6 +24,7 @@
 
 ### Inbound Connections
 - [Machines](Machines.md)
+<<<<<<< HEAD
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 - [The-Law × Singularity](The-Law-x-Singularity.md)
 
@@ -35,12 +36,24 @@
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
+=======
+- [Machines × The-Law](Machines-x-The-Law.md)
+
+### Lateral Bridges
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, code, connections, direct
 #### [Rhizome](Rhizome.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, code, connections, direct
+<<<<<<< HEAD
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, code, connections, direct
@@ -79,6 +92,20 @@
 - Connection strength: 18
 - Shared motifs: anti, bridges, connections, direct, dod
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Radiative × Singularity](Radiative-x-Singularity.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

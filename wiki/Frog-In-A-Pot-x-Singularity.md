@@ -29,6 +29,7 @@
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+<<<<<<< HEAD
 - [Fiap pot](FIAP POT.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
@@ -93,6 +94,37 @@
 - Connection strength: 21
 - Shared motifs: bridges, catch, connections, design, direct
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Frog In A Pot](Frog-In-A-Pot.md)
+
+### Lateral Bridges
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 33
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 33
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Shmup Genealogy](Shmup-Genealogy.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, fiap
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

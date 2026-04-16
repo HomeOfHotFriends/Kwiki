@@ -60,6 +60,7 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - [Radiative](Radiative.md)
 - [The Law](The-Law.md)
 - [Mauri](Mauri.md)
+<<<<<<< HEAD
 
 ### Inbound Connections
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
@@ -96,9 +97,47 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 8
 - Shared motifs: divergence, ira, kotahi, shared, tupuna
+=======
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+
+### Inbound Connections
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [The-Law × Singularity](The-Law-x-Singularity.md)
+- [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
+
+### Lateral Bridges
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, design, direct
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, divergence
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

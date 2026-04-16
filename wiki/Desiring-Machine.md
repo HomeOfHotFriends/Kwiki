@@ -104,6 +104,7 @@ Not a single part of me had to force myself to focus.
 
 ### Lateral Bridges
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, design
@@ -154,6 +155,32 @@ Not a single part of me had to force myself to focus.
 - Connection strength: 22
 - Shared motifs: anti, bridges, catch, connections, design
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

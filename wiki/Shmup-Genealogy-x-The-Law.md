@@ -110,6 +110,7 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 ### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Enemy Wave](Enemy-Wave.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Genealogy of j](Genealogy-of-j.md)
@@ -177,6 +178,40 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - Connection strength: 29
 - Shared motifs: bridges, catch, code, connections, direct
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- [Determinism](Determinism.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Enemy Wave](Enemy-Wave.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+
+### Lateral Bridges
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Positioning](Positioning.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

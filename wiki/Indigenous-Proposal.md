@@ -106,13 +106,17 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+<<<<<<< HEAD
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Ira Kotahi](Ira-Kotahi.md)
 <<<<<<< HEAD
 - [Scripts × Singularity](Scripts-x-Singularity.md)
 - [Singularity](Singularity.md)
 - [Taonga](Taonga.md)
 - [The Law](The-Law.md)
+<<<<<<< HEAD
 - [The-Law × Singularity](The-Law-x-Singularity.md)
 
 ### Lateral Bridges
@@ -142,13 +146,31 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 =======
 - [Mauri](Mauri.md)
 - [Taonga](Taonga.md)
+=======
+- [The Marae](The-Marae.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
 #### [Taonga](Taonga.md)
+<<<<<<< HEAD
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Ira Kotahi](Ira-Kotahi.md)
+=======
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [The Law](The-Law.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
@@ -157,6 +179,7 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 #### [Mauri](Mauri.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
+<<<<<<< HEAD
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - Connection strength: 17
 - Shared motifs: bridges, connections, direct, hub, inbound
@@ -169,6 +192,10 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
 - Connection strength: 16
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [The Marae](The-Marae.md)
+- Connection strength: 23
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

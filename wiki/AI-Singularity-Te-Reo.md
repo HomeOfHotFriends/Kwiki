@@ -110,6 +110,7 @@ te rā
 - [Content vs Creative](Content-vs-Creative.md)
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+<<<<<<< HEAD
 - [Indigenous Proposal](Indigenous-Proposal.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Mauri](Mauri.md)
@@ -128,14 +129,32 @@ te rā
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 25
+=======
+- [Gamification Lens](Gamification-Lens.md)
+- [Indigenous Proposal](Indigenous-Proposal.md)
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Mauri](Mauri.md)
+
+### Lateral Bridges
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 24
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 <<<<<<< HEAD
 #### [Singularity](Singularity.md)
+<<<<<<< HEAD
 - Connection strength: 25
+=======
+- Connection strength: 24
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 =======
 >>>>>>> origin/copilot/add-gamification-lens-wiki
 #### [Taonga](Taonga.md)
+<<<<<<< HEAD
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [The Law](The-Law.md)
@@ -143,11 +162,21 @@ te rā
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
 - Connection strength: 25
+=======
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The Law](The-Law.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 24
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - Connection strength: 22
 - Shared motifs: bridges, connections, direct, enemy, hub
 #### [Mauri](Mauri.md)
+<<<<<<< HEAD
 - Connection strength: 20
 - Shared motifs: bridges, connections, direct, hub, inbound
 <<<<<<< HEAD
@@ -165,6 +194,13 @@ te rā
 - Connection strength: 17
 - Shared motifs: bridges, connections, direct, hub, inbound
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, enemy, hub
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

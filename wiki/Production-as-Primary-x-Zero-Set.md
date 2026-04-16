@@ -28,6 +28,7 @@
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [DOD](DOD.md)
 - [Zero Set](Zero-Set.md)
+<<<<<<< HEAD
 
 ### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
@@ -64,9 +65,49 @@
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - Connection strength: 7
 - Shared motifs: primary, production, set, zero
+=======
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+
+### Inbound Connections
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+
+### Lateral Bridges
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

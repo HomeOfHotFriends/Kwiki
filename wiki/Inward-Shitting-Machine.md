@@ -137,6 +137,7 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - No inbound links detected yet.
 
 ### Lateral Bridges
@@ -164,9 +165,48 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 #### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
 - Connection strength: 12
 - Shared motifs: anti, catch, desiring, esp, flow
+=======
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
+- [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Tokotoko](Inward-Tokotoko.md)
+
+### Lateral Bridges
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Tokotoko](Inward-Tokotoko.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, catch22, connections
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

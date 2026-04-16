@@ -8,6 +8,7 @@ Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **1 orphan(s):**
 
 - [User Profile](User-Profile.md)
@@ -40,5 +41,14 @@ These are candidates for linking in from related pages.
 - [Inward Whakapapa](Inward-Whakapapa.md)
 - [Inward Zero Set](Inward-Zero-Set.md)
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+**5 orphan(s):**
+
+- [Inward Plantling](Inward-Plantling.md)
+- [Inward Rhizhome](Inward-Rhizhome.md)
+- [Scripts](Scripts.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [The Marae](The-Marae.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.

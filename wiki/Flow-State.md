@@ -95,6 +95,7 @@ current low-energy state.
 
 ### Lateral Bridges
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 24
@@ -105,11 +106,19 @@ current low-energy state.
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Production as Primary](Production-as-Primary.md)
 - Connection strength: 26
+=======
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 27
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch 22](Catch-22.md)
 - Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+<<<<<<< HEAD
 - Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
@@ -120,6 +129,23 @@ current low-energy state.
 - Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Oedipal Machine](Oedipal-Machine.md)
+=======
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, content, creative, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, design, desiring
+#### [Desiring Machine](Desiring-Machine.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 - Connection strength: 25
 - Shared motifs: bridges, catch, connections, design, desiring
 #### [Desiring Machine](Desiring-Machine.md)

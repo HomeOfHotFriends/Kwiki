@@ -112,6 +112,7 @@ I honestly don’t know if DDP 1 or**
 - [Content vs Creative](Content-vs-Creative.md)
 
 ### Inbound Connections
+<<<<<<< HEAD
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Fiap pot](FIAP POT.md)
@@ -146,9 +147,44 @@ I honestly don’t know if DDP 1 or**
 #### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
 - Connection strength: 10
 - Shared motifs: anti, connections, flow, oopedipus, primary
+=======
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+
+### Lateral Bridges
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, catch, connections, content
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, connections, content, creative
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki

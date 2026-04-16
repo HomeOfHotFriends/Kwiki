@@ -120,6 +120,7 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 
 ### Lateral Bridges
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, design
@@ -170,6 +171,32 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 >>>>>>> origin/copilot/add-gamification-lens-wiki
+=======
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Taonga](Taonga.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, determinism, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

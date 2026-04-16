@@ -109,11 +109,18 @@ This proves the obstacle must be a true vertical wall.
 - [Enemy Wave](Enemy-Wave.md)
 - [Simplicity of Parts](Simplicity-of-Parts.md)
 - [The Law](The-Law.md)
+<<<<<<< HEAD
+=======
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
+<<<<<<< HEAD
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 13
 - Shared motifs: data, design, divergence, enemy, law
@@ -138,9 +145,38 @@ This proves the obstacle must be a true vertical wall.
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 11
 - Shared motifs: data, design, enemy, esp, law
+=======
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/copilot/add-master-lens-gamification-wiki
