@@ -119,38 +119,43 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - [Singularity](Singularity.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - [DOD](DOD.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Indigenous Proposal](Indigenous-Proposal.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 11
-- Shared motifs: divergence, ira, kotahi, law, mauri
-#### [Mauri](Mauri.md)
-- Connection strength: 10
-- Shared motifs: ira, kotahi, law, mauri, pumotu
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 10
-- Shared motifs: divergence, ira, kotahi, mauri, pumotu
 #### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 10
-- Shared motifs: divergence, ira, kotahi, mauri, pumotu
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 8
-- Shared motifs: divergence, law, mauri, pumotu, shared
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 8
-- Shared motifs: ira, kotahi, law, mauri, singularity
-#### [Singularity](Singularity.md)
-- Connection strength: 8
-- Shared motifs: ira, kotahi, law, mauri, singularity
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 8
-- Shared motifs: divergence, law, mauri, pumotu, shared
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Radiative × Singularity](Radiative-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, divergence
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- Connection strength: 28
+- Shared motifs: bridges, code, connections, direct, divergence
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

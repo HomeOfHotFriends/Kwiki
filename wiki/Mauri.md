@@ -116,33 +116,33 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Determinism](Determinism.md)
 - [DOD](DOD.md)
-- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 
 ### Lateral Bridges
-#### [The Law](The-Law.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [The Marae](The-Marae.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [Indigenous Proposal](Indigenous-Proposal.md)
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 26
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, dod, genealogy
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [DOD](DOD.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Taonga](Taonga.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, determinism, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

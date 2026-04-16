@@ -122,38 +122,38 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Catch 22](Catch-22.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [DOD](DOD.md)
-- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 28
+- Connection strength: 29
 - Shared motifs: anti, bridges, code, connections, desiring
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 27
+- Connection strength: 28
 - Shared motifs: anti, bridges, code, connections, desiring
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, direct
-#### [DOD](DOD.md)
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, desiring, direct
-#### [Machines](Machines.md)
-- Connection strength: 24
-- Shared motifs: bridges, code, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

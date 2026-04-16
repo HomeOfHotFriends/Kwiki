@@ -109,29 +109,29 @@ me te ngako o te kōrero.
 - [Indigenous Proposal](Indigenous-Proposal.md)
 
 ### Lateral Bridges
-#### [Singularity](Singularity.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, direct, hub
 #### [The Law](The-Law.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 23
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Taonga](Taonga.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: bridges, code, connections, direct, genealogy
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Taonga](Taonga.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 22
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Singularity](Singularity.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

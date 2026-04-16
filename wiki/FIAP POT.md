@@ -17,37 +17,37 @@
 - [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
-- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- [Genealogy of j](Genealogy-of-j.md)
 
 ### Lateral Bridges
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 33
-- Shared motifs: bridges, code, connections, design, direct
+- Connection strength: 36
+- Shared motifs: bridges, catch, code, connections, content
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, design, direct
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 33
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 30
-- Shared motifs: bridges, catch, code, connections, design
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 30
-- Shared motifs: bridges, catch, code, connections, design
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - Connection strength: 29
-- Shared motifs: bridges, catch, code, connections, design
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Shared motifs: bridges, code, connections, design, direct
+#### [Frog In A Pot](Frog-In-A-Pot.md)
 - Connection strength: 29
-- Shared motifs: bridges, catch, code, connections, design
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

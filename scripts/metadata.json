@@ -5647,8 +5647,195 @@
           "desiring_machine"
         ]
       }
+    },
+    "Plantling": {
+      "concepts": [
+        "plantling",
+        "rhizome",
+        "mauri",
+        "whakapapa",
+        "anti_oopedipus",
+        "rhizhome",
+        "te_whariki_pumotu",
+        "ira_kotahi",
+        "desiring_machine",
+        "catch22"
+      ],
+      "whakapapa_snapshot": {
+        "plantling": [
+          "rhizome",
+          "mauri",
+          "rhizhome",
+          "whakapapa",
+          "anti_oopedipus"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine",
+          "plantling"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "rhizhome": [
+          "plantling",
+          "rhizome",
+          "radiative",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "ira_kotahi": [
+          "mauri",
+          "tokotoko",
+          "whakapapa",
+          "singularity"
+        ],
+        "desiring_machine": [
+          "anti_oopedipus",
+          "shitting_machine",
+          "flow_state",
+          "rhizome"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ]
+      }
+    },
+    "Rhizhome": {
+      "concepts": [
+        "rhizhome",
+        "plantling",
+        "rhizome",
+        "radiative",
+        "content_vs_creative",
+        "mauri",
+        "anti_oopedipus",
+        "whakapapa",
+        "te_whariki_pumotu",
+        "dod",
+        "the_law",
+        "catch22",
+        "flow_state",
+        "frog_in_pot"
+      ],
+      "whakapapa_snapshot": {
+        "rhizhome": [
+          "plantling",
+          "rhizome",
+          "radiative",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "plantling": [
+          "rhizome",
+          "mauri",
+          "rhizhome",
+          "whakapapa",
+          "anti_oopedipus"
+        ],
+        "rhizome": [
+          "anti_oopedipus",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "desiring_machine",
+          "plantling"
+        ],
+        "radiative": [
+          "content_vs_creative",
+          "dod",
+          "the_law"
+        ],
+        "content_vs_creative": [
+          "catch22",
+          "flow_state",
+          "frog_in_pot",
+          "radiative"
+        ],
+        "mauri": [
+          "ira_kotahi",
+          "whakapapa",
+          "te_whariki_pumotu",
+          "taonga"
+        ],
+        "anti_oopedipus": [
+          "desiring_machine",
+          "rhizome",
+          "catch22",
+          "dod",
+          "shitting_machine"
+        ],
+        "whakapapa": [
+          "mauri",
+          "ira_kotahi",
+          "rhizome",
+          "the_law"
+        ],
+        "te_whariki_pumotu": [
+          "dod",
+          "zero_set",
+          "whakapapa",
+          "mauri"
+        ],
+        "dod": [
+          "te_whariki_pumotu",
+          "simplicity_of_parts",
+          "zero_set",
+          "enemy_wave",
+          "the_law"
+        ],
+        "the_law": [
+          "simplicity_of_parts",
+          "esprade",
+          "dod",
+          "taonga",
+          "mauri"
+        ],
+        "catch22": [
+          "flow_state",
+          "content_vs_creative",
+          "anti_oopedipus"
+        ],
+        "flow_state": [
+          "desiring_machine",
+          "shitting_machine",
+          "catch22",
+          "esprade"
+        ],
+        "frog_in_pot": [
+          "esprade",
+          "flow_state",
+          "content_vs_creative",
+          "catch22"
+        ]
+      }
     }
   },
-  "concept_count": 24,
-  "page_count": 74
+  "concept_count": 26,
+  "page_count": 76
 }

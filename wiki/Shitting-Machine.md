@@ -109,34 +109,34 @@ extreme simplicity of the parts.**
 - [Desiring Machine](Desiring-Machine.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
-- [Machines](Machines.md)
-- [Oedipal Machine](Oedipal-Machine.md)
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
 
 ### Lateral Bridges
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, design, desiring
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
 #### [Flow State](Flow-State.md)
 - Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
+- Shared motifs: bridges, connections, content, creative, design
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Catch 22](Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, content, creative
 #### [Production as Primary](Production-as-Primary.md)
 - Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Machines](Machines.md)
+- Shared motifs: anti, bridges, connections, content, creative
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
 - Connection strength: 25
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Catch 22](Catch-22.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, design
+- Shared motifs: anti, bridges, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

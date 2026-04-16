@@ -31,6 +31,16 @@ Old work here is **whakapapa, not gospel**. It is the root system, not the tree.
 
 ---
 
+## The Gamification Lens
+
+| Page | What it is |
+|---|---|
+| [Gamification Lens](Gamification-Lens.md) | The master lens. We are simulating an alien utopian internet. |
+| [Plantling](Plantling.md) | The people. Born sideways. Grow as rhizomes. Carry the *we*. |
+| [Rhizhome](Rhizhome.md) | The alien internet. No currency, no ads, no government. Only art. |
+
+---
+
 ## The Law (stated once, here, so it is never lost)
 
 > *There is one law that I know. Only one I can state as truth.*  

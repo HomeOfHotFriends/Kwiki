@@ -7,9 +7,12 @@
 Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
-**2 orphan(s):**
+**5 orphan(s):**
 
-- [Oedipal Machine](Oedipal-Machine.md)
+- [Inward Plantling](Inward-Plantling.md)
+- [Inward Rhizhome](Inward-Rhizhome.md)
+- [Scripts](Scripts.md)
 - [Te Reo and Code](Te-Reo-and-Code.md)
+- [The Marae](The-Marae.md)
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.

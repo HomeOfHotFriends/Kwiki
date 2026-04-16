@@ -92,34 +92,37 @@ He told me where I had improved, and suggested things to focus on next.
 - [Catch 22](Catch-22.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Desiring Machine](Desiring-Machine.md)
+- [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
+- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Catch 22](Catch-22.md)
-- Connection strength: 29
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 32
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 29
+#### [Catch 22](Catch-22.md)
+- Connection strength: 31
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 28
+- Connection strength: 31
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 26
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 31
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Flow State](Flow-State.md)
-- Connection strength: 25
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 25
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 31
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 23
-- Shared motifs: bridges, catch, connections, design, direct
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 22
-- Shared motifs: bridges, connections, design, direct, fiap
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow State](Flow-State.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

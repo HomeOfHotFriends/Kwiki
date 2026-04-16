@@ -106,38 +106,38 @@ extreme simplicity of the parts.**
 ### Inbound Connections
 - [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [DOD](DOD.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 - [Enemy Wave](Enemy-Wave.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
-- [Genealogy of j](Genealogy-of-j.md)
-- [Mauri](Mauri.md)
 
 ### Lateral Bridges
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 32
-- Shared motifs: bridges, connections, data, design, determinism
-#### [Design Rules](Design-Rules.md)
-- Connection strength: 30
-- Shared motifs: bridges, connections, data, design, determinism
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 30
-- Shared motifs: bridges, catch, connections, data, design
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
 #### [Positioning](Positioning.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design Rules](Design-Rules.md)
 - Connection strength: 29
-- Shared motifs: bridges, catch, connections, data, design
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 28
-- Shared motifs: bridges, catch, connections, design, determinism
+- Shared motifs: anti, bridges, connections, data, design
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 26
-- Shared motifs: bridges, catch, connections, design, direct
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 26
-- Shared motifs: bridges, catch, connections, data, design
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, data, design, direct
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD](DOD.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

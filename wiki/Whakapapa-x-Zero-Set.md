@@ -110,35 +110,40 @@ https://www.academia.edu/33826311/Tokotoko 4.
 - [DOD](DOD.md)
 
 ### Inbound Connections
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - [Ira Kotahi](Ira-Kotahi.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- [Tokotoko](Tokotoko.md)
+- [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
 
 ### Lateral Bridges
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 27
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, design
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 26
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, design
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 25
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 29
 - Shared motifs: anti, bridges, code, connections, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, catch, code, connections
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

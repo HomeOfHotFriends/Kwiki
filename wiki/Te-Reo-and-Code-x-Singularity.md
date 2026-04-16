@@ -115,38 +115,46 @@ slightly illegal upper echelons of tempo.**
 - [Singularity](Singularity.md)
 - [Mauri](Mauri.md)
 - [Zero Set](Zero-Set.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- [The-Law × Singularity](The-Law-x-Singularity.md)
+- [The Marae](The-Marae.md)
 
 ### Lateral Bridges
-#### [Mauri](Mauri.md)
-- Connection strength: 11
-- Shared motifs: ira, kotahi, mauri, pumotu, set
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, design
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 11
-- Shared motifs: code, divergence, ira, kotahi, mauri
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 11
-- Shared motifs: code, divergence, mauri, pumotu, reo
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 11
-- Shared motifs: code, divergence, mauri, pumotu, reo
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 11
-- Shared motifs: code, divergence, ira, kotahi, mauri
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 11
-- Shared motifs: code, ira, kotahi, pumotu, reo
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 10
-- Shared motifs: code, divergence, mauri, pumotu, reo
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 10
-- Shared motifs: ira, kotahi, mauri, reo, set
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

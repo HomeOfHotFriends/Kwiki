@@ -104,37 +104,37 @@ obstacle present in any given moment provided a challenge unique to what had com
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [Catch 22](Catch-22.md)
 - [Design Rules](Design-Rules.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Determinism](Determinism.md)
 - [DOD](DOD.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- [DOD × Catch-22](DOD-x-Catch-22.md)
 
 ### Lateral Bridges
-#### [Determinism](Determinism.md)
-- Connection strength: 32
-- Shared motifs: bridges, connections, data, design, determinism
 #### [Design Rules](Design-Rules.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Positioning](Positioning.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Determinism](Determinism.md)
 - Connection strength: 31
-- Shared motifs: bridges, connections, data, design, determinism
+- Shared motifs: anti, bridges, connections, data, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 30
-- Shared motifs: bridges, connections, data, design, determinism
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Shared motifs: anti, bridges, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 29
-- Shared motifs: bridges, connections, data, design, direct
-#### [Positioning](Positioning.md)
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 29
-- Shared motifs: bridges, connections, data, design, determinism
-#### [DOD](DOD.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, data, design, determinism
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, design, determinism, direct
+- Shared motifs: anti, bridges, catch, connections, data
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, design, direct, dod
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

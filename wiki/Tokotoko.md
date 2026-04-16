@@ -113,36 +113,36 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Genealogy of j](Genealogy-of-j.md)
 - [Indigenous Proposal](Indigenous-Proposal.md)
-- [Ira Kotahi](Ira-Kotahi.md)
-- [Mauri](Mauri.md)
-- [Scripts](Scripts.md)
-- [Singularity](Singularity.md)
-- [Taonga](Taonga.md)
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Plantling](Inward-Plantling.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Singularity](Inward-Singularity.md)
 
 ### Lateral Bridges
-#### [The Law](The-Law.md)
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Mauri](Mauri.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Taonga](Taonga.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, connections, direct, hub
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, direct, hub
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 23
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 23
+#### [Singularity](Singularity.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Taonga](Taonga.md)
-- Connection strength: 23
+#### [The Law](The-Law.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

@@ -49,38 +49,46 @@
 - [Whakapapa](Whakapapa.md)
 - [Rhizome](Rhizome.md)
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 
 ### Lateral Bridges
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: catch, data, design, divergence, dod
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, code, connections
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 8
-- Shared motifs: data, design, divergence, dod, esp
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 7
-- Shared motifs: catch, data, design, divergence, oriented
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 7
-- Shared motifs: data, design, divergence, dod, oriented
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 7
-- Shared motifs: data, design, divergence, dod, oriented
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 7
-- Shared motifs: catch, design, divergence, dod, esp
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

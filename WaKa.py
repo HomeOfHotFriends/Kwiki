@@ -79,6 +79,8 @@ CONCEPT_IDS = [
     "determinism",
     "radiative",
     "singularity",
+    "plantling",
+    "rhizhome",
 ]
 
 # Parallel array: human-readable name for each concept
@@ -107,6 +109,8 @@ CONCEPT_NAMES = {
     "determinism":           "Determinism",
     "radiative":             "Radiative",
     "singularity":           "Singularity / Ira Kotahi",
+    "plantling":             "Plantling",
+    "rhizhome":              "Rhizhome",
 }
 
 # Parallel array: whakapapa links (lateral, not hierarchical).
@@ -118,7 +122,7 @@ WHAKAPAPA = {
     "anti_oopedipus":      ["desiring_machine", "rhizome", "catch22", "dod", "shitting_machine"],
     "dod":                 ["te_whariki_pumotu", "simplicity_of_parts", "zero_set", "enemy_wave", "the_law"],
     "whakapapa":           ["mauri", "ira_kotahi", "rhizome", "the_law"],
-    "rhizome":             ["anti_oopedipus", "whakapapa", "te_whariki_pumotu", "desiring_machine"],
+    "rhizome":             ["anti_oopedipus", "whakapapa", "te_whariki_pumotu", "desiring_machine", "plantling"],
     "ira_kotahi":          ["mauri", "tokotoko", "whakapapa", "singularity"],
     "te_whariki_pumotu":   ["dod", "zero_set", "whakapapa", "mauri"],
     "esprade":             ["simplicity_of_parts", "enemy_wave", "positioning", "the_law", "determinism"],
@@ -137,6 +141,8 @@ WHAKAPAPA = {
     "determinism":         ["esprade", "dod", "positioning", "the_law"],
     "radiative":           ["content_vs_creative", "dod", "the_law"],
     "singularity":         ["ira_kotahi", "tokotoko", "mauri"],
+    "plantling":           ["rhizome", "mauri", "rhizhome", "whakapapa", "anti_oopedipus"],
+    "rhizhome":            ["plantling", "rhizome", "radiative", "content_vs_creative", "anti_oopedipus"],
 }
 
 # Parallel array: typographic voice (from source document)
@@ -169,6 +175,8 @@ CONCEPT_VOICE = {
     "determinism":         2,
     "radiative":           1,
     "singularity":         0,
+    "plantling":           3,
+    "rhizhome":            1,
 }
 
 # Parallel array: keywords for passage extraction from source corpus
@@ -197,6 +205,8 @@ CONCEPT_KEYWORDS = {
     "determinism":         ["deterministic", "determinism", "run-to-run", "seed"],
     "radiative":           ["radiative", "Radiative", "design thinking", "adaptive systems"],
     "singularity":         ["singularity", "ira kotahi", "singular", "te mutunga"],
+    "plantling":           ["plantling", "Plantling", "blobbling", "Hot Friends", "Space Dad"],
+    "rhizhome":            ["rhizhome", "Rhizhome", "alien internet", "utopian", "no currency", "community hub"],
 }
 
 # Page registry: page slug -> primary concept cluster
@@ -219,6 +229,9 @@ PAGE_REGISTRY = {
     "Zero-Set":             ["zero_set", "te_whariki_pumotu", "dod", "simplicity_of_parts", "ira_kotahi"],
     "Enemy-Wave":           ["enemy_wave", "esprade", "positioning", "determinism", "simplicity_of_parts"],
     "Catch-22":             ["catch22", "content_vs_creative", "frog_in_pot", "flow_state", "anti_oopedipus"],
+    "Plantling":            ["plantling", "rhizome", "mauri", "whakapapa", "anti_oopedipus"],
+    "Rhizhome":             ["rhizhome", "plantling", "rhizome", "radiative", "content_vs_creative"],
+    "Gamification-Lens":    ["rhizhome", "plantling", "radiative", "anti_oopedipus", "mauri", "the_law"],
 }
 
 

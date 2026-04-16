@@ -36,35 +36,38 @@
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Inbound Connections
-- [Enemy Wave](Enemy-Wave.md)
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - [Ira Kotahi](Ira-Kotahi.md)
-- [Mauri](Mauri.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
 - [Singularity](Singularity.md)
 
 ### Lateral Bridges
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 20
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 20
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 19
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 18
-- Shared motifs: bridges, catch, connections, direct, enemy
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 18
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, direct, dod
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 25
 - Shared motifs: bridges, catch, connections, direct, divergence
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, genealogy, hub
 #### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 18
-- Shared motifs: bridges, connections, direct, divergence, hub
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, divergence, enemy
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 17
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 17
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, enemy, hub
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 21
 - Shared motifs: bridges, catch, connections, direct, divergence
 
 ### Recursive Prompt

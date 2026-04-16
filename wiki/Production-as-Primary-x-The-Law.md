@@ -30,38 +30,46 @@
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [DOD](DOD.md)
 - [The Law](The-Law.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Shitting Machine](Shitting-Machine.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Desiring Machine](Desiring-Machine.md)
+- [Flow State](Flow-State.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Oedipal Machine](Oedipal-Machine.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Shitting Machine](Shitting-Machine.md)
 
 ### Lateral Bridges
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 6
-- Shared motifs: desiring, machine, primary, production
 #### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, law, machine, primary
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, law, machine, primary
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 5
-- Shared motifs: desiring, law, machine
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
 #### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 5
-- Shared motifs: desiring, law, machine, primary, production
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 4
-- Shared motifs: divergence, law, primary, production
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 4
-- Shared motifs: divergence, law, primary, production
-#### [Flow State](Flow-State.md)
-- Connection strength: 4
-- Shared motifs: desiring, machine, primary, production
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

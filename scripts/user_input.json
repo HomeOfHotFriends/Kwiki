@@ -1,21 +1,13 @@
 {
-  "page": "Whakapapa",
-  "intent": "Rebless. Recurse. Rebless.",
+  "page": "Rhizhome",
+  "intent": "Rhizhome: the alien utopian internet. No currency, no ads, no government. Art, information, learning, growth. Creators and communities of creators. Space Reddit with a heart.",
   "tone": "body",
   "extra_concepts": [
-    "whakapapa",
-    "catch22",
-    "anti_oopedipus",
-    "ira_kotahi",
-    "mauri",
+    "plantling",
     "rhizome",
-    "flow_state",
-    "content_vs_creative",
-    "desiring_machine",
-    "tokotoko",
-    "taonga",
-    "te_whariki_pumotu"
+    "radiative",
+    "content_vs_creative"
   ],
   "voice_notes": "",
-  "new_passage": "Rebless. Recurse. Rebless."
+  "new_passage": ""
 }

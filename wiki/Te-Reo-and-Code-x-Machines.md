@@ -133,38 +133,38 @@ or level off to flat.
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- [DOD](DOD.md)
-- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- [Fiap pot](FIAP POT.md)
-- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [Determinism](Determinism.md)
 
 ### Lateral Bridges
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 42
-- Shared motifs: anti, bridges, catch, code, connections
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 41
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 39
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 38
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 36
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 35
-- Shared motifs: anti, bridges, catch, code, connections
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 35
 - Shared motifs: anti, bridges, code, connections, data
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
 
