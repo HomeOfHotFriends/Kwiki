@@ -36,33 +36,38 @@
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Desiring Machine](Desiring-Machine.md)
+- [Flow State](Flow-State.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Oedipal Machine](Oedipal-Machine.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Shitting Machine](Shitting-Machine.md)
 
 ### Lateral Bridges
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, desiring
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, code, connections
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - Connection strength: 25
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Desiring Machine](Desiring-Machine.md)
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 24
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 21
-- Shared motifs: anti, bridges, catch, code, connections
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

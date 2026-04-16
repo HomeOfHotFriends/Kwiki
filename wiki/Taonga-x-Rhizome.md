@@ -27,29 +27,29 @@
 
 ### Lateral Bridges
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, design, direct
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, design, direct
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, design, desiring
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 21
-- Shared motifs: anti, bridges, connections, design, direct
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, design, desiring
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Determinism](Determinism.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

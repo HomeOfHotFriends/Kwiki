@@ -132,32 +132,31 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
 ### Lateral Bridges
 #### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, law, mauri
-#### [Mauri](Mauri.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, law, mauri
-#### [Taonga](Taonga.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, law, mauri
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, law, mauri
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 11
-- Shared motifs: connections, ira, kotahi, parts, simplicity
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 10
-- Shared motifs: connections, ira, kotahi, law, mauri
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 10
-- Shared motifs: connections, ira, kotahi, law, mauri
-#### [Inward Taonga](Inward-Taonga.md)
-- Connection strength: 10
-- Shared motifs: ira, kotahi, law, mauri, parts
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Taonga](Taonga.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Mauri](Inward-Mauri.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Mauri](Mauri.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

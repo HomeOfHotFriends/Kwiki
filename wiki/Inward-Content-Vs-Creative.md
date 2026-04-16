@@ -158,36 +158,42 @@ was on level one in combination with the tiny
 - [The Law](The-Law.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- [Inward Radiative](Inward-Radiative.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Shitting Machine](Inward-Shitting-Machine.md)
 
 ### Lateral Bridges
-#### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 19
-- Shared motifs: anti, catch, content, creative, data
-#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
-- Connection strength: 16
-- Shared motifs: anti, catch, content, creative, desiring
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 15
-- Shared motifs: anti, catch, content, creative, data
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, content, creative, desiring
-#### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 14
-- Shared motifs: catch, content, creative, data, design
-#### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, data, design, desiring
+- Connection strength: 35
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Shitting Machine](Inward-Shitting-Machine.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, data, design, desiring
+- Connection strength: 35
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

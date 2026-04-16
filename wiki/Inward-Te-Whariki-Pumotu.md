@@ -193,36 +193,42 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [The Law](The-Law.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Dod](Inward-Dod.md)
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
+- [Inward Zero Set](Inward-Zero-Set.md)
+- [Zero Set](Zero-Set.md)
 
 ### Lateral Bridges
-#### [Inward Dod](Inward-Dod.md)
-- Connection strength: 14
-- Shared motifs: data, design, enemy, inward, map
 #### [Inward Mauri](Inward-Mauri.md)
-- Connection strength: 14
-- Shared motifs: data, design, inward, ira, kotahi
-#### [Inward Zero Set](Inward-Zero-Set.md)
-- Connection strength: 14
-- Shared motifs: data, design, enemy, inward, map
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 13
-- Shared motifs: data, design, ira, kotahi, oriented
+- Connection strength: 31
+- Shared motifs: bridges, connections, data, design, direct
 #### [Inward Taonga](Inward-Taonga.md)
-- Connection strength: 12
-- Shared motifs: data, design, inward, ira, kotahi
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
 #### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 12
-- Shared motifs: data, design, inward, ira, kotahi
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 12
-- Shared motifs: data, design, enemy, mauri, oriented
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Zero Set](Inward-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 11
-- Shared motifs: data, design, enemy, oriented, parts
+- Connection strength: 28
+- Shared motifs: bridges, code, connections, data, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

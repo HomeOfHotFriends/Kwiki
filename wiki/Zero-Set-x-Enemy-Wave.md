@@ -109,38 +109,40 @@ This proves the obstacle must be a true vertical wall.
 - [Enemy Wave](Enemy-Wave.md)
 - [Simplicity of Parts](Simplicity-of-Parts.md)
 - [The Law](The-Law.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 13
-- Shared motifs: data, design, divergence, enemy, law
-#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 12
-- Shared motifs: data, design, divergence, enemy, oriented
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 11
-- Shared motifs: data, design, divergence, law, oriented
-#### [Determinism](Determinism.md)
-- Connection strength: 11
-- Shared motifs: data, design, enemy, esp, law
-#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 11
-- Shared motifs: data, design, divergence, enemy, law
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, data, design
 #### [Inward Dod](Inward-Dod.md)
-- Connection strength: 11
-- Shared motifs: data, design, enemy, esp, law
-#### [Inward Zero Set](Inward-Zero-Set.md)
-- Connection strength: 11
-- Shared motifs: data, design, enemy, esp, law
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 11
-- Shared motifs: data, design, enemy, esp, law
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

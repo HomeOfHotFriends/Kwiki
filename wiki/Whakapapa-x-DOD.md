@@ -47,38 +47,41 @@ whakapapa mai i ēnei taputapu.
 - [The Law](The-Law.md)
 - [DOD](DOD.md)
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 9
-- Shared motifs: catch, data, design, divergence, dod
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 9
-- Shared motifs: catch, data, design, divergence, dod
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 8
-- Shared motifs: data, design, divergence, dod, oriented
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 8
-- Shared motifs: catch, data, design, divergence, dod
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 8
-- Shared motifs: data, design, divergence, dod, oriented
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

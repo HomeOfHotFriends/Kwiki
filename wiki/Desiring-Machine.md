@@ -104,29 +104,29 @@ Not a single part of me had to force myself to focus.
 
 ### Lateral Bridges
 #### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
 #### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 25
-- Shared motifs: bridges, catch, connections, design, direct
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, catch, connections, desiring
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Flow State](Flow-State.md)
-- Connection strength: 23
-- Shared motifs: bridges, catch, connections, desiring, direct
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, catch, connections, design
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

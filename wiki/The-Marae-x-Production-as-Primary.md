@@ -48,38 +48,41 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Whakapapa](Whakapapa.md)
 - [Mauri](Mauri.md)
 - [Desiring Machine](Desiring-Machine.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 10
-- Shared motifs: desiring, divergence, machine, marae, mauri
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 7
-- Shared motifs: desiring, machine, primary, production, rhizome
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 7
-- Shared motifs: divergence, marae, primary, production, rhizome
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, desiring
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 6
-- Shared motifs: divergence, marae, mauri, rhizome, shared
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 6
-- Shared motifs: divergence, marae, mauri, rhizome, shared
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, machine, marae, shared
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 6
-- Shared motifs: desiring, divergence, machine, marae, shared
-#### [Rhizome](Rhizome.md)
-- Connection strength: 6
-- Shared motifs: desiring, machine, marae, rhizome
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

@@ -112,38 +112,39 @@ extreme simplicity of the parts.**
 - [The Law](The-Law.md)
 - [DOD](DOD.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Shmup Genealogy](Shmup-Genealogy.md)
 
 ### Lateral Bridges
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 13
-- Shared motifs: design, divergence, enemy, esp, genealogy
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 12
-- Shared motifs: design, divergence, enemy, genealogy, law
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 12
-- Shared motifs: design, divergence, enemy, genealogy, law
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 12
-- Shared motifs: design, divergence, enemy, frog, genealogy
-#### [Positioning](Positioning.md)
-- Connection strength: 11
-- Shared motifs: design, enemy, esp, genealogy, law
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
 #### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
-- Connection strength: 11
-- Shared motifs: divergence, enemy, esp, frog, genealogy
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 11
-- Shared motifs: design, enemy, esp, genealogy, law
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 9
-- Shared motifs: design, divergence, genealogy, law, pumotu
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Shmup-Genealogy](Te-Reo-and-Code-x-Shmup-Genealogy.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

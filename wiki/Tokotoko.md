@@ -122,28 +122,28 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 ### Lateral Bridges
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 27
-- Shared motifs: bridges, connections, direct, hub, inbound
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Mauri](Mauri.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Taonga](Taonga.md)
-- Connection strength: 25
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
+#### [Singularity](Singularity.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+#### [The Law](The-Law.md)
 - Connection strength: 24
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

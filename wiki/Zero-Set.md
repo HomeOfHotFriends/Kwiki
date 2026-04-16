@@ -161,33 +161,32 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 
 ### Lateral Bridges
-#### [DOD](DOD.md)
-- Connection strength: 16
-- Shared motifs: connections, data, design, oriented, parts
-#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- Connection strength: 14
-- Shared motifs: data, design, ira, kotahi, oriented
-#### [Mauri](Mauri.md)
-- Connection strength: 14
-- Shared motifs: connections, design, ira, kotahi, pumotu
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 14
-- Shared motifs: connections, data, design, oriented, pumotu
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 13
-- Shared motifs: data, design, oriented, parts, pumotu
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 13
-- Shared motifs: connections, data, design, oriented, parts
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 13
-- Shared motifs: connections, data, design, oriented, parts
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
 #### [Scripts × Radiative](Scripts-x-Radiative.md)
-- Connection strength: 13
-- Shared motifs: data, design, oriented, parts, pumotu
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

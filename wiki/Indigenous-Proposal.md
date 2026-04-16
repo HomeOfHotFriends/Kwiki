@@ -105,16 +105,29 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Tokotoko](Tokotoko.md)
 
 ### Inbound Connections
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Mauri](Mauri.md)
+- [Singularity](Singularity.md)
 - [Taonga](Taonga.md)
+- [The Law](The-Law.md)
+- [The Marae](The-Marae.md)
 - [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
 #### [Taonga](Taonga.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [The Law](The-Law.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Ira Kotahi](Ira-Kotahi.md)
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
@@ -123,17 +136,8 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 #### [Mauri](Mauri.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 17
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 16
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 16
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 16
+#### [The Marae](The-Marae.md)
+- Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

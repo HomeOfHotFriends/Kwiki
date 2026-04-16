@@ -131,42 +131,41 @@ extreme simplicity of the parts.**
 
 ### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- [Determinism](Determinism.md)
+- [DOD](DOD.md)
+- [Enemy Wave](Enemy-Wave.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Mauri](Mauri.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
 - [Positioning](Positioning.md)
 - [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- [Simplicity of Parts](Simplicity-of-Parts.md)
 
 ### Lateral Bridges
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 17
-- Shared motifs: connections, data, design, enemy, law
-#### [Positioning](Positioning.md)
-- Connection strength: 16
-- Shared motifs: connections, data, design, enemy, law
-#### [Determinism](Determinism.md)
-- Connection strength: 15
-- Shared motifs: connections, data, design, enemy, law
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 13
-- Shared motifs: connections, design, enemy, law, parts
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 11
-- Shared motifs: connections, data, design, oriented, rules
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 10
-- Shared motifs: connections, design, enemy, law, rules
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 10
-- Shared motifs: connections, data, design, enemy, law
-#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 10
-- Shared motifs: connections, data, design, enemy, law
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Positioning](Positioning.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Determinism](Determinism.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [Enemy Wave](Enemy-Wave.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

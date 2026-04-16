@@ -87,38 +87,40 @@ whakapapa mai i ēnei taputapu.
 - [Whakapapa](Whakapapa.md)
 - [The Law](The-Law.md)
 - [Mauri](Mauri.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: divergence, esp, genealogy, ira, kotahi
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 8
-- Shared motifs: divergence, ira, kotahi, mauri, shared
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 8
-- Shared motifs: divergence, genealogy, ira, kotahi, mauri
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 8
-- Shared motifs: divergence, ira, kotahi, mauri, shared
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 8
-- Shared motifs: divergence, ira, kotahi, mauri, shared
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: bridges, code, connections, direct, divergence
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 8
-- Shared motifs: divergence, genealogy, ira, kotahi, mauri
+- Connection strength: 26
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, direct, divergence
 #### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 7
-- Shared motifs: divergence, esp, genealogy, mauri, shared
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 7
-- Shared motifs: ira, kotahi, mauri, singularity, whakapapa
+- Connection strength: 23
+- Shared motifs: bridges, code, connections, direct, divergence
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 22
+- Shared motifs: bridges, code, connections, direct, divergence
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

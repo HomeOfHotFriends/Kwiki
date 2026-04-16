@@ -131,33 +131,32 @@ te rā
 - [Inward Taonga](Inward-Taonga.md)
 
 ### Lateral Bridges
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, mauri, singularity
-#### [Taonga](Taonga.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, mauri, singularity
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 12
-- Shared motifs: connections, ira, kotahi, mauri, singularity
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 10
-- Shared motifs: connections, ira, kotahi, mauri, singularity
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 10
-- Shared motifs: connections, ira, kotahi, mauri, singularity
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Taonga](Taonga.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
-- Connection strength: 10
-- Shared motifs: connections, ira, kotahi, mauri, whakapapa
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [The Law](The-Law.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
-- Connection strength: 9
-- Shared motifs: ira, kotahi, mauri, singularity, tokotoko
-#### [Inward Singularity](Inward-Singularity.md)
-- Connection strength: 9
-- Shared motifs: ira, kotahi, mauri, singularity, tokotoko
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

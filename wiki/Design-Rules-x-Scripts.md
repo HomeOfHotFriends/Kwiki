@@ -124,38 +124,46 @@ Signal::Suppressed(ZeroSet::Tot
 - [Zero Set](Zero-Set.md)
 - [Enemy Wave](Enemy-Wave.md)
 - [Whakapapa](Whakapapa.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Scripts × Radiative](Scripts-x-Radiative.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [DOD](DOD.md)
+- [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- [Enemy Wave](Enemy-Wave.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Scripts](Scripts.md)
+- [Scripts × Radiative](Scripts-x-Radiative.md)
+- [Simplicity of Parts](Simplicity-of-Parts.md)
+- [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 15
-- Shared motifs: data, design, divergence, enemy, oriented
 #### [Scripts × Radiative](Scripts-x-Radiative.md)
-- Connection strength: 14
-- Shared motifs: data, design, divergence, oriented, parts
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 14
-- Shared motifs: data, design, divergence, enemy, oriented
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 13
-- Shared motifs: data, design, divergence, oriented, parts
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 13
-- Shared motifs: data, design, divergence, oriented, pumotu
-#### [DOD](DOD.md)
-- Connection strength: 12
-- Shared motifs: data, design, oriented, parts, pumotu
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
-- Connection strength: 12
-- Shared motifs: data, design, divergence, oriented, parts
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 12
-- Shared motifs: data, design, oriented, parts, pumotu
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD](DOD.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

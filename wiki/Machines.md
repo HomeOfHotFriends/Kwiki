@@ -121,43 +121,38 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - [Whakapapa](Whakapapa.md)
 
 ### Inbound Connections
-- [Desiring Machine](Desiring-Machine.md)
-- [Flow State](Flow-State.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
-- [Oedipal Machine](Oedipal-Machine.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
-- [Rhizome](Rhizome.md)
-- [Shitting Machine](Shitting-Machine.md)
+- [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 12
-- Shared motifs: connections, desiring, flow, machine, machines
-#### [Flow State](Flow-State.md)
-- Connection strength: 12
-- Shared motifs: connections, desiring, flow, machine, machines
-#### [Rhizome](Rhizome.md)
-- Connection strength: 12
-- Shared motifs: connections, desiring, machine, machines, pumotu
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 12
-- Shared motifs: connections, desiring, flow, machine, machines
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 10
-- Shared motifs: connections, desiring, flow, machine, machines
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, desiring, direct
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 8
-- Shared motifs: connections, flow, machines, state, whakapapa
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 21
+- Shared motifs: bridges, connections, design, desiring, direct
 #### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 8
-- Shared motifs: connections, desiring, flow, machine, machines
-#### [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
-- Connection strength: 8
-- Shared motifs: connections, machines, pumotu, whakapapa, whariki
+- Connection strength: 21
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, connections, design, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

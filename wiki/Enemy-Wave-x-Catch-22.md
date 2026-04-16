@@ -39,8 +39,6 @@
 
 ### Direct Connections
 - [Enemy Wave](Enemy-Wave.md)
-
-### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Catch-22](DOD-x-Catch-22.md)
@@ -48,36 +46,39 @@
 - [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - [Fiap pot](FIAP POT.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+
+### Inbound Connections
+- [Enemy Wave](Enemy-Wave.md)
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
 
 ### Lateral Bridges
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, enemy, esp, shared
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, enemy, esp, shared
 #### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, enemy, esp, shared
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, enemy, esp, shared
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, enemy, shared, tupuna
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, enemy, shared, tupuna
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, enemy, shared, tupuna
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, enemy, shared, tupuna
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

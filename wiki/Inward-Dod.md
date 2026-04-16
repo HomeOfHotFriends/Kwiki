@@ -181,36 +181,42 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 - [Whakapapa](Whakapapa.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- [Inward Esprade](Inward-Esprade.md)
+- [Inward Positioning](Inward-Positioning.md)
+- [Inward Radiative](Inward-Radiative.md)
+- [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
 #### [Inward Zero Set](Inward-Zero-Set.md)
-- Connection strength: 17
-- Shared motifs: data, design, enemy, esp, inward
-#### [Determinism](Determinism.md)
-- Connection strength: 14
-- Shared motifs: data, design, dod, enemy, esp
+- Connection strength: 35
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Enemy Wave](Inward-Enemy-Wave.md)
-- Connection strength: 14
-- Shared motifs: data, design, enemy, esp, inward
-#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- Connection strength: 14
-- Shared motifs: data, design, enemy, inward, map
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 13
-- Shared motifs: data, design, dod, enemy, law
+- Connection strength: 34
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 13
-- Shared motifs: data, design, enemy, esp, inward
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 13
-- Shared motifs: data, design, enemy, esp, inward
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Positioning](Inward-Positioning.md)
-- Connection strength: 13
-- Shared motifs: data, design, enemy, esp, inward
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- Connection strength: 31
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward The Law](Inward-The-Law.md)
+- Connection strength: 31
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

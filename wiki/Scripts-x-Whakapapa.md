@@ -109,38 +109,38 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 ### Inbound Connections
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
 - [Mauri × Catch-22](Mauri-x-Catch-22.md)
-- [Scripts × Singularity](Scripts-x-Singularity.md)
-- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Lateral Bridges
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - Connection strength: 35
 - Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, catch, code, connections
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 30
+- Connection strength: 33
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 30
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 30
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, design
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

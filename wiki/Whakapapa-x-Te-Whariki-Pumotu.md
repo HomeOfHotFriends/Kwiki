@@ -23,33 +23,34 @@
 - [Rhizome](Rhizome.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Machines](Machines.md)
+- [Machines × The-Law](Machines-x-The-Law.md)
 
 ### Lateral Bridges
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, direct, dod
-#### [Rhizome](Rhizome.md)
-- Connection strength: 21
-- Shared motifs: anti, bridges, connections, direct, dod
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, direct, dod
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, direct, hub
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Rhizome](Rhizome.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, direct, dod
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 20
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Radiative × Singularity](Radiative-x-Singularity.md)
+- Connection strength: 22
 - Shared motifs: anti, bridges, connections, direct, hub
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, connections, direct, dod
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 18
-- Shared motifs: anti, bridges, connections, direct, dod
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

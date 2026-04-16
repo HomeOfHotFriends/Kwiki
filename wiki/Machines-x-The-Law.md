@@ -107,39 +107,39 @@ whakapapa mai i ēnei taputapu.
 - [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 
 ### Inbound Connections
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - [Machines × Radiative](Machines-x-Radiative.md)
-- [Rhizome](Rhizome.md)
-- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 30
+- Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 29
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 28
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

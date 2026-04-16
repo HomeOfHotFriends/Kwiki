@@ -128,33 +128,32 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 
 ### Lateral Bridges
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 11
-- Shared motifs: anti, connections, ira, kotahi, oopedipus
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, connections, ira, kotahi
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, connections, ira, kotahi
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 9
-- Shared motifs: anti, connections, oopedipus, whakapapa
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 9
-- Shared motifs: anti, catch, connections, oopedipus
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 9
-- Shared motifs: connections, ira, kotahi, whakapapa
 #### [Machines × Whakapapa](Machines-x-Whakapapa.md)
-- Connection strength: 9
-- Shared motifs: anti, catch, ira, kotahi, oopedipus
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, catch, connections, direct
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Tokotoko](Inward-Tokotoko.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, catch, connections, desiring
 #### [Mauri](Mauri.md)
-- Connection strength: 9
-- Shared motifs: connections, ira, kotahi, whakapapa
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

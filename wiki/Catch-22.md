@@ -128,43 +128,42 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - [DOD](DOD.md)
 
 ### Inbound Connections
+- [Anti OOPedipus](Anti-OOPedipus.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Desiring Machine](Desiring-Machine.md)
+- [DOD](DOD.md)
+- [Enemy Wave](Enemy-Wave.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
-- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- [Frog In A Pot](Frog-In-A-Pot.md)
-- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 14
-- Shared motifs: catch, connections, content, creative, flow
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 13
-- Shared motifs: catch, connections, content, creative, flow
-#### [Flow State](Flow-State.md)
-- Connection strength: 13
-- Shared motifs: catch, connections, content, creative, flow
-#### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 13
-- Shared motifs: catch, connections, content, creative, flow
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 13
-- Shared motifs: catch, connections, content, creative, flow
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 12
-- Shared motifs: catch, connections, content, creative, flow
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 12
-- Shared motifs: catch, connections, content, creative, flow
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 11
-- Shared motifs: anti, catch, connections, flow, oopedipus
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow State](Flow-State.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

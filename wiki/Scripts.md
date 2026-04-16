@@ -102,36 +102,35 @@ hangarau, ka pūruatia te mana o te kupu.
 - [Ira Kotahi](Ira-Kotahi.md)
 
 ### Inbound Connections
-- [Tokotoko](Tokotoko.md)
+- No inbound links detected yet.
 
 ### Lateral Bridges
-#### [DOD](DOD.md)
-- Connection strength: 9
-- Shared motifs: connections, data, design, oriented, set
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 9
-- Shared motifs: connections, data, design, oriented, set
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 9
-- Shared motifs: connections, set, whakapapa, zero
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 9
-- Shared motifs: connections, data, design, oriented, set
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 8
-- Shared motifs: connections, data, design, oriented, scripts
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 8
-- Shared motifs: connections, data, design, oriented, scripts
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 7
-- Shared motifs: connections, data, design, oriented, whakapapa
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 7
-- Shared motifs: data, design, oriented, scripts, set
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD](DOD.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Radiative](Scripts-x-Radiative.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, data
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

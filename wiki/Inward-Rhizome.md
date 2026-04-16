@@ -179,36 +179,42 @@ My ADHD could no longer handle any other game experience.
 - [Flow State](Flow-State.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
+- [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- [Inward Singularity](Inward-Singularity.md)
 
 ### Lateral Bridges
-#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 15
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
-- Connection strength: 15
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 14
-- Shared motifs: anti, catch, data, design, desiring
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 13
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 13
-- Shared motifs: anti, data, design, desiring, inward
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Tokotoko](Inward-Tokotoko.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, connections, data, design
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

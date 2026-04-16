@@ -111,30 +111,30 @@ obstacle present in any given moment provided a challenge unique to what had com
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
-#### [Determinism](Determinism.md)
+#### [Design Rules](Design-Rules.md)
 - Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Positioning](Positioning.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Determinism](Determinism.md)
+- Connection strength: 31
 - Shared motifs: anti, bridges, connections, data, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, data, design
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Positioning](Positioning.md)
-- Connection strength: 29
-- Shared motifs: bridges, connections, data, design, determinism
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, data, design
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 26
+- Connection strength: 29
 - Shared motifs: anti, bridges, connections, data, design
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, data, design
-#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, data, design
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

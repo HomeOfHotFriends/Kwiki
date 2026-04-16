@@ -129,6 +129,7 @@ foresmost, made up of simple parts.**
 - [Determinism](Determinism.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - [Zero Set](Zero-Set.md)
+- [Anti OOPedipus](Anti-OOPedipus.md)
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
@@ -141,33 +142,32 @@ foresmost, made up of simple parts.**
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Lateral Bridges
-#### [Determinism](Determinism.md)
-- Connection strength: 14
-- Shared motifs: connections, determinism, enemy, esp, parts
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 14
-- Shared motifs: connections, determinism, enemy, esp, parts
-#### [Positioning](Positioning.md)
-- Connection strength: 13
-- Shared motifs: connections, determinism, enemy, esp, parts
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 11
-- Shared motifs: connections, enemy, esp, parts, positioning
+- Connection strength: 28
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Design Rules](Design-Rules.md)
-- Connection strength: 10
-- Shared motifs: connections, enemy, parts, positioning, simplicity
-#### [DOD](DOD.md)
-- Connection strength: 10
-- Shared motifs: connections, determinism, parts, simplicity, whakapapa
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Determinism](Determinism.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Positioning](Positioning.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 10
-- Shared motifs: determinism, enemy, esp, parts, positioning
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Inward Enemy Wave](Inward-Enemy-Wave.md)
-- Connection strength: 10
-- Shared motifs: determinism, enemy, esp, parts, positioning
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup Genealogy](Shmup-Genealogy.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, determinism, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

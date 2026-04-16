@@ -160,36 +160,42 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [DOD](DOD.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
+- [Singularity](Singularity.md)
+- [The Law](The-Law.md)
+- [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
-#### [Inward Mauri](Inward-Mauri.md)
-- Connection strength: 13
-- Shared motifs: data, design, inward, ira, kotahi
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 13
-- Shared motifs: data, design, inward, ira, kotahi
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- Connection strength: 12
-- Shared motifs: data, design, inward, ira, kotahi
-#### [Inward The Law](Inward-The-Law.md)
-- Connection strength: 11
-- Shared motifs: data, design, esp, inward, law
-#### [Determinism](Determinism.md)
-- Connection strength: 10
-- Shared motifs: data, design, esp, law, oriented
-#### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 10
-- Shared motifs: data, design, esp, inward, law
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 30
+- Shared motifs: bridges, connections, data, design, direct
+#### [Inward Mauri](Inward-Mauri.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
 #### [Inward Dod](Inward-Dod.md)
-- Connection strength: 10
-- Shared motifs: data, design, esp, inward, law
+- Connection strength: 26
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward The Law](Inward-The-Law.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Determinism](Inward-Determinism.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 10
-- Shared motifs: data, design, esp, inward, law
+- Connection strength: 24
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

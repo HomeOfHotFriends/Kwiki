@@ -102,38 +102,38 @@ What is Philosophy, among others).**
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [Shitting Machine](Shitting-Machine.md)
 - [Ira Kotahi](Ira-Kotahi.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Whakapapa](Whakapapa.md)
 
 ### Lateral Bridges
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 11
-- Shared motifs: anti, catch, desiring, flow, machine
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 11
-- Shared motifs: anti, catch, desiring, divergence, flow
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 11
-- Shared motifs: anti, catch, desiring, flow, machine
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, desiring, divergence, flow
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, divergence, ira, kotahi
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, desiring, divergence, machine
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Whakapapa](Whakapapa.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, desiring
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 10
-- Shared motifs: anti, catch, divergence, ira, kotahi
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 9
-- Shared motifs: anti, catch, divergence, flow, machines
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

@@ -113,30 +113,30 @@ extreme simplicity of the parts.**
 - [Inward Catch22](Inward-Catch22.md)
 
 ### Lateral Bridges
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, connections, desiring
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, desiring
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, desiring
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
 #### [Flow State](Flow-State.md)
-- Connection strength: 23
-- Shared motifs: bridges, catch, connections, desiring, direct
-#### [Rhizome](Rhizome.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, desiring, direct
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, catch, connections, direct
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 19
-- Shared motifs: bridges, catch, connections, direct, flow
+- Connection strength: 27
+- Shared motifs: bridges, connections, content, creative, design
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Catch 22](Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, content, creative
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, content, creative
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

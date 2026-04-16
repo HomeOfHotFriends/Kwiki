@@ -119,33 +119,39 @@ slightly illegal upper echelons of tempo.**
 - [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
+- [Ira Kotahi](Ira-Kotahi.md)
 - [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - [The-Law × Singularity](The-Law-x-Singularity.md)
+- [The Marae](The-Marae.md)
 
 ### Lateral Bridges
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, design
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 29
+- Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, design
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 29
+- Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, direct
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 29
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 28
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 27
+- Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, design
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 25
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt

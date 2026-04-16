@@ -108,40 +108,40 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - [Design Rules](Design-Rules.md)
 
 ### Inbound Connections
+- [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Determinism](Determinism.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- [Fiap pot](FIAP POT.md)
-- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- [Positioning](Positioning.md)
-- [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Enemy Wave](Enemy-Wave.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 
 ### Lateral Bridges
+#### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, code, connections, design
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 35
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, catch, code, connections
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, design
 #### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, catch, connections, direct
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, connections, design, direct
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 29
-- Shared motifs: bridges, catch, code, connections, direct
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Positioning](Positioning.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

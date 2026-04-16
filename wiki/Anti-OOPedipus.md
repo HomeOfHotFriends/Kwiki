@@ -128,36 +128,35 @@ reactions.
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Desiring Machine](Desiring-Machine.md)
-- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD](DOD.md)
 
 ### Lateral Bridges
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, design, desiring, machine
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 12
-- Shared motifs: anti, data, design, desiring, machine
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
 #### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 12
-- Shared motifs: anti, data, design, desiring, machine
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, data, design, desiring
-#### [Rhizome](Rhizome.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, desiring, machine, oopedipus
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, data, design, oopedipus
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, data, design, oopedipus
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 11
-- Shared motifs: anti, connections, data, design, oopedipus
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD](DOD.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Rhizome](Rhizome.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

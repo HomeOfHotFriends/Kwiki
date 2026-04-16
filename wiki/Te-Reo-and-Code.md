@@ -128,36 +128,35 @@ te rā
 - [Rhizome](Rhizome.md)
 
 ### Inbound Connections
-- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 12
-- Shared motifs: code, connections, mauri, pumotu, reo
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 11
-- Shared motifs: code, connections, mauri, pumotu, reo
-#### [Rhizome](Rhizome.md)
-- Connection strength: 10
-- Shared motifs: code, connections, pumotu, reo, set
-#### [Mauri](Mauri.md)
-- Connection strength: 9
-- Shared motifs: connections, mauri, pumotu, set, whakapapa
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 9
-- Shared motifs: code, connections, mauri, pumotu, reo
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 9
-- Shared motifs: code, connections, mauri, pumotu, reo
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 8
-- Shared motifs: code, connections, mauri, pumotu, reo
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
 #### [DOD](DOD.md)
-- Connection strength: 8
-- Shared motifs: connections, pumotu, set, whakapapa, whariki
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

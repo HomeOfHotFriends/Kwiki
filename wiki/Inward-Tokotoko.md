@@ -176,36 +176,39 @@ was on level one in combination with the tiny
 - [Shitting Machine](Shitting-Machine.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
 
 ### Lateral Bridges
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 14
-- Shared motifs: anti, data, design, desiring, inward
-#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
-#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Shitting Machine](Inward-Shitting-Machine.md)
-- Connection strength: 12
-- Shared motifs: anti, catch, data, design, desiring
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
-- Connection strength: 11
-- Shared motifs: anti, inward, ira, kotahi, map
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

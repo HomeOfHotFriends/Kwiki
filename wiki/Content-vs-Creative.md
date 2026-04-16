@@ -90,34 +90,34 @@ Not a single part of me had to force myself to focus.
 - [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Desiring Machine](Desiring-Machine.md)
+- [DOD](DOD.md)
 - [Fiap pot](FIAP POT.md)
-- [Flow State](Flow-State.md)
 
 ### Lateral Bridges
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 29
-- Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 28
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 30
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 27
-- Shared motifs: bridges, catch, connections, design, direct
-#### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 27
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 27
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 27
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow State](Flow-State.md)
-- Connection strength: 23
+- Connection strength: 27
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 21
-- Shared motifs: bridges, catch, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

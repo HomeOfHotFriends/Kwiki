@@ -170,36 +170,41 @@ extreme simplicity of the parts.**
 - [Determinism](Determinism.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
+- [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- [Inward Esprade](Inward-Esprade.md)
+- [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- [Inward The Law](Inward-The-Law.md)
+- [Inward Zero Set](Inward-Zero-Set.md)
 
 ### Lateral Bridges
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 15
-- Shared motifs: data, design, determinism, enemy, esp
-#### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 15
-- Shared motifs: data, design, determinism, enemy, esp
-#### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
-- Connection strength: 15
-- Shared motifs: data, design, determinism, enemy, esp
-#### [Inward Enemy Wave](Inward-Enemy-Wave.md)
-- Connection strength: 14
-- Shared motifs: data, design, determinism, enemy, esp
-#### [Inward The Law](Inward-The-Law.md)
-- Connection strength: 14
-- Shared motifs: data, design, determinism, enemy, esp
-#### [Determinism](Determinism.md)
-- Connection strength: 13
-- Shared motifs: data, design, determinism, enemy, esp
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Dod](Inward-Dod.md)
-- Connection strength: 13
-- Shared motifs: data, design, enemy, esp, inward
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Esprade](Inward-Esprade.md)
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward The Law](Inward-The-Law.md)
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Zero Set](Inward-Zero-Set.md)
-- Connection strength: 13
-- Shared motifs: data, design, enemy, esp, inward
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- Connection strength: 32
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, data, design, determinism
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-
