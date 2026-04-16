@@ -71,13 +71,6 @@ was on level one in combination with the tiny
 
 *— esprade_doc*
 
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
 
@@ -87,11 +80,6 @@ reactions.
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
 extreme simplicity of the parts.**
-
-*— esprade_doc*
-
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
 
 *— esprade_doc*
 
@@ -105,13 +93,6 @@ foresmost, made up of simple parts.**
 **Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
 raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
 tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
-
-*— ai_singularity_te_reo*
-
-**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
-ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
-singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 
 *— ai_singularity_te_reo*
 

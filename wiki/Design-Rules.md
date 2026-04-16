@@ -55,14 +55,6 @@ created disasterous results.
 
 *— esprade_doc*
 
-```
-to works; the affect of initial position seemed to be nonexistant both on the x and y axis
-nor did staying in any particular portion of the screen seem to help; and attempting bullet
-manipulation to create gaps created disasterous results.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
 
@@ -73,13 +65,6 @@ manipulation to create gaps created disasterous results.
 ```
 I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
 was on level one in combination with the tiny
-```
-
-*— esprade_doc*
-
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
 ```
 
 *— esprade_doc*

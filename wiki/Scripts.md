@@ -61,11 +61,6 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 
 *— ai_singularity_te_reo*
 
-ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
-hangarau, ka pūruatia te mana o te kupu.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 

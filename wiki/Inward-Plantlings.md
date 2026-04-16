@@ -1,26 +1,21 @@
-# Inward Tokotoko
+# Inward Plantlings
 
-> *Build inwards to get out: center on Tokotoko, then move ring by ring.*
+> *Build inwards to get out: center on Plantlings, then move ring by ring.*
 
 ---
 
-## Tokotoko
+## Plantlings
 
-rero) kia whakahōhonutia ngā kaupapa kua takoto noa.5 I roto i ēnei putanga e waru, ka kitea
-te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea pēnei i te
-"tokotoko" me te "ira kotahi".3 Te
+For I know what it’s like to lose a Space Dad.
 
-*— ai_singularity_te_reo*
+*— frog_in_a_pot*
 
-e waru, ka kitea te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea
-pēnei i te "tokotoko" me te "ira kotahi".3 Te Whakataurite i ngā Ara e Waru: Mai i te Mārama
-ki te Porangi Ko te tātari i ēnei putanga ka tīmata mā te titiro ki te rerekētanga o te reo
-me te ngako o te kōrero.
+what it’s like to lose a Space Dad.
 
-*— ai_singularity_te_reo*
+*— frog_in_a_pot*
 
 
-*Whakapapa: [Ira Kotahi](ira-kotahi) · [Mauri](mauri) · [Anti-OOPedipus](anti-oopedipus) · [Singularity / Ira Kotahi](singularity)*
+*Whakapapa: [Rhizome](rhizome) · [Anti-OOPedipus](anti-oopedipus) · [Rhizhome](rhizhome) · [Whakapapa](whakapapa)*
 
 ---
 
@@ -43,40 +38,39 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 ---
 
-## Ira Kotahi
+## Rhizhome
 
-**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
-raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
+**At every point, the Hot Friends actively checked in on each other—fetching water, talking
+about the stars for a bit, lil' hugs, and other acts**
 
-*— ai_singularity_te_reo*
-
-
-*Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
-
----
-
-## Mauri
-
-Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
-
-*— ai_singularity_te_reo*
+*— frog_in_a_pot*
 
 
-*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+*Whakapapa: [Rhizome](rhizome) · [Plantlings](plantlings) · [Desiring-Machine](desiring-machine) · [Anti-OOPedipus](anti-oopedipus)*
 
 ---
 
-## Singularity / Ira Kotahi
+## Rhizome
 
-**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
-raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
+Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
+
+*— untitled2*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
+
+---
+
+## Whakapapa
+
+ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
+i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
+whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
 
 *— ai_singularity_te_reo*
 
 
-*Whakapapa: [Ira Kotahi](ira-kotahi) · [Tokotoko](tokotoko) · [Mauri](mauri)*
+*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
 ---
 
@@ -122,19 +116,19 @@ was on level one in combination with the tiny
 
 | Concept | Ring | Tupuna |
 |---|---:|---|
-| [Tokotoko](tokotoko) | 0 | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
+| [Plantlings](plantlings) | 0 | [Rhizome](rhizome), [Anti-OOPedipus](anti-oopedipus), [Rhizhome](rhizhome) |
 | [Anti-OOPedipus](anti-oopedipus) | 1 | [Desiring-Machine](desiring-machine), [Rhizome](rhizome), [Catch-22](catch22) |
-| [Ira Kotahi](ira-kotahi) | 1 | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
-| [Mauri](mauri) | 1 | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
-| [Singularity / Ira Kotahi](singularity) | 1 | [Ira Kotahi](ira-kotahi), [Tokotoko](tokotoko), [Mauri](mauri) |
+| [Rhizhome](rhizhome) | 1 | [Rhizome](rhizome), [Plantlings](plantlings), [Desiring-Machine](desiring-machine) |
+| [Rhizome](rhizome) | 1 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Whakapapa](whakapapa) | 1 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
 | [Catch-22](catch22) | 2 | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
 | [Desiring-Machine](desiring-machine) | 2 | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
 | [Data-Oriented Design](dod) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
-| [Rhizome](rhizome) | 2 | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Ira Kotahi](ira-kotahi) | 2 | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
+| [Mauri](mauri) | 2 | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Shitting Machine](shitting-machine) | 2 | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
-| [Taonga](taonga) | 2 | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | 2 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
-| [Whakapapa](whakapapa) | 2 | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [The Law](the-law) | 2 | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
 
 
 ---

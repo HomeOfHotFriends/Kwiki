@@ -52,10 +52,6 @@ reactions.
 
 *— esprade_doc*
 
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
-
-*— esprade_doc*
-
 
 *Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
 
@@ -69,14 +65,6 @@ approached such as bullet streaming and cut backs seemed to works; the affect of
 position seemed to be nonexistant both on the x and y axis nor did staying in any particular
 portion of the screen seem to help; and attempting bullet manipulation to create gaps
 created disasterous results.
-```
-
-*— esprade_doc*
-
-```
-to works; the affect of initial position seemed to be nonexistant both on the x and y axis
-nor did staying in any particular portion of the screen seem to help; and attempting bullet
-manipulation to create gaps created disasterous results.
 ```
 
 *— esprade_doc*

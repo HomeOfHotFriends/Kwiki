@@ -60,13 +60,6 @@ before.
 
 *— esprade_doc*
 
-```
-had correctly identified that this density was enabled and/or produced by the fact that any
-obstacle present in any given moment provided a challenge unique to what had come before.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
 
@@ -75,10 +68,6 @@ obstacle present in any given moment provided a challenge unique to what had com
 ## Esp Ra De
 
 > *﻿I am currently obsessed with the game esp ra de by CAVE.*
-
-*— esprade_doc*
-
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
 
 *— esprade_doc*
 

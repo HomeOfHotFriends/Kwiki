@@ -53,14 +53,6 @@ created disasterous results.
 
 *— esprade_doc*
 
-```
-to works; the affect of initial position seemed to be nonexistant both on the x and y axis
-nor did staying in any particular portion of the screen seem to help; and attempting bullet
-manipulation to create gaps created disasterous results.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
 
@@ -74,14 +66,6 @@ response bepositioning games are designed to be essentially completely determini
 
 *— esprade_doc*
 
-```
-Even the use of randomisation is non-significant in run-to-run differentiation: since the
-arcade board has no OS, and has no hardware that allows the tracking of time, the
-psuedorandomness, at worst, could use player input as a seed.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Positioning](positioning) · [The Law](the-law)*
 
@@ -91,11 +75,6 @@ psuedorandomness, at worst, could use player input as a seed.
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
 extreme simplicity of the parts.**
-
-*— esprade_doc*
-
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
 
 *— esprade_doc*
 

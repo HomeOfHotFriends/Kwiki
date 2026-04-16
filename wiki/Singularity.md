@@ -58,13 +58,6 @@ te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea 
 
 *— ai_singularity_te_reo*
 
-e waru, ka kitea te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea
-pēnei i te "tokotoko" me te "ira kotahi".3 Te Whakataurite i ngā Ara e Waru: Mai i te Mārama
-ki te Porangi Ko te tātari i ēnei putanga ka tīmata mā te titiro ki te rerekētanga o te reo
-me te ngako o te kōrero.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Ira Kotahi](ira-kotahi) · [Mauri](mauri) · [Anti-OOPedipus](anti-oopedipus) · [Singularity / Ira Kotahi](singularity)*
 
@@ -75,13 +68,6 @@ me te ngako o te kōrero.
 ## Mauri
 
 Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
-
-*— ai_singularity_te_reo*
-
-.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
-te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
-Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
-te rā
 
 *— ai_singularity_te_reo*
 

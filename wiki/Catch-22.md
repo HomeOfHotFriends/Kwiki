@@ -49,10 +49,6 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 
 *— esprade_doc*
 
-> *Sure, as soon as you finish an album you can release it on band camp for a price, technically making it prepared for market, but that assumes that the primary purpose of uploading music (as an example) is to.*
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Catch-22](catch22)*
 
@@ -63,10 +59,6 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 ## Flow State
 
 My ADHD could no longer handle any other game experience.
-
-*— esprade_doc*
-
-Not a single part of me had to force myself to focus.
 
 *— esprade_doc*
 
@@ -82,12 +74,6 @@ Not a single part of me had to force myself to focus.
 **This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
 the only creative product which has produced an engagement that rivals my favourite shmups:
 I honestly don’t know if DDP 1 or**
-
-*— esprade_doc*
-
-**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
-which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
-DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
 
 *— esprade_doc*
 

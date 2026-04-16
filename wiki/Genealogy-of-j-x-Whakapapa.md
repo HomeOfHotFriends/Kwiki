@@ -99,38 +99,47 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Mauri](Mauri.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Rhizome](Rhizome.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 
 ### Lateral Bridges
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, genealogy, ira, kotahi
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, esp, genealogy, mauri
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, genealogy, ira, kotahi
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, esp, genealogy, rhizome
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 8
-- Shared motifs: divergence, genealogy, ira, kotahi, mauri
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, esp, genealogy, rhizome
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, genealogy, mauri, rhizome
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 8
-- Shared motifs: catch, genealogy, ira, kotahi, mauri
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

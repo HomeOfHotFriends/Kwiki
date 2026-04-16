@@ -60,11 +60,6 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 
 *— ai_singularity_te_reo*
 
-ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
-hangarau, ka pūruatia te mana o te kupu.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
@@ -75,13 +70,6 @@ hangarau, ka pūruatia te mana o te kupu.
 ```
 I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
 was on level one in combination with the tiny
-```
-
-*— esprade_doc*
-
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
 ```
 
 *— esprade_doc*

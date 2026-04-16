@@ -79,6 +79,8 @@ CONCEPT_IDS = [
     "determinism",
     "radiative",
     "singularity",
+    "plantlings",
+    "rhizhome",
 ]
 
 # Parallel array: human-readable name for each concept
@@ -107,6 +109,8 @@ CONCEPT_NAMES = {
     "determinism":           "Determinism",
     "radiative":             "Radiative",
     "singularity":           "Singularity / Ira Kotahi",
+    "plantlings":            "Plantlings",
+    "rhizhome":              "Rhizhome",
 }
 
 # Parallel array: whakapapa links (lateral, not hierarchical).
@@ -137,6 +141,8 @@ WHAKAPAPA = {
     "determinism":         ["esprade", "dod", "positioning", "the_law"],
     "radiative":           ["content_vs_creative", "dod", "the_law"],
     "singularity":         ["ira_kotahi", "tokotoko", "mauri"],
+    "plantlings":          ["rhizome", "anti_oopedipus", "rhizhome", "whakapapa"],
+    "rhizhome":            ["rhizome", "plantlings", "desiring_machine", "anti_oopedipus"],
 }
 
 # Parallel array: typographic voice (from source document)
@@ -169,6 +175,8 @@ CONCEPT_VOICE = {
     "determinism":         2,
     "radiative":           1,
     "singularity":         0,
+    "plantlings":          1,
+    "rhizhome":            0,
 }
 
 # Parallel array: keywords for passage extraction from source corpus
@@ -197,6 +205,8 @@ CONCEPT_KEYWORDS = {
     "determinism":         ["deterministic", "determinism", "run-to-run", "seed"],
     "radiative":           ["radiative", "Radiative", "design thinking", "adaptive systems"],
     "singularity":         ["singularity", "ira kotahi", "singular", "te mutunga"],
+    "plantlings":          ["plantling", "Plantling", "Space Dad", "blobbling", "I and we", "bury himself"],
+    "rhizhome":            ["Rhizhome", "rhizhome", "alien internet", "utopian planet", "Hot Friends", "no currency"],
 }
 
 # Page registry: page slug -> primary concept cluster
@@ -219,6 +229,8 @@ PAGE_REGISTRY = {
     "Zero-Set":             ["zero_set", "te_whariki_pumotu", "dod", "simplicity_of_parts", "ira_kotahi"],
     "Enemy-Wave":           ["enemy_wave", "esprade", "positioning", "determinism", "simplicity_of_parts"],
     "Catch-22":             ["catch22", "content_vs_creative", "frog_in_pot", "flow_state", "anti_oopedipus"],
+    "Plantlings":           ["plantlings", "rhizhome", "rhizome", "anti_oopedipus", "whakapapa"],
+    "Rhizhome":             ["rhizhome", "plantlings", "rhizome", "desiring_machine", "anti_oopedipus"],
 }
 
 
@@ -356,7 +368,7 @@ def get_cluster(page: str, extra: list) -> list:
 
     # expand one level via whakapapa
     for cid in list(ordered):
-        for linked in WHAKAPAPA.get(cid, [])[:3]:
+        for linked in WHAKAPAPA.get(cid, [])[:FIB_WHAKAPAPA_EXPAND]:
             if linked not in seen:
                 seen.add(linked)
                 ordered.append(linked)
@@ -429,11 +441,20 @@ def select_passages(cluster: list, passages: dict, max_per: int = 2) -> list:
     """
     Select passages for the cluster.
     Returns [(concept_id, source_stem, passage_text), ...]
-    Primary concept gets 2 passages, secondaries get 1.
+
+    Passage caps follow the Fibonacci sequence by cluster position:
+      position 0 → fib_cap(0) = 3   (primary / mauri concept dominates)
+      position 1 → fib_cap(1) = 2
+      position 2 → fib_cap(2) = 1
+      position 3+ → fib_cap(3) = 1
+
+    The Fibonacci descent means the page's core concept has proportionally more
+    text than supporting concepts — depth through simplicity, not uniformity.
+    `max_per` acts as a hard ceiling above the fibonacci value.
     """
     selected = []
     for i, cid in enumerate(cluster):
-        cap = max_per if i < 5 else 1
+        cap = min(max_per, fib_cap(i)) if max_per < fib_cap(0) else fib_cap(i)
         for source, text in passages.get(cid, [])[:cap]:
             selected.append((cid, source, text))
     return selected
@@ -532,11 +553,11 @@ def generate_page(user_input: dict, passages: dict) -> str:
         lines.append("## Whakapapa Connections\n")
         lines.append("| Concept | Tupuna |")
         lines.append("|---|---|")
-        for cid in secondary[:6]:
+        for cid in secondary[:FIB_SECONDARY_LIMIT]:
             name = CONCEPT_NAMES.get(cid, cid)
             parents = WHAKAPAPA.get(cid, [])
             parent_links = ", ".join(
-                f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in parents[:3]
+                f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in parents[:FIB_WHAKAPAPA_EXPAND]
             )
             lines.append(f"| [{name}]({slug(cid)}) | {parent_links} |")
         lines.append("\n---\n")
@@ -570,7 +591,7 @@ def generate_inward_page(
     if not cluster:
         return f"# Inward\n\nUnknown concept_id: {center}\n"
 
-    selected = select_passages(cluster, passages, max_per=2)
+    selected = select_passages(cluster, passages, max_per=fib(4))  # center ring gets up to fib(4)=3
     distances = inward_distances(center, depth)
     title = page_name.replace("-", " ") if page_name else f"Inward {CONCEPT_NAMES.get(center, center)}"
 
@@ -582,17 +603,17 @@ def generate_inward_page(
     lines.append(f"> *{lead}*\n")
     lines.append("---\n")
 
-    # Keep the core visible: center + nearest concepts first.
-    for cid in cluster[:8]:
+    # Keep the core visible: fib(6)=8 concept sections, closest rings first.
+    for cid in cluster[:FIB_SECTION_LIMIT]:
         lines.append(build_section(cid, selected))
         lines.append("---\n")
 
     lines.append("## Simple Parts Map\n")
     lines.append("| Concept | Ring | Tupuna |")
     lines.append("|---|---:|---|")
-    for cid in cluster[:16]:
+    for cid in cluster[:FIB_MAP_LIMIT]:  # fib(7)=13
         ring = distances.get(cid, "?")
-        linked = WHAKAPAPA.get(cid, [])[:3]
+        linked = WHAKAPAPA.get(cid, [])[:FIB_WHAKAPAPA_EXPAND]
         tupuna = ", ".join(f"[{CONCEPT_NAMES.get(t, t)}]({slug(t)})" for t in linked) if linked else "—"
         lines.append(f"| [{CONCEPT_NAMES.get(cid, cid)}]({slug(cid)}) | {ring} | {tupuna} |")
 
@@ -646,17 +667,39 @@ def update_metadata(page: str, cluster: list, root: Path):
 #   merge_clusters    — union two page clusters, bias toward shared ancestors
 #   combine_voices    — render a passage as two voices simultaneously
 #   cross_generate    — generate a page synthesising two source pages
+#
+# Fibonacci weave ratios — consecutive Fibonacci pairs for natural interleaving:
+#   FIB_WEAVE_TIGHT  (2,1)  fib(3):fib(2)  — source A dominates, brief B interjections
+#   FIB_WEAVE_SPREAD (3,2)  fib(4):fib(3)  — A still leads, B has more voice
+#   FIB_WEAVE_EVEN   (5,3)  fib(5):fib(4)  — near-equal, golden-ratio convergence
 # ─────────────────────────────────────────────────────────────────────────────
 
-def weave_passages(passages_a: list, passages_b: list, ratio: tuple = (2, 1)) -> list:
+FIB_WEAVE_TIGHT  = (2, 1)   # fib(3) : fib(2)
+FIB_WEAVE_SPREAD = (3, 2)   # fib(4) : fib(3)
+FIB_WEAVE_EVEN   = (5, 3)   # fib(5) : fib(4)
+
+FIB_WHAKAPAPA_EXPAND = 3    # fib(4) — whakapapa links expanded per concept in get_cluster
+FIB_RHIZO_MAX_DEPTH  = 5    # fib(5) — max BFS depth for rhizo_path
+FIB_SECONDARY_LIMIT  = 5    # fib(5) — secondary concept rows in generate_page table
+FIB_SECTION_LIMIT    = 8    # fib(6) — concept sections rendered in generate_inward_page
+FIB_MAP_LIMIT        = 13   # fib(7) — rows in the Simple Parts Map table
+#   cross_generate    — generate a page synthesising two source pages
+# ─────────────────────────────────────────────────────────────────────────────
+
+def weave_passages(passages_a: list, passages_b: list, ratio: tuple = FIB_WEAVE_TIGHT) -> list:
     """
     Interleave two passage lists.
     passages_a / passages_b: [(source_stem, text), ...]
     ratio (a, b): take `a` passages from A then `b` from B, repeat.
     Returns a new flat list in woven order.
 
-    Example:
-        weave_passages(pa, pb, ratio=(2,1))
+    Default ratio is FIB_WEAVE_TIGHT = (2, 1) — a Fibonacci pair where source A
+    contributes twice as many passages as B, mirroring the golden-ratio descent.
+    Use FIB_WEAVE_SPREAD (3,2) for more balanced synthesis,
+    or FIB_WEAVE_EVEN (5,3) for near-equal voices.
+
+    Example with FIB_WEAVE_TIGHT:
+        weave_passages(pa, pb)
         → [pa[0], pa[1], pb[0], pa[2], pa[3], pb[1], ...]
     """
     result = []
@@ -672,7 +715,7 @@ def weave_passages(passages_a: list, passages_b: list, ratio: tuple = (2, 1)) ->
     return result
 
 
-def rhizo_path(start: str, end: str, max_depth: int = 5) -> list:
+def rhizo_path(start: str, end: str, max_depth: int = FIB_RHIZO_MAX_DEPTH) -> list:
     """
     Find the shortest lateral whakapapa path between two concept_ids.
     Returns [start, ..., end] using BFS over WHAKAPAPA adjacency.
@@ -771,7 +814,7 @@ def cross_generate(page_a: str, page_b: str, passages: dict, intent: str = "") -
             raw_a = passages.get(cid, [])[:1]
             raw_b = passages.get(cid, [])[-1:]
             if raw_a and raw_b:
-                woven = weave_passages(raw_a, raw_b, ratio=(1, 1))
+                woven = weave_passages(raw_a, raw_b, ratio=FIB_WEAVE_SPREAD)
             else:
                 woven = raw_a or raw_b
             voice = CONCEPT_VOICE.get(cid, 1)
@@ -832,6 +875,33 @@ def cross_generate(page_a: str, page_b: str, passages: dict, intent: str = "") -
 # ─────────────────────────────────────────────────────────────────────────────
 # HELPERS
 # ─────────────────────────────────────────────────────────────────────────────
+
+def fib(n: int) -> int:
+    """
+    Return the nth Fibonacci number (0-indexed: fib(0)=0, fib(1)=1, fib(2)=1, ...).
+    Used throughout the generation engine to set passage caps and weave ratios.
+    Fibonacci growth mirrors rhizomatic expansion: each step is the sum of the two before.
+    """
+    a, b = 0, 1
+    for _ in range(max(0, n)):
+        a, b = b, a + b
+    return a
+
+
+def fib_cap(position: int, base: int = 4) -> int:
+    """
+    Passage cap for concept at cluster position `position`.
+    Descends the Fibonacci sequence from fib(base):
+      position 0 → fib(base)     e.g. fib(4) = 3
+      position 1 → fib(base-1)          fib(3) = 2
+      position 2 → fib(base-2)          fib(2) = 1
+      position 3+ → fib(1)              fib(1) = 1
+
+    This lets the primary concept dominate the page,
+    with each subsequent concept receiving proportionally fewer passages.
+    """
+    return fib(max(1, base - position))
+
 
 def slug(cid: str) -> str:
     """concept_id → wiki slug."""

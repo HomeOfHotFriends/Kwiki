@@ -93,36 +93,36 @@ AND my art is all hand drawn (no puppet shit), which required 3 parts to
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Fiap pot](FIAP POT.md)
-- [Flow State](Flow-State.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Frog In A Pot](Frog-In-A-Pot.md)
+- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 34
-- Shared motifs: bridges, catch, code, connections, design
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - Connection strength: 32
-- Shared motifs: bridges, catch, code, connections, design
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 32
-- Shared motifs: bridges, catch, code, connections, design
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, code, connections, design
-#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, design, direct
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
 - Connection strength: 30
-- Shared motifs: bridges, code, connections, design, direct
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog In A Pot](Frog-In-A-Pot.md)
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Radiative](Radiative.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

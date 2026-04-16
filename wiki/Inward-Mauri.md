@@ -49,12 +49,6 @@ any guides or looked at any code**
 
 *— esprade_doc*
 
-**getic Title Space Dad, A Portrait A Memoir Gharv Unkle Edited by Karl Leisky Diegetic
-Epigraph The scar is not a disfigurement; it is a map that proves you once held a universe
-of treasure ―Morhf**
-
-*— frog_in_a_pot*
-
 
 *Whakapapa: [The Law](the-law) · [Mauri](mauri) · [Whakapapa](whakapapa)*
 
@@ -73,18 +67,6 @@ void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
 
 *— indigenous_proposal*
 
-```
-int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
-pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
-tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
-1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
-atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
-static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
-1 && hou_x <
-```
-
-*— indigenous_proposal*
-
 
 *Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
 
@@ -95,11 +77,6 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
 i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
 whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
-
-*— ai_singularity_te_reo*
-
-ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
-hangarau, ka pūruatia te mana o te kupu.
 
 *— ai_singularity_te_reo*
 

@@ -66,18 +66,6 @@ void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
 
 *— indigenous_proposal*
 
-```
-int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
-pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
-tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
-1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
-atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
-static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
-1 && hou_x <
-```
-
-*— indigenous_proposal*
-
 
 *Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
 
@@ -90,11 +78,6 @@ extreme simplicity of the parts.**
 
 *— esprade_doc*
 
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
-
-*— esprade_doc*
-
 
 *Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
 
@@ -104,14 +87,6 @@ foresmost, made up of simple parts.**
 
 ```
 response bepositioning games are designed to be essentially completely deterministic.
-```
-
-*— esprade_doc*
-
-```
-Even the use of randomisation is non-significant in run-to-run differentiation: since the
-arcade board has no OS, and has no hardware that allows the tracking of time, the
-psuedorandomness, at worst, could use player input as a seed.
 ```
 
 *— esprade_doc*

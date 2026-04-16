@@ -13,39 +13,50 @@
 ## Recursive Hub Weave
 
 ### Direct Connections
-- No direct markdown links detected yet.
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Whakapapa](Whakapapa.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
-#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 2
-- Shared motifs: catch, mauri
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 1
-- Shared motifs: mauri
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, direct, enemy
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

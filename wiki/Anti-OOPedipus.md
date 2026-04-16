@@ -56,10 +56,6 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 
 *— untitled2*
 
-means by Rhizome'.
-
-*— untitled2*
-
 
 *Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
 
@@ -72,13 +68,6 @@ means by Rhizome'.
 ```
 I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
 was on level one in combination with the tiny
-```
-
-*— esprade_doc*
-
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
 ```
 
 *— esprade_doc*
@@ -99,7 +88,6 @@ reactions.
 | [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
 | [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
-| [Simplicity of Parts](simplicity-of-parts) | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
 
 ---
 

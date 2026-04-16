@@ -43,10 +43,6 @@ My ADHD could no longer handle any other game experience.
 
 *— esprade_doc*
 
-Not a single part of me had to force myself to focus.
-
-*— esprade_doc*
-
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
 
@@ -58,10 +54,6 @@ Not a single part of me had to force myself to focus.
 
 *— esprade_doc*
 
-> *Sure, as soon as you finish an album you can release it on band camp for a price, technically making it prepared for market, but that assumes that the primary purpose of uploading music (as an example) is to.*
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Catch-22](catch22)*
 
@@ -70,11 +62,6 @@ Not a single part of me had to force myself to focus.
 ## Radiative
 
 This is Radiative.
-
-*— untitled1*
-
-backwards to build adaptive systems capable of executing that vision when in direct contact
-with reality.
 
 *— untitled1*
 

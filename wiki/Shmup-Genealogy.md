@@ -53,14 +53,6 @@ created disasterous results.
 
 *— esprade_doc*
 
-```
-to works; the affect of initial position seemed to be nonexistant both on the x and y axis
-nor did staying in any particular portion of the screen seem to help; and attempting bullet
-manipulation to create gaps created disasterous results.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
 
@@ -81,10 +73,6 @@ extreme simplicity of the parts.**
 ## Frog In A Pot
 
 > *Sure, as soon as you finish an album you.*
-
-*— esprade_doc*
-
-> *Sure, as soon as you finish an album you can release it on band camp for a price, technically making it prepared for market, but that assumes that the primary purpose of uploading music (as an example) is to.*
 
 *— esprade_doc*
 

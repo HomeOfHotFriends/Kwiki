@@ -42,13 +42,6 @@ production-and-inspection-at-czit-development-ltd/ 20.
 
 *— ai_singularity_te_reo*
 
-m my suffering than the two screen method (which required finding a game + movie/show
-combination that allowed for just the right amount of awareness without effort to achieve
-the desired result) but I had found a way to focus again that was possible even in my
-current low-energy state.
-
-*— esprade_doc*
-
 
 *Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
 
@@ -57,10 +50,6 @@ current low-energy state.
 ## Esp Ra De
 
 > *﻿I am currently obsessed with the game esp ra de by CAVE.*
-
-*— esprade_doc*
-
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
 
 *— esprade_doc*
 

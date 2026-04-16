@@ -13,39 +13,50 @@
 ## Recursive Hub Weave
 
 ### Direct Connections
-- No direct markdown links detected yet.
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Machines](Machines.md)
+- [Production as Primary](Production-as-Primary.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Fiap pot](FIAP POT.md)
+- [Machines](Machines.md)
+- [Oedipal Machine](Oedipal-Machine.md)
+- [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- [Production as Primary](Production-as-Primary.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
 
 ### Lateral Bridges
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
-#### [Machines](Machines.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, direct, flow
 #### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Machines](Machines.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, flow
 #### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 4
-- Shared motifs: flow, set, state, zero
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 2
-- Shared motifs: set, zero
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 2
-- Shared motifs: flow, state
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, direct, flow
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, design, direct, flow
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

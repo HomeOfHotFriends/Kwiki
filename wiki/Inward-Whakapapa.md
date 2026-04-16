@@ -48,13 +48,6 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 
 *— ai_singularity_te_reo*
 
-.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
-te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
-Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
-te rā
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
 
@@ -63,10 +56,6 @@ te rā
 ## Rhizome
 
 Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
-
-*— untitled2*
-
-means by Rhizome'.
 
 *— untitled2*
 
@@ -144,7 +133,6 @@ was on level one in combination with the tiny
 | [Singularity / Ira Kotahi](singularity) | 2 | [Ira Kotahi](ira-kotahi), [Tokotoko](tokotoko), [Mauri](mauri) |
 | [Taonga](taonga) | 2 | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | 2 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
-| [Tokotoko](tokotoko) | 2 | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
 
 
 ---

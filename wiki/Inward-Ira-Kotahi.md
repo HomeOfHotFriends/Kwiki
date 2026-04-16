@@ -50,13 +50,6 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
 *— ai_singularity_te_reo*
 
-**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
-tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
-ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
-singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Ira Kotahi](ira-kotahi) · [Tokotoko](tokotoko) · [Mauri](mauri)*
 
@@ -70,13 +63,6 @@ te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea 
 
 *— ai_singularity_te_reo*
 
-e waru, ka kitea te whai a te AI i tēnei mātāpono, mā te whakarite i te hangarau ki ngā mea
-pēnei i te "tokotoko" me te "ira kotahi".3 Te Whakataurite i ngā Ara e Waru: Mai i te Mārama
-ki te Porangi Ko te tātari i ēnei putanga ka tīmata mā te titiro ki te rerekētanga o te reo
-me te ngako o te kōrero.
-
-*— ai_singularity_te_reo*
-
 
 *Whakapapa: [Ira Kotahi](ira-kotahi) · [Mauri](mauri) · [Anti-OOPedipus](anti-oopedipus) · [Singularity / Ira Kotahi](singularity)*
 
@@ -87,11 +73,6 @@ me te ngako o te kōrero.
 ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
 i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
 whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
-
-*— ai_singularity_te_reo*
-
-ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
-hangarau, ka pūruatia te mana o te kupu.
 
 *— ai_singularity_te_reo*
 

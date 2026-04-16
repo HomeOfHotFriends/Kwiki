@@ -50,13 +50,6 @@ before.
 
 *— esprade_doc*
 
-```
-had correctly identified that this density was enabled and/or produced by the fact that any
-obstacle present in any given moment provided a challenge unique to what had come before.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
 
@@ -74,14 +67,6 @@ created disasterous results.
 
 *— esprade_doc*
 
-```
-to works; the affect of initial position seemed to be nonexistant both on the x and y axis
-nor did staying in any particular portion of the screen seem to help; and attempting bullet
-manipulation to create gaps created disasterous results.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
 
@@ -91,11 +76,6 @@ manipulation to create gaps created disasterous results.
 
 **The design philosophy can be summed up as: extreme depth of the whole achieved through
 extreme simplicity of the parts.**
-
-*— esprade_doc*
-
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
 
 *— esprade_doc*
 

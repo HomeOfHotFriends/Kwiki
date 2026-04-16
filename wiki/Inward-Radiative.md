@@ -47,13 +47,6 @@ was on level one in combination with the tiny
 
 *— esprade_doc*
 
-```
-I thought the way to get better was simply to get better at dodging, to improve my
-reactions.
-```
-
-*— esprade_doc*
-
 
 *Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
 
@@ -74,10 +67,6 @@ extreme simplicity of the parts.**
 ## Catch-22
 
 > *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
-
-*— esprade_doc*
-
-> *and read Catch 22.*
 
 *— esprade_doc*
 
@@ -140,7 +129,6 @@ My ADHD could no longer handle any other game experience.
 | [Simplicity of Parts](simplicity-of-parts) | 2 | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
 | [Taonga](taonga) | 2 | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | 2 | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
-| [Zero Set](zero-set) | 2 | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
 
 
 ---
