@@ -116,31 +116,31 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Determinism](Determinism.md)
 - [DOD](DOD.md)
-- [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 
 ### Lateral Bridges
-#### [The Law](The-Law.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [The Marae](The-Marae.md)
-- Connection strength: 28
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, dod, genealogy
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [DOD](DOD.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, genealogy
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, direct, dod
 #### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Determinism](Determinism.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, direct, dod
+#### [Indigenous Proposal](Indigenous-Proposal.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 

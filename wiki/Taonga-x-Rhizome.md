@@ -13,39 +13,45 @@
 ## Recursive Hub Weave
 
 ### Direct Connections
-- No direct markdown links detected yet.
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 2
-- Shared motifs: rhizome, taonga
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 2
-- Shared motifs: rhizome, taonga
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 1
-- Shared motifs: taonga
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 1
-- Shared motifs: rhizome
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 1
-- Shared motifs: rhizome
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, design, direct
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 1
-- Shared motifs: rhizome
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 1
-- Shared motifs: rhizome
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, direct
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 1
-- Shared motifs: rhizome
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

@@ -101,30 +101,30 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Indigenous Proposal](Indigenous-Proposal.md)
 
 ### Lateral Bridges
-#### [The Law](The-Law.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, direct, genealogy, hub
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 24
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [The Marae](The-Marae.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, genealogy, hub
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
-- Connection strength: 22
-- Shared motifs: bridges, connections, direct, genealogy, hub
+- Connection strength: 20
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 18
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 18
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Determinism](Determinism.md)
+- Connection strength: 17
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

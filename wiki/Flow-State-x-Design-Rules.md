@@ -23,39 +23,39 @@
 - [Production as Primary](Production-as-Primary.md)
 
 ### Inbound Connections
-- [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
-- [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 
 ### Lateral Bridges
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 33
-- Shared motifs: bridges, code, connections, design, direct
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - Connection strength: 30
-- Shared motifs: bridges, code, connections, design, direct
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 30
-- Shared motifs: bridges, code, connections, design, direct
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 30
-- Shared motifs: bridges, code, connections, design, direct
-#### [Machines](Machines.md)
-- Connection strength: 27
-- Shared motifs: bridges, code, connections, design, direct
-#### [Catch 22](Catch-22.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, design, direct, fiap
+- Shared motifs: bridges, catch, connections, design, direct
 #### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, design, direct, fiap
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, design, direct
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 26
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 25
 - Shared motifs: bridges, connections, design, direct, fiap
 
 ### Recursive Prompt

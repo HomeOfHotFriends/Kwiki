@@ -24,38 +24,38 @@
 
 ### Inbound Connections
 - [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- [Catch 22](Catch-22.md)
 - [Content vs Creative](Content-vs-Creative.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
 - [Ira Kotahi](Ira-Kotahi.md)
-- [Shmup Genealogy](Shmup-Genealogy.md)
+- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 
 ### Lateral Bridges
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, design, direct
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 31
+- Connection strength: 32
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 30
 - Shared motifs: bridges, catch, connections, design, direct
-#### [Catch 22](Catch-22.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, design, direct, fiap
-#### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 26
-- Shared motifs: bridges, catch, connections, direct, enemy
 #### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 27
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Frog In A Pot](Frog-In-A-Pot.md)
 - Connection strength: 25
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 21
 - Shared motifs: bridges, catch, connections, design, direct
 
 ### Recursive Prompt

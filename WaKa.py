@@ -79,6 +79,8 @@ CONCEPT_IDS = [
     "determinism",
     "radiative",
     "singularity",
+    "plantlings",
+    "rhizhome",
 ]
 
 # Parallel array: human-readable name for each concept
@@ -107,6 +109,8 @@ CONCEPT_NAMES = {
     "determinism":           "Determinism",
     "radiative":             "Radiative",
     "singularity":           "Singularity / Ira Kotahi",
+    "plantlings":            "Plantlings",
+    "rhizhome":              "Rhizhome",
 }
 
 # Parallel array: whakapapa links (lateral, not hierarchical).
@@ -137,6 +141,8 @@ WHAKAPAPA = {
     "determinism":         ["esprade", "dod", "positioning", "the_law"],
     "radiative":           ["content_vs_creative", "dod", "the_law"],
     "singularity":         ["ira_kotahi", "tokotoko", "mauri"],
+    "plantlings":          ["rhizome", "anti_oopedipus", "rhizhome", "whakapapa"],
+    "rhizhome":            ["rhizome", "plantlings", "desiring_machine", "anti_oopedipus"],
 }
 
 # Parallel array: typographic voice (from source document)
@@ -169,6 +175,8 @@ CONCEPT_VOICE = {
     "determinism":         2,
     "radiative":           1,
     "singularity":         0,
+    "plantlings":          1,
+    "rhizhome":            0,
 }
 
 # Parallel array: keywords for passage extraction from source corpus
@@ -197,6 +205,8 @@ CONCEPT_KEYWORDS = {
     "determinism":         ["deterministic", "determinism", "run-to-run", "seed"],
     "radiative":           ["radiative", "Radiative", "design thinking", "adaptive systems"],
     "singularity":         ["singularity", "ira kotahi", "singular", "te mutunga"],
+    "plantlings":          ["plantling", "Plantling", "Space Dad", "blobbling", "I and we", "bury himself"],
+    "rhizhome":            ["Rhizhome", "rhizhome", "alien internet", "utopian planet", "Hot Friends", "no currency"],
 }
 
 # Page registry: page slug -> primary concept cluster
@@ -219,6 +229,8 @@ PAGE_REGISTRY = {
     "Zero-Set":             ["zero_set", "te_whariki_pumotu", "dod", "simplicity_of_parts", "ira_kotahi"],
     "Enemy-Wave":           ["enemy_wave", "esprade", "positioning", "determinism", "simplicity_of_parts"],
     "Catch-22":             ["catch22", "content_vs_creative", "frog_in_pot", "flow_state", "anti_oopedipus"],
+    "Plantlings":           ["plantlings", "rhizhome", "rhizome", "anti_oopedipus", "whakapapa"],
+    "Rhizhome":             ["rhizhome", "plantlings", "rhizome", "desiring_machine", "anti_oopedipus"],
 }
 
 

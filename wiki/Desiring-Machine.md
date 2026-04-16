@@ -94,39 +94,39 @@ Not a single part of me had to force myself to focus.
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
 - [Flow State](Flow-State.md)
-- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 
 ### Lateral Bridges
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Shitting Machine](Shitting-Machine.md)
 - Connection strength: 27
-- Shared motifs: anti, bridges, connections, design, desiring
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Flow State](Flow-State.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Machines](Machines.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 22
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Catch 22](Catch-22.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, design, direct
+- Shared motifs: anti, bridges, catch, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

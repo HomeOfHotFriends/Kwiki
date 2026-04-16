@@ -136,39 +136,39 @@ Signal::Suppressed(ZeroSet::Tot
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 
 ### Inbound Connections
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- [DOD](DOD.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
 - [Machines × The-Law](Machines-x-The-Law.md)
-- [Mauri](Mauri.md)
-- [Radiative × Singularity](Radiative-x-Singularity.md)
-- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- [Simplicity of Parts](Simplicity-of-Parts.md)
 
 ### Lateral Bridges
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 34
+- Connection strength: 35
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 35
 - Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, code, connections, data
-#### [DOD](DOD.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+#### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 30
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

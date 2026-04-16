@@ -7,9 +7,31 @@
 Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
-**2 orphan(s):**
+**24 orphan(s):**
 
-- [Oedipal Machine](Oedipal-Machine.md)
-- [Te Reo and Code](Te-Reo-and-Code.md)
+- [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- [Inward Catch22](Inward-Catch22.md)
+- [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
+- [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- [Inward Esprade](Inward-Esprade.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Mauri](Inward-Mauri.md)
+- [Inward Positioning](Inward-Positioning.md)
+- [Inward Radiative](Inward-Radiative.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
+- [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Inward The Law](Inward-The-Law.md)
+- [Inward Tokotoko](Inward-Tokotoko.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
+- [Inward Zero Set](Inward-Zero-Set.md)
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.

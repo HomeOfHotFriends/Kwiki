@@ -115,36 +115,35 @@ or level off to flat.
 - [DOD](DOD.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 13
-- Shared motifs: catch, data, design, desiring, divergence
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 12
-- Shared motifs: catch, data, design, divergence, flow
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 11
-- Shared motifs: data, design, desiring, divergence, machine
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 10
-- Shared motifs: catch, data, design, divergence, machines
-#### [Flow State](Flow-State.md)
-- Connection strength: 10
-- Shared motifs: catch, design, desiring, flow, machine
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: data, design, divergence, machines, oriented
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: data, design, divergence, machines, oriented
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: catch, data, design, divergence, machines
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, code, connections
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-
