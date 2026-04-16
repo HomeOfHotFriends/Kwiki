@@ -16,7 +16,7 @@ Philosophy of this file:
 
     yeesssss    
                    mauri = the l
-                   ife-force that makes a thing itself.
+                   life-force that makes a thing itself.
                    ira kotahi = the singularity / the law.
 
 The one law:
