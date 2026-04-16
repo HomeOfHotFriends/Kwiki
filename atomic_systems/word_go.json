@@ -1,0 +1,16 @@
+{
+  "name": "word_go",
+  "description": "A fantasy language/system inspired by the game of Go, but played with words instead of stones. Each move places a word on a grid, forming connections and capturing territory through meaning and association.",
+  "rules": [
+    "Players take turns placing a word on an empty cell of the grid.",
+    "Words must connect meaningfully (by theme, rhyme, or association) to at least one adjacent word.",
+    "Groups of words surrounded by the opponent are 'captured' and removed, as in Go.",
+    "Territory is scored by the number of empty cells surrounded by a player's words.",
+    "Optional: Use poetic or narrative constraints for bonus points (e.g., alliteration, metaphor chains)."
+  ],
+  "examples": [
+    {"move": "place 'river' next to 'flow'"},
+    {"move": "place 'stone' to connect 'river' and 'mountain'"}
+  ],
+  "notes": "This system can be played on paper, in code, or as a collaborative writing game. Extend with new rules or constraints as desired."
+}
