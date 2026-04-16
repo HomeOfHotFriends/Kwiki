@@ -42,6 +42,18 @@ Every page here is a fractal of that law.
 
 ---
 
+## Generated Indexes
+
+| Index | What it is |
+|---|---|
+| [All Pages](All-Pages.md) | Every wiki page, alphabetical, with link counts |
+| [Connections](Connections.md) | Cross-synthesis pages + most-connected hubs |
+| [Orphans](Orphans.md) | Pages not yet linked from anywhere |
+| [Tags](Tags.md) | Tag → page map (add frontmatter tags to populate) |
+| [Timeline](Timeline.md) | Pages sorted by last edit date |
+
+---
+
 ## How This Wiki Grows
 
 This wiki is **iteratively generated** from:
@@ -49,7 +61,7 @@ This wiki is **iteratively generated** from:
 1. **Source docs** in `sources/text/` — old work, whakapapa material
 2. **Internal metadata** in `scripts/metadata.json` — concept graph, page registry, whakapapa links
 3. **User input** in `scripts/user_input.json` — your intent, tone, new concepts to introduce
-4. **`scripts/generate.py`** — reads both, pulls relevant source passages, outputs a new wiki page
+4. **`WaKa.py`** — reads both, pulls relevant source passages, outputs a new wiki page
 
 To grow a new page:
 
@@ -57,11 +69,11 @@ To grow a new page:
 # Edit your intent
 nano scripts/user_input.json
 
-# Generate
-python3 scripts/generate.py
+# Generate a page
+python3 WaKa.py
 
-# Push to wiki
-bash scripts/push.sh
+# Rebuild all indexes + refresh weave blocks (one command does both)
+python3 scripts/wiki_index.py
 ```
 
 ---
