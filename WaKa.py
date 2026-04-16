@@ -368,7 +368,7 @@ def get_cluster(page: str, extra: list) -> list:
 
     # expand one level via whakapapa
     for cid in list(ordered):
-        for linked in WHAKAPAPA.get(cid, [])[:3]:
+        for linked in WHAKAPAPA.get(cid, [])[:FIB_WHAKAPAPA_EXPAND]:
             if linked not in seen:
                 seen.add(linked)
                 ordered.append(linked)
@@ -553,11 +553,11 @@ def generate_page(user_input: dict, passages: dict) -> str:
         lines.append("## Whakapapa Connections\n")
         lines.append("| Concept | Tupuna |")
         lines.append("|---|---|")
-        for cid in secondary[:6]:
+        for cid in secondary[:FIB_SECONDARY_LIMIT]:
             name = CONCEPT_NAMES.get(cid, cid)
             parents = WHAKAPAPA.get(cid, [])
             parent_links = ", ".join(
-                f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in parents[:3]
+                f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in parents[:FIB_WHAKAPAPA_EXPAND]
             )
             lines.append(f"| [{name}]({slug(cid)}) | {parent_links} |")
         lines.append("\n---\n")
@@ -613,7 +613,7 @@ def generate_inward_page(
     lines.append("|---|---:|---|")
     for cid in cluster[:FIB_MAP_LIMIT]:  # fib(7)=13
         ring = distances.get(cid, "?")
-        linked = WHAKAPAPA.get(cid, [])[:3]
+        linked = WHAKAPAPA.get(cid, [])[:FIB_WHAKAPAPA_EXPAND]
         tupuna = ", ".join(f"[{CONCEPT_NAMES.get(t, t)}]({slug(t)})" for t in linked) if linked else "—"
         lines.append(f"| [{CONCEPT_NAMES.get(cid, cid)}]({slug(cid)}) | {ring} | {tupuna} |")
 
@@ -715,7 +715,7 @@ def weave_passages(passages_a: list, passages_b: list, ratio: tuple = FIB_WEAVE_
     return result
 
 
-def rhizo_path(start: str, end: str, max_depth: int = 5) -> list:
+def rhizo_path(start: str, end: str, max_depth: int = FIB_RHIZO_MAX_DEPTH) -> list:
     """
     Find the shortest lateral whakapapa path between two concept_ids.
     Returns [start, ..., end] using BFS over WHAKAPAPA adjacency.
