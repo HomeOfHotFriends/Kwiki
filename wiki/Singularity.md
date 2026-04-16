@@ -1,6 +1,6 @@
 # Singularity
 
-> *Ira Kotahi — the singularity. The one point that contains all directions. Tokotoko as proof.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -89,6 +89,7 @@ te rā
 | [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
 | [Anti-OOPedipus](anti-oopedipus) | [Desiring-Machine](desiring-machine), [Rhizome](rhizome), [Catch-22](catch22) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Taonga](taonga) | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 
 ---
 

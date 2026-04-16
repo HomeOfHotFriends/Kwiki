@@ -27,6 +27,8 @@ Usage:
   python3 WaKa.py --index            # print passage index for all concepts
   python3 WaKa.py --new <PageName>   # scaffold a new user_input.json for a page
   python3 WaKa.py --force            # overwrite existing page without prompting
+  python3 WaKa.py --cross <A> <B>    # cross-generate A × B synthesis page
+  python3 WaKa.py --rhizo <cA> <cB>  # print lateral whakapapa path between two concept_ids
 """
 
 import json
@@ -504,6 +506,200 @@ def update_metadata(page: str, cluster: list, root: Path):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# GENERATIVE COMBINE FUNCTIONS
+# Each function takes flat data in, produces flat data or Markdown out.
+# No objects. No mutation. Pure combination.
+#
+# Five operations:
+#   weave_passages    — interleave two passage lists sentence-by-sentence
+#   rhizo_path        — find lateral whakapapa path between two concepts
+#   merge_clusters    — union two page clusters, bias toward shared ancestors
+#   combine_voices    — render a passage as two voices simultaneously
+#   cross_generate    — generate a page synthesising two source pages
+# ─────────────────────────────────────────────────────────────────────────────
+
+def weave_passages(passages_a: list, passages_b: list, ratio: tuple = (2, 1)) -> list:
+    """
+    Interleave two passage lists.
+    passages_a / passages_b: [(source_stem, text), ...]
+    ratio (a, b): take `a` passages from A then `b` from B, repeat.
+    Returns a new flat list in woven order.
+
+    Example:
+        weave_passages(pa, pb, ratio=(2,1))
+        → [pa[0], pa[1], pb[0], pa[2], pa[3], pb[1], ...]
+    """
+    result = []
+    ia, ib = 0, 0
+    ra, rb = ratio
+    while ia < len(passages_a) or ib < len(passages_b):
+        for _ in range(ra):
+            if ia < len(passages_a):
+                result.append(passages_a[ia]); ia += 1
+        for _ in range(rb):
+            if ib < len(passages_b):
+                result.append(passages_b[ib]); ib += 1
+    return result
+
+
+def rhizo_path(start: str, end: str, max_depth: int = 5) -> list:
+    """
+    Find the shortest lateral whakapapa path between two concept_ids.
+    Returns [start, ..., end] using BFS over WHAKAPAPA adjacency.
+    Returns [] if no path found within max_depth.
+    No objects — operates on WHAKAPAPA directly.
+    """
+    if start not in CONCEPT_IDS or end not in CONCEPT_IDS:
+        return []
+    if start == end:
+        return [start]
+
+    # BFS: queue of (current_node, path_so_far)
+    queue = [(start, [start])]
+    visited = {start}
+
+    while queue:
+        node, path = queue.pop(0)
+        if len(path) > max_depth:
+            continue
+        for neighbour in WHAKAPAPA.get(node, []):
+            if neighbour in visited:
+                continue
+            new_path = path + [neighbour]
+            if neighbour == end:
+                return new_path
+            visited.add(neighbour)
+            queue.append((neighbour, new_path))
+
+    return []
+
+
+def merge_clusters(cluster_a: list, cluster_b: list) -> list:
+    """
+    Merge two concept clusters into one ordered list.
+    Concepts shared by both clusters rise to the front (shared tupuna first).
+    Unique-to-A concepts follow, then unique-to-B.
+    No duplicates. Order within each group is preserved from original lists.
+    """
+    set_a, set_b = set(cluster_a), set(cluster_b)
+    shared    = [c for c in cluster_a if c in set_b]
+    only_a    = [c for c in cluster_a if c not in set_b]
+    only_b    = [c for c in cluster_b if c not in set_a]
+    return shared + only_a + only_b
+
+
+def combine_voices(voice_a: int, voice_b: int, text: str) -> str:
+    """
+    Render a single passage as two voices in parallel.
+    voice_a / voice_b: integers 0–3 (see CONCEPT_VOICE).
+    Produces a two-column Markdown table: | voice_a | voice_b |
+    Each cell contains the passage rendered in its respective voice.
+    """
+    rendered_a = render_voice(voice_a, text).strip()
+    rendered_b = render_voice(voice_b, text).strip()
+    # sanitise newlines for table cells
+    cell_a = rendered_a.replace("\n", " ").replace("|", "\\|")
+    cell_b = rendered_b.replace("\n", " ").replace("|", "\\|")
+    voice_labels = ["title", "body", "gloss", "raw"]
+    label_a = voice_labels[voice_a] if voice_a < 4 else str(voice_a)
+    label_b = voice_labels[voice_b] if voice_b < 4 else str(voice_b)
+    return (
+        f"| {label_a} | {label_b} |\n"
+        f"|---|---|\n"
+        f"| {cell_a} | {cell_b} |\n"
+    )
+
+
+def cross_generate(page_a: str, page_b: str, passages: dict, intent: str = "") -> str:
+    """
+    Generate a Markdown page synthesising two source pages.
+    page_a, page_b: keys in PAGE_REGISTRY (or any concept cluster).
+    passages: the full indexed passage pool.
+    intent: optional framing sentence for the top of the page.
+
+    Produces:
+      — a merged cluster (shared concepts first)
+      — woven passages from both pages
+      — rhizo paths between each primary pair
+      — a whakapapa bridge section
+    """
+    cluster_a = get_cluster(page_a, [])
+    cluster_b = get_cluster(page_b, [])
+    merged    = merge_clusters(cluster_a, cluster_b)
+
+    title = f"{page_a} × {page_b}"
+    lines = [f"# {title}\n"]
+    if intent:
+        lines.append(f"> *{intent}*\n")
+    lines.append("---\n")
+
+    # ── Shared core ──
+    shared = [c for c in merged if c in set(cluster_a) and c in set(cluster_b)]
+    if shared:
+        lines.append("## Shared Tupuna\n")
+        for cid in shared[:4]:
+            raw_a = passages.get(cid, [])[:1]
+            raw_b = passages.get(cid, [])[-1:]
+            if raw_a and raw_b:
+                woven = weave_passages(raw_a, raw_b, ratio=(1, 1))
+            else:
+                woven = raw_a or raw_b
+            voice = CONCEPT_VOICE.get(cid, 1)
+            lines.append(f"### {CONCEPT_NAMES.get(cid, cid)}\n")
+            for src, passage in woven:
+                lines.append(render_voice(voice, passage))
+                lines.append(f"*— {src}*\n")
+            # rhizo bridge between this shared concept and the primary of each page
+            primary_a = cluster_a[0] if cluster_a else cid
+            primary_b = cluster_b[0] if cluster_b else cid
+            if primary_a != cid:
+                path = rhizo_path(cid, primary_a)
+                if path:
+                    path_str = " → ".join(
+                        f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in path
+                    )
+                    lines.append(f"\n*Path → {page_a}: {path_str}*\n")
+            if primary_b != cid:
+                path = rhizo_path(cid, primary_b)
+                if path:
+                    path_str = " → ".join(
+                        f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in path
+                    )
+                    lines.append(f"\n*Path → {page_b}: {path_str}*\n")
+        lines.append("---\n")
+
+    # ── Divergent voices: one concept from each unique side ──
+    only_a = [c for c in cluster_a if c not in set(cluster_b)]
+    only_b = [c for c in cluster_b if c not in set(cluster_a)]
+    if only_a and only_b:
+        rep_a, rep_b = only_a[0], only_b[0]
+        lines.append(f"## Divergence: {CONCEPT_NAMES.get(rep_a, rep_a)} vs {CONCEPT_NAMES.get(rep_b, rep_b)}\n")
+        va = CONCEPT_VOICE.get(rep_a, 1)
+        vb = CONCEPT_VOICE.get(rep_b, 1)
+        ps_a = passages.get(rep_a, [])[:1]
+        ps_b = passages.get(rep_b, [])[:1]
+        if ps_a and ps_b:
+            lines.append(combine_voices(va, vb, ps_a[0][1]))
+            lines.append(f"*{CONCEPT_NAMES.get(rep_a, rep_a)}: {ps_a[0][0]} / "
+                         f"{CONCEPT_NAMES.get(rep_b, rep_b)}: {ps_b[0][0]}*\n")
+        # rhizo bridge between the two divergent concepts
+        bridge = rhizo_path(rep_a, rep_b)
+        if bridge:
+            bridge_str = " → ".join(
+                f"[{CONCEPT_NAMES.get(p, p)}]({slug(p)})" for p in bridge
+            )
+            lines.append(f"\n*Rhizo bridge: {bridge_str}*\n")
+        lines.append("---\n")
+
+    lines.append("\n---\n")
+    lines.append(
+        f"*Cross-generated by [WaKa](../WaKa.py) from `{page_a}` × `{page_b}`. "
+        "All paths are lateral. Edit freely.*\n"
+    )
+    return "\n".join(lines)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # HELPERS
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -557,6 +753,28 @@ def scaffold_user_input(page: str, root: Path):
 
 def main():
     args = sys.argv[1:]
+
+    # --cross <PageA> <PageB> [intent]: synthesise two pages
+    if len(args) >= 3 and args[0] == "--cross":
+        page_a, page_b = args[1], args[2]
+        intent = " ".join(args[3:]) if len(args) > 3 else ""
+        sources  = load_sources(ROOT)
+        passages = index_passages(sources)
+        md = cross_generate(page_a, page_b, passages, intent=intent)
+        out_name = f"{page_a}-x-{page_b}.md"
+        out_path = ROOT / "wiki" / out_name
+        out_path.write_text(md, encoding="utf-8")
+        print(f"Written: wiki/{out_name}")
+        return
+
+    # --rhizo <ConceptA> <ConceptB>: print lateral path
+    if len(args) >= 3 and args[0] == "--rhizo":
+        path = rhizo_path(args[1], args[2])
+        if path:
+            print(" → ".join(path))
+        else:
+            print(f"No path found between {args[1]} and {args[2]}")
+        return
 
     # --list: print registry
     if args and args[0] == "--list":

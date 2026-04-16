@@ -1,6 +1,6 @@
 # Radiative
 
-> *Radiative design: systems that expand outward from a simple seed. Not reactive — generative.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 

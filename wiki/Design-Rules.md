@@ -1,6 +1,6 @@
 # Design Rules
 
-> *State the design rules Karl follows. Not mechanics — the rules below the mechanics. DOD, simplicity, enemy wave.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -108,7 +108,9 @@ extreme simplicity of the parts.**
 | [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
 | [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
-| [Determinism](determinism) | [Esp Ra De](esprade), [Data-Oriented Design](dod), [Positioning](positioning) |
+| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Taonga](taonga) | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 
 ---
 

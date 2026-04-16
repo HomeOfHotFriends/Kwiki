@@ -1,152 +1,98 @@
-# Anti-OOPedipus
+# Anti OOPedipus
 
-> *Welcoming Anti-Oedipus. Welcoming Anti-Œdipus. Welcoming Anti-O^O.P.-dipus.*
-
-> *On the prohibition and the refusal of genealogical machines.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
-## The Argument
+## Anti-OOPedipus
 
-**Deleuze and Guattari** wrote *Anti-Oedipus* to destroy a specific machine: the Oedipal triangle. Psychoanalysis takes the infinite productive force of desire — flows, connections, assemblages — and reduces it to a family drama. Mummy. Daddy. Me. Every desire coded back to lack, to prohibition, to the Father's law.
+**This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
+the only creative product which has produced an engagement that rivals my favourite shmups:
+I honestly don’t know if DDP 1 or**
 
-**Anti-OOPedipus** makes the same argument about Object-Oriented Programming.
+*— esprade_doc*
 
-OOP takes the productive capacity of data and behaviour — flows, arrays, transformations — and forces it into a family drama. Every object must have a class. Every class must have a parent. Every behaviour must descend from a hierarchy. The Gang of Four are the psychoanalysts. The inheritance tree is the Oedipal triangle. The `virtual override` is the law of the father.
+**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
+which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
+DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
 
-The question is not "is OOP bad?" The question is: **what gets prohibited when you commit to hierarchy as the default?**
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
 ---
 
-## The Oedipal Machine in Code
+## Desiring-Machine
 
-In classical OOP inheritance:
+: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
+2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
+production-and-inspection-at-czit-development-ltd/ 20.
+
+*— ai_singularity_te_reo*
+
+m my suffering than the two screen method (which required finding a game + movie/show
+combination that allowed for just the right amount of awareness without effort to achieve
+the desired result) but I had found a way to focus again that was possible even in my
+current low-energy state.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+---
+
+## Rhizome
+
+Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
+
+*— untitled2*
+
+means by Rhizome'.
+
+*— untitled2*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
+
+---
+
+## Data-Oriented Design
 
 ```
-Entity
-  └── Actor
-        └── Enemy
-              └── Boss
-                    └── FinalBoss
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
+was on level one in combination with the tiny
 ```
 
-This is not a natural structure produced by the problem. It is a *social coding* of the problem — the insistence that everything must have a parent, that relationship must be expressed as descent, that the identity of a thing is produced by what it came from rather than what it *does*.
+*— esprade_doc*
 
-The pathology:
-
-- **Fragile base class problem** — changing the parent breaks the children; the father's law reaches forward through time
-- **Diamond problem** — when two parents conflict, the hierarchy produces contradiction it cannot resolve
-- **Deep call stacks** — to understand what anything does, you must climb the genealogical tree
-- **God classes** — the hierarchical pressure to centralise produces the Oedipal father: one class that everything depends on, that must not be touched
-
----
-
-## What DOD Refuses
-
-Data-Oriented Design does not begin with objects. It begins with **what data exists and how it changes**.
-
-```c
-// OOP (genealogical machine)
-class Enemy {
-    virtual void update() = 0;  // the father demands you implement
-};
-
-// DOD (desiring-machine)
-struct BulletData { float x, y, dx, dy; };
-BulletData bullets[MAX_BULLETS];  // flat. no parent. flows.
+```
+I thought the way to get better was simply to get better at dodging, to improve my
+reactions.
 ```
 
-The DOD approach says: the machine is the array and the transform. The identity of a bullet is not its class — it is its position, velocity, and what happens to them each frame. The "type" of a bullet is its data, not its genealogy.
+*— esprade_doc*
 
-This is the desiring-machine: it produces through connection and flow, not through descent and prohibition.
 
----
-
-## The Shitting Machines Passage
-
-> *h okay. on the shitting. on the shit machines. Āe, yes.*  
-> *There are shit machines. There are shitting machines.*  
-> *Shitting machines do not need to be shit machines.*  
-> *The flow-state permits the meta-function:*  
-> *There can be shit shitting machines.*  
-> *A tautology of the production/product-cycle.*
-
-`IBM Plex Mono gloss:` This is the DOD loop stated in Anti-Oedipus language. A *shitting machine* is a system that produces output through a transform applied to input data — a process-machine. A *shit machine* is a system defined by its product — an output-machine. The insight: **a process-machine does not need to be an output-machine.** The bullet spawner does not care about bullets — it cares about spawn events. The bullets care about position. Neither is a parent of the other.
-
-The "shit shitting machine" is the meta-system: a machine that produces other machines. This is DOD architecture — a data pipeline that produces transforms that produce outputs. No hierarchy. Only flow.
+*Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
 
 ---
 
-## The Prohibition
+## Whakapapa Connections
 
-The refusal in the title refers to a specific machine Karl refuses to build: **the genealogical machine** — the system that codes every new idea or component by reducing it to its parent, its origin, its Oedipal position.
-
-In OOP: every new class must find its parent.  
-In design: every new mechanic must fit the existing hierarchy.  
-In philosophy: every new thought must be grounded in an authoritative lineage.
-
-Anti-OOPedipus is not chaos. It is not "no rules." The Law still exists:
-
-> *Extreme depth of the whole achieved through extreme simplicity of the parts.*
-
-But the law generates complexity through **relationship and flow**, not through **descent and inheritance**.
+| Concept | Tupuna |
+|---|---|
+| [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
+| [Shitting Machine](shitting-machine) | [Desiring-Machine](desiring-machine), [Flow State](flow-state), [Anti-OOPedipus](anti-oopedipus) |
+| [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
+| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
+| [Simplicity of Parts](simplicity-of-parts) | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
 
 ---
 
-## Whakapapa
 
-- Upstream: [Whakapapa](Whakapapa), Deleuze & Guattari *Anti-Oedipus* (1972)
-- Downstream: [Machines](Machines), [DOD](DOD), [The Law](The-Law)
-- Code manifestation: [Te Reo and Code](Te-Reo-and-Code)
+---
 
-<!-- BEGIN RECURSIVE_WEAVE -->
-## Recursive Hub Weave
-
-### Direct Connections
-- [Whakapapa — Genealogy of Ideas](Whakapapa.md)
-- [Machines](Machines.md)
-- [DOD](DOD.md)
-- [The Law](The-Law.md)
-- [Te Reo and Code](Te-Reo-and-Code.md)
-
-### Inbound Connections
-- [Content vs Creative](Content-vs-Creative.md)
-- [Desiring Machine](Desiring-Machine.md)
-- [Flow State](Flow-State.md)
-- [Frog In A Pot](Frog-In-A-Pot.md)
-- [KELLS — Basic Units of Logic](Home.md)
-- [Ira Kotahi](Ira-Kotahi.md)
-- [Machines](Machines.md)
-- [Oedipal Machine](Oedipal-Machine.md)
-
-### Lateral Bridges
-#### [Machines](Machines.md)
-- Connection strength: 8
-- Shared motifs: machine, machines, whakapapa
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 8
-- Shared motifs: anti, machine, oopedipus, shitting, whakapapa
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 7
-- Shared motifs: anti, machine, oopedipus, shitting
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 7
-- Shared motifs: anti, machine, oedipal, oopedipus
-#### [Rhizome](Rhizome.md)
-- Connection strength: 7
-- Shared motifs: anti, machine, oopedipus, whakapapa
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 7
-- Shared motifs: anti, machine, oopedipus, shitting
-#### [Te Reo and Code](Te-Reo-and-Code.md)
-- Connection strength: 7
-- Shared motifs: code, whakapapa
-#### [Whakapapa — Genealogy of Ideas](Whakapapa.md)
-- Connection strength: 7
-- Shared motifs: code, whakapapa
-
-### Recursive Prompt
-- In each section above, add at least one sentence that names one direct and one lateral page together.
-- Convert plain mentions of those pages into markdown links for tighter recursion.
-<!-- END RECURSIVE_WEAVE -->
-
+*Generated by [WaKa](../WaKa.py). Old work is whakapapa, not gospel. Edit freely.*

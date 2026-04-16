@@ -1,6 +1,6 @@
 # Shmup Genealogy
 
-> *Trace the genealogy: DonPachi → DDP → EspRaDe → j. Each ancestor feeds the law of simplicity.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -101,6 +101,8 @@ extreme simplicity of the parts.**
 | [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
 | [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
 | [Content vs Creative Product](content-vs-creative) | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
+| [Whakapapa](whakapapa) | [Mauri](mauri), [Ira Kotahi](ira-kotahi), [Rhizome](rhizome) |
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
 

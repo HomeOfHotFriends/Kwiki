@@ -1,67 +1,98 @@
 # Flow State
 
-> *Flow as the desiring-machine at full production. ADHD, focus, and the corridor of the game.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
-## Desiring-Machine
+## Whakapapa
 
-: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
-2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
-production-and-inspection-at-czit-development-ltd/ 20.
+ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
+i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
+whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
 
 *— ai_singularity_te_reo*
 
-m my suffering than the two screen method (which required finding a game + movie/show
-combination that allowed for just the right amount of awareness without effort to achieve
-the desired result) but I had found a way to focus again that was possible even in my
-current low-energy state.
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
 
-*— esprade_doc*
+*— ai_singularity_te_reo*
 
 
-*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
 ---
 
-## Shitting Machine
+## Mauri
 
-> *Try to distract yourself by ‘shitting out’ a masterpiece G.*
+Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
+
+*— ai_singularity_te_reo*
+
+.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
+te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
+Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
+te rā
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Ira Kotahi](ira-kotahi) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Taonga](taonga)*
+
+---
+
+## Taonga
+
+**I still don't quite know how; I am not a particularly gifted programmer, I hadn't followed
+any guides or looked at any code**
+
+*— esprade_doc*
+
+**getic Title Space Dad, A Portrait A Memoir Gharv Unkle Edited by Karl Leisky Diegetic
+Epigraph The scar is not a disfigurement; it is a map that proves you once held a universe
+of treasure ―Morhf**
 
 *— frog_in_a_pot*
 
 
-*Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
+*Whakapapa: [The Law](the-law) · [Mauri](mauri) · [Whakapapa](whakapapa)*
 
 ---
 
-## Catch-22
+## Te Whariki Pumotu
 
-> *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
+```
+ay> #include <string> namespace Nāwhaianō_nāwhaianōrā_Ināwhaianō { enum zero_set {
+pūwāhi_kau, pūtake_aukati, huinga_whakaputa, katinotoa, kauaeheahea, huinga_kōwhiringa };
+struct Te_Whariki_Pumotu { void whakawātea() { ngā_zero_set.fill(pūwāhi_kau); } void
+whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; }
+zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; }
+void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
+```
 
-*— esprade_doc*
+*— indigenous_proposal*
 
-> *and read Catch 22.*
+```
+int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
+pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
+tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
+1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
+atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
+static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
+1 && hou_x <
+```
 
-*— esprade_doc*
+*— indigenous_proposal*
 
 
-*Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
+*Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
 
 ---
 
-## Esp Ra De
+## Whakapapa Connections
 
-> *﻿I am currently obsessed with the game esp ra de by CAVE.*
-
-*— esprade_doc*
-
-> *I wasn’t great at shmups, I couldn’t even beat stage 3 of Esp Ra De with out being hit once, let alone consistently.*
-
-*— esprade_doc*
-
-
-*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Enemy Wave](enemy-wave) · [Positioning](positioning) · [The Law](the-law) · [Determinism](determinism)*
+| Concept | Tupuna |
+|---|---|
+| [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
 
 ---
 

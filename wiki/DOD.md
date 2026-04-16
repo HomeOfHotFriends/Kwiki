@@ -1,6 +1,6 @@
 # DOD
 
-> *Lay out the full Data-Oriented Design philosophy. Connect to te_whariki_pumotu, zero_set, simplicity_of_parts, and the_law.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -130,6 +130,7 @@ psuedorandomness, at worst, could use player input as a seed.
 | [Enemy Wave](enemy-wave) | [Esp Ra De](esprade), [Positioning](positioning), [Simplicity of Parts](simplicity-of-parts) |
 | [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
 | [Positioning](positioning) | [Esp Ra De](esprade), [Enemy Wave](enemy-wave), [Data-Oriented Design](dod) |
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 
 ---
 

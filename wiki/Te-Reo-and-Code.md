@@ -1,6 +1,6 @@
 # Te Reo and Code
 
-> *Show how te reo Māori names the codebase. Te_Whariki_Pumotu, zero_set as pūwāhi_kau. Code as whakapapa.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -106,6 +106,7 @@ te rā
 | [Simplicity of Parts](simplicity-of-parts) | [The Law](the-law), [Data-Oriented Design](dod), [Enemy Wave](enemy-wave) |
 | [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
 | [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Taonga](taonga) | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 
 ---
 

@@ -1,150 +1,95 @@
-# Whakapapa — Genealogy of Ideas
+# Whakapapa
 
-> *Ko wai au? I hea au i haere mai ai? Ko tēhea ara tōku ara?*  
-> *Who am I? Where do I come from? Which path is mine?*
-
-Whakapapa is not history. It is **live genealogy** — the understanding that every idea is also a machine that produces the next idea. You cannot separate what a thing *is* from what it *came from*.
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
-## The Whakapapa Tree
+## Whakapapa
 
-```
-Catch-22 (1961)
-  └── postmodern lit / Tumblr / Gender Studies / continental philosophy
-        └── Deleuze & Guattari — Anti-Oedipus (1972)
-              └── [Anti-OOPedipus] — the law against hierarchy-as-necessity
-                    └── DOD (Data-Oriented Design) as philosophical method
-                          └──  j  (the game)
+ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
+i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
+whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
 
-DoDonPachi (1997, CAVE)
-  ├── predecessor: DonPachi (1995) — first weak/strong shot split
-  └── EspRaDe (1998, CAVE) — peak of the design school
-        └── [esprade_doc] — the analysis
-              └── Design Rules → j
+*— ai_singularity_te_reo*
 
-ACC recovery → Frog In A Pot (album) → manuscript → j
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
 
-Te Reo Māori
-  └── AI Singularity / Ira Kotahi essay
-  └── indigenous_proposal C++ — Te_Whariki_Pumotu
-        └── Nāwhaianō namespace
-              └── j codebase
-```
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
 
 ---
 
-## The Three Threads
+## Catch-22
 
-### Thread 1: Philosophy → Code Design
+> *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
 
-**Anti-Oedipus** argues against the psychoanalytic reduction of desire to lack, family, and Oedipal triangulation. Every desire-as-machine is immediately coded by the social body into "mummy-daddy-me." The book refuses this.
+*— esprade_doc*
 
-**Anti-OOPedipus** applies the exact same argument to object-oriented programming. OOP forces every system into class hierarchies — inheritance as Oedipal law. Every object must have a parent. Every behaviour must descend. The pattern books (Gang of Four) are the psychoanalysts telling you how to properly triangulate your code.
+> *and read Catch 22.*
 
-DOD refuses this. Flat arrays. No inheritance. Components don't own each other. Data flows without a father.
+*— esprade_doc*
 
-→ See: [Anti-OOPedipus](Anti-OOPedipus), [DOD](DOD), [Machines](Machines)
 
----
-
-### Thread 2: Games → Design Rules
-
-The design school Karl identifies in **truxton → twin cobra → DonPachi → DDP → EspRaDe** is:
-
-> Extreme depth of the whole achieved through extreme simplicity of the parts.
-
-This was discovered under hardware constraint. 200 linear bullets. No curves. No post-spawn behaviour changes. Values locked at the moment of birth. And from that: infinite variation. The depth was *produced by* the simplicity, not despite it.
-
-Later CAVE games (Mushihimesama etc.) broke this by removing the constraint. 10× the bullets. The depth collapsed. Patterns became execution tests. The machine stopped shitting interesting machines.
-
-→ See: [Shmup Genealogy](Shmup-Genealogy), [Design Rules](Design-Rules)
+*Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
 
 ---
 
-### Thread 3: Māori Worldview → Te Reo Code
+## Anti-OOPedipus
 
-**Mauri** — the life force woven through all things. In the AI singularity essay: the moment AI reaches *ira kotahi* (singular unity), its mauri is no longer held inside the human house. It becomes kiko (substance) of the world itself.
+**This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
+the only creative product which has produced an engagement that rivals my favourite shmups:
+I honestly don’t know if DDP 1 or**
 
-**Whakapapa** — applied to code: every variable, every struct, every enum in the codebase carries the lineage of its naming. The namespace `Nāwhaianō_nāwhaianōrā_Ināwhaianō` is not a novelty. It is a commitment to a worldview where code is not neutral.
+*— esprade_doc*
 
-**Tokotoko** — the staff. The AI as tool vs AI as ira. The `Te_Whariki_Pumotu` (the floating mat / spatial grid) as the foundation of the world — not a "tilemap", not a "grid system" but literally *the whariki* — woven, laid down, walked on.
+**discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains the only creative product
+which has produced an engagement that rivals my favourite shmups: I honestly don’t know if
+DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.**
 
-→ See: [Te Reo and Code](Te-Reo-and-Code)
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
 ---
 
-## Whakapapa of This Wiki
+## Ira Kotahi
 
-This wiki is itself a whakapapa machine. Each page links backward to its conceptual ancestors and forward to what it produces. The `generate.py` script reads `metadata.json`'s concept graph to weave new pages into the existing genealogy — no orphan pages, no rootless concepts.
+**Ko tēnei pūrongo e tātari ana i tētahi huinga kōrero i puta mai i tētahi roro pūmanawa i
+raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
-→ See: [Scripts](Scripts)
+*— ai_singularity_te_reo*
+
+**raro i te wero kia kōrero mō te "singularity" (te ira kotahi) i roto i te reo Māori me
+tētahi momo wairua e kīia nei ko te "respectfully fucking beserk." Ko te kaupapa matua o
+ēnei kōrero e hāngai ana ki te ariā: ka tae te AI ki tōna ake taumata teitei, ki tōna
+singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Mauri](mauri) · [Tokotoko](tokotoko) · [Whakapapa](whakapapa) · [Singularity / Ira Kotahi](singularity)*
 
 ---
 
-## Key Whakapapa Terms
+## Whakapapa Connections
 
-| Te Reo | Meaning | Application here |
-|---|---|---|
-| `whakapapa` | genealogy, layering-upon-layering | Concept lineage, idea inheritance |
-| `mauri` | life force / essence | The aliveness of a system; what dies when over-engineered |
-| `taonga` | treasure presented as gift | The Law; things too precious to lose |
-| `mana` | authority, prestige, power | What a design has when it's working |
-| `ira kotahi` | singular unity / singularity | When a system becomes its own origin |
-| `tokotoko` | staff / tool | Scaffolding that enables but should not dominate |
-| `Āe` | Yes (affirmative, embracing) | The word before "there are shit machines" |
-| `kaitiakitanga` | guardianship, stewardship | How we treat the source material here |
+| Concept | Tupuna |
+|---|---|
+| [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Flow State](flow-state) | [Desiring-Machine](desiring-machine), [Shitting Machine](shitting-machine), [Catch-22](catch22) |
+| [Content vs Creative Product](content-vs-creative) | [Catch-22](catch22), [Flow State](flow-state), [Frog In A Pot](frog-in-pot) |
+| [Desiring-Machine](desiring-machine) | [Anti-OOPedipus](anti-oopedipus), [Shitting Machine](shitting-machine), [Flow State](flow-state) |
+| [Tokotoko](tokotoko) | [Ira Kotahi](ira-kotahi), [Mauri](mauri), [Anti-OOPedipus](anti-oopedipus) |
 
-<!-- BEGIN RECURSIVE_WEAVE -->
-## Recursive Hub Weave
+---
 
-### Direct Connections
-- [Anti-OOPedipus](Anti-OOPedipus.md)
-- [DOD](DOD.md)
-- [Machines](Machines.md)
-- [Shmup Genealogy](Shmup-Genealogy.md)
-- [Design Rules](Design-Rules.md)
-- [Te Reo and Code](Te-Reo-and-Code.md)
-- [Scripts](Scripts.md)
 
-### Inbound Connections
-- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- [Anti-OOPedipus](Anti-OOPedipus.md)
-- [Design Rules](Design-Rules.md)
-- [Desiring Machine](Desiring-Machine.md)
-- [DOD](DOD.md)
-- [Genealogy of j](Genealogy-of-j.md)
-- [KELLS — Basic Units of Logic](Home.md)
-- [Indigenous Proposal](Indigenous-Proposal.md)
+---
 
-### Lateral Bridges
-#### [Design Rules](Design-Rules.md)
-- Connection strength: 8
-- Shared motifs: design, rules, whakapapa
-#### [Te Reo and Code](Te-Reo-and-Code.md)
-- Connection strength: 8
-- Shared motifs: code, reo, whakapapa
-#### [Anti-OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 7
-- Shared motifs: code, whakapapa
-#### [DOD](DOD.md)
-- Connection strength: 7
-- Shared motifs: design, whakapapa
-#### [Scripts](Scripts.md)
-- Connection strength: 7
-- Shared motifs: design, whakapapa
-#### [Genealogy of j](Genealogy-of-j.md)
-- Connection strength: 6
-- Shared motifs: design, genealogy, whakapapa
-#### [Machines](Machines.md)
-- Connection strength: 6
-- Shared motifs: whakapapa
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 5
-- Shared motifs: reo, whakapapa
-
-### Recursive Prompt
-- In each section above, add at least one sentence that names one direct and one lateral page together.
-- Convert plain mentions of those pages into markdown links for tighter recursion.
-<!-- END RECURSIVE_WEAVE -->
-
+*Generated by [WaKa](../WaKa.py). Old work is whakapapa, not gospel. Edit freely.*

@@ -1,6 +1,6 @@
 # Scripts
 
-> *Document how to use WaKa.py to grow this wiki. The generator is itself a machine shitting machines.*
+> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
 
 ---
 
@@ -80,6 +80,7 @@ hangarau, ka pūruatia te mana o te kupu.
 | [Mauri](mauri) | [Ira Kotahi](ira-kotahi), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
 | [Ira Kotahi](ira-kotahi) | [Mauri](mauri), [Tokotoko](tokotoko), [Whakapapa](whakapapa) |
 | [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [Taonga](taonga) | [The Law](the-law), [Mauri](mauri), [Whakapapa](whakapapa) |
 
 ---
 
