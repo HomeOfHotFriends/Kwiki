@@ -204,9 +204,15 @@ PAGE_REGISTRY = {
     "Te-Reo-and-Code":   ["te_whariki_pumotu", "zero_set", "whakapapa", "mauri"],
     "Shmup-Genealogy":   ["esprade", "enemy_wave", "positioning", "the_law", "frog_in_pot"],
     "Design-Rules":      ["simplicity_of_parts", "enemy_wave", "positioning", "dod", "the_law"],
-    "Scripts":           ["dod", "zero_set", "whakapapa"],
-    "Radiative":         ["radiative", "content_vs_creative", "the_law", "dod"],
-    "Singularity":       ["singularity", "ira_kotahi", "tokotoko", "mauri"],
+    "Scripts":              ["dod", "zero_set", "whakapapa"],
+    "Radiative":            ["radiative", "content_vs_creative", "the_law", "dod"],
+    "Singularity":          ["singularity", "ira_kotahi", "tokotoko", "mauri"],
+    "Genealogy-of-j":       ["esprade", "the_law", "whakapapa", "determinism", "simplicity_of_parts"],
+    "The-Marae":            ["mauri", "whakapapa", "ira_kotahi", "taonga", "te_whariki_pumotu"],
+    "Production-as-Primary":["desiring_machine", "shitting_machine", "content_vs_creative", "flow_state", "anti_oopedipus"],
+    "Zero-Set":             ["zero_set", "te_whariki_pumotu", "dod", "simplicity_of_parts", "ira_kotahi"],
+    "Enemy-Wave":           ["enemy_wave", "esprade", "positioning", "determinism", "simplicity_of_parts"],
+    "Catch-22":             ["catch22", "content_vs_creative", "frog_in_pot", "flow_state", "anti_oopedipus"],
 }
 
 
