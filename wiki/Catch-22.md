@@ -1,21 +1,27 @@
 # Catch 22
 
-> *Catch-22 as the structure of content capture. You can't leave the system that's consuming you.*
+> *Rebless. Recurse. Rebless.*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
 ## Catch-22
 
+> *Rebless.*
+> *Recurse.*
+> *Rebless.*
+
+*— user_input*
+
 > *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
-
-*— esprade_doc*
-
-> *and read Catch 22.*
 
 *— esprade_doc*
 
 
 *Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -35,6 +41,8 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 
 *Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
 
+> *Rebless. Recurse. Rebless.*
+
 ---
 
 ## Frog In A Pot
@@ -50,6 +58,8 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 
 *Whakapapa: [Esp Ra De](esprade) · [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Catch-22](catch22)*
 
+> *Rebless. Recurse. Rebless.*
+
 ---
 
 ## Flow State
@@ -64,6 +74,8 @@ Not a single part of me had to force myself to focus.
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -83,6 +95,8 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 

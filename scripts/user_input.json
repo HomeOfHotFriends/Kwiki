@@ -1,13 +1,9 @@
 {
   "page": "Anti-OOPedipus",
-  "intent": "Rebless Anti-OOPedipus. Recurse through whakapapa. Rebless throughout.",
+  "intent": "Rebless. Recurse. Rebless.",
   "tone": "body",
   "extra_concepts": [
-    "anti_oopedipus",
-    "desiring_machine",
-    "rhizome",
-    "catch22",
-    "shitting_machine"
+    "anti_oopedipus"
   ],
   "voice_notes": "",
   "new_passage": "Rebless. Recurse. Rebless."

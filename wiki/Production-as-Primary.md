@@ -1,10 +1,16 @@
 # Production as Primary
 
-> *Production precedes the product. The machine produces before it knows what it's making. Anti-lack.*
+> *Rebless. Recurse. Rebless.*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
 ## Desiring-Machine
+
+Rebless. Recurse. Rebless.
+
+*— user_input*
 
 : He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
 2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
@@ -12,15 +18,10 @@ production-and-inspection-at-czit-development-ltd/ 20.
 
 *— ai_singularity_te_reo*
 
-m my suffering than the two screen method (which required finding a game + movie/show
-combination that allowed for just the right amount of awareness without effort to achieve
-the desired result) but I had found a way to focus again that was possible even in my
-current low-energy state.
-
-*— esprade_doc*
-
 
 *Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -32,6 +33,8 @@ current low-energy state.
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -51,6 +54,8 @@ rsion/1/file/2026+Lectionary+Final.pdf 16.
 
 *Whakapapa: [Catch-22](catch22) · [Flow State](flow-state) · [Frog In A Pot](frog-in-pot) · [Radiative](radiative)*
 
+> *Rebless. Recurse. Rebless.*
+
 ---
 
 ## Flow State
@@ -65,6 +70,8 @@ Not a single part of me had to force myself to focus.
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -85,6 +92,8 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
+> *Rebless. Recurse. Rebless.*
+
 ---
 
 ## Whakapapa Connections
@@ -94,7 +103,6 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 | [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
 | [Frog In A Pot](frog-in-pot) | [Esp Ra De](esprade), [Flow State](flow-state), [Content vs Creative Product](content-vs-creative) |
 | [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
-| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
 
 ---
 

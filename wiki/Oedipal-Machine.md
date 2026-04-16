@@ -1,6 +1,8 @@
 # Oedipal Machine
 
-> *The Oedipal machine: the law that prohibits. OOP as Oedipus. Inheritance as genealogical capture.*
+> *Rebless. Recurse. Rebless.*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -21,55 +23,7 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
----
-
-## Desiring-Machine
-
-: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
-2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
-production-and-inspection-at-czit-development-ltd/ 20.
-
-*— ai_singularity_te_reo*
-
-m my suffering than the two screen method (which required finding a game + movie/show
-combination that allowed for just the right amount of awareness without effort to achieve
-the desired result) but I had found a way to focus again that was possible even in my
-current low-energy state.
-
-*— esprade_doc*
-
-
-*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
-
----
-
-## Rhizome
-
-Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
-
-*— untitled2*
-
-means by Rhizome'.
-
-*— untitled2*
-
-
-*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
-
----
-
-## Catch-22
-
-> *I had been engaged before -- the first time was when I was 15 and read Catch 22.*
-
-*— esprade_doc*
-
-> *and read Catch 22.*
-
-*— esprade_doc*
-
-
-*Whakapapa: [Flow State](flow-state) · [Content vs Creative Product](content-vs-creative) · [Anti-OOPedipus](anti-oopedipus)*
+> *Rebless. Recurse. Rebless.*
 
 ---
 

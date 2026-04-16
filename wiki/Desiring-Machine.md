@@ -1,6 +1,8 @@
 # Desiring Machine
 
-> *The desiring-machine: production as primary. No lack. No law. Only flow and breakdowns.*
+> *Rebless. Recurse. Rebless.*
+
+> *Rebless. Recurse. Rebless.*
 
 ---
 
@@ -21,46 +23,7 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
 
----
-
-## Shitting Machine
-
-> *Try to distract yourself by ‘shitting out’ a masterpiece G.*
-
-*— frog_in_a_pot*
-
-
-*Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
-
----
-
-## Rhizome
-
-Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
-
-*— untitled2*
-
-means by Rhizome'.
-
-*— untitled2*
-
-
-*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
-
----
-
-## Flow State
-
-My ADHD could no longer handle any other game experience.
-
-*— esprade_doc*
-
-Not a single part of me had to force myself to focus.
-
-*— esprade_doc*
-
-
-*Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+> *Rebless. Recurse. Rebless.*
 
 ---
 
