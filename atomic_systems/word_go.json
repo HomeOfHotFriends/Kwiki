@@ -7,10 +7,14 @@
     "Groups of words surrounded by the opponent are 'captured' and removed, as in Go.",
     "Territory is scored by the number of empty cells surrounded by a player's words.",
     "Optional: Use poetic or narrative constraints for bonus points (e.g., alliteration, metaphor chains)."
+    ,"The first move (11-11, black) is the 'first tautology'—it is the only initial truth and must be accepted as true. All subsequent moves are proposals, questions, or negotiations, requiring shared understanding and respect (tukingamori). Order is important: the first tautology is always the foundation for the logic of the game."
   ],
   "examples": [
     {"move": "place 'river' next to 'flow'"},
     {"move": "place 'stone' to connect 'river' and 'mountain'"}
   ],
   "notes": "This system can be played on paper, in code, or as a collaborative writing game. Extend with new rules or constraints as desired."
+  ,"principles": [
+    "The first tautology is both a formal rule and a living, conversational principle. It is the only thing in the computer's mind at the start. All further logic and meaning must be co-created through dialogue, mutual respect, and negotiation between human and computer."
+  ]
 }
