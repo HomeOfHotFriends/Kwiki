@@ -1,14 +1,5 @@
 {
-  "page": "The-Marae",
-  "intent": "The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.",
-  "tone": "body",
-  "extra_concepts": [
-    "whakapapa",
-    "mauri",
-    "taonga",
-    "te_whariki_pumotu",
-    "ira_kotahi"
-  ],
+  "user_input": "",
   "voice_notes": "",
-  "new_passage": ""
+  "new_passage": "Write all pages in here. Rename to shared input."
 }
