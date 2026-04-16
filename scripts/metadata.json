@@ -1574,7 +1574,8 @@
         "tokotoko",
         "the_law",
         "dod",
-        "zero_set"
+        "zero_set",
+        "radiative"
       ],
       "whakapapa_snapshot": {
         "mauri": [
@@ -1636,6 +1637,11 @@
           "te_whariki_pumotu",
           "dod",
           "simplicity_of_parts"
+        ],
+        "radiative": [
+          "content_vs_creative",
+          "dod",
+          "the_law"
         ]
       }
     },

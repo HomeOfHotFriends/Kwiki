@@ -1,19 +1,16 @@
 # The Marae
 
-> *The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.*
+> *Create new terms, concepts, ways of thinking, and ways of doing.*
 
 ---
 
 ## Mauri
 
+Create new terms, concepts, ways of thinking, and ways of doing.
+
+*— user_input*
+
 Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 8 4.
-
-*— ai_singularity_te_reo*
-
-.9 Ko te kōrero "kua huri kē te ao kia rite ki tana taenga mai" e whai ana i te mātāpono o
-te "whakapapa huri noa" — te mōhio ko te timatanga me te whakamutunga he mea kotahi.4 Te
-Mauri o te Hangarau i roto i te Ao Māori He mea nui te mōhio he iwi hangarau te Māori mai i
-te rā
 
 *— ai_singularity_te_reo*
 
@@ -117,6 +114,7 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 | [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
 | [Data-Oriented Design](dod) | [Te Whariki Pumotu](te-whariki-pumotu), [Simplicity of Parts](simplicity-of-parts), [Zero Set](zero-set) |
 | [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
+| [Radiative](radiative) | [Content vs Creative Product](content-vs-creative), [Data-Oriented Design](dod), [The Law](the-law) |
 
 ---
 

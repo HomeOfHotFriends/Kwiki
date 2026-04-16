@@ -1,7 +1,15 @@
 {
-  "create new terms, concepts, ways of thinking, and ways of doing": "Create new terms, concepts, ways of thinking, and ways of doing",
-  "create new terms, concepts, ways of thinking, and ways of doing.": "Create new terms, concepts, ways of thinking, and ways of doing.",
-  "create new terms
-, concepts, ways of thinking, and ways of doing.": "Create new terms, concepts, ways of thinking, and ways of doing.",
-  "create new terms, concepts, ways of thinking, and ways of doing": "Create
+  "page": "The-Marae",
+  "intent": "Create new terms, concepts, ways of thinking, and ways of doing.",
+  "tone": "body",
+  "extra_concepts": [
+    "whakapapa",
+    "mauri",
+    "taonga",
+    "te_whariki_pumotu",
+    "ira_kotahi",
+    "radiative"
+  ],
+  "voice_notes": "",
+  "new_passage": "Create new terms, concepts, ways of thinking, and ways of doing."
 }
