@@ -28,6 +28,7 @@ Old work here is **whakapapa, not gospel**. It is the root system, not the tree.
 | [Shmup Genealogy](Shmup-Genealogy) | DonPachi → DDP → EspRaDe → j. |
 | [Design Rules](Design-Rules) | The rules Karl follows. Not mechanics — design rules. |
 | [Scripts](Scripts) | How to use the generation scripts to grow new pages. |
+| [User Profile](User-Profile.md) | Whakapapa of the creator — intellectual, musical, philosophical lineage. |
 | [Rhizhome](Rhizhome) | The master lens: simulating a utopian alien internet. |
 | [Plantlings](Plantlings) | The people of Rhizhome — entities that grow sideways. |
 

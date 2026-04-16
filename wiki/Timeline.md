@@ -8,6 +8,7 @@ Sorted by **last git commit date** (most recent first).
 
 | Page | Last Updated | Type |
 |---|---|---|
+| [User Profile](User-Profile.md) | 2026-04-16 | content |
 | [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 2026-04-16 | content |
 | [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md) | 2026-04-16 | cross-synthesis |
 | [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md) | 2026-04-16 | cross-synthesis |

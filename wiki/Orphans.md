@@ -7,6 +7,8 @@
 Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
-*No orphans — every page is reachable. 🎉*
+**1 orphan(s):**
+
+- [User Profile](User-Profile.md)
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.
