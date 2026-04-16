@@ -193,6 +193,7 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [The Law](The-Law.md)
 
 ### Inbound Connections
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - [Inward Dod](Inward-Dod.md)
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - [Inward Mauri](Inward-Mauri.md)
@@ -200,7 +201,6 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [Inward Taonga](Inward-Taonga.md)
 - [Inward Whakapapa](Inward-Whakapapa.md)
 - [Inward Zero Set](Inward-Zero-Set.md)
-- [Zero Set](Zero-Set.md)
 
 ### Lateral Bridges
 #### [Inward Mauri](Inward-Mauri.md)
@@ -212,6 +212,9 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 #### [Zero Set](Zero-Set.md)
 - Connection strength: 30
 - Shared motifs: bridges, connections, data, design, direct
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, direct
 #### [Inward Dod](Inward-Dod.md)
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, direct
@@ -221,12 +224,9 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 #### [Inward Zero Set](Inward-Zero-Set.md)
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, direct
-#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 28
-- Shared motifs: bridges, code, connections, data, design
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 27
-- Shared motifs: bridges, code, connections, data, design
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

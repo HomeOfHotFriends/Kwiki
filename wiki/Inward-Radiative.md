@@ -164,34 +164,36 @@ My ADHD could no longer handle any other game experience.
 - [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
 - [Inward Catch22](Inward-Catch22.md)
 - [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- [Inward Flow State](Inward-Flow-State.md)
-- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
-- [Radiative](Radiative.md)
+- [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
+- [Inward Enemy Wave](Inward-Enemy-Wave.md)
+- [Inward Esprade](Inward-Esprade.md)
 
 ### Lateral Bridges
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 35
+- Connection strength: 38
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 34
+- Connection strength: 37
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
-- Connection strength: 30
+- Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 29
+- Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Dod](Inward-Dod.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 27
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, catch22, connections
 
 ### Recursive Prompt

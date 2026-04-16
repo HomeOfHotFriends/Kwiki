@@ -33,14 +33,8 @@
 - [Frog In A Pot](Frog-In-A-Pot.md)
 
 ### Lateral Bridges
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 33
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 33
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 30
+#### [Catch 22](Catch-22.md)
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - Connection strength: 29
@@ -48,14 +42,20 @@
 #### [Content vs Creative](Content-vs-Creative.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Catch 22](Catch-22.md)
-- Connection strength: 28
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 25
+- Connection strength: 24
 - Shared motifs: bridges, connections, design, direct, fiap
 
 ### Recursive Prompt

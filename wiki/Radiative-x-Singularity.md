@@ -64,35 +64,37 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 
 ### Inbound Connections
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - [The-Law × Singularity](The-Law-x-Singularity.md)
 - [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, connections, design, direct
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, design
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - Connection strength: 30
-- Shared motifs: anti, bridges, connections, direct, divergence
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Shared motifs: anti, bridges, code, connections, design
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, connections, design, direct
+- Shared motifs: anti, bridges, code, connections, design
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 27
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, direct
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, direct
+- Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

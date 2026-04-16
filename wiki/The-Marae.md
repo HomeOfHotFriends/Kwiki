@@ -139,33 +139,35 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 - [Tokotoko](Tokotoko.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Indigenous Proposal](Indigenous-Proposal.md)
+- [Taonga](Taonga.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
 
 ### Lateral Bridges
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 26
+- Shared motifs: bridges, code, connections, direct, hub
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Taonga](Taonga.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
 - Connection strength: 23
 - Shared motifs: bridges, code, connections, direct, hub
 #### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 23
 - Shared motifs: bridges, code, connections, direct, hub
-#### [Taonga](Taonga.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 23
-- Shared motifs: bridges, code, connections, direct, hub
-#### [Indigenous Proposal](Indigenous-Proposal.md)
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
 - Connection strength: 22
-- Shared motifs: bridges, connections, direct, hub, inbound
+- Shared motifs: bridges, code, connections, direct, hub
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 21
-- Shared motifs: bridges, code, connections, direct, hub
-#### [The Law](The-Law.md)
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
 - Connection strength: 21
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 21
-- Shared motifs: bridges, code, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -165,28 +165,28 @@ was on level one in combination with the tiny
 
 ### Lateral Bridges
 #### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Radiative](Inward-Radiative.md)
 - Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Shitting Machine](Inward-Shitting-Machine.md)
 - Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 35
+#### [Inward Flow State](Inward-Flow-State.md)
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 35
+#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Rhizome](Inward-Rhizome.md)
 - Connection strength: 33
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 30
 - Shared motifs: anti, bridges, catch, catch22, connections
 
 ### Recursive Prompt

@@ -135,32 +135,31 @@ hangarau, ka pūruatia te mana o te kupu.
 
 ### Lateral Bridges
 #### [Rhizhome](Rhizhome.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, oopedipus, plantlings, rhizhome
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 7
-- Shared motifs: anti, connections, oopedipus, rhizome, whakapapa
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Rhizome](Rhizome.md)
-- Connection strength: 7
-- Shared motifs: anti, connections, oopedipus, rhizome, whakapapa
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 6
-- Shared motifs: anti, connections, oopedipus, rhizome
-#### [DOD](DOD.md)
-- Connection strength: 6
-- Shared motifs: anti, connections, oopedipus, whakapapa
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Mauri](Mauri.md)
-- Connection strength: 6
-- Shared motifs: anti, connections, oopedipus, whakapapa
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 6
-- Shared motifs: anti, connections, oopedipus, rhizome
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 6
-- Shared motifs: anti, connections, oopedipus, whakapapa
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

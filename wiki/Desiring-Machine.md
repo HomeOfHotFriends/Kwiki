@@ -103,30 +103,30 @@ Not a single part of me had to force myself to focus.
 - [Flow State](Flow-State.md)
 
 ### Lateral Bridges
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, design
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, design
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, code, connections, design
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 27
+- Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, design
 #### [Machines × Whakapapa](Machines-x-Whakapapa.md)
-- Connection strength: 26
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, desiring
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 28
+- Shared motifs: bridges, code, connections, design, desiring
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 26
+- Connection strength: 28
 - Shared motifs: anti, bridges, code, connections, design
-#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, code, connections, design
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

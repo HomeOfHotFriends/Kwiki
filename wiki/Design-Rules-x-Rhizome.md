@@ -33,30 +33,30 @@
 - [Fiap pot](FIAP POT.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, code, connections, design
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 29
-- Shared motifs: bridges, code, connections, design, direct
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 29
-- Shared motifs: bridges, code, connections, design, direct
 #### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
-#### [Determinism](Determinism.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
+- Shared motifs: bridges, code, connections, design, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, design, desiring
 #### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
+- Connection strength: 25
+- Shared motifs: bridges, code, connections, design, direct
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: bridges, code, connections, design, desiring
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, design, determinism
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, design, direct
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
+- Connection strength: 24
+- Shared motifs: bridges, code, connections, design, direct
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, design, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

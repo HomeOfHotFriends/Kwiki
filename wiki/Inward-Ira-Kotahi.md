@@ -172,12 +172,18 @@ any guides or looked at any code**
 ### Inbound Connections
 - [Inward Mauri](Inward-Mauri.md)
 - [Inward Singularity](Inward-Singularity.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
 - [Inward Tokotoko](Inward-Tokotoko.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
 - [Singularity](Singularity.md)
 - [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
 #### [Inward Singularity](Inward-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Whakapapa](Inward-Whakapapa.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Mauri](Inward-Mauri.md)
@@ -186,14 +192,11 @@ any guides or looked at any code**
 #### [Inward Tokotoko](Inward-Tokotoko.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, connections, direct, hub
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Taonga](Inward-Taonga.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
 - Connection strength: 23

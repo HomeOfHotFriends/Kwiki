@@ -34,35 +34,38 @@
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 
 ### Inbound Connections
+- [Desiring Machine](Desiring-Machine.md)
 - [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Oedipal Machine](Oedipal-Machine.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
 - [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- [Shitting Machine](Shitting-Machine.md)
 
 ### Lateral Bridges
-#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, design
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, code, connections, design
-#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, design
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, design
+- Connection strength: 27
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
 - Connection strength: 25
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, design
+- Shared motifs: anti, bridges, connections, direct, flow
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: bridges, code, connections, direct, flow
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 23
+- Shared motifs: anti, bridges, code, connections, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

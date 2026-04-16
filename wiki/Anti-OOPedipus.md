@@ -131,30 +131,30 @@ reactions.
 - [DOD](DOD.md)
 
 ### Lateral Bridges
-#### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, connections, data, design
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, connections, data, design
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, data, design
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 27
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+- Connection strength: 25
 - Shared motifs: anti, bridges, connections, data, design
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 26
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, data, design
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 25
 - Shared motifs: anti, bridges, connections, data, design
 #### [Zero Set](Zero-Set.md)
-- Connection strength: 26
+- Connection strength: 25
 - Shared motifs: anti, bridges, connections, data, design
 #### [DOD](DOD.md)
-- Connection strength: 25
+- Connection strength: 24
 - Shared motifs: anti, bridges, connections, data, design
-#### [Rhizome](Rhizome.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

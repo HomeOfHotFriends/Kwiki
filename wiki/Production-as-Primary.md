@@ -131,32 +131,34 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 - [Fiap pot](FIAP POT.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Oedipal Machine](Oedipal-Machine.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- [Shitting Machine](Shitting-Machine.md)
 
 ### Lateral Bridges
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 28
-- Shared motifs: bridges, catch, connections, content, creative
 #### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 26
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, connections, design
-#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, desiring
+#### [Catch 22](Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, content
+#### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, connections, design, desiring
-#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, content, creative
-#### [Catch 22](Catch-22.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, catch, connections, content
-#### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 24
-- Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 24
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Flow State](Flow-State.md)
+- Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

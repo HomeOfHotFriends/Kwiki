@@ -218,7 +218,7 @@ extreme simplicity of the parts.**
 - Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward The Law](Inward-The-Law.md)
-- Connection strength: 31
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
 - Connection strength: 29

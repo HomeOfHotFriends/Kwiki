@@ -118,11 +118,11 @@ or level off to flat.
 - [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- [Inward Rhizome](Inward-Rhizome.md)
 - [Machines](Machines.md)
 - [Machines × The-Law](Machines-x-The-Law.md)
 - [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- [Rhizome](Rhizome.md)
+- [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
@@ -134,19 +134,19 @@ or level off to flat.
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, data
-#### [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
-- Connection strength: 28
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, code, connections
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 28
 - Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 28
 - Shared motifs: anti, bridges, catch, code, connections
 

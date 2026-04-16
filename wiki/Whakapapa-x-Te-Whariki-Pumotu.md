@@ -24,14 +24,15 @@
 
 ### Inbound Connections
 - [Machines](Machines.md)
-- [Machines × The-Law](Machines-x-The-Law.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
+- [The-Law × Singularity](The-Law-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 25
+#### [Radiative × Singularity](Radiative-x-Singularity.md)
+- Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, direct
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 24
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, direct
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 23
@@ -39,15 +40,15 @@
 #### [Rhizome](Rhizome.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, code, connections, direct
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 23
 - Shared motifs: anti, bridges, code, connections, direct
-#### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
+#### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 22
-- Shared motifs: anti, bridges, connections, direct, hub
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Mauri](Mauri.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 22
 - Shared motifs: anti, bridges, code, connections, direct

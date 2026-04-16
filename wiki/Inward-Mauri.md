@@ -182,19 +182,20 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 
 ### Inbound Connections
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- [Inward Rhizome](Inward-Rhizome.md)
 - [Inward Singularity](Inward-Singularity.md)
 - [Inward Taonga](Inward-Taonga.md)
 - [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Inward Tokotoko](Inward-Tokotoko.md)
 - [Inward Whakapapa](Inward-Whakapapa.md)
 - [Singularity](Singularity.md)
-- [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
 - Connection strength: 31
 - Shared motifs: bridges, connections, data, design, direct
 #### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 30
+- Connection strength: 31
 - Shared motifs: bridges, connections, data, design, direct
 #### [Inward Taonga](Inward-Taonga.md)
 - Connection strength: 29
@@ -206,14 +207,14 @@ tētahi momo wairua e kīia nei ko te "respectfully fucking beserk."**
 - Connection strength: 28
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Inward Tokotoko](Inward-Tokotoko.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, data, design, direct
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 24
+- Connection strength: 28
 - Shared motifs: bridges, connections, data, design, direct
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, data, design, direct
+#### [The Law](The-Law.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

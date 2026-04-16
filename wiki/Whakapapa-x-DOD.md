@@ -56,30 +56,30 @@ whakapapa mai i ēnei taputapu.
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, code, connections, data
+- Connection strength: 26
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, code, connections, data
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 24
+- Shared motifs: anti, bridges, catch, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

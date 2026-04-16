@@ -131,28 +131,28 @@ te rā
 - [Inward Taonga](Inward-Taonga.md)
 
 ### Lateral Bridges
+#### [The Law](The-Law.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Taonga](Taonga.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [The Law](The-Law.md)
-- Connection strength: 23
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 22
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Mauri](Inward-Mauri.md)
 - Connection strength: 22
 - Shared motifs: bridges, connections, direct, hub, inbound
 

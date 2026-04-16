@@ -103,27 +103,27 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 ### Lateral Bridges
 #### [Indigenous Proposal](Indigenous-Proposal.md)
 - Connection strength: 26
-- Shared motifs: bridges, connections, direct, genealogy, hub
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, direct, hub
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Ira Kotahi](Ira-Kotahi.md)
 - Connection strength: 25
-- Shared motifs: bridges, connections, direct, genealogy, hub
-#### [Mauri](Mauri.md)
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Singularity](Singularity.md)
 - Connection strength: 25
-- Shared motifs: anti, bridges, connections, determinism, direct
+- Shared motifs: bridges, connections, direct, hub, inbound
 #### [The Law](The-Law.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [The Marae](The-Marae.md)
-- Connection strength: 24
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Tokotoko](Tokotoko.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Mauri](Mauri.md)
+- Connection strength: 22
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

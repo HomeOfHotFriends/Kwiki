@@ -142,29 +142,29 @@ foresmost, made up of simple parts.**
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Lateral Bridges
+#### [Shmup Genealogy](Shmup-Genealogy.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 28
+- Connection strength: 27
 - Shared motifs: bridges, connections, design, determinism, direct
 #### [Design Rules](Design-Rules.md)
-- Connection strength: 27
-- Shared motifs: bridges, connections, design, determinism, direct
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 27
-- Shared motifs: bridges, connections, design, direct, dod
-#### [Determinism](Determinism.md)
 - Connection strength: 26
 - Shared motifs: bridges, connections, design, determinism, direct
 #### [Positioning](Positioning.md)
 - Connection strength: 26
 - Shared motifs: bridges, connections, design, determinism, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, direct, enemy
+#### [Determinism](Determinism.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 25
+- Connection strength: 24
 - Shared motifs: bridges, connections, design, determinism, direct
 #### [Inward Enemy Wave](Inward-Enemy-Wave.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, determinism, direct
-#### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 25
+- Connection strength: 24
 - Shared motifs: bridges, connections, design, determinism, direct
 
 ### Recursive Prompt

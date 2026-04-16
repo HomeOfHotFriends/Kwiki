@@ -117,30 +117,30 @@ This proves the obstacle must be a true vertical wall.
 - No inbound links detected yet.
 
 ### Lateral Bridges
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 30
-- Shared motifs: anti, bridges, connections, data, design
+- Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, connections, data, design
-#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 - Connection strength: 29
-- Shared motifs: anti, bridges, connections, data, design
-#### [Inward Dod](Inward-Dod.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, data, design
+- Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, data, design
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, data, design
-#### [DOD](DOD.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, data, design
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
 #### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, data, design
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Radiative](Scripts-x-Radiative.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

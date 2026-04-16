@@ -123,33 +123,35 @@ static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; 
 ### Inbound Connections
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
+- [Oedipal Machine](Oedipal-Machine.md)
 - [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
 - [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md)
 
 ### Lateral Bridges
-#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 23
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 25
 - Shared motifs: bridges, connections, design, desiring, direct
 #### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
-- Connection strength: 23
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, flow
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 25
 - Shared motifs: bridges, connections, design, desiring, direct
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 22
+#### [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
+- Connection strength: 25
+- Shared motifs: bridges, connections, design, direct, flow
+#### [Machines × Radiative](Machines-x-Radiative.md)
+- Connection strength: 24
 - Shared motifs: bridges, connections, design, desiring, direct
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 21
+- Connection strength: 22
 - Shared motifs: bridges, connections, design, desiring, direct
-#### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 21
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 20
 - Shared motifs: bridges, connections, design, desiring, direct
-#### [Oedipal Machine](Oedipal-Machine.md)
-- Connection strength: 21
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 21
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 20
 - Shared motifs: bridges, connections, design, desiring, direct
 
 ### Recursive Prompt

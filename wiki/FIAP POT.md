@@ -25,13 +25,10 @@
 
 ### Lateral Bridges
 #### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 36
-- Shared motifs: bridges, catch, code, connections, content
-#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 33
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Catch 22](Catch-22.md)
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - Connection strength: 29
@@ -39,14 +36,17 @@
 #### [Content vs Creative](Content-vs-Creative.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 29
-- Shared motifs: bridges, code, connections, design, direct
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Catch 22](Catch-22.md)
-- Connection strength: 28
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Production as Primary](Production-as-Primary.md)
+- Connection strength: 26
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

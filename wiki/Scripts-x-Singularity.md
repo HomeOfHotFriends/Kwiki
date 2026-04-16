@@ -122,38 +122,38 @@ slightly illegal upper echelons of tempo.**
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Inbound Connections
-- [Indigenous Proposal](Indigenous-Proposal.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- [Mauri](Mauri.md)
 - [Radiative × Singularity](Radiative-x-Singularity.md)
 - [Scripts × Radiative](Scripts-x-Radiative.md)
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 - [Singularity × Genealogy-of-j](Singularity-x-Genealogy-of-j.md)
 - [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, code, connections, design
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+#### [Radiative × Singularity](Radiative-x-Singularity.md)
 - Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, design
+#### [Scripts × Radiative](Scripts-x-Radiative.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 33
+- Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, connections, design, direct
-#### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, direct
 #### [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
 - Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, data
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 

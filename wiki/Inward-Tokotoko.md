@@ -179,12 +179,17 @@ was on level one in combination with the tiny
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - [Inward Mauri](Inward-Mauri.md)
 - [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Shitting Machine](Inward-Shitting-Machine.md)
 - [Inward Singularity](Inward-Singularity.md)
 - [Inward Whakapapa](Inward-Whakapapa.md)
+- [Whakapapa](Whakapapa.md)
 
 ### Lateral Bridges
 #### [Inward Rhizome](Inward-Rhizome.md)
 - Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 32
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Whakapapa](Inward-Whakapapa.md)
 - Connection strength: 32
@@ -201,12 +206,9 @@ was on level one in combination with the tiny
 #### [Inward Desiring Machine](Inward-Desiring-Machine.md)
 - Connection strength: 28
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+#### [Inward Mauri](Inward-Mauri.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, direct, hub
+- Shared motifs: bridges, connections, data, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

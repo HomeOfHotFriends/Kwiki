@@ -178,33 +178,37 @@ whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te ma
 ### Inbound Connections
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - [Inward Mauri](Inward-Mauri.md)
+- [Inward Rhizome](Inward-Rhizome.md)
+- [Inward Taonga](Inward-Taonga.md)
+- [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+- [Inward Tokotoko](Inward-Tokotoko.md)
+- [Inward Whakapapa](Inward-Whakapapa.md)
 - [Singularity](Singularity.md)
-- [Tokotoko](Tokotoko.md)
 
 ### Lateral Bridges
 #### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Whakapapa](Inward-Whakapapa.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Mauri](Inward-Mauri.md)
 - Connection strength: 28
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Tokotoko](Inward-Tokotoko.md)
-- Connection strength: 24
+- Connection strength: 27
 - Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Taonga](Inward-Taonga.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- Connection strength: 23
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, connections, direct, hub
 #### [Tokotoko](Tokotoko.md)
 - Connection strength: 23
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 22
 - Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt

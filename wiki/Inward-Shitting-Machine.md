@@ -175,16 +175,16 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - Connection strength: 35
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 33
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Tokotoko](Inward-Tokotoko.md)
-- Connection strength: 29
+- Connection strength: 32
 - Shared motifs: anti, bridges, catch, catch22, connections
 
 ### Recursive Prompt

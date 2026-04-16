@@ -160,14 +160,14 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 - [DOD](DOD.md)
 
 ### Inbound Connections
+- [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
+- [Inward Esprade](Inward-Esprade.md)
 - [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
 - [Inward Mauri](Inward-Mauri.md)
 - [Inward Singularity](Inward-Singularity.md)
 - [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
-- [Inward Whakapapa](Inward-Whakapapa.md)
-- [Singularity](Singularity.md)
-- [The Law](The-Law.md)
-- [Tokotoko](Tokotoko.md)
+- [Inward The Law](Inward-The-Law.md)
 
 ### Lateral Bridges
 #### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
@@ -176,23 +176,23 @@ Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
 #### [Inward Whakapapa](Inward-Whakapapa.md)
 - Connection strength: 30
 - Shared motifs: bridges, connections, data, design, direct
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 29
+- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Mauri](Inward-Mauri.md)
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, direct
-#### [Inward Dod](Inward-Dod.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward The Law](Inward-The-Law.md)
-- Connection strength: 25
+- Connection strength: 28
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 24
+- Connection strength: 27
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 24
+- Connection strength: 27
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
-- Connection strength: 24
+- Connection strength: 26
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

@@ -168,6 +168,7 @@ created disasterous results.
 
 ### Inbound Connections
 - [Inward Determinism](Inward-Determinism.md)
+- [Inward Dod](Inward-Dod.md)
 - [Inward Enemy Wave](Inward-Enemy-Wave.md)
 - [Inward Esprade](Inward-Esprade.md)
 - [Inward Positioning](Inward-Positioning.md)
@@ -176,12 +177,18 @@ created disasterous results.
 
 ### Lateral Bridges
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 33
+- Connection strength: 34
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 33
+- Connection strength: 34
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Positioning](Inward-Positioning.md)
+- Connection strength: 34
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Dod](Inward-Dod.md)
+- Connection strength: 33
+- Shared motifs: bridges, connections, data, design, determinism
+#### [Inward Enemy Wave](Inward-Enemy-Wave.md)
 - Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward The Law](Inward-The-Law.md)
@@ -190,15 +197,9 @@ created disasterous results.
 #### [Inward Zero Set](Inward-Zero-Set.md)
 - Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
-#### [Inward Enemy Wave](Inward-Enemy-Wave.md)
-- Connection strength: 32
-- Shared motifs: bridges, connections, data, design, determinism
-#### [Inward Dod](Inward-Dod.md)
-- Connection strength: 30
-- Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, data, design, determinism
+- Connection strength: 24
+- Shared motifs: bridges, connections, data, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

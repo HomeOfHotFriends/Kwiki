@@ -92,33 +92,37 @@ whakapapa mai i ēnei taputapu.
 - [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Scripts × Singularity](Scripts-x-Singularity.md)
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- [The-Law × Singularity](The-Law-x-Singularity.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 32
+- Shared motifs: bridges, code, connections, design, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 32
+- Shared motifs: bridges, code, connections, design, direct
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, code, connections, design, direct
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 27
-- Shared motifs: bridges, code, connections, direct, divergence
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 26
+- Connection strength: 29
 - Shared motifs: bridges, code, connections, direct, divergence
 #### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: bridges, code, connections, direct, divergence
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 26
-- Shared motifs: bridges, code, connections, direct, divergence
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 26
-- Shared motifs: bridges, code, connections, direct, divergence
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 24
-- Shared motifs: bridges, code, connections, direct, divergence
+- Connection strength: 28
+- Shared motifs: bridges, code, connections, design, direct
 #### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 23
+- Connection strength: 27
+- Shared motifs: bridges, code, connections, design, direct
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 27
 - Shared motifs: bridges, code, connections, direct, divergence
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 22
-- Shared motifs: bridges, code, connections, direct, divergence
+- Connection strength: 25
+- Shared motifs: bridges, code, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

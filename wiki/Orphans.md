@@ -7,10 +7,6 @@
 Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
-**3 orphan(s):**
-
-- [Scripts](Scripts.md)
-- [Te Reo and Code](Te-Reo-and-Code.md)
-- [The Marae](The-Marae.md)
+*No orphans — every page is reachable. 🎉*
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.

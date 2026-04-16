@@ -105,32 +105,38 @@ What is Philosophy, among others).**
 - [Machines × Radiative](Machines-x-Radiative.md)
 
 ### Inbound Connections
+- [Desiring Machine](Desiring-Machine.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
+- [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [The-Marae × Production-as-Primary](The-Marae-x-Production-as-Primary.md)
 - [Whakapapa](Whakapapa.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Lateral Bridges
-#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
-- Connection strength: 27
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, desiring
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 26
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 26
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, code, connections
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 26
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 29
 - Shared motifs: anti, bridges, code, connections, desiring
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 26
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 29
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 25
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [The-Marae × Production-as-Primary](The-Marae-x-Production-as-Primary.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, desiring
 
 ### Recursive Prompt

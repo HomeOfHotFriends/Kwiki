@@ -58,27 +58,27 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 29
+- Connection strength: 28
 - Shared motifs: anti, bridges, code, connections, desiring
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, direct
-#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, desiring
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, desiring
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Machines × Radiative](Machines-x-Radiative.md)
 - Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, desiring
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, desiring
 #### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [Desiring Machine](Desiring-Machine.md)
 - Connection strength: 24
 - Shared motifs: anti, bridges, code, connections, desiring
 

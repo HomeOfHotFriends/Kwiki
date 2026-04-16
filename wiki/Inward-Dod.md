@@ -207,14 +207,14 @@ Tō kaupapa tonu Formal (Ōkawa) Te mutunga o te "mate-ki-te-AI." Mauri Tūmotu 
 - Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
-- Connection strength: 31
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward The Law](Inward-The-Law.md)
-- Connection strength: 31
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
-#### [Inward Te Whariki Pumotu](Inward-Te-Whariki-Pumotu.md)
+#### [Inward Taonga](Inward-Taonga.md)
 - Connection strength: 29
-- Shared motifs: bridges, connections, data, design, direct
+- Shared motifs: bridges, connections, data, design, determinism
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

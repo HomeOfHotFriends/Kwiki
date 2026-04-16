@@ -131,38 +131,38 @@ extreme simplicity of the parts.**
 
 ### Inbound Connections
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Determinism](Determinism.md)
 - [DOD](DOD.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [Enemy Wave](Enemy-Wave.md)
+- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - [Mauri](Mauri.md)
-- [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md)
-- [Positioning](Positioning.md)
-- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 
 ### Lateral Bridges
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, connections, data, design
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 30
+- Connection strength: 31
 - Shared motifs: anti, bridges, connections, data, design
 #### [Positioning](Positioning.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, connections, data, design
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, connections, design, direct
 #### [Determinism](Determinism.md)
 - Connection strength: 28
 - Shared motifs: anti, bridges, connections, data, design
-#### [DOD](DOD.md)
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 28
 - Shared motifs: anti, bridges, connections, data, design
-#### [Enemy Wave](Enemy-Wave.md)
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, connections, design, direct
+#### [DOD](DOD.md)
 - Connection strength: 27
+- Shared motifs: anti, bridges, connections, data, design
+#### [Enemy Wave](Enemy-Wave.md)
+- Connection strength: 26
 - Shared motifs: bridges, connections, design, determinism, direct
 #### [Zero Set](Zero-Set.md)
-- Connection strength: 27
+- Connection strength: 26
 - Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt

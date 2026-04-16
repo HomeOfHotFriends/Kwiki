@@ -137,32 +137,31 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 ### Lateral Bridges
 #### [Plantlings](Plantlings.md)
-- Connection strength: 12
-- Shared motifs: anti, connections, oopedipus, plantlings, rhizhome
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 9
-- Shared motifs: anti, connections, desiring, machine, oopedipus
-#### [Rhizome](Rhizome.md)
-- Connection strength: 9
-- Shared motifs: anti, connections, desiring, machine, oopedipus
+- Connection strength: 23
+- Shared motifs: anti, bridges, connections, desiring, direct
 #### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 8
-- Shared motifs: anti, connections, desiring, machine, oopedipus
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 8
-- Shared motifs: anti, connections, desiring, machine, oopedipus
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 8
-- Shared motifs: anti, connections, desiring, machine, oopedipus
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 7
-- Shared motifs: anti, connections, desiring, machine, oopedipus
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 7
-- Shared motifs: anti, connections, desiring, machine, oopedipus
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Anti OOPedipus](Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Inward Tokotoko](Inward-Tokotoko.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, design, desiring
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 17
+- Shared motifs: bridges, connections, design, desiring, direct
+#### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
+- Connection strength: 17
+- Shared motifs: anti, bridges, connections, design, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

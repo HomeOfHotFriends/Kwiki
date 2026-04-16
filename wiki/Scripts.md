@@ -102,33 +102,33 @@ hangarau, ka pūruatia te mana o te kupu.
 - [Ira Kotahi](Ira-Kotahi.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 
 ### Lateral Bridges
 #### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
-- Connection strength: 26
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD](DOD.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Radiative](Scripts-x-Radiative.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, data
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 26
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
+- Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, data
-#### [Scripts × Radiative](Scripts-x-Radiative.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, data
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, data
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

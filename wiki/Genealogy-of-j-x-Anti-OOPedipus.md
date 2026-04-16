@@ -118,35 +118,35 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Determinism](Determinism.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Catch-22](DOD-x-Catch-22.md)
-- [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
 - [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - [Positioning](Positioning.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
 
 ### Lateral Bridges
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 34
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 33
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, data
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 - Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Shmup-Genealogy](Te-Reo-and-Code-x-Shmup-Genealogy.md)
 - Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, data
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+#### [The-Law × Anti-OOPedipus](The-Law-x-Anti-OOPedipus.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

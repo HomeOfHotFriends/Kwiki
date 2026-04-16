@@ -118,29 +118,29 @@ te rā
 
 ### Lateral Bridges
 #### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Singularity](Singularity.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Taonga](Taonga.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [The Law](The-Law.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 23
+- Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - Connection strength: 22
 - Shared motifs: bridges, connections, direct, enemy, hub
+#### [Mauri](Mauri.md)
+- Connection strength: 21
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

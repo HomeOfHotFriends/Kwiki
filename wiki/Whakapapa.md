@@ -128,30 +128,30 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
 
 ### Lateral Bridges
-#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, catch, connections, direct
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, catch, connections, direct
 #### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, catch, connections, direct
-#### [Tokotoko](Tokotoko.md)
-- Connection strength: 23
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [Inward Tokotoko](Inward-Tokotoko.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, catch, connections, desiring
-#### [Mauri](Mauri.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, direct, hub
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, connections, direct, hub
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Machines × Whakapapa](Machines-x-Whakapapa.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Mauri](Mauri.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, catch, code, connections
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

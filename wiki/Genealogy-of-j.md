@@ -119,10 +119,10 @@ foresmost, made up of simple parts.**
 - [Mauri](Mauri.md)
 
 ### Inbound Connections
-- [Determinism](Determinism.md)
 - [Fiap pot](FIAP POT.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Positioning](Positioning.md)
+- [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
 - [Taonga](Taonga.md)
 - [Tokotoko](Tokotoko.md)
 
@@ -130,27 +130,27 @@ foresmost, made up of simple parts.**
 #### [Positioning](Positioning.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, determinism, direct, enemy
-#### [Determinism](Determinism.md)
+#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, enemy, esp
+#### [Shmup Genealogy](Shmup-Genealogy.md)
 - Connection strength: 23
-- Shared motifs: bridges, connections, determinism, direct, esp
+- Shared motifs: bridges, connections, determinism, direct, enemy
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 23
+- Shared motifs: bridges, connections, direct, enemy, esp
 #### [Enemy Wave](Enemy-Wave.md)
 - Connection strength: 22
 - Shared motifs: bridges, connections, determinism, direct, enemy
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 22
 - Shared motifs: bridges, connections, determinism, direct, enemy
-#### [Taonga](Taonga.md)
-- Connection strength: 22
-- Shared motifs: bridges, connections, determinism, direct, genealogy
-#### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 21
+#### [Design Rules](Design-Rules.md)
+- Connection strength: 19
 - Shared motifs: bridges, connections, determinism, direct, enemy
-#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
-- Connection strength: 21
-- Shared motifs: bridges, connections, direct, enemy, esp
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 21
-- Shared motifs: bridges, connections, direct, enemy, esp
+#### [Determinism](Determinism.md)
+- Connection strength: 19
+- Shared motifs: bridges, connections, determinism, direct, esp
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

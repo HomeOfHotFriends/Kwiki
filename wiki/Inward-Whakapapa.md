@@ -178,12 +178,18 @@ was on level one in combination with the tiny
 #### [Inward Tokotoko](Inward-Tokotoko.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, connections, data, design
-#### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, connections, data, design
 #### [Inward Mauri](Inward-Mauri.md)
-- Connection strength: 30
+- Connection strength: 31
 - Shared motifs: bridges, connections, data, design, direct
+#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Inward Rhizome](Inward-Rhizome.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, data, design
+#### [Inward Singularity](Inward-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, connections, direct, hub
 #### [Inward Taonga](Inward-Taonga.md)
 - Connection strength: 30
 - Shared motifs: bridges, connections, data, design, direct
@@ -191,14 +197,8 @@ was on level one in combination with the tiny
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, direct
 #### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 28
+- Connection strength: 25
 - Shared motifs: anti, bridges, connections, data, design
-#### [Inward Ira Kotahi](Inward-Ira-Kotahi.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, direct, hub
-#### [Inward Singularity](Inward-Singularity.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, connections, direct, hub
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

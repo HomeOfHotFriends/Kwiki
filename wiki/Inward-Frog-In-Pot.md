@@ -164,32 +164,33 @@ response bepositioning games are designed to be essentially completely determini
 - [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
 - [Inward Desiring Machine](Inward-Desiring-Machine.md)
 - [Inward Flow State](Inward-Flow-State.md)
+- [Inward Radiative](Inward-Radiative.md)
 - [Inward Shitting Machine](Inward-Shitting-Machine.md)
 
 ### Lateral Bridges
 #### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 35
+- Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 34
+- Connection strength: 35
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 33
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 33
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
-- Connection strength: 32
+- Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 29
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Rhizome](Inward-Rhizome.md)
-- Connection strength: 25
+- Connection strength: 27
 - Shared motifs: anti, bridges, catch, catch22, connections
 
 ### Recursive Prompt

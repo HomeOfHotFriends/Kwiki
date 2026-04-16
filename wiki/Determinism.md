@@ -106,7 +106,7 @@ extreme simplicity of the parts.**
 ### Inbound Connections
 - [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- [DOD](DOD.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 - [Enemy Wave](Enemy-Wave.md)
@@ -114,29 +114,29 @@ extreme simplicity of the parts.**
 - [Frog In A Pot](Frog-In-A-Pot.md)
 
 ### Lateral Bridges
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Positioning](Positioning.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, connections, data, design
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design Rules](Design-Rules.md)
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 29
 - Shared motifs: anti, bridges, connections, data, design
-#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+#### [Design Rules](Design-Rules.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, design
-#### [DOD](DOD.md)
+- Shared motifs: anti, bridges, connections, data, design
+#### [Positioning](Positioning.md)
 - Connection strength: 28
+- Shared motifs: anti, bridges, connections, data, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
-- Connection strength: 28
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, design
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt

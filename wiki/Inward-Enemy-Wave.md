@@ -185,9 +185,9 @@ extreme simplicity of the parts.**
 - [Inward Dod](Inward-Dod.md)
 - [Inward Esprade](Inward-Esprade.md)
 - [Inward Positioning](Inward-Positioning.md)
-- [Inward Radiative](Inward-Radiative.md)
 - [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
 - [Inward The Law](Inward-The-Law.md)
+- [Inward Zero Set](Inward-Zero-Set.md)
 
 ### Lateral Bridges
 #### [Inward Dod](Inward-Dod.md)
@@ -197,23 +197,23 @@ extreme simplicity of the parts.**
 - Connection strength: 34
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Determinism](Inward-Determinism.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Esprade](Inward-Esprade.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Positioning](Inward-Positioning.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward Simplicity Of Parts](Inward-Simplicity-Of-Parts.md)
-- Connection strength: 32
+- Connection strength: 33
 - Shared motifs: bridges, connections, data, design, determinism
 #### [Inward The Law](Inward-The-Law.md)
 - Connection strength: 32
 - Shared motifs: bridges, connections, data, design, determinism
-#### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, data, design, determinism
+#### [Enemy Wave](Enemy-Wave.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, design, determinism, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

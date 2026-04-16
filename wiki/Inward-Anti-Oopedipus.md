@@ -180,6 +180,9 @@ before.
 - [Inward Shitting Machine](Inward-Shitting-Machine.md)
 
 ### Lateral Bridges
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 38
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Catch22](Inward-Catch22.md)
 - Connection strength: 37
 - Shared motifs: anti, bridges, catch, catch22, connections
@@ -187,21 +190,18 @@ before.
 - Connection strength: 37
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Desiring Machine](Inward-Desiring-Machine.md)
-- Connection strength: 35
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Radiative](Inward-Radiative.md)
-- Connection strength: 35
+- Connection strength: 36
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Shitting Machine](Inward-Shitting-Machine.md)
 - Connection strength: 35
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Rhizome](Inward-Rhizome.md)
+#### [Inward Flow State](Inward-Flow-State.md)
 - Connection strength: 34
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Flow State](Inward-Flow-State.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Frog In Pot](Inward-Frog-In-Pot.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Rhizome](Inward-Rhizome.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
 

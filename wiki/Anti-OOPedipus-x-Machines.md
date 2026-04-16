@@ -95,38 +95,39 @@ or level off to flat.
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [DOD](DOD.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [DOD × Catch-22](DOD-x-Catch-22.md)
 - [Flow State](Flow-State.md)
-- [Rhizome](Rhizome.md)
-- [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- [Whakapapa](Whakapapa.md)
+- [Machines × Radiative](Machines-x-Radiative.md)
 
 ### Lateral Bridges
 #### [Machines × Radiative](Machines-x-Radiative.md)
-- Connection strength: 27
+- Connection strength: 32
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 26
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 26
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
-- Connection strength: 25
+- Connection strength: 30
 - Shared motifs: anti, bridges, catch, code, connections
 #### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 25
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Rhizome](Rhizome.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, desiring
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 26
 - Shared motifs: anti, bridges, catch, code, connections
 #### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 25
+- Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, data
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, design
-#### [Rhizome](Rhizome.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

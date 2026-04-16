@@ -98,33 +98,32 @@ some key 'soft rules' I had achieved a work of astonishing depth.**
 - [Shmup Genealogy](Shmup-Genealogy.md)
 - [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
 - [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
 
 ### Lateral Bridges
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 33
-- Shared motifs: anti, bridges, catch, code, connections
 #### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
 - Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, direct
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 - Connection strength: 33
-- Shared motifs: anti, bridges, code, connections, direct
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, catch, code, connections
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, connections, design
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, catch, code, connections
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Shmup Genealogy](Shmup-Genealogy.md)
 - Connection strength: 28
-- Shared motifs: bridges, catch, code, connections, direct
-#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Shared motifs: bridges, connections, design, direct, enemy
+#### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 27
-- Shared motifs: anti, bridges, catch, code, connections
+- Shared motifs: anti, bridges, catch, connections, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, catch, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

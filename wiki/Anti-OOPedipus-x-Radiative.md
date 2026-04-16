@@ -131,24 +131,24 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Machines × The-Law](Machines-x-The-Law.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 32
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Catch-22](DOD-x-Catch-22.md)
-- Connection strength: 31
+#### [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
+- Connection strength: 30
 - Shared motifs: anti, bridges, catch, code, connections
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
-- Connection strength: 29
-- Shared motifs: anti, bridges, code, connections, data
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, code, connections
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -28,34 +28,34 @@
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design Rules](Design-Rules.md)
 - [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- [Desiring Machine](Desiring-Machine.md)
 - [Fiap pot](FIAP POT.md)
 - [Flow State](Flow-State.md)
+- [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
 
 ### Lateral Bridges
+#### [Catch 22](Catch-22.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 31
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Catch 22](Catch-22.md)
-- Connection strength: 30
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 30
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 30
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
-- Connection strength: 30
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 28
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 28
+- Connection strength: 26
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

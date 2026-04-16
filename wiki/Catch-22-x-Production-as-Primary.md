@@ -103,25 +103,25 @@ He told me where I had improved, and suggested things to focus on next.
 - Connection strength: 32
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch 22](Catch-22.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 31
-- Shared motifs: bridges, catch, connections, content, creative
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 31
+- Connection strength: 30
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 31
+- Connection strength: 30
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, connections, content, creative
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - Connection strength: 29
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Flow State](Flow-State.md)
-- Connection strength: 27
+- Connection strength: 25
 - Shared motifs: bridges, catch, connections, content, creative
 
 ### Recursive Prompt

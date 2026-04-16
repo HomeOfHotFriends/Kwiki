@@ -184,34 +184,34 @@ My ADHD could no longer handle any other game experience.
 - [Inward Catch22](Inward-Catch22.md)
 - [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
 - [Inward Desiring Machine](Inward-Desiring-Machine.md)
+- [Inward Flow State](Inward-Flow-State.md)
+- [Inward Frog In Pot](Inward-Frog-In-Pot.md)
 - [Inward Mauri](Inward-Mauri.md)
-- [Inward Shitting Machine](Inward-Shitting-Machine.md)
-- [Inward Singularity](Inward-Singularity.md)
 
 ### Lateral Bridges
+#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Catch22](Inward-Catch22.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
-- Connection strength: 34
-- Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
-#### [Inward Shitting Machine](Inward-Shitting-Machine.md)
+#### [Inward Catch22](Inward-Catch22.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Content Vs Creative](Inward-Content-Vs-Creative.md)
+- Connection strength: 33
+- Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Desiring Machine](Inward-Desiring-Machine.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Tokotoko](Inward-Tokotoko.md)
 - Connection strength: 33
 - Shared motifs: anti, bridges, catch, catch22, connections
+#### [Inward Radiative](Inward-Radiative.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, catch, catch22, connections
 #### [Inward Whakapapa](Inward-Whakapapa.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, connections, data, design
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 28
+- Connection strength: 30
 - Shared motifs: anti, bridges, connections, data, design
 
 ### Recursive Prompt

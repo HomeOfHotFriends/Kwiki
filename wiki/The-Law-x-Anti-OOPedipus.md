@@ -123,11 +123,17 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Scripts × Singularity](Scripts-x-Singularity.md)
 
 ### Lateral Bridges
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 33
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, code, connections, data
+#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+- Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - Connection strength: 31
@@ -135,19 +141,13 @@ ZeroSet { /// +0 — positive suppression Positive, /// -0 — negative suppress
 #### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
 - Connection strength: 31
 - Shared motifs: anti, bridges, code, connections, data
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 31
-- Shared motifs: anti, bridges, code, connections, data
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, code, connections, data
-#### [Scripts × Singularity](Scripts-x-Singularity.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 30
 - Shared motifs: anti, bridges, code, connections, data
-#### [Design-Rules × Scripts](Design-Rules-x-Scripts.md)
+#### [DOD × Te-Reo-and-Code](DOD-x-Te-Reo-and-Code.md)
 - Connection strength: 29
 - Shared motifs: anti, bridges, code, connections, data
 

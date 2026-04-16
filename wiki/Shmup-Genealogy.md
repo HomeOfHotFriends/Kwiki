@@ -123,34 +123,38 @@ extreme simplicity of the parts.**
 - [Mauri](Mauri.md)
 
 ### Inbound Connections
+- [Enemy Wave](Enemy-Wave.md)
 - [Fiap pot](FIAP POT.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- [Genealogy of j](Genealogy-of-j.md)
+- [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
+- [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
 - [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 
 ### Lateral Bridges
+#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+- Connection strength: 28
+- Shared motifs: bridges, connections, design, direct, enemy
+#### [Enemy Wave](Enemy-Wave.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, design, determinism, direct
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 - Connection strength: 27
 - Shared motifs: bridges, connections, design, direct, enemy
 #### [Shmup-Genealogy × Design-Rules](Shmup-Genealogy-x-Design-Rules.md)
 - Connection strength: 26
 - Shared motifs: bridges, connections, design, direct, enemy
-#### [Fiap pot](FIAP POT.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, direct, fiap
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, direct, fiap
-#### [Enemy Wave](Enemy-Wave.md)
 - Connection strength: 24
-- Shared motifs: bridges, connections, design, determinism, direct
+- Shared motifs: bridges, connections, design, direct, fiap
+#### [Genealogy of j](Genealogy-of-j.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, determinism, direct, enemy
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, design, determinism, direct
-#### [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md)
+#### [Positioning](Positioning.md)
 - Connection strength: 23
-- Shared motifs: bridges, connections, direct, enemy, esp
-#### [Determinism](Determinism.md)
-- Connection strength: 22
 - Shared motifs: bridges, connections, design, determinism, direct
 
 ### Recursive Prompt

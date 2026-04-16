@@ -128,32 +128,32 @@ te rā
 - [Rhizome](Rhizome.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, design
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - Connection strength: 27
 - Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+#### [Mauri](Mauri.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, design
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, design
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 - Connection strength: 26
 - Shared motifs: anti, bridges, code, connections, design
 #### [DOD](DOD.md)
-- Connection strength: 24
+- Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, design
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, design
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 23
+#### [Zero Set](Zero-Set.md)
+- Connection strength: 25
 - Shared motifs: anti, bridges, code, connections, design
 
 ### Recursive Prompt

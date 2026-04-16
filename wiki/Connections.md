@@ -65,12 +65,12 @@ Highest combined inbound + outbound link count.
 | Page | Inbound | Outbound | Total |
 |---|---|---|---|
 | [DOD](DOD.md) | 86 | 52 | 138 |
-| [The Law](The-Law.md) | 71 | 62 | 133 |
+| [The Law](The-Law.md) | 73 | 62 | 135 |
 | [Whakapapa](Whakapapa.md) | 75 | 57 | 132 |
 | [Anti OOPedipus](Anti-OOPedipus.md) | 65 | 59 | 124 |
+| [Inward Rhizome](Inward-Rhizome.md) | 17 | 102 | 119 |
+| [Inward Whakapapa](Inward-Whakapapa.md) | 8 | 110 | 118 |
 | [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 78 | 40 | 118 |
 | [Zero Set](Zero-Set.md) | 55 | 59 | 114 |
-| [Inward Whakapapa](Inward-Whakapapa.md) | 8 | 102 | 110 |
-| [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 12 | 93 | 105 |
-| [Inward Rhizome](Inward-Rhizome.md) | 11 | 94 | 105 |
-| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) | 48 | 56 | 104 |
+| [Inward Anti Oopedipus](Inward-Anti-Oopedipus.md) | 11 | 101 | 112 |
+| [Inward Radiative](Inward-Radiative.md) | 13 | 96 | 109 |
