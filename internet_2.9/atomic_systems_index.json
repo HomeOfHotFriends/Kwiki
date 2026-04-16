@@ -1,0 +1,20 @@
+{
+  "alien_index": "atomic_systems",
+  "description": "Alien logic, systems, and world rules. Each JSON file is a logic node. Explore for recursive structures and system sets.",
+  "nodes": [
+    "atomic_index.json",
+    "continuous_discrete.json",
+    "poemachine.json",
+    "sensible_silly.json",
+    "true_discrete.json",
+    "word_go.json",
+    "zero_one.json"
+  ],
+  "readmes": [
+    "README.md",
+    "README_examples.md",
+    "README_FOR_HOTFRIENDS.md",
+    "README_languages.md",
+    "README_SYSTEM_SETS.md"
+  ]
+}
