@@ -8,6 +8,7 @@ Sorted by **last git commit date** (most recent first).
 
 | Page | Last Updated | Type |
 |---|---|---|
+| [User Profile](User-Profile.md) | 2026-04-16 | content |
 | [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 2026-04-16 | content |
 | [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md) | 2026-04-16 | cross-synthesis |
 | [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md) | 2026-04-16 | cross-synthesis |
@@ -114,4 +115,3 @@ Sorted by **last git commit date** (most recent first).
 | [Whakapapa](Whakapapa.md) | 2026-04-16 | content |
 | [Zero-Set × Enemy-Wave](Zero-Set-x-Enemy-Wave.md) | 2026-04-16 | cross-synthesis |
 | [Zero Set](Zero-Set.md) | 2026-04-16 | content |
-| [User Profile](User-Profile.md) | — | content |
