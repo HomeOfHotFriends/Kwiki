@@ -80,13 +80,9 @@ CONCEPT_IDS = [
     "determinism",
     "radiative",
     "singularity",
-<<<<<<< HEAD
-]ae
-=======
-    "plantling",
-    "rhizhome",
-]
->>>>>>> origin/copilot/add-master-lens-gamification-wiki
+        "plantling",
+        "rhizhome",
+    ]
 
 # Parallel array: human-readable name for each concept
 CONCEPT_NAMES = {
