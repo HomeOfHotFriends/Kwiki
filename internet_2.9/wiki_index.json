@@ -1,0 +1,6 @@
+{
+  "alien_index": "wiki",
+  "description": "Knowledge, history, and lore. Each markdown file is a page in the alien encyclopedia.",
+  "template": "_template.md",
+  "pages": "All-Pages.md"
+}

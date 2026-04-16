@@ -1,0 +1,14 @@
+{
+  "alien_index": "scripts",
+  "description": "Automation, mutation, and transformation engines. Each script is a tool or mutation node.",
+  "scripts": [
+    "batch_grow.py",
+    "fiap_parser.py",
+    "wiki_index.py"
+  ],
+  "data": [
+    "fiap_lut.json",
+    "metadata.json",
+    "user_input.json"
+  ]
+}

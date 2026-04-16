@@ -1,0 +1,7 @@
+{
+  "alien_index": "rust-web-apps",
+  "description": "Digital artifacts and applications. Each app is a node in the alien web.",
+  "apps_folder": "apps/",
+  "manifest": "Cargo.toml",
+  "readme": "README.md"
+}

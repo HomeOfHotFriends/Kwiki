@@ -1,0 +1,56 @@
+{
+  "alien_index": "sources",
+  "description": "Source texts and deep archives. Each folder is a knowledge vault.",
+  "folders": [
+    {
+
+      "name": "Frog In Pot",
+      "subfolders": [
+        {
+          "name": "Art",
+          "files": [
+            "Frog Pot 1.png",
+            "Frog Pot 2.png",
+            "Frog Pot 3.png",
+            "Frog Pot 4.png",
+            "Frog Pot 5.png",
+            "Frog Pot 6.png"
+          ]
+        },
+        {
+          "name": "Offering 1: The Recorded Album",
+          "files": [
+            "1 Warning.wav",
+            "10 Born Slutty (nux).wav",
+            "11 Lemonade (Double Sprite Mix).wav",
+            "12 Dancing On My Own.wav",
+            "13 Walking The Cow (Let's Fucking FROTH Mix).wav",
+            "14 Portal Museum.wav",
+            "15 Party Rock Anthem.wav",
+            "16 I Love It (Album Version).wav",
+            "17 Blitzkrieg Bop (You Could Get Punched For That Mix).wav",
+            "18 GabberPentin.wav",
+            "19 Gayber.wav",
+            "20 Bring Back My Dog (Could God Make An Anxiety So Bad That Not Even He Could Make A Benzo For It Mix).wav",
+            "21 So Many Friends.wav",
+            "22 Walk And Skank (Walk And Shank Mix).wav",
+            "23 Paper Planes (What's Ur Gun Noise Mix).alp.wav",
+            "24 Hollaback Girl (Quarter Back Mix).wav"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "files": [
+        "ai_singularity_te_reo.txt",
+        "esprade_doc.txt",
+        "frog_in_a_pot.txt",
+        "indigenous_proposal.txt",
+        "indigenous_proposal_doc.txt",
+        "untitled1.txt",
+        "untitled2.txt"
+      ]
+    }
+  ]
+}
