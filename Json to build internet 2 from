@@ -1,0 +1,588 @@
+Yes. Let’s turn the whole beast into a recursive JSON world-expression.
+This is not “sample data only.”
+It is a meta-structure for recursively generating:
+• core books
+• characters
+• terrain pairings
+• micro-scenarios
+• framing events
+• truth systems
+• multi-valued logics
+• Go-grid mappings
+• mutations
+• Memory-Boxes
+• planetary correspondence
+• campaign recursion
+• future generated elements
+I’m going to write it as one coherent JSON object with:
+a schema-like structure
+seeded example values from what we’ve built
+recursion hooks for infinite outward growth
+You can use this as: • design bible
+• source of truth
+• programmatic generator base
+• Copilot feedstock
+• content compiler spine
+JSON
+{
+  "project": {
+    "id": "home_ttrpg",
+    "title": "HOME",
+    "subtitle": "A Campaign of Rhizomes, Redistribution, and Singing Distance",
+    "version": "0.1-recursive",
+    "status": "living_system",
+    "design_principles": [
+      "no_dice",
+      "position_over_probability",
+      "terrain_as_logic",
+      "characters_as_multivalued_systems",
+      "paired_authorship",
+      "memory_box_fermentation",
+      "recursive_growth",
+      "redistribution_over_loot",
+      "ambiguity_with_structure",
+      "framing_before_resolution"
+    ],
+    "core_laws": {
+      "dual_terrain_covenant": true,
+      "player_set_and_gm_set_are_sovereign": true,
+      "every_encounter_is_a_braid_of_one_player_terrain_and_one_gm_terrain": true,
+      "core_rules_are_externalized_to_other_books": true,
+      "all_elements_must_support_recursive_generation": true
+    }
+  },
+  "books": {
+    "campaign_book": {
+      "id": "home_campaign_volume",
+      "purpose": "framing_setting_terrain_pairings_micro_scenarios",
+      "depends_on": [
+        "character_book",
+        "go_grid_book",
+        "terrain_logic_book"
+      ]
+    },
+    "character_book": {
+      "id": "home_core_hot_friends_rulebook",
+      "purpose": "forms_truth_tables_multivalued_logics_advancement_transformations"
+    },
+    "go_grid_book": {
+      "id": "home_go_grid_core",
+      "purpose": "lookup_resolution_scope_duration_visibility_outcome_vectors",
+      "status": "incomplete_but_structurally_defined"
+    },
+    "terrain_logic_book": {
+      "id": "home_terrain_archive",
+      "purpose": "terrain_values_distortions_generation_rules_pairing_engine"
+    },
+    "scenario_atlas": {
+      "id": "home_pairing_atlas",
+      "purpose": "massive_pairing_volumes_day_coordinate_micro_scenarios"
+    }
+  },
+  "ontology": {
+    "unit_types": [
+      "book",
+      "volume",
+      "terrain",
+      "terrain_pairing",
+      "framing_event",
+      "micro_scenario",
+      "character_form",
+      "character_instance",
+      "truth_table",
+      "multivalued_logic",
+      "memory_box",
+      "planetary_entity",
+      "community",
+      "mutation",
+      "path_state",
+      "temperature_phase",
+      "go_grid_coordinate",
+      "outcome_vector",
+      "heist_arc",
+      "prophecy",
+      "plant_reveal",
+      "recursion_seed"
+    ],
+    "generation_directions": [
+      "inward",
+      "outward",
+      "upward",
+      "sideways",
+      "retroactive"
+    ]
+  },
+  "rise_home": {
+    "id": "rise_home",
+    "type": "hub",
+    "description": "massive_rhizome_secret_base_of_the_resistance",
+    "session_functions": [
+      "beginning",
+      "ending",
+      "middle",
+      "meeting_chamber",
+      "departure_point",
+      "return_point",
+      "memory_archive",
+      "debrief_site"
+    ],
+    "rules_required": false,
+    "rules_baked_into_hearts": true,
+    "framing_entry_modes": [
+      "call_sent_outward",
+      "call_received_inward",
+      "memory_box_planting_discussion",
+      "frog_in_a_pot_reflection",
+      "mid_crisis_report",
+      "half_finished_argument",
+      "celebration_already_underway"
+    ]
+  },
+  "frog_in_a_pot": {
+    "id": "frog_in_a_pot",
+    "type": "temperature_logic",
+    "function": "escalation_frame",
+    "temperature_phases": [
+      {
+        "id": "cool",
+        "effects": [
+          "outcomes_localized",
+          "power_hoarding_subtle",
+          "terrain_distortions_gentle"
+        ]
+      },
+      {
+        "id": "warm",
+        "effects": [
+          "ripples_expand",
+          "politics_visible",
+          "counterpressure_likely"
+        ]
+      },
+      {
+        "id": "simmer",
+        "effects": [
+          "terrain_changes_persist",
+          "memory_boxes_ferment_faster",
+          "planetary_pressure_increases"
+        ]
+      },
+      {
+        "id": "boil",
+        "effects": [
+          "instability_cascades",
+          "structural_shifts",
+          "flashpoint_variant_possible"
+        ]
+      },
+      {
+        "id": "flashpoint",
+        "effects": [
+          "arc_level_transformation",
+          "terrain_mutation_forced",
+          "campaign_baseline_altered"
+        ]
+      }
+    ],
+    "reset_rule": "after_peak_temperature_reduces_but_never_returns_to_original_baseline"
+  },
+  "go_grid": {
+    "id": "home_go_grid",
+    "board": {
+      "type": "continuous_discrete_hybrid",
+      "recommended_sizes": [9, 13, 19],
+      "x_axis": "discrete_coordinate",
+      "y_axis": "discrete_coordinate",
+      "field_layer": "continuous_influence",
+      "ownership": {
+        "player": "white",
+        "gm": "black",
+        "neutral_or_emergent": "unstoned_or_marked"
+      }
+    },
+    "resolution_philosophy": {
+      "randomness": false,
+      "position_determines_emergence": true,
+      "lookup_outputs_are_vectors_not_binary_success": true
+    },
+    "lookup_dimensions": {
+      "scope": ["personal", "local", "community", "regional", "planetary"],
+      "duration": ["momentary", "scene", "session", "arc", "persistent"],
+      "visibility": ["hidden", "partial", "public", "mythic", "retroactive"],
+      "stability": ["stable", "unstable", "cascading", "mutating"],
+      "moral_shape": ["care", "redistribution", "orientation", "distortion", "withholding"]
+    },
+    "outcome_vectors": [
+      "amplify",
+      "diffuse",
+      "twist",
+      "delay",
+      "redistribute",
+      "crystallize",
+      "invert",
+      "seed",
+      "burn",
+      "echo",
+      "multiply",
+      "wither",
+      "stabilize",
+      "split",
+      "reveal",
+      "submerge",
+      "ferment",
+      "scatter"
+    ]
+  },
+  "terrain_generation_engine": {
+    "id": "terrain_generation_engine",
+    "method": "go_grid_aligned_pair_generator",
+    "steps": [
+      {
+        "id": "base_pair",
+        "rule": "choose_one_player_terrain_and_one_gm_terrain",
+        "constraint": "they_must_not_harmonize_too_easily"
+      },
+      {
+        "id": "primary_contradiction",
+        "rule": "cross_one_active_value_from_each_terrain",
+        "output": "core_friction_statement"
+      },
+      {
+        "id": "zone_split",
+        "rule": "partition_pairing_into_2_to_4_local_logic_zones",
+        "output": "zone_specific_rules"
+      },
+      {
+        "id": "border_behavior",
+        "rule": "define_edge_behavior",
+        "allowed_values": [
+          "contain",
+          "leak",
+          "reflect",
+          "invert",
+          "absorb",
+          "recurse"
+        ]
+      },
+      {
+        "id": "power_asymmetry",
+        "rule": "define_visible_or_hidden_dominance"
+      },
+      {
+        "id": "hybrid_zone",
+        "rule": "create_at_least_one_full_overlap_zone"
+      },
+      {
+        "id": "path_structure",
+        "rule": "generate_safe_deceptive_collective_paths"
+      },
+      {
+        "id": "compression_name",
+        "rule": "name_pairing_as_compressed_logic_poem"
+      },
+      {
+        "id": "frame_event",
+        "rule": "create_activation_trigger_that_wakes_both_terrains_at_once"
+      }
+    ]
+  },
+  "terrain_archive": {
+    "player_set": [
+      {
+        "id": "swamp",
+        "name": "Swamp",
+        "values": ["accumulate", "submerge", "ferment", "reveal_slowly"],
+        "distortion_rule": "movement_accumulates_consequence",
+        "sensory_logic": ["humid", "muffled", "ancient", "peat_heavy"],
+        "resource_logic": ["hidden_nourishment", "hidden_hazard"],
+        "social_logic": ["vertical_living", "floating_communities"],
+        "pairing_tags": ["memory", "drag", "burial", "slow_revelation"]
+      },
+      {
+        "id": "sea",
+        "name": "Sea",
+        "values": ["drift", "tide", "depth", "carry"],
+        "distortion_rule": "nothing_returns_exactly_as_given",
+        "sensory_logic": ["salt", "horizon", "undertow", "surface_reflection"],
+        "resource_logic": ["food", "routes", "loss", "return"],
+        "social_logic": ["ports", "flotillas", "shoreline_assemblies"],
+        "pairing_tags": ["navigation", "memory", "relation", "altered_return"]
+      },
+      {
+        "id": "forest",
+        "name": "Forest",
+        "values": ["cover", "multiply", "listen", "root"],
+        "distortion_rule": "distance_becomes_relational",
+        "sensory_logic": ["shade", "branch_density", "bird_layering", "soft_ground"],
+        "resource_logic": ["timber", "shelter", "medicinals", "misdirection"],
+        "social_logic": ["hidden_paths", "gathering_clearings", "shared_harvest"],
+        "pairing_tags": ["cover", "layering", "story_paths"]
+      },
+      {
+        "id": "jungle",
+        "name": "Jungle",
+        "values": ["overrun", "humidify", "press_close", "lash"],
+        "distortion_rule": "space_closes_around_intention",
+        "sensory_logic": ["insect_pressure", "heat", "leaf_mass", "compression"],
+        "resource_logic": ["fruit", "vines", "fever", "dense_cover"],
+        "social_logic": ["micro_clearings", "improvised_routes"],
+        "pairing_tags": ["pressure", "lushness", "close_logic"]
+      },
+      {
+        "id": "rainforest",
+        "name": "Rainforest",
+        "values": ["overgrow", "entangle", "symbiose", "canopy"],
+        "distortion_rule": "abundance_and_interdependence_escalate_together",
+        "sensory_logic": ["rain", "layered_biome", "gloss", "fungal_recurrence"],
+        "resource_logic": ["surplus", "medicine", "rot", "hidden_routes"],
+        "social_logic": ["canopy_knowledge", "forest_communities", "reciprocal_growth"],
+        "pairing_tags": ["abundance", "mutualism", "layers", "growth"]
+      },
+      {
+        "id": "plains",
+        "name": "Plains",
+        "values": ["expose", "distance", "stillness", "approach"],
+        "distortion_rule": "subtle_shifts_gain_weight",
+        "sensory_logic": ["wind", "grass", "open_sight", "horizon"],
+        "resource_logic": ["grazing", "watching", "travel"],
+        "social_logic": ["signal_fires", "seasonal_paths"],
+        "pairing_tags": ["openness", "anticipation", "low_cover"]
+      },
+      {
+        "id": "hills",
+        "name": "Hills",
+        "values": ["roll", "shelter_partial", "angle_soft", "echo_near"],
+        "distortion_rule": "direction_changes_without_announcing_itself",
+        "sensory_logic": ["wind_fold", "contour", "gullies"],
+        "resource_logic": ["pasture", "hideaways", "vantage"],
+        "social_logic": ["folded_routes", "ridge_watch"],
+        "pairing_tags": ["direction", "modulation", "gentle_instability"]
+      },
+      {
+        "id": "rolling_hills",
+        "name": "Rolling Hills",
+        "values": ["repeat", "sway", "partial_cover", "miscount"],
+        "distortion_rule": "landform_repetition_alters_orientation",
+        "sensory_logic": ["patterned_ridges", "long_light", "pastoral_drift"],
+        "resource_logic": ["movement", "shelter", "grazing"],
+        "social_logic": ["wandering_routes", "imprecise_boundaries"],
+        "pairing_tags": ["repetition", "soft_confusion"]
+      },
+      {
+        "id": "mountains",
+        "name": "Mountains",
+        "values": ["elevate", "stratify", "echo", "endure"],
+        "distortion_rule": "effort_becomes_position",
+        "sensory_logic": ["cold_air", "stone", "climb", "distance"],
+        "resource_logic": ["minerals", "height", "watershed"],
+        "social_logic": ["summits", "passes", "camps", "ritual_ascents"],
+        "pairing_tags": ["verticality", "endurance", "height"]
+      },
+      {
+        "id": "mountain_ranges",
+        "name": "Mountain Ranges",
+        "values": ["divide", "wall", "channel", "repeat_height"],
+        "distortion_rule": "scale_turns_single_obstacles_into_systems",
+        "sensory_logic": ["distance_stacked", "weather_variance"],
+        "resource_logic": ["passes", "veins", "boundaries"],
+        "social_logic": ["corridors", "isolation", "frontiers"],
+        "pairing_tags": ["range_scale", "systemic_verticality"]
+      },
+      {
+        "id": "wetlands",
+        "name": "Wetlands",
+        "values": ["seep", "nest", "blur", "hold"],
+        "distortion_rule": "partial_states_remain_viable",
+        "sensory_logic": ["mud", "reeds", "shallow_reflection", "birdsong"],
+        "resource_logic": ["waterways", "eggs", "peat", "edible_edges"],
+        "social_logic": ["crossings", "boardwalks", "seasonal_route_memory"],
+        "pairing_tags": ["ambiguity", "passage", "preservation"]
+      },
+      {
+        "id": "floodplains",
+        "name": "Floodplains",
+        "values": ["spread", "nourish", "overwhelm", "recede"],
+        "distortion_rule": "collective_effect_scales_fast",
+        "sensory_logic": ["silt", "overflow", "open_water_fields"],
+        "resource_logic": ["fertility", "instability", "irrigation"],
+        "social_logic": ["shared_management", "seasonal_crisis"],
+        "pairing_tags": ["distribution", "overflow", "renewal"]
+      },
+      {
+        "id": "beaches",
+        "name": "Beaches",
+        "values": ["erode", "receive", "mark", "wipe"],
+        "distortion_rule": "events_leave_temporary_but_legible_traces",
+        "sensory_logic": ["salt_wind", "sand", "foam", "line_between"],
+        "resource_logic": ["drift_goods", "fishing", "wreckage"],
+        "social_logic": ["shore_meetings", "threshold_exchange"],
+        "pairing_tags": ["threshold", "arrival", "trace"]
+      },
+      {
+        "id": "lakes",
+        "name": "Lakes",
+        "values": ["reflect", "contain", "deepen", "still"],
+        "distortion_rule": "surface_and_depth_disagree",
+        "sensory_logic": ["mirror_surface", "cold", "shore_calm"],
+        "resource_logic": ["fish", "freshwater", "enclosure"],
+        "social_logic": ["shore_settlements", "crossings", "watchfulness"],
+        "pairing_tags": ["reflection", "containment", "depth"]
+      },
+      {
+        "id": "lakes_surrounded_by_mountains",
+        "name": "Lakes Surrounded by Mountains",
+        "values": ["enclose", "reflect_height", "trap_weather", "amplify_stillness"],
+        "distortion_rule": "containment_becomes_monumental",
+        "pairing_tags": ["enclosure", "echo_height", "basin_logic"]
+      },
+      {
+        "id": "lakes_surrounded_by_hills",
+        "name": "Lakes Surrounded by Hills",
+        "values": ["fold_reflection", "gentle_enclosure", "route_curve", "soft_mist"],
+        "distortion_rule": "arrival_feels_intentional_even_when_accidental",
+        "pairing_tags": ["soft_enclosure", "curve_logic"]
+      }
+    ],
+    "gm_set": [
+      {
+        "id": "prism_field",
+        "name": "Prism Field",
+        "values": ["split", "refract", "angle", "color_truth"],
+        "distortion_rule": "one_thing_becomes_many_legible_things",
+        "pairing_tags": ["clarity", "division", "optical_truth"]
+      },
+      {
+        "id": "echoing_canyon",
+        "name": "Echoing Canyon",
+        "values": ["repeat", "return", "delay_voice", "misplace_source"],
+        "distortion_rule": "sound_creates_secondary_reality",
+        "pairing_tags": ["echo", "source_confusion", "acoustic_memory"]
+      },
+      {
+        "id": "crystal_desert",
+        "name": "Crystal Desert",
+        "values": ["clarify", "harden", "refract", "fracture"],
+        "distortion_rule": "precision_increases_brittleness",
+        "pairing_tags": ["clarity", "rigidity", "fragility"]
+      },
+      {
+        "id": "mist_valley",
+        "name": "Mist Valley",
+        "values": ["obscure", "soften", "delay_reveal", "condense"],
+        "distortion_rule": "certainty_arrives_too_late_or_too_wet",
+        "pairing_tags": ["mist", "delay", "softened_truth"]
+      },
+      {
+        "id": "wind_plateau",
+        "name": "Wind Plateau",
+        "values": ["expose", "accelerate", "redirect", "scatter"],
+        "distortion_rule": "stasis_is_punished",
+        "pairing_tags": ["direction", "speed", "exposure"]
+      },
+      {
+        "id": "dream_tundra",
+        "name": "Dream Tundra",
+        "values": ["preserve_dream", "freeze_change", "white_out", "remember_sleep"],
+        "distortion_rule": "sleep_logic_becomes_surface_logic",
+        "pairing_tags": ["dream", "cold", "preservation"]
+      },
+      {
+        "id": "star_field",
+        "name": "Star Field",
+        "values": ["orient", "scatterfire", "witness", "remote_pull"],
+        "distortion_rule": "distance_becomes_instruction",
+        "pairing_tags": ["navigation", "cosmic_distance", "witnessing"]
+      },
+      {
+        "id": "deep_void_ur",
+        "name": "Deep Void (Ur)",
+        "values": ["null", "unmake", "pre_form", "forget"],
+        "distortion_rule": "things_become_not_yet_or_no_longer",
+        "pairing_tags": ["subtraction", "pre_meaning", "unfinishedness"]
+      },
+      {
+        "id": "corporate_outpost",
+        "name": "Corporate Outpost",
+        "values": ["enclose", "extract", "standardize", "scale"],
+        "distortion_rule": "relation_becomes_protocol",
+        "pairing_tags": ["ownership", "measurement", "expansion"]
+      }
+    ]
+  },
+  "pairing_names": {
+    "floodplains__crystal_desert": "The Geometry of Water",
+    "swamp__wind_plateau": "The Uprooted Peat",
+    "rainforest__deep_void_ur": "The Unfinished Tree",
+    "sea__star_field": "The Borrowed Constellation",
+    "mountains__corporate_outpost": "The Line That Climbs",
+    "wetlands__prism_field": "The Splintered Mirror Marsh"
+  },
+  "pairings": [
+    {
+      "id": "floodplains__crystal_desert",
+      "name": "The Geometry of Water",
+      "player_terrain_id": "floodplains",
+      "gm_terrain_id": "crystal_desert",
+      "framing_event": {
+        "id": "fp_cd_01",
+        "name": "The Crystallizing Irrigation Lock",
+        "day_coordinate": "FP-CD-01",
+        "summary": "corporate_irrigation_turns_water_into_geometric_control",
+        "temperature_start": "warm"
+      },
+      "long_term_mutations": [
+        "floodplain_gains_minor_clarify",
+        "crystal_desert_gains_seasonal_water_memory"
+      ],
+      "memory_box_seeds": [
+        "who_signed_the_water",
+        "broadcast_override",
+        "geometry_spreads"
+      ]
+    },
+    {
+      "id": "swamp__wind_plateau",
+      "name": "The Uprooted Peat",
+      "player_terrain_id": "swamp",
+      "gm_terrain_id": "wind_plateau",
+      "framing_event": {
+        "id": "sw_wp_01",
+        "name": "The Uprooted Peat",
+        "day_coordinate": "SW-WP-01",
+        "summary": "ancient_peat_begins_sliding_uphill_into_wind_logic",
+        "temperature_start": "cool"
+      },
+      "long_term_mutations": [
+        "swamp_gains_redirect",
+        "wind_plateau_gains_ferment"
+      ],
+      "memory_box_seeds": [
+        "who_buried_strategy_here",
+        "archive_opened_publicly"
+      ]
+    },
+    {
+      "id": "rainforest__deep_void_ur",
+      "name": "The Unfinished Tree",
+      "player_terrain_id": "rainforest",
+      "gm_terrain_id": "deep_void_ur",
+      "framing_event": {
+        "id": "rf_dv_01",
+        "name": "The Unfinished Tree",
+        "day_coordinate": "RF-DV-01",
+        "summary": "a_tree_grows_without_species_shadow_or_agreed_origin",
+        "temperature_start": "cool"
+      },
+      "long_term_mutations": [
+        "rainforest_gains_echo_memory",
+        "void_gains_selective_forgetting"
+      ],
+      "memory_box_seeds": [
+        "who_gets_to_remember_origin",
+        "what_counts_as_having_happened"
+      ]
+    },
+    {
+      "id": "sea__star_field",
+      "name": "The Borrowed Constellation",
+      "player_terrain_id":  
