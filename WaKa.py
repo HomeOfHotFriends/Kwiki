@@ -26,6 +26,7 @@ Usage:
   python3 WaKa.py --list             # list all known pages and concepts
   python3 WaKa.py --index            # print passage index for all concepts
   python3 WaKa.py --new <PageName>   # scaffold a new user_input.json for a page
+  python3 WaKa.py --force            # overwrite existing page without prompting
 """
 
 import json
@@ -567,6 +568,10 @@ def main():
         scaffold_user_input(args[1], ROOT)
         return
 
+    # --force / -f: overwrite existing pages without prompting
+    force = "--force" in args or "-f" in args
+    args = [a for a in args if a not in ("--force", "-f")]
+
     # ensure scripts/user_input.json exists
     ui_path = ROOT / "scripts" / "user_input.json"
     if not ui_path.exists():
@@ -609,7 +614,7 @@ def main():
     wiki_dir.mkdir(exist_ok=True)
     out_path = wiki_dir / f"{page}.md"
 
-    if out_path.exists():
+    if out_path.exists() and not force:
         resp = input(f"  {out_path.name} already exists. Overwrite? [y/N] ").strip().lower()
         if resp != "y":
             print("  Aborted.")
