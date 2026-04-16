@@ -1,9 +1,20 @@
 {
-  "page": "Anti-OOPedipus",
+  "page": "Whakapapa",
   "intent": "Rebless. Recurse. Rebless.",
   "tone": "body",
   "extra_concepts": [
-    "anti_oopedipus"
+    "whakapapa",
+    "catch22",
+    "anti_oopedipus",
+    "ira_kotahi",
+    "mauri",
+    "rhizome",
+    "flow_state",
+    "content_vs_creative",
+    "desiring_machine",
+    "tokotoko",
+    "taonga",
+    "te_whariki_pumotu"
   ],
   "voice_notes": "",
   "new_passage": "Rebless. Recurse. Rebless."

@@ -27,6 +27,53 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 ---
 
+## Shitting Machine
+
+> *Try to distract yourself by ‘shitting out’ a masterpiece G.*
+
+*— frog_in_a_pot*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Flow State](flow-state) · [Anti-OOPedipus](anti-oopedipus)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## Rhizome
+
+Idk, like yeah it doesnt 'teach' u 'what deleuze means by Rhizome'.
+
+*— untitled2*
+
+means by Rhizome'.
+
+*— untitled2*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Whakapapa](whakapapa) · [Te Whariki Pumotu](te-whariki-pumotu) · [Desiring-Machine](desiring-machine)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## Flow State
+
+My ADHD could no longer handle any other game experience.
+
+*— esprade_doc*
+
+Not a single part of me had to force myself to focus.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
 
 ---
 

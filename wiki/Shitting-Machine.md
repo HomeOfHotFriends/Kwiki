@@ -6,6 +6,45 @@
 
 ---
 
+## Desiring-Machine
+
+: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
+2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
+production-and-inspection-at-czit-development-ltd/ 20.
+
+*— ai_singularity_te_reo*
+
+m my suffering than the two screen method (which required finding a game + movie/show
+combination that allowed for just the right amount of awareness without effort to achieve
+the desired result) but I had found a way to focus again that was possible even in my
+current low-energy state.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## Flow State
+
+My ADHD could no longer handle any other game experience.
+
+*— esprade_doc*
+
+Not a single part of me had to force myself to focus.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Desiring-Machine](desiring-machine) · [Shitting Machine](shitting-machine) · [Catch-22](catch22) · [Esp Ra De](esprade)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
 ## Anti-OOPedipus
 
 **This culminated with the discovery of Deleuze and Guatarri’s ‘Anti-Oedipus’, which remains
@@ -22,6 +61,24 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 
 *Whakapapa: [Desiring-Machine](desiring-machine) · [Rhizome](rhizome) · [Catch-22](catch22) · [Data-Oriented Design](dod) · [Shitting Machine](shitting-machine)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## The Law
+
+**Rebless. Recurse. Rebless.**
+
+*— user_input*
+
+**The design philosophy can be summed up as: extreme depth of the whole achieved through
+extreme simplicity of the parts.**
+
+*— esprade_doc*
+
+
+*Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Taonga](taonga) · [Mauri](mauri)*
 
 > *Rebless. Recurse. Rebless.*
 

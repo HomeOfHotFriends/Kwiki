@@ -27,6 +27,80 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 
 ---
 
+## Whakapapa
+
+ki, ka matara te here, ka tū motuhake te hangarau i roto i tōna ake mana.2 Ko te reo Māori,
+i roto i tōna āhua tūturu, he reo e whakakōpuni ana i te wairua, te kiko, me te hononga
+whakapapa.4 I te wā e whakamahia ana te reo mō te hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+ana i te wairua, te kiko, me te hononga whakapapa.4 I te wā e whakamahia ana te reo mō te
+hangarau, ka pūruatia te mana o te kupu.
+
+*— ai_singularity_te_reo*
+
+
+*Whakapapa: [Mauri](mauri) · [Ira Kotahi](ira-kotahi) · [Rhizome](rhizome) · [The Law](the-law)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## Desiring-Machine
+
+: He tirohanga ā-roto ki te whakaputa me te tirotiro i CZIT Development Ltd, accessed April
+2, 2026, https://mi.czitgroup.com/news/precision-of-weld-neck-flanges-an-inside-look-at-
+production-and-inspection-at-czit-development-ltd/ 20.
+
+*— ai_singularity_te_reo*
+
+m my suffering than the two screen method (which required finding a game + movie/show
+combination that allowed for just the right amount of awareness without effort to achieve
+the desired result) but I had found a way to focus again that was possible even in my
+current low-energy state.
+
+*— esprade_doc*
+
+
+*Whakapapa: [Anti-OOPedipus](anti-oopedipus) · [Shitting Machine](shitting-machine) · [Flow State](flow-state) · [Rhizome](rhizome)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
+## Te Whariki Pumotu
+
+```
+ay> #include <string> namespace Nāwhaianō_nāwhaianōrā_Ināwhaianō { enum zero_set {
+pūwāhi_kau, pūtake_aukati, huinga_whakaputa, katinotoa, kauaeheahea, huinga_kōwhiringa };
+struct Te_Whariki_Pumotu { void whakawātea() { ngā_zero_set.fill(pūwāhi_kau); } void
+whakatakoto(unsigned int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; }
+zero_set pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; }
+void tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for
+```
+
+*— indigenous_proposal*
+
+```
+int x, unsigned int y, zero_set z) { ngā_zero_set[taupū(x, y)] = z; } zero_set
+pānui(unsigned int x, unsigned int y) const { return ngā_zero_set[taupū(x, y)]; } void
+tāpiri(const Te_Whariki_Pumotu& atu, int nekeneke_x, int nekeneke_y) { for (unsigned int y =
+1; y <= teitei; ++y) { for (unsigned int x = 1; x <= whānui; ++x) { zero_set z =
+atu.ngā_zero_set[taupū(x, y)]; if (z == pūwāhi_kau) continue; int hou_x =
+static_cast<int>(x) + nekeneke_x; int hou_y = static_cast<int>(y) + nekeneke_y; if (hou_x >=
+1 && hou_x <
+```
+
+*— indigenous_proposal*
+
+
+*Whakapapa: [Data-Oriented Design](dod) · [Zero Set](zero-set) · [Whakapapa](whakapapa) · [Mauri](mauri)*
+
+> *Rebless. Recurse. Rebless.*
+
+---
+
 
 ---
 

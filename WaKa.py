@@ -12,7 +12,9 @@ Philosophy of this file:
   DOD:             structs of arrays, not arrays of structs.
                    concepts live in flat parallel data indexed by id.
                    functions consume data, produce data. nothing is hidden.
-  Māori:           waka = vessel. whakapapa = the graph.
+  Māori:           waka = vessel. whakapapa = WHAKAPAPA 
+    tupuna = ancestor, source, origin, influence. not parent-child but lateral. āe = well ❤️‍🩹 
+    
                    mauri = the life-force that makes a thing itself.
                    ira kotahi = the singularity / the law.
 

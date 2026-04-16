@@ -103,6 +103,7 @@ DDP 1 or Anti-Oedipus has changed the way my brain works (for the better) more.*
 | [Catch-22](catch22) | [Flow State](flow-state), [Content vs Creative Product](content-vs-creative), [Anti-OOPedipus](anti-oopedipus) |
 | [Frog In A Pot](frog-in-pot) | [Esp Ra De](esprade), [Flow State](flow-state), [Content vs Creative Product](content-vs-creative) |
 | [Rhizome](rhizome) | [Anti-OOPedipus](anti-oopedipus), [Whakapapa](whakapapa), [Te Whariki Pumotu](te-whariki-pumotu) |
+| [The Law](the-law) | [Simplicity of Parts](simplicity-of-parts), [Esp Ra De](esprade), [Data-Oriented Design](dod) |
 
 ---
 
