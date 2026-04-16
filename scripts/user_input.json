@@ -1,10 +1,14 @@
 {
-  "page": "The-Law",
-  "intent": "Explain the one law. Connect it to taonga, DOD, and whakapapa.",
+  "page": "The-Marae",
+  "intent": "The wiki as marae. Every page a whare. Whakapapa as the meeting ground. No random links.",
   "tone": "body",
-
-  "voice_notes": "multiplous",
-  "new_passage": "āe, the one law is a fundamental principle that underpins our understanding of the world. It is the idea that everything in the universe is interconnected and operates according to a single, universal law. This law can be seen in the way that taonga (treasures) are valued and protected, as they are considered to be part of the natural world and are connected to our whakapapa (genealogy). DOD (the dance of death) also reflects this interconnectedness, as it reminds us of the impermanence of life and the importance of living in harmony with the natural world. By understanding and respecting the one law, we can live more fulfilling lives and contribute to the well-being of our communities and the planet.  ae there are shitty shit shitting machines too",
-  "page": "FIAP POT",
-  "intent": "grow the book into being again and forever"
+  "extra_concepts": [
+    "whakapapa",
+    "mauri",
+    "taonga",
+    "te_whariki_pumotu",
+    "ira_kotahi"
+  ],
+  "voice_notes": "",
+  "new_passage": ""
 }
