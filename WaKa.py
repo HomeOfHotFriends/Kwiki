@@ -845,6 +845,33 @@ def cross_generate(page_a: str, page_b: str, passages: dict, intent: str = "") -
 # HELPERS
 # ─────────────────────────────────────────────────────────────────────────────
 
+def fib(n: int) -> int:
+    """
+    Return the nth Fibonacci number (0-indexed: fib(0)=0, fib(1)=1, fib(2)=1, ...).
+    Used throughout the generation engine to set passage caps and weave ratios.
+    Fibonacci growth mirrors rhizomatic expansion: each step is the sum of the two before.
+    """
+    a, b = 0, 1
+    for _ in range(max(0, n)):
+        a, b = b, a + b
+    return a
+
+
+def fib_cap(position: int, base: int = 4) -> int:
+    """
+    Passage cap for concept at cluster position `position`.
+    Descends the Fibonacci sequence from fib(base):
+      position 0 → fib(base)     e.g. fib(4) = 3
+      position 1 → fib(base-1)          fib(3) = 2
+      position 2 → fib(base-2)          fib(2) = 1
+      position 3+ → fib(1)              fib(1) = 1
+
+    This lets the primary concept dominate the page,
+    with each subsequent concept receiving proportionally fewer passages.
+    """
+    return fib(max(1, base - position))
+
+
 def slug(cid: str) -> str:
     """concept_id → wiki slug."""
     return cid.replace("_", "-")
