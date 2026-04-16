@@ -99,38 +99,41 @@ The 1994 timestamp is a fabulation, a way to anchor the story's rhizome.
 - [Mauri](Mauri.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Rhizome](Rhizome.md)
+- [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
 
 ### Lateral Bridges
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 10
-- Shared motifs: catch, divergence, genealogy, ira, kotahi
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, esp, genealogy, mauri
-#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
-- Connection strength: 9
-- Shared motifs: catch, divergence, genealogy, ira, kotahi
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, esp, genealogy, rhizome
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 8
-- Shared motifs: divergence, genealogy, ira, kotahi, mauri
-#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, esp, genealogy, rhizome
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 8
-- Shared motifs: catch, divergence, genealogy, mauri, rhizome
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 8
-- Shared motifs: catch, genealogy, ira, kotahi, mauri
+- Connection strength: 29
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 29
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 26
+- Shared motifs: bridges, catch, code, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, code, connections, direct
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

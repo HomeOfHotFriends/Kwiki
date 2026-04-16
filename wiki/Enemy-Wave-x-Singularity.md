@@ -36,34 +36,34 @@
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Inbound Connections
-- [Enemy Wave](Enemy-Wave.md)
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Mauri](Mauri.md)
-- [Singularity](Singularity.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
 
 ### Lateral Bridges
-#### [Ira Kotahi](Ira-Kotahi.md)
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Mauri × Catch-22](Mauri-x-Catch-22.md)
 - Connection strength: 20
+- Shared motifs: bridges, catch, connections, direct, enemy
+#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- Connection strength: 19
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 20
+#### [Ira Kotahi](Ira-Kotahi.md)
+- Connection strength: 19
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
 - Connection strength: 19
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 18
-- Shared motifs: bridges, catch, connections, direct, enemy
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Shared motifs: bridges, connections, direct, genealogy, hub
+#### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, direct, divergence
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
 - Connection strength: 18
 - Shared motifs: bridges, catch, connections, direct, divergence
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 18
-- Shared motifs: bridges, connections, direct, divergence, hub
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 17
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
 - Connection strength: 17
 - Shared motifs: bridges, catch, connections, direct, divergence
 

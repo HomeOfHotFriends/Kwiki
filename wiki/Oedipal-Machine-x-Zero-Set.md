@@ -13,39 +13,45 @@
 ## Recursive Hub Weave
 
 ### Direct Connections
-- No direct markdown links detected yet.
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Machines](Machines.md)
+- [Production as Primary](Production-as-Primary.md)
+- [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- [Design Rules](Design-Rules.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 3
-- Shared motifs: machine, set, zero
-#### [Machines](Machines.md)
-- Connection strength: 3
-- Shared motifs: machine, set, zero
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 3
-- Shared motifs: machine, set, zero
-#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
-- Connection strength: 3
-- Shared motifs: machine, set, zero
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 3
-- Shared motifs: machine, set, zero
-#### [Design Rules](Design-Rules.md)
-- Connection strength: 2
-- Shared motifs: set, zero
+- Connection strength: 25
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
-- Connection strength: 2
-- Shared motifs: set, zero
+- Connection strength: 24
+- Shared motifs: anti, bridges, code, connections, design
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 22
+- Shared motifs: anti, bridges, code, connections, design
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 2
-- Shared motifs: set, zero
+- Connection strength: 21
+- Shared motifs: anti, bridges, code, connections, design
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, design, direct
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, code, connections, design
+#### [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

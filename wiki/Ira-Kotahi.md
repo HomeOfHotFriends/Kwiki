@@ -104,34 +104,34 @@ me te ngako o te kōrero.
 - [DOD](DOD.md)
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
+- [Gamification Lens](Gamification-Lens.md)
 - [Genealogy of j](Genealogy-of-j.md)
 - [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
-- [Indigenous Proposal](Indigenous-Proposal.md)
 
 ### Lateral Bridges
-#### [Singularity](Singularity.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Tokotoko](Tokotoko.md)
+- Connection strength: 27
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Taonga](Taonga.md)
 - Connection strength: 25
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [The Law](The-Law.md)
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 24
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Mauri](Mauri.md)
 - Connection strength: 24
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Mauri](Mauri.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Taonga](Taonga.md)
+#### [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md)
 - Connection strength: 22
+- Shared motifs: bridges, connections, direct, hub, inbound
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 20
 - Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt

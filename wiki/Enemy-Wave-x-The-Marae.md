@@ -75,38 +75,39 @@ extreme simplicity of the parts.**
 - [Mauri](Mauri.md)
 - [The Law](The-Law.md)
 - [Simplicity of Parts](Simplicity-of-Parts.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
-#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
-- Connection strength: 11
-- Shared motifs: data, design, divergence, enemy, law
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 11
-- Shared motifs: data, design, divergence, enemy, law
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 10
-- Shared motifs: data, design, divergence, enemy, law
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: data, design, divergence, law, marae
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 31
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: data, design, divergence, law, marae
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 9
-- Shared motifs: data, design, enemy, law, marae
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 8
-- Shared motifs: design, divergence, enemy, law, marae
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
 #### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 8
-- Shared motifs: data, design, divergence, law, marae
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

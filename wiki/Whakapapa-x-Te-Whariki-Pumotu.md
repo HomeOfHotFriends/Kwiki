@@ -13,39 +13,45 @@
 ## Recursive Hub Weave
 
 ### Direct Connections
-- No direct markdown links detected yet.
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [DOD](DOD.md)
+- [Machines](Machines.md)
+- [Machines × The-Law](Machines-x-The-Law.md)
+- [Mauri](Mauri.md)
+- [Radiative](Radiative.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
+- [Rhizome](Rhizome.md)
 
 ### Inbound Connections
 - No inbound links detected yet.
 
 ### Lateral Bridges
 #### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [DOD](DOD.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [Machines](Machines.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [Machines × The-Law](Machines-x-The-Law.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [Mauri](Mauri.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [Radiative](Radiative.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
+- Connection strength: 22
+- Shared motifs: anti, bridges, connections, direct, dod
 #### [Rhizome](Rhizome.md)
-- Connection strength: 3
-- Shared motifs: pumotu, whakapapa, whariki
+- Connection strength: 21
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Machines × The-Law](Machines-x-The-Law.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Scripts × Singularity](Scripts-x-Singularity.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [The-Law × Singularity](The-Law-x-Singularity.md)
+- Connection strength: 20
+- Shared motifs: anti, bridges, connections, direct, hub
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 19
+- Shared motifs: anti, bridges, connections, direct, dod
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 18
+- Shared motifs: anti, bridges, connections, direct, dod
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

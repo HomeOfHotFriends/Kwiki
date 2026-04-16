@@ -108,22 +108,16 @@ te rā
 
 ### Inbound Connections
 - [Content vs Creative](Content-vs-Creative.md)
-- [DOD](DOD.md)
 - [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
 - [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - [Ira Kotahi](Ira-Kotahi.md)
 - [Mauri](Mauri.md)
-- [Radiative](Radiative.md)
+- [Mauri × Catch-22](Mauri-x-Catch-22.md)
 - [Rhizome](Rhizome.md)
+- [Taonga](Taonga.md)
 
 ### Lateral Bridges
-#### [The Law](The-Law.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, frog, hub
 #### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Taonga](Taonga.md)
@@ -133,14 +127,20 @@ te rā
 - Connection strength: 23
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Mauri](Mauri.md)
-- Connection strength: 21
+- Connection strength: 20
 - Shared motifs: bridges, connections, direct, hub, inbound
-#### [Whakapapa](Whakapapa.md)
-- Connection strength: 21
+#### [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md)
+- Connection strength: 19
 - Shared motifs: bridges, connections, direct, hub, inbound
 #### [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md)
 - Connection strength: 19
 - Shared motifs: bridges, connections, direct, frog, hub
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 18
+- Shared motifs: bridges, connections, direct, frog, hub
+#### [Indigenous Proposal](Indigenous-Proposal.md)
+- Connection strength: 17
+- Shared motifs: bridges, connections, direct, hub, inbound
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

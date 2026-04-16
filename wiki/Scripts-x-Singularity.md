@@ -119,38 +119,38 @@ slightly illegal upper echelons of tempo.**
 - [Singularity](Singularity.md)
 - [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
 - [Mauri](Mauri.md)
+- [Radiative × Singularity](Radiative-x-Singularity.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [The-Law × Singularity](The-Law-x-Singularity.md)
 
 ### Lateral Bridges
-#### [Radiative × Singularity](Radiative-x-Singularity.md)
-- Connection strength: 12
-- Shared motifs: design, divergence, ira, kotahi, mauri
-#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
-- Connection strength: 11
-- Shared motifs: data, design, divergence, ira, kotahi
-#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
-- Connection strength: 10
-- Shared motifs: data, design, divergence, mauri, oriented
-#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
-- Connection strength: 10
-- Shared motifs: data, design, divergence, mauri, oriented
-#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 10
-- Shared motifs: data, design, divergence, mauri, oriented
-#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
-- Connection strength: 10
-- Shared motifs: divergence, ira, kotahi, mauri, pumotu
 #### [The-Law × Singularity](The-Law-x-Singularity.md)
-- Connection strength: 10
-- Shared motifs: divergence, ira, kotahi, mauri, pumotu
+- Connection strength: 33
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md)
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, design
+#### [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, data
 #### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
-- Connection strength: 9
-- Shared motifs: data, design, divergence, mauri, oriented
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, data
+#### [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
+- Connection strength: 26
+- Shared motifs: anti, bridges, code, connections, data
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
 - Convert plain mentions of those pages into markdown links for tighter recursion.
 <!-- END RECURSIVE_WEAVE -->
-

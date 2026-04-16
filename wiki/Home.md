@@ -28,6 +28,9 @@ Old work here is **whakapapa, not gospel**. It is the root system, not the tree.
 | [Shmup Genealogy](Shmup-Genealogy) | DonPachi → DDP → EspRaDe → j. |
 | [Design Rules](Design-Rules) | The rules Karl follows. Not mechanics — design rules. |
 | [Scripts](Scripts) | How to use the generation scripts to grow new pages. |
+| [Gamification Lens](Gamification-Lens.md) | The master lens. Utopian alien internet. Plantlings. RhizHome. |
+| [Plantlings](Plantlings.md) | The beings of Home. They grow sideways. They dream together. |
+| [RhizHome](RhizHome.md) | The network, not a ladder. The alien internet platform. |
 
 ---
 

@@ -85,39 +85,39 @@ current low-energy state.
 
 ### Inbound Connections
 - [Anti OOPedipus](Anti-OOPedipus.md)
+- [Anti-OOPedipus × Machines](Anti-OOPedipus-x-Machines.md)
 - [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md)
 - [Catch 22](Catch-22.md)
 - [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Desiring Machine](Desiring-Machine.md)
 - [Determinism](Determinism.md)
-- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
 
 ### Lateral Bridges
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 30
-- Shared motifs: anti, bridges, catch, connections, content
-#### [Catch 22](Catch-22.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, content
-#### [Shitting Machine](Shitting-Machine.md)
-- Connection strength: 27
-- Shared motifs: anti, bridges, catch, connections, design
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, design, desiring
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 24
+- Shared motifs: bridges, catch, connections, content, creative
 #### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 26
+- Connection strength: 24
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md)
-- Connection strength: 25
+- Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
 #### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 25
+- Connection strength: 23
 - Shared motifs: bridges, catch, connections, content, creative
-#### [Machines](Machines.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, design, desiring, direct
+#### [Desiring Machine](Desiring-Machine.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Shitting Machine](Shitting-Machine.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Oedipal Machine](Oedipal-Machine.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, desiring, direct
+#### [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, desiring, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

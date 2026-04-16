@@ -79,6 +79,9 @@ CONCEPT_IDS = [
     "determinism",
     "radiative",
     "singularity",
+    "plantling",
+    "rhizhome",
+    "hot_friends",
 ]
 
 # Parallel array: human-readable name for each concept
@@ -107,6 +110,9 @@ CONCEPT_NAMES = {
     "determinism":           "Determinism",
     "radiative":             "Radiative",
     "singularity":           "Singularity / Ira Kotahi",
+    "plantling":             "Plantling",
+    "rhizhome":              "RhizHome",
+    "hot_friends":           "Hot Friends",
 }
 
 # Parallel array: whakapapa links (lateral, not hierarchical).
@@ -137,6 +143,9 @@ WHAKAPAPA = {
     "determinism":         ["esprade", "dod", "positioning", "the_law"],
     "radiative":           ["content_vs_creative", "dod", "the_law"],
     "singularity":         ["ira_kotahi", "tokotoko", "mauri"],
+    "plantling":           ["mauri", "rhizome", "whakapapa", "anti_oopedipus"],
+    "rhizhome":            ["rhizome", "anti_oopedipus", "whakapapa", "plantling"],
+    "hot_friends":         ["plantling", "mauri", "taonga", "rhizhome"],
 }
 
 # Parallel array: typographic voice (from source document)
@@ -169,6 +178,9 @@ CONCEPT_VOICE = {
     "determinism":         2,
     "radiative":           1,
     "singularity":         0,
+    "plantling":           3,
+    "rhizhome":            1,
+    "hot_friends":         3,
 }
 
 # Parallel array: keywords for passage extraction from source corpus
@@ -197,6 +209,9 @@ CONCEPT_KEYWORDS = {
     "determinism":         ["deterministic", "determinism", "run-to-run", "seed"],
     "radiative":           ["radiative", "Radiative", "design thinking", "adaptive systems"],
     "singularity":         ["singularity", "ira kotahi", "singular", "te mutunga"],
+    "plantling":           ["Plantling", "plantling", "true form Plantling", "growing sideways", "we are Home"],
+    "rhizhome":            ["RhizHome", "Rhizhome", "network, not ladder", "network not ladder", "welcome to RhizHome"],
+    "hot_friends":         ["Hot Friend", "hot friend", "Hot Friends", "not very Hot Friends", "cups and pushed"],
 }
 
 # Page registry: page slug -> primary concept cluster
@@ -219,6 +234,9 @@ PAGE_REGISTRY = {
     "Zero-Set":             ["zero_set", "te_whariki_pumotu", "dod", "simplicity_of_parts", "ira_kotahi"],
     "Enemy-Wave":           ["enemy_wave", "esprade", "positioning", "determinism", "simplicity_of_parts"],
     "Catch-22":             ["catch22", "content_vs_creative", "frog_in_pot", "flow_state", "anti_oopedipus"],
+    "Plantlings":           ["plantling", "mauri", "rhizome", "whakapapa", "anti_oopedipus"],
+    "RhizHome":             ["rhizhome", "rhizome", "anti_oopedipus", "plantling", "whakapapa"],
+    "Gamification-Lens":    ["plantling", "rhizhome", "hot_friends", "mauri", "rhizome"],
 }
 
 

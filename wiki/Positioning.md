@@ -98,35 +98,35 @@ extreme simplicity of the parts.**
 - [Determinism](Determinism.md)
 - [DOD](DOD.md)
 - [Enemy Wave](Enemy-Wave.md)
-- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 - [Flow State](Flow-State.md)
 - [Frog In A Pot](Frog-In-A-Pot.md)
+- [Genealogy of j](Genealogy-of-j.md)
 
 ### Lateral Bridges
-#### [Determinism](Determinism.md)
-- Connection strength: 29
-- Shared motifs: bridges, catch, connections, data, design
 #### [Simplicity of Parts](Simplicity-of-Parts.md)
 - Connection strength: 29
 - Shared motifs: bridges, connections, data, design, determinism
-#### [Design Rules](Design-Rules.md)
+#### [Determinism](Determinism.md)
 - Connection strength: 28
 - Shared motifs: bridges, connections, data, design, determinism
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 28
-- Shared motifs: bridges, catch, connections, design, determinism
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
 - Connection strength: 27
 - Shared motifs: bridges, catch, connections, design, direct
-#### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 25
-- Shared motifs: bridges, catch, connections, determinism, direct
-#### [DOD](DOD.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, data, design, determinism
-#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 24
-- Shared motifs: bridges, catch, connections, design, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 23
+- Shared motifs: bridges, catch, connections, data, design
+#### [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md)
+- Connection strength: 21
+- Shared motifs: bridges, catch, connections, data, design
+#### [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md)
+- Connection strength: 20
+- Shared motifs: bridges, connections, data, design, direct
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 20
+- Shared motifs: bridges, catch, connections, data, design
+#### [DOD × Catch-22](DOD-x-Catch-22.md)
+- Connection strength: 19
+- Shared motifs: bridges, catch, connections, data, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
