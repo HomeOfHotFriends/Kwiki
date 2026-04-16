@@ -667,17 +667,33 @@ def update_metadata(page: str, cluster: list, root: Path):
 #   merge_clusters    — union two page clusters, bias toward shared ancestors
 #   combine_voices    — render a passage as two voices simultaneously
 #   cross_generate    — generate a page synthesising two source pages
+#
+# Fibonacci weave ratios — consecutive Fibonacci pairs for natural interleaving:
+#   FIB_WEAVE_TIGHT  (2,1)  fib(3):fib(2)  — source A dominates, brief B interjections
+#   FIB_WEAVE_SPREAD (3,2)  fib(4):fib(3)  — A still leads, B has more voice
+#   FIB_WEAVE_EVEN   (5,3)  fib(5):fib(4)  — near-equal, golden-ratio convergence
 # ─────────────────────────────────────────────────────────────────────────────
 
-def weave_passages(passages_a: list, passages_b: list, ratio: tuple = (2, 1)) -> list:
+FIB_WEAVE_TIGHT  = (2, 1)   # fib(3) : fib(2)
+FIB_WEAVE_SPREAD = (3, 2)   # fib(4) : fib(3)
+FIB_WEAVE_EVEN   = (5, 3)   # fib(5) : fib(4)
+#   cross_generate    — generate a page synthesising two source pages
+# ─────────────────────────────────────────────────────────────────────────────
+
+def weave_passages(passages_a: list, passages_b: list, ratio: tuple = FIB_WEAVE_TIGHT) -> list:
     """
     Interleave two passage lists.
     passages_a / passages_b: [(source_stem, text), ...]
     ratio (a, b): take `a` passages from A then `b` from B, repeat.
     Returns a new flat list in woven order.
 
-    Example:
-        weave_passages(pa, pb, ratio=(2,1))
+    Default ratio is FIB_WEAVE_TIGHT = (2, 1) — a Fibonacci pair where source A
+    contributes twice as many passages as B, mirroring the golden-ratio descent.
+    Use FIB_WEAVE_SPREAD (3,2) for more balanced synthesis,
+    or FIB_WEAVE_EVEN (5,3) for near-equal voices.
+
+    Example with FIB_WEAVE_TIGHT:
+        weave_passages(pa, pb)
         → [pa[0], pa[1], pb[0], pa[2], pa[3], pb[1], ...]
     """
     result = []
@@ -792,7 +808,7 @@ def cross_generate(page_a: str, page_b: str, passages: dict, intent: str = "") -
             raw_a = passages.get(cid, [])[:1]
             raw_b = passages.get(cid, [])[-1:]
             if raw_a and raw_b:
-                woven = weave_passages(raw_a, raw_b, ratio=(1, 1))
+                woven = weave_passages(raw_a, raw_b, ratio=FIB_WEAVE_SPREAD)
             else:
                 woven = raw_a or raw_b
             voice = CONCEPT_VOICE.get(cid, 1)
