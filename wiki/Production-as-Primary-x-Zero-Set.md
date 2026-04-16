@@ -36,33 +36,40 @@
 - [Machines](Machines.md)
 
 ### Inbound Connections
-- [Desiring Machine](Desiring-Machine.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- [Machines](Machines.md)
+- [Production as Primary](Production-as-Primary.md)
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 22
-- Shared motifs: anti, bridges, code, connections, desiring
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 21
-- Shared motifs: anti, bridges, connections, desiring, direct
-#### [Machines](Machines.md)
-- Connection strength: 21
-- Shared motifs: anti, bridges, code, connections, desiring
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, connections, desiring, direct
+- Connection strength: 38
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 20
-- Shared motifs: anti, bridges, code, connections, direct
-#### [DOD](DOD.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, code, connections, direct
-#### [Production as Primary](Production-as-Primary.md)
-- Connection strength: 18
-- Shared motifs: anti, bridges, connections, desiring, direct
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Fiap pot](FIAP POT.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, code, connections, design
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 30
+- Shared motifs: bridges, code, connections, design, direct
+#### [Machines](Machines.md)
+- Connection strength: 29
+- Shared motifs: bridges, code, connections, design, desiring
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

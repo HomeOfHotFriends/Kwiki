@@ -7,6 +7,9 @@
 Pages with **no inbound links** from other wiki pages.
 These are candidates for linking in from related pages.
 
-*No orphans — every page is reachable. 🎉*
+**2 orphan(s):**
+
+- [Oedipal Machine](Oedipal-Machine.md)
+- [Te Reo and Code](Te-Reo-and-Code.md)
 
 > Cross-synthesis (`-x-`) and generated index files are excluded.

@@ -23,33 +23,40 @@
 - [Singularity](Singularity.md)
 
 ### Inbound Connections
-- No inbound links detected yet.
+- [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
+- [Catch 22](Catch-22.md)
+- [Content vs Creative](Content-vs-Creative.md)
+- [Fiap pot](FIAP POT.md)
+- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Frog In A Pot](Frog-In-A-Pot.md)
+- [Ira Kotahi](Ira-Kotahi.md)
+- [Shmup Genealogy](Shmup-Genealogy.md)
 
 ### Lateral Bridges
-#### [Content vs Creative](Content-vs-Creative.md)
-- Connection strength: 19
-- Shared motifs: bridges, catch, connections, content, creative
 #### [Fiap pot](FIAP POT.md)
-- Connection strength: 19
-- Shared motifs: bridges, catch, connections, content, creative
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, design, direct
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, connections, design, direct
 #### [Catch 22](Catch-22.md)
-- Connection strength: 17
-- Shared motifs: bridges, catch, connections, content, creative
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, catch, connections, design
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 26
+- Shared motifs: bridges, connections, design, direct, fiap
 #### [Shmup Genealogy](Shmup-Genealogy.md)
-- Connection strength: 16
-- Shared motifs: bridges, connections, direct, fiap, frog
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 15
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 15
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Singularity](Singularity.md)
-- Connection strength: 15
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Frog In A Pot](Frog-In-A-Pot.md)
-- Connection strength: 14
-- Shared motifs: bridges, connections, direct, fiap, frog
+- Connection strength: 26
+- Shared motifs: bridges, catch, connections, direct, enemy
+#### [Content vs Creative](Content-vs-Creative.md)
+- Connection strength: 25
+- Shared motifs: bridges, catch, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

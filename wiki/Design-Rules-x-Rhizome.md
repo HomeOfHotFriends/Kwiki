@@ -23,33 +23,40 @@
 - [Enemy Wave](Enemy-Wave.md)
 
 ### Inbound Connections
-- [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- [Anti OOPedipus](Anti-OOPedipus.md)
+- [Design Rules](Design-Rules.md)
+- [Desiring Machine](Desiring-Machine.md)
+- [Determinism](Determinism.md)
+- [DOD](DOD.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- [Enemy Wave](Enemy-Wave.md)
+- [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
 
 ### Lateral Bridges
-#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
-- Connection strength: 21
-- Shared motifs: bridges, connections, design, desiring, direct
-#### [Determinism](Determinism.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, connections, design, determinism
-#### [DOD](DOD.md)
-- Connection strength: 19
-- Shared motifs: anti, bridges, connections, design, determinism
-#### [Anti OOPedipus](Anti-OOPedipus.md)
-- Connection strength: 18
-- Shared motifs: anti, bridges, connections, design, desiring
-#### [Desiring Machine](Desiring-Machine.md)
-- Connection strength: 18
-- Shared motifs: anti, bridges, connections, desiring, direct
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
 #### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 18
-- Shared motifs: anti, bridges, connections, design, determinism
-#### [Design Rules](Design-Rules.md)
-- Connection strength: 17
-- Shared motifs: bridges, connections, design, determinism, direct
-#### [Enemy Wave](Enemy-Wave.md)
-- Connection strength: 17
-- Shared motifs: bridges, connections, design, determinism, direct
+- Connection strength: 34
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 31
+- Shared motifs: bridges, catch, code, connections, design
+#### [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md)
+- Connection strength: 30
+- Shared motifs: bridges, code, connections, design, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

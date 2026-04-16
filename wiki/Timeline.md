@@ -8,48 +8,73 @@ Sorted by **last git commit date** (most recent first).
 
 | Page | Last Updated | Type |
 |---|---|---|
-| [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 2026-04-16 | content |
 | [Anti OOPedipus](Anti-OOPedipus.md) | 2026-04-16 | content |
 | [Catch 22](Catch-22.md) | 2026-04-16 | content |
-| [Content vs Creative](Content-vs-Creative.md) | 2026-04-16 | content |
-| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) | 2026-04-16 | cross-synthesis |
-| [DOD](DOD.md) | 2026-04-16 | content |
-| [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md) | 2026-04-16 | cross-synthesis |
-| [Design Rules](Design-Rules.md) | 2026-04-16 | content |
 | [Desiring Machine](Desiring-Machine.md) | 2026-04-16 | content |
+| [Machines](Machines.md) | 2026-04-16 | content |
+| [Oedipal Machine](Oedipal-Machine.md) | 2026-04-16 | content |
+| [Production as Primary](Production-as-Primary.md) | 2026-04-16 | content |
+| [Rhizome](Rhizome.md) | 2026-04-16 | content |
+| [Shitting Machine](Shitting-Machine.md) | 2026-04-16 | content |
+| [Singularity](Singularity.md) | 2026-04-16 | content |
+| [Tokotoko](Tokotoko.md) | 2026-04-16 | content |
+| [Whakapapa](Whakapapa.md) | 2026-04-16 | content |
+| [The Marae](The-Marae.md) | 2026-04-16 | content |
+| [AI Singularity Te Reo](AI-Singularity-Te-Reo.md) | 2026-04-16 | content |
+| [Content vs Creative](Content-vs-Creative.md) | 2026-04-16 | content |
+| [DOD](DOD.md) | 2026-04-16 | content |
+| [Design Rules](Design-Rules.md) | 2026-04-16 | content |
 | [Determinism](Determinism.md) | 2026-04-16 | content |
-| [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md) | 2026-04-16 | cross-synthesis |
 | [Enemy Wave](Enemy-Wave.md) | 2026-04-16 | content |
-| [Fiap pot](FIAP POT.md) | 2026-04-16 | content |
-| [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md) | 2026-04-16 | cross-synthesis |
 | [Flow State](Flow-State.md) | 2026-04-16 | content |
-| [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md) | 2026-04-16 | cross-synthesis |
 | [Frog In A Pot](Frog-In-A-Pot.md) | 2026-04-16 | content |
-| [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md) | 2026-04-16 | cross-synthesis |
 | [Genealogy of j](Genealogy-of-j.md) | 2026-04-16 | content |
 | [Indigenous Proposal](Indigenous-Proposal.md) | 2026-04-16 | content |
 | [Ira Kotahi](Ira-Kotahi.md) | 2026-04-16 | content |
-| [Machines](Machines.md) | 2026-04-16 | content |
 | [Mauri](Mauri.md) | 2026-04-16 | content |
-| [Oedipal Machine](Oedipal-Machine.md) | 2026-04-16 | content |
 | [Positioning](Positioning.md) | 2026-04-16 | content |
-| [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md) | 2026-04-16 | cross-synthesis |
-| [Production as Primary](Production-as-Primary.md) | 2026-04-16 | content |
 | [Radiative](Radiative.md) | 2026-04-16 | content |
-| [Rhizome](Rhizome.md) | 2026-04-16 | content |
 | [Scripts](Scripts.md) | 2026-04-16 | content |
-| [Shitting Machine](Shitting-Machine.md) | 2026-04-16 | content |
-| [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md) | 2026-04-16 | cross-synthesis |
 | [Shmup Genealogy](Shmup-Genealogy.md) | 2026-04-16 | content |
 | [Simplicity of Parts](Simplicity-of-Parts.md) | 2026-04-16 | content |
-| [Singularity](Singularity.md) | 2026-04-16 | content |
 | [Taonga](Taonga.md) | 2026-04-16 | content |
-| [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md) | 2026-04-16 | cross-synthesis |
 | [Te Reo and Code](Te-Reo-and-Code.md) | 2026-04-16 | content |
 | [Te Whariki Pumotu](Te-Whariki-Pumotu.md) | 2026-04-16 | content |
-| [The Law](The-Law.md) | 2026-04-16 | content |
-| [The Marae](The-Marae.md) | 2026-04-16 | content |
-| [Tokotoko](Tokotoko.md) | 2026-04-16 | content |
-| [Whakapapa × Radiative](Whakapapa-x-Radiative.md) | 2026-04-16 | cross-synthesis |
-| [Whakapapa](Whakapapa.md) | 2026-04-16 | content |
 | [Zero Set](Zero-Set.md) | 2026-04-16 | content |
+| [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md) | 2026-04-16 | cross-synthesis |
+| [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md) | 2026-04-16 | cross-synthesis |
+| [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md) | 2026-04-16 | cross-synthesis |
+| [Fiap pot](FIAP POT.md) | 2026-04-16 | content |
+| [Flow-State × Design-Rules](Flow-State-x-Design-Rules.md) | 2026-04-16 | cross-synthesis |
+| [Frog-In-A-Pot × Singularity](Frog-In-A-Pot-x-Singularity.md) | 2026-04-16 | cross-synthesis |
+| [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md) | 2026-04-16 | cross-synthesis |
+| [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md) | 2026-04-16 | cross-synthesis |
+| [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md) | 2026-04-16 | cross-synthesis |
+| [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md) | 2026-04-16 | cross-synthesis |
+| [The Law](The-Law.md) | 2026-04-16 | content |
+| [Whakapapa × Radiative](Whakapapa-x-Radiative.md) | 2026-04-16 | cross-synthesis |
+| [Anti-OOPedipus × Radiative](Anti-OOPedipus-x-Radiative.md) | — | cross-synthesis |
+| [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md) | — | cross-synthesis |
+| [Catch-22 × Production-as-Primary](Catch-22-x-Production-as-Primary.md) | — | cross-synthesis |
+| [DOD × Catch-22](DOD-x-Catch-22.md) | — | cross-synthesis |
+| [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md) | — | cross-synthesis |
+| [Enemy-Wave × Singularity](Enemy-Wave-x-Singularity.md) | — | cross-synthesis |
+| [Enemy-Wave × The-Marae](Enemy-Wave-x-The-Marae.md) | — | cross-synthesis |
+| [Flow-State × Zero-Set](Flow-State-x-Zero-Set.md) | — | cross-synthesis |
+| [Genealogy-of-j × Anti-OOPedipus](Genealogy-of-j-x-Anti-OOPedipus.md) | — | cross-synthesis |
+| [Genealogy-of-j × Whakapapa](Genealogy-of-j-x-Whakapapa.md) | — | cross-synthesis |
+| [Machines × Radiative](Machines-x-Radiative.md) | — | cross-synthesis |
+| [Machines × The-Law](Machines-x-The-Law.md) | — | cross-synthesis |
+| [Mauri × Catch-22](Mauri-x-Catch-22.md) | — | cross-synthesis |
+| [Oedipal-Machine × Zero-Set](Oedipal-Machine-x-Zero-Set.md) | — | cross-synthesis |
+| [Production-as-Primary × The-Law](Production-as-Primary-x-The-Law.md) | — | cross-synthesis |
+| [Radiative × Singularity](Radiative-x-Singularity.md) | — | cross-synthesis |
+| [Scripts × Singularity](Scripts-x-Singularity.md) | — | cross-synthesis |
+| [Scripts × Whakapapa](Scripts-x-Whakapapa.md) | — | cross-synthesis |
+| [Shmup-Genealogy × Radiative](Shmup-Genealogy-x-Radiative.md) | — | cross-synthesis |
+| [Taonga × Rhizome](Taonga-x-Rhizome.md) | — | cross-synthesis |
+| [Te-Reo-and-Code × Anti-OOPedipus](Te-Reo-and-Code-x-Anti-OOPedipus.md) | — | cross-synthesis |
+| [Te-Reo-and-Code × Singularity](Te-Reo-and-Code-x-Singularity.md) | — | cross-synthesis |
+| [The-Law × Singularity](The-Law-x-Singularity.md) | — | cross-synthesis |
+| [Whakapapa × Te-Whariki-Pumotu](Whakapapa-x-Te-Whariki-Pumotu.md) | — | cross-synthesis |
+| [Whakapapa × Zero-Set](Whakapapa-x-Zero-Set.md) | — | cross-synthesis |

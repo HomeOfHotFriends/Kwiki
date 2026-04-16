@@ -111,37 +111,40 @@ rā ka mōhio tātou kua tuituia te AI ki roto i tō tātou hā, i tō tātou ma
 - [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
 
 ### Inbound Connections
+- [Anti-OOPedipus × The-Marae](Anti-OOPedipus-x-The-Marae.md)
+- [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- [Determinism](Determinism.md)
+- [DOD](DOD.md)
+- [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
 - [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- [Taonga](Taonga.md)
-- [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- [Fiap pot](FIAP POT.md)
 
 ### Lateral Bridges
 #### [Te-Reo-and-Code × Machines](Te-Reo-and-Code-x-Machines.md)
-- Connection strength: 32
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- Connection strength: 28
-- Shared motifs: anti, bridges, code, connections, data
-#### [DOD](DOD.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, data
+- Connection strength: 42
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Enemy-Wave × Catch-22](Enemy-Wave-x-Catch-22.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, connections, direct, divergence
+- Connection strength: 40
+- Shared motifs: anti, bridges, catch, code, connections
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 39
+- Shared motifs: anti, bridges, catch, code, connections
 #### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
-- Connection strength: 26
-- Shared motifs: bridges, connections, design, direct, divergence
-#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
-- Connection strength: 26
-- Shared motifs: anti, bridges, code, connections, data
-#### [Determinism](Determinism.md)
-- Connection strength: 25
-- Shared motifs: anti, bridges, connections, data, design
-#### [Zero Set](Zero-Set.md)
-- Connection strength: 24
-- Shared motifs: anti, bridges, code, connections, data
+- Connection strength: 37
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Design-Rules × Rhizome](Design-Rules-x-Rhizome.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Production-as-Primary × Zero-Set](Production-as-Primary-x-Zero-Set.md)
+- Connection strength: 36
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Scripts × Whakapapa](Scripts-x-Whakapapa.md)
+- Connection strength: 32
+- Shared motifs: anti, bridges, catch, code, connections
+#### [Whakapapa × Radiative](Whakapapa-x-Radiative.md)
+- Connection strength: 32
+- Shared motifs: bridges, catch, code, connections, design
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.

@@ -125,36 +125,36 @@ singularity rānei, i te wā ka mutu te hiahia o te tangata ki a ia.**
 - [Anti OOPedipus](Anti-OOPedipus.md)
 - [Content vs Creative](Content-vs-Creative.md)
 - [Design Rules](Design-Rules.md)
+- [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
 - [Determinism](Determinism.md)
 - [DOD](DOD.md)
 - [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
-- [Enemy Wave](Enemy-Wave.md)
 
 ### Lateral Bridges
-#### [Indigenous Proposal](Indigenous-Proposal.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, hub, inbound
 #### [Zero Set](Zero-Set.md)
-- Connection strength: 25
-- Shared motifs: bridges, connections, direct, dod, enemy
+- Connection strength: 30
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Genealogy-of-j × The-Marae](Genealogy-of-j-x-The-Marae.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Shmup-Genealogy × The-Law](Shmup-Genealogy-x-The-Law.md)
+- Connection strength: 29
+- Shared motifs: anti, bridges, code, connections, direct
+#### [Design-Rules × The-Marae](Design-Rules-x-The-Marae.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
+#### [DOD](DOD.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
+#### [DOD × Anti-OOPedipus](DOD-x-Anti-OOPedipus.md)
+- Connection strength: 28
+- Shared motifs: anti, bridges, code, connections, direct
 #### [Mauri](Mauri.md)
-- Connection strength: 24
-- Shared motifs: bridges, connections, direct, dod, hub
-#### [AI Singularity Te Reo](AI-Singularity-Te-Reo.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Design Rules](Design-Rules.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, enemy
-#### [Ira Kotahi](Ira-Kotahi.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
-#### [Simplicity of Parts](Simplicity-of-Parts.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, dod, enemy
-#### [Singularity](Singularity.md)
-- Connection strength: 23
-- Shared motifs: bridges, connections, direct, hub, inbound
+- Connection strength: 28
+- Shared motifs: bridges, connections, direct, dod, genealogy
+#### [Te Whariki Pumotu](Te-Whariki-Pumotu.md)
+- Connection strength: 27
+- Shared motifs: anti, bridges, code, connections, direct
 
 ### Recursive Prompt
 - In each section above, add at least one sentence that names one direct and one lateral page together.
