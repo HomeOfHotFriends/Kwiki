@@ -34,7 +34,9 @@ You can override ports with env vars:
 ## Admin Metrics Source
 
 `kwiki-admin` reads metadata from `../scripts/metadata.json` by default.
+It also scans `../wiki` to report markdown file counts and latest modified time.
 
 You can override this path with:
 
 - `KWIKI_METADATA_PATH`
+- `KWIKI_WIKI_PATH`
