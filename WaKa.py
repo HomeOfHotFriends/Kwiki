@@ -441,11 +441,20 @@ def select_passages(cluster: list, passages: dict, max_per: int = 2) -> list:
     """
     Select passages for the cluster.
     Returns [(concept_id, source_stem, passage_text), ...]
-    Primary concept gets 2 passages, secondaries get 1.
+
+    Passage caps follow the Fibonacci sequence by cluster position:
+      position 0 → fib_cap(0) = 3   (primary / mauri concept dominates)
+      position 1 → fib_cap(1) = 2
+      position 2 → fib_cap(2) = 1
+      position 3+ → fib_cap(3) = 1
+
+    The Fibonacci descent means the page's core concept has proportionally more
+    text than supporting concepts — depth through simplicity, not uniformity.
+    `max_per` acts as a hard ceiling above the fibonacci value.
     """
     selected = []
     for i, cid in enumerate(cluster):
-        cap = max_per if i < 5 else 1
+        cap = min(max_per, fib_cap(i)) if max_per < fib_cap(0) else fib_cap(i)
         for source, text in passages.get(cid, [])[:cap]:
             selected.append((cid, source, text))
     return selected
