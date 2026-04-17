@@ -23,6 +23,11 @@ def run_waka_on(path, outdir):
         waka_target = WAKA
         with open(waka_source, "r") as src, open(waka_target, "w") as dst:
             dst.write(src.read())
+        # Ensure WaKa.py is executable
+        try:
+            os.chmod(waka_target, 0o755)
+        except PermissionError:
+            print(f"Warning: Could not set executable permission for {waka_target}")
         result = subprocess.run([
             str(WAKA), str(path)
         ], capture_output=True, text=True, check=True)
@@ -30,9 +35,10 @@ def run_waka_on(path, outdir):
         outfile = outdir / (path.name + ".waka.txt")
         with open(outfile, "w") as f:
             f.write(result.stdout)
+    except PermissionError as e:
+        print(f"Permission error: {e} (path: {path})")
     except subprocess.CalledProcessError as e:
-        # Optionally log errors or skip
-        pass
+        print(f"Subprocess error: {e} (path: {path})")
 
 def recurse_and_run_waka(current, outdir):
     if current.name == "internet_2.9":
