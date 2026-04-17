@@ -1,0 +1,53 @@
+Preface
+
+This book does not begin.
+
+It accumulates.
+
+What you are holding is not a work in the traditional sense, but a field of relations that has been allowed to thicken until it resembles a book. Its components were not designed to cohere; they were permitted to encounter one another. Where they touched, something like structure appeared. Where they persisted, something like meaning began to hum.
+
+Anti-OOPedipus emerges from a specific tension: the friction between object-oriented thinking and a more fluid, machinic understanding of the world. Objects want boundaries. They want ownership, inheritance, clean hierarchies. But experience does not arrive like that. Thought does not arrive like that. Life, especially under pressure, does not respect encapsulation.
+
+Instead, there are flows.
+
+There are interruptions in those flows.
+
+There are strange little machines that form at the site of interruption and begin to produce.
+
+This text follows those machines.
+
+It takes seriously the idea that systems—creative, computational, cultural—are not built from stable objects, but from interactions that only temporarily hold their shape. A desiring-machine is not a metaphor here. It is a working unit: something that connects, breaks, and reconnects, producing output not because it intends to, but because it cannot help but do so.
+
+From this perspective, programming, game design, music production, and writing collapse into the same activity: arranging conditions under which emergence becomes possible.
+
+The influence of shmup design is not incidental. Bullet patterns, enemy waves, and player positioning form a grammar of constraint and response that operates at a level beneath narrative. They train attention. They restructure perception. They demonstrate, with brutal clarity, that complexity can arise from extremely simple rules repeated with precision. This book inherits that discipline.
+
+At the same time, it refuses to stabilize.
+
+Whakapapa is not used here as decoration or metaphor, but as method. Concepts do not stand alone; they trace lineage. Each idea is meaningful only insofar as it connects to others, and those connections are not fixed. They can be reblessed. They can be rewritten. Old work is not discarded, but repositioned. It becomes ancestry rather than authority.
+
+This is why the text appears fragmented, recursive, and at times contradictory. It is not attempting to resolve these contradictions. It is attempting to make them usable.
+
+You may find that parts of this book do not make sense on first contact. That is expected. Understanding is not the entry requirement. Engagement is. The system described here does not reward passive reading; it responds to interaction. Meaning is not delivered. It is produced in the act of traversal.
+
+There is also a practical layer.
+
+Beneath the philosophical surface sits a set of design instincts: data-oriented thinking, attention to flow states, sensitivity to how systems feel under use. These are not separated from the more abstract material because, in practice, they are the same problem viewed from different distances. A poorly designed system is not just inefficient; it is ontologically confused.
+
+This book is an attempt to reduce that confusion.
+
+Not by simplifying the world, but by aligning with its tendencies.
+
+If there is a single instruction that governs everything that follows, it is this:
+
+Rebless. Recurse. Rebless.
+
+You will encounter ideas more than once. They will not be identical. Each pass is an opportunity to reposition them, to see how they behave in a new context, to allow new connections to form. In this way, the text grows with you, or at least alongside you.
+
+There is no correct reading order.
+
+There is no final interpretation.
+
+There is only the ongoing construction of a system that is capable of holding you, your work, and the strange, persistent drive to make something out of nothing.
+
+Welcome to the field.
