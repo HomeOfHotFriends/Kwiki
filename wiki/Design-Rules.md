@@ -6,15 +6,14 @@
 
 ## Simplicity of Parts
 
-**The design philosophy can be summed up as: extreme depth of the whole achieved through
-extreme simplicity of the parts.**
 
-*— esprade_doc*
+**The design philosophy can be summed up as: extreme depth of the whole achieved through extreme simplicity of the parts.**
 
-**The non bullet hell games in this design school have These games are all, first and
-foresmost, made up of simple parts.**
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
-*— esprade_doc*
+**The non bullet hell games in this design school have These games are all, first and foresmost, made up of simple parts.**
+
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
 
 *Whakapapa: [The Law](the-law) · [Data-Oriented Design](dod) · [Enemy Wave](enemy-wave) · [Esp Ra De](esprade)*
@@ -23,20 +22,18 @@ foresmost, made up of simple parts.**
 
 ## Enemy Wave
 
-```
-I had correctly identified that this density was enabled and/or produced by the fact that
-any obstacle present in any given moment provided a challenge unique to what had come
-before.
+
+```text
+I had correctly identified that this density was enabled and/or produced by the fact that any obstacle present in any given moment provided a challenge unique to what had come before.
 ```
 
-*— esprade_doc*
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
-```
-had correctly identified that this density was enabled and/or produced by the fact that any
-obstacle present in any given moment provided a challenge unique to what had come before.
+```text
+had correctly identified that this density was enabled and/or produced by the fact that any obstacle present in any given moment provided a challenge unique to what had come before.
 ```
 
-*— esprade_doc*
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
 
 *Whakapapa: [Esp Ra De](esprade) · [Positioning](positioning) · [Simplicity of Parts](simplicity-of-parts) · [Data-Oriented Design](dod)*
@@ -45,15 +42,12 @@ obstacle present in any given moment provided a challenge unique to what had com
 
 ## Positioning
 
-```
-seemed to be impossible to follow in a way that made reactions possible; no standard shmup
-approached such as bullet streaming and cut backs seemed to works; the affect of initial
-position seemed to be nonexistant both on the x and y axis nor did staying in any particular
-portion of the screen seem to help; and attempting bullet manipulation to create gaps
-created disasterous results.
+
+```text
+seemed to be impossible to follow in a way that made reactions possible; no standard shmup approached such as bullet streaming and cut backs seemed to works; the affect of initial position seemed to be nonexistant both on the x and y axis nor did staying in any particular portion of the screen seem to help; and attempting bullet manipulation to create gaps created disasterous results.
 ```
 
-*— esprade_doc*
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
 
 *Whakapapa: [Esp Ra De](esprade) · [Enemy Wave](enemy-wave) · [Data-Oriented Design](dod) · [The Law](the-law)*
@@ -62,12 +56,12 @@ created disasterous results.
 
 ## Data-Oriented Design
 
-```
-I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I
-was on level one in combination with the tiny
+
+```text
+I didn’t know what a cut back was, and 90% of my successful dodges were due to the fact I was on level one in combination with the tiny
 ```
 
-*— esprade_doc*
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
 
 *Whakapapa: [Te Whariki Pumotu](te-whariki-pumotu) · [Simplicity of Parts](simplicity-of-parts) · [Zero Set](zero-set) · [Enemy Wave](enemy-wave) · [The Law](the-law)*
@@ -76,10 +70,10 @@ was on level one in combination with the tiny
 
 ## The Law
 
-**The design philosophy can be summed up as: extreme depth of the whole achieved through
-extreme simplicity of the parts.**
 
-*— esprade_doc*
+**The design philosophy can be summed up as: extreme depth of the whole achieved through extreme simplicity of the parts.**
+
+<span style="font-style:italic; color:#888;">esprade_doc</span>
 
 
 *Whakapapa: [Simplicity of Parts](simplicity-of-parts) · [Esp Ra De](esprade) · [Data-Oriented Design](dod) · [Taonga](taonga) · [Mauri](mauri)*
@@ -89,7 +83,7 @@ extreme simplicity of the parts.**
 ## Whakapapa Connections
 
 | Concept | Tupuna |
-|---|---|
+| --- | --- |
 | [Esp Ra De](esprade) | [Simplicity of Parts](simplicity-of-parts), [Enemy Wave](enemy-wave), [Positioning](positioning) |
 | [Te Whariki Pumotu](te-whariki-pumotu) | [Data-Oriented Design](dod), [Zero Set](zero-set), [Whakapapa](whakapapa) |
 | [Zero Set](zero-set) | [Te Whariki Pumotu](te-whariki-pumotu), [Data-Oriented Design](dod), [Simplicity of Parts](simplicity-of-parts) |
