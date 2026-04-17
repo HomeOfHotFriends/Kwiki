@@ -192,3 +192,70 @@ extreme simplicity of the parts.**
 
 =======
 >>>>>>> origin/copilot/add-master-lens-gamification-wiki
+# Kwiki — RhizHome
+
+_Tagline:_ An alien utopian internet. Grow sideways.
+
+## TL;DR
+Kwiki (RhizHome) is an experimental, rhizomatic network that reframes online life as lateral, communal, and art-first. It rejects commodification and hierarchy, instead encouraging high-density, deterministic interactions that produce deep emergent experiences from very simple parts.
+
+## Vision
+Imagine an internet that grows like a rhizome rather than a tree: lateral, resilient, and collective. Kwiki puts the Plantling at the center — a user-entity that preserves the "I" while always participating in a "we." By explicitly removing currency, advertising, and centralized capture mechanisms, Kwiki cultivates a commons where art, knowledge, and play are gifts, not products.
+
+## Philosophy & Inspirations
+- The Law: extreme depth of the whole achieved through extreme simplicity of the parts. Small, deterministic building blocks, interacting at scale, yield profound emergent complexity.
+- Arcade design & bullet-hell mechanics: minimal deterministic rules + precise spatial logic = extreme density of experience. Inspired by shmups (e.g., Esp Ra De), this aesthetic treats interactions like choreography.
+- Deleuze & Guattari (Anti‑Oedipus): rhizomatic ontology — non-hierarchical, anti-arborescent.
+- Indigenous epistemologies: Whakapapa (genealogy of relations) and Mauri (vital life-force) bind the network socially and spiritually.
+- Data-Oriented Design (DOD) and atomic systems: efficient, math-first structures (e.g., the "Te Whariki Pumotu" grid) power spatial/temporal logic.
+
+## Core Concepts
+- Plantling — the user-entity: grows sideways, composes with others, keeps individuality while forming collectives.
+- The Law — architectural axiom: fewer, simpler parts; higher whole-depth.
+- Flow State / Desiring-Machine — the network as a production apparatus where users sustain and ride the flow; creators sometimes act as "Shitting Machines" to keep the continuum of production.
+- Whakapapa & Mauri — indigenous frameworks embedded into graphing and content affinity; connections are genealogical, not algorithmically-pivoted.
+
+## Architecture (conceptual)
+- Data-oriented core: contiguous, cache-friendly structures; matrices for spatial-temporal operations.
+- Te Whariki Pumotu: an atomic grid concept used for efficient, deterministic position/state evaluation and propagation.
+- Deterministic rule set: interactions are explicit and reproducible — emergent density comes from many interacting rules rather than complex single nodes.
+- Minimal surface APIs: small primitives composed like LEGO, enabling unpredictable but robust emergent behavior.
+
+## What Kwiki is not
+- Not an ad platform.
+- Not a market for attention or currency-driven status.
+- Not centralized corporate social media.
+
+## Use cases
+- Collective art spaces where artifacts are gifts, not commodities.
+- Playable knowledge graphs: interactive learning nodes bound by Whakapapa lineage.
+- Experimental realtime simulacra mimicking dense arcade flows.
+- Distributed creative labs for lateral co‑creation.
+
+## Getting started (dev notes / placeholders)
+- Repo contains: conceptual docs, prototype grid engines, and example Plantling specs. (Expand with code, examples, and interactions.)
+- Recommended stack: lean runtime (Rust/Go/C++), WebAssembly frontends for deterministic client simulation, and a DOD-friendly datastore.
+- Tests: deterministic seeds, deterministic replay of interactions, and property-based tests for emergent invariants.
+
+## Roadmap (high level)
+1. Reference implementation of Te Whariki Pumotu (grid engine)
+2. Plantling spec + state machine
+3. Realtime deterministic simulation + replay
+4. UX prototypes emphasizing lateral growth metaphors
+5. Indigenous epistemology consults for culturally-aligned implementation of Whakapapa/Mauri
+6. Tooling and docs for community-led extensions
+
+## Contributing
+This is an open, exploratory project. We welcome artists, designers, engineers, and cultural practitioners. Please:
+- Read CODE_OF_CONDUCT.md
+- Open issues for feature proposals or design threads
+- Submit small, focused PRs aligned with The Law: keep parts simple and testable
+
+## License
+(Add license here — e.g., MIT/Apache/Community license — and any cultural licensing or usage stipulations relevant to Whakapapa/Mauri content.)
+
+## Contact
+HomeOfHotFriends — community@homeofhotfriends.example (or use repo issues/discussions)
+
+---
+Kwiki is a manifesto and a playground. It asks you to play sideways.
