@@ -1,0 +1,84 @@
+InSite
+The site of InSight
+A fixed field console for relational media, designed for designers.
+
+Overview
+InSite is a small, self-contained media console built around a single fixed 2D field. Instead of running programs, it hosts relations: cards bend the field, the clock sweeps it, and designers read and intervene in the resulting patterns.
+
+This proposal outlines an incubator-friendly path for developing InSite with InSight: first as an emulator for exploration and visual design, then as a physical controller, and finally as a dedicated hardware console.
+
+What InSite Is
+A console, not a stack
+InSite is a coordinate-native execution field, canonically a 19 × 19 grid. Every coordinate is meaningful: identity, address, and discrete value collapse into position.
+
+There is no operating system, no window manager, no file hierarchy. There is a field, a structural refresh, and removable cards that define how relations flow.
+
+One field, one function, one wave, one clock
+The core design law is extreme simplicity of parts for extreme depth of whole:
+
+One field: a single fixed grid as the only execution space.
+One function: one global relational update regime.
+One wave: a structured sweep across the field.
+One clock: time is the sweep itself, not an abstract timer.
+Everything interesting happens inside that constraint.
+
+Cards, Slots, and the Field
+Cards as behaviour shards
+InSite uses SD cards, but not as file storage. Each card is a behaviour shard:
+
+Relational constraints and transformation tendencies.
+Intensity mappings derived from position and relation.
+Interpretations of local patterns as "particles" or motifs.
+A card does not contain a game, a brush set, or a song. It defines how the field can behave.
+
+Slots as context
+InSite treats slots as part of the language, not empty plumbing. The same card in a different slot behaves differently because slot position acts as a contextual transform on the rules.
+
+The active system state is not a single program but a configuration:
+
+field + card A @ slot 1 + card B @ slot 2 + card C @ slot 3 → emergent executable field
+
+A "game", "book", "instrument", or "editor" is a particular card configuration and reading of that field.
+
+Why This Belongs at InSight
+A console for graphic thinking
+InSite is built for visual and spatial thinkers. Designers can literally place behaviour on a grid, watch it traverse and deform, and treat the resulting patterns as typography, layout, animation, or diagram.
+
+It is a tool for exploring repetition, interference, and asymmetry, all inside a finite, legible field.
+
+InSite as the site of InSight
+The console is the site: the place where structure, traversal, and interference happen. The working name deliberately matches InSight's practice:
+
+InSite: the concrete field, the working surface.
+InSight: the design practice that reads, shapes, and extends what appears on that field.
+The incubator becomes a place where design and computation meet on equal terms.
+
+Proposed Timeline
+Phase 1 — Fantasy console (emulation)
+Build an InSite emulator: a desktop application that implements the 19 × 19 field, card slots, sweep patterns, and controller injections in software. This is where InSight's designers can start playing: defining card sets, designing visualizations, and exploring what kinds of layouts, animations, and interactive pieces emerge.
+
+Phase 2 — Hardware controller
+Develop a modular physical controller for the emulator: knobs, sliders, pads, maybe a small track surface. The controller does not send commands like "move" or "play"; it injects relations into the field: biases, links, and deformations. The goal is to make asymmetry and intervention tactile.
+
+Phase 3 — Dedicated InSite console
+Move the field into hardware: a PCB-based console with SD-card slots and a built-in display. At this stage, InSite becomes a standalone object in the studio: designers can plug in behaviour shards, manipulate the field via the controller, and capture stills or sequences as raw material for client work, type experiments, identities, and installations.
+
+Creative Use Cases for InSight
+Systems-driven identity
+Use InSite fields as the engine behind living logos and identity systems: a set of cards and sweep patterns defines a brand's behaviour, not just its static mark.
+
+Typographic instruments
+Treat the grid as a typographic space. Cards define letter behaviour; the controller becomes a way to "play" type structures over time.
+
+Exhibition and installation
+Use the hardware console as a gallery object: visitors manipulate InSite directly, generating patterns that can be printed, projected, or woven into other media.
+
+Why an Incubator, Not a Product Brief
+InSite is deliberately small in surface and deep in behaviour. It sits in between fields: computation, graphic design, interaction, and instrument building. An incubator is the right frame because the project needs a studio that is comfortable living in those overlaps.
+
+InSight brings one crucial thing that a pure engineering shop does not: a practiced sensitivity to form, rhythm, composition, and client-facing storytelling. InSite offers a new substrate; InSight can help turn it into a usable, communicable tool.
+
+Closing Thought
+InSite is a console, not a stack; a field, not a feed. It does not run apps. It hosts relations. The proposal is simple: build a small, legible machine whose job is to let patterns of asymmetry appear, and then let designers at InSight turn those patterns into work.
+
+InSite — a field console proposal for InSight’s incubator.
