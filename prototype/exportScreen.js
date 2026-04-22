@@ -28,30 +28,56 @@ export function showExport(state) {
 }
 
 function exportHTML(state) {
-  // HTML export: words with inline style for volume (font-size) and pitch deviation (color)
+  // HTML export: font size = word volume deviation, color = pitch deviation, bold/italic = region volume deviation
   let html = `<div style=\"line-height:2\">`;
   const perf = state.performance;
-  // Compute global pitch baseline (mean of all word means)
-  let allPitches = [];
+  // Compute global pitch and volume baselines
+  let allPitches = [], allVolumes = [];
   for (let i=0; i<state.tokens.length; ++i) {
     const p = perf.wordData[i]?.pitch || [];
+    const v = perf.wordData[i]?.volume || [];
     if (p.length) allPitches.push(p.reduce((a,b)=>a+b,0)/p.length);
+    if (v.length) allVolumes.push(v.reduce((a,b)=>a+b,0)/v.length);
   }
-  const baseline = allPitches.length ? allPitches.reduce((a,b)=>a+b,0)/allPitches.length : 150;
-  // Compute stddev for normalization
-  const std = allPitches.length ? Math.sqrt(allPitches.map(x => (x-baseline)**2).reduce((a,b)=>a+b,0)/allPitches.length) : 1;
+  const pitchBaseline = allPitches.length ? allPitches.reduce((a,b)=>a+b,0)/allPitches.length : 150;
+  const pitchStd = allPitches.length ? Math.sqrt(allPitches.map(x => (x-pitchBaseline)**2).reduce((a,b)=>a+b,0)/allPitches.length) : 1;
+  const volBaseline = allVolumes.length ? allVolumes.reduce((a,b)=>a+b,0)/allVolumes.length : 0.1;
+  const volStd = allVolumes.length ? Math.sqrt(allVolumes.map(x => (x-volBaseline)**2).reduce((a,b)=>a+b,0)/allVolumes.length) : 1;
+  // Compute region volume deviations
+  let regionStyles = [];
+  for (let r=0; r<perf.regions.length; ++r) {
+    const reg = perf.regions[r];
+    const start = reg.start;
+    const end = reg.end !== null ? reg.end : state.tokens.length;
+    let regVols = [];
+    for (let i=start; i<end; ++i) {
+      const v = perf.wordData[i]?.volume || [];
+      if (v.length) regVols.push(v.reduce((a,b)=>a+b,0)/v.length);
+    }
+    const regAvg = regVols.length ? regVols.reduce((a,b)=>a+b,0)/regVols.length : volBaseline;
+    const regDev = regAvg - volBaseline;
+    // Style: bold if above baseline, italic if below, both if much above
+    let style = '';
+    if (regDev > volStd*0.5) style = 'font-weight:bold;';
+    if (regDev < -volStd*0.5) style = 'font-style:italic;';
+    if (regDev > volStd*1.2) style = 'font-weight:bold;font-style:italic;';
+    regionStyles.push({start,end,style});
+  }
+  // Render words
   for (let i=0; i<state.tokens.length; ++i) {
     const v = perf.wordData[i]?.volume || [];
     const p = perf.wordData[i]?.pitch || [];
-    const avg = v.length ? v.reduce((a,b)=>a+b,0)/v.length : 0.1;
-    const avgP = p.length ? p.reduce((a,b)=>a+b,0)/p.length : 0;
-    const size = 1 + avg*2;
-    // Map pitch deviation to color (blue=below, red=above, gray=neutral)
+    const avgV = v.length ? v.reduce((a,b)=>a+b,0)/v.length : volBaseline;
+    const avgP = p.length ? p.reduce((a,b)=>a+b,0)/p.length : pitchBaseline;
+    // Font size: deviation from baseline
+    let zV = volStd > 0 ? (avgV - volBaseline) / volStd : 0;
+    zV = Math.max(-2, Math.min(2, zV));
+    const size = 1 + zV*0.7; // moderate scaling
+    // Pitch color
     let color = '#333';
-    if (avgP > 0 && std > 0) {
-      let z = (avgP - baseline) / std;
-      z = Math.max(-2, Math.min(2, z)); // clamp
-      // z < 0: blue, z > 0: red, z ~ 0: gray
+    if (avgP > 0 && pitchStd > 0) {
+      let z = (avgP - pitchBaseline) / pitchStd;
+      z = Math.max(-2, Math.min(2, z));
       if (z < 0) {
         const t = Math.abs(z)/2;
         const r = Math.round(80*(1-t));
@@ -68,7 +94,15 @@ function exportHTML(state) {
         color = '#333';
       }
     }
-    html += `<span style=\"font-size:${size}em;color:${color}\">${state.tokens[i]}</span> `;
+    // Region style
+    let regStyle = '';
+    for (let r=0; r<regionStyles.length; ++r) {
+      if (i >= regionStyles[r].start && i < regionStyles[r].end) {
+        regStyle = regionStyles[r].style;
+        break;
+      }
+    }
+    html += `<span style=\"font-size:${size}em;color:${color};${regStyle}\">${state.tokens[i]}</span> `;
   }
   html += `</div>`;
   return html;
