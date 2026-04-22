@@ -23,7 +23,7 @@ export function showExport(state) {
       performance: state.performance
     }, null, 2);
     downloadFile('performance.json', json, 'application/json');
-  };
+  };t
   div.querySelector('#export-preview').innerHTML = exportHTML(state);
 }
 
