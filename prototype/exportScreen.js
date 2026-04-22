@@ -28,25 +28,47 @@ export function showExport(state) {
 }
 
 function exportHTML(state) {
-  // HTML export: words with inline style for volume (font-size) and pitch (color)
-  let html = `<div style="line-height:2">`;
+  // HTML export: words with inline style for volume (font-size) and pitch deviation (color)
+  let html = `<div style=\"line-height:2\">`;
   const perf = state.performance;
+  // Compute global pitch baseline (mean of all word means)
+  let allPitches = [];
+  for (let i=0; i<state.tokens.length; ++i) {
+    const p = perf.wordData[i]?.pitch || [];
+    if (p.length) allPitches.push(p.reduce((a,b)=>a+b,0)/p.length);
+  }
+  const baseline = allPitches.length ? allPitches.reduce((a,b)=>a+b,0)/allPitches.length : 150;
+  // Compute stddev for normalization
+  const std = allPitches.length ? Math.sqrt(allPitches.map(x => (x-baseline)**2).reduce((a,b)=>a+b,0)/allPitches.length) : 1;
   for (let i=0; i<state.tokens.length; ++i) {
     const v = perf.wordData[i]?.volume || [];
     const p = perf.wordData[i]?.pitch || [];
     const avg = v.length ? v.reduce((a,b)=>a+b,0)/v.length : 0.1;
     const avgP = p.length ? p.reduce((a,b)=>a+b,0)/p.length : 0;
     const size = 1 + avg*2;
-    // Map pitch to color (blue=low, red=high)
+    // Map pitch deviation to color (blue=below, red=above, gray=neutral)
     let color = '#333';
-    if (avgP > 0) {
-      const minP = 80, maxP = 400;
-      const t = Math.max(0, Math.min(1, (avgP-minP)/(maxP-minP)));
-      const r = Math.round(50 + 205*t);
-      const b = Math.round(255 - 205*t);
-      color = `rgb(${r},60,${b})`;
+    if (avgP > 0 && std > 0) {
+      let z = (avgP - baseline) / std;
+      z = Math.max(-2, Math.min(2, z)); // clamp
+      // z < 0: blue, z > 0: red, z ~ 0: gray
+      if (z < 0) {
+        const t = Math.abs(z)/2;
+        const r = Math.round(80*(1-t));
+        const g = Math.round(80*(1-t)+120*t);
+        const b = Math.round(255 - 100*t);
+        color = `rgb(${r},${g},${b})`;
+      } else if (z > 0) {
+        const t = z/2;
+        const r = Math.round(255 - 100*t);
+        const g = Math.round(80*(1-t)+120*t);
+        const b = Math.round(80*(1-t));
+        color = `rgb(${r},${g},${b})`;
+      } else {
+        color = '#333';
+      }
     }
-    html += `<span style="font-size:${size}em;color:${color}">${state.tokens[i]}</span> `;
+    html += `<span style=\"font-size:${size}em;color:${color}\">${state.tokens[i]}</span> `;
   }
   html += `</div>`;
   return html;
