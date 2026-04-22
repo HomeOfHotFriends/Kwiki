@@ -28,14 +28,25 @@ export function showExport(state) {
 }
 
 function exportHTML(state) {
-  // Simple HTML export: words with inline style for volume (font-size)
+  // HTML export: words with inline style for volume (font-size) and pitch (color)
   let html = `<div style="line-height:2">`;
   const perf = state.performance;
   for (let i=0; i<state.tokens.length; ++i) {
     const v = perf.wordData[i]?.volume || [];
+    const p = perf.wordData[i]?.pitch || [];
     const avg = v.length ? v.reduce((a,b)=>a+b,0)/v.length : 0.1;
+    const avgP = p.length ? p.reduce((a,b)=>a+b,0)/p.length : 0;
     const size = 1 + avg*2;
-    html += `<span style="font-size:${size}em;">${state.tokens[i]}</span> `;
+    // Map pitch to color (blue=low, red=high)
+    let color = '#333';
+    if (avgP > 0) {
+      const minP = 80, maxP = 400;
+      const t = Math.max(0, Math.min(1, (avgP-minP)/(maxP-minP)));
+      const r = Math.round(50 + 205*t);
+      const b = Math.round(255 - 205*t);
+      color = `rgb(${r},60,${b})`;
+    }
+    html += `<span style="font-size:${size}em;color:${color}">${state.tokens[i]}</span> `;
   }
   html += `</div>`;
   return html;
